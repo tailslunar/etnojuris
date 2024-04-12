@@ -1,0 +1,3222 @@
+TJPA
+Tribunal de Justiça do Pará
+O documento a seguir foi juntado aos autos do processo de número 0863645-08.2019.8.14.0301
+em 04/05/2022 15:48:42 por HERCULES DA ROCHA PAIXAO
+Documento assinado por:
+- HERCULES DA ROCHA PAIXAO
+
+Consulte este documento em:
+https://pje-consultas.tjpa.jus.br/pje-1g-consultas/Processo/ConsultaDocumento/listView.seam
+usando o código: 22050415483786800000057187496
+ID do documento: 60120612
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.2 – Mapa viário geral e mancha urbana da RMB com Marituba (Fonte:FAPESPA 2015)
+
+População Abrangida
+Marituba tem experimentado um rápido crescimento, por ser expansão natural
+dos municípios de Ananindeua e Belém. A construção de diversos
+empreendimentos habitacionais de elevada capacidade de alojamento
+patrocinada pela Prefeitura Municipal vem ajudar a este rápido crescimento. Em
+1996 a população de Marituba era de 42.293. Em 20 anos o crescimento foi de
+cerca de 200%, numa vertiginosa percentagem média anual de quase 10% ao
+ano.
+De facto, a população de Marituba contabilizada no último censo (IBGE 2010) foi
+de 108.246 habitantes, sendo que a estimativa do IBGE (2016) apresenta uma
+população
+
+de
+
+125.435
+
+habitantes.
+
+Esta
+
+população
+
+distribui-se
+
+predominantemente nas áreas urbanas e apresenta uma taxa de crescimento de
+3,7% ao ano.
+
+47
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Tabela 4.1 – Distribuição da População por Bairros em Marituba (IBGE, 2010)
+
+Bairros SEIDUR
+Bela vista
+Cittá Maris
+pedreirinha
+Dom Aristides (são jose)
+Boavista
+Mirizal
+Bairro Novo
+Nova União
+São Francisco
+Almir Gabriel
+Novo Horizonte
+Decouville
+Uriboca
+São João
+Centro
+TOTAL
+
+POPULAÇÃO 2010
+2420
+726
+5154
+8061
+673
+3500
+5813
+9555
+5154
+14427
+7108
+32398
+5106
+4058
+4829
+108982
+
+Para a compreensão do papel de Marituba no contexto regional pode-se tomar
+como ponto de partida as análises do IBGE acerca da inserção regional dos
+municípios brasileiros, como as apresentadas no documento “Regiões de
+Influência das Cidades (REGIC)”. O REGIC identificou os principais centros
+urbanos do país, assim como as regiões de influência associadas a cada um
+deles. Foram consideradas as redes de interação que conectam as localidades,
+o que permitiu a identificação das ligações de complementaridade e/ou
+hierárquicas e resultou no mapeamento detalhado das relações estabelecidas e
+da articulação das redes no território. Deste modo, pode-se compreender as
+relações sociais vigentes e os padrões espaciais resultantes, sobre os quais
+atuam as políticas públicas e os agentes sociais e econômicos comuns. (IBGE,
+2008)
+Os centros urbanos foram classificados pelo REGIC em 5 grandes níveis
+hierárquicos: 1) Metrópoles - caracterizadas pelo grande porte e por fortes
+relacionamentos entre si, e que, em geral, possuem extensa área de influência
+(doze); 2) Capitais regionais – apresentam capacidade de gestão imediatamente
+inferior ao das metrópoles, exercem influência de âmbito regional, sendo
+referidas como destino, para um conjunto de atividades, por um grande número
+de municípios (setenta); 3) Centros sub-regionais – apresentam atividades de
+48
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+gestão menos complexas, com área de atuação mais reduzida (169 municípios);
+4) Centros de zona – municípios de menor porte e com atuação restrita à sua
+área imediata (556 municípios); e 5) Centros locais – cuja centralidade e atuação
+não extrapolam os limites municipais, servindo apenas aos seus habitantes
+(4.473 municípios). (IBGE, 2008)
+De acordo com o REGIC, o município de Marituba está incorporado na Área de
+Concentração de População (ACP) de Belém, a qual é classificada como uma
+das 12 metrópoles do país. Delimitadas pelo IBGE, as ACPs são grandes
+manchas urbanas de ocupação contínua, caracterizadas pelo tamanho e
+densidade da população, pelo grau de urbanização e pela coesão interna da
+área, resultante dos deslocamentos da população para trabalho ou estudo. As
+ACPs se desenvolvem em torno de um ou mais núcleos urbanos, em caso de
+centros conurbados, e assumem o nome do município da capital ou do município
+de maior população. (IBGE, 2008)
+A APC de Belém, ou ainda, a metrópole Belém, inclui a capital paraense
+(município-núcleo) e os municípios de Ananindeua, Barcarena, Benevides e
+Marituba. Neste sentido, infere-se que os municípios da ACP de Belém
+apresentam contiguidade e coesão em relação às atividades urbanas e
+movimentos pendulares. (IBGE, 2008)
+A rede urbana comandada pela metrópole Belém tem projeção em 161
+municípios, se estendendo pelos estados do Pará, Amapá, norte do Tocantins e
+parte do Maranhão. A região de influência direta desta metrópole abrange 42
+centros urbanos, sendo 3 capitais regionais1, 9 centros sub-regionais2, 5 centros
+de zona3 e 25 centros locais4. Assim, para estes centros a metrópole Belém se
+apresenta como a primeira referência da oferta de serviços, de dinamismo
+econômico e de gestão territorial. (IBGE, 2008)
+
+1
+
+Marabá e Santarém, no Pará, e Macapá, no Amapá.
+Abaetetuba, Altamira, Bragança, Breves, Cametá, Capanema, Paragominas, Tucuruí e Castanhal, no
+Pará.
+3 Almeirim, Capitão Poço e Vigia, no Pará, e Maracaçumé e Carutapera, no Maranhão.
+4 Acará, Anajás, Bujaru, Cachoeira do Arari, Colares, Concórdia do Pará, Curuçá, Igarapé-Açu, Irituia,
+Mocajuba, Muaná, Ponta de Pedras, Salinópolis, Salvaterra, Santa Bárbara do Pará, Santa Cruz do Arari,
+Santa Isabel do Pará, Santo Antônio do Tauá, São João de Pirabas, São Sebastião da Boa Vista, Soure,
+Tailândia e Tomé-Açu, no Pará, e Amapá do Maranhão e Boa Vista do Gurupi, no Maranhão.
+2
+
+49
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Conforme apresentado na Tabela 4.2, o conjunto de municípios da ACP de
+Belém está distribuído em uma área total de 2.851 km2 e em 2010 concentravam
+cerca de 2,1 milhões de habitantes, dos quais aproximadamente 95% residiam
+em áreas urbanizadas.
+Tal como Ananindeua e Benevides, o município de Marituba é caracterizado “cidadedormitório”. Em 2010, cerca de 40% dos trabalhadores maritubenses exerciam
+atividades em outros municípios. No mesmo ano, aproximadamente 10% dos
+estudantes de Marituba frequentavam estabelecimentos situados em outros municípios.
+(IBGE, 2010).
+Tabela 4.2 - Área territorial, população, densidade demográfica e grau de urbanização dos municípios da
+ACP de Belém e do Estado do Pará - 2010.
+
+Área (km2)
+
+População
+(2010)
+
+Densidade
+demográfica
+(hab./km2)
+
+Grau de
+urbanização
+
+190,45
+
+471.980
+
+2.478,22
+
+99,8
+
+Barcarena
+
+1.310,59
+
+99.859
+
+76,19
+
+36,3
+
+Belém
+
+1.059,46
+
+1.393.399
+
+1.315,20
+
+99,1
+
+Benevides
+
+187,83
+
+51.651
+
+274,99
+
+56,0
+
+Marituba
+
+103,34
+
+108.246
+
+1.047,44
+
+99,0
+
+2.851,67
+
+2.125.135
+
+745,23
+
+95,3
+
+1.247.955,24
+
+7.581.051
+
+6,07
+
+68,5
+
+Unidade
+Ananindeua
+
+ACP de Belém
+PARÁ
+Fonte: IBGE
+
+Aspectos Demográficos
+No que diz respeito à evolução populacional, na última década censitária Marituba
+apresentou incrementos populacionais expressivos, com índices muito superiores aos
+dos conjuntos estadual e da ACP de Belém.
+
+No período 2000/2010 o número de habitantes de Marituba aumentou cerca de
+45%, o que correspondeu a uma taxa de crescimento de 3,82% a.a., conforme
+apontado na Tabela 4.3. Isto se deve exclusivamente em função dos
+incrementos no contingente da população urbana, cuja TGC foi de 5,14% a.a., a
+maior taxa registrada na ACP de Belém. O grau de urbanização de Marituba,
+que era de 87,2%, em 2000, subiu para 99% em 2010.
+De acordo com as estimativas populacionais do IBGE, atualmente Marituba possui cerca
+de 129 mil habitantes, o que representa um acréscimo de aproximadamente 19% no
+
+50
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+contingente populacional e uma TGC de 2,57% a.a. no período 2010/2018, índices
+superiores aos estimados para a ACP de Belém e o conjunto paraense.
+Os dados indicam que os incrementos populacionais de Marituba também estão
+relacionados a fluxos migratórios, evidenciando a capacidade de retenção e atração
+populacional do município, notadamente em função da dinâmica socioeconômica da
+ACP de Belém. As informações referentes à naturalidade da população corroboram esta
+interpretação.
+
+Segundo
+
+os
+
+resultados
+
+do
+
+Censo
+
+Demográfico
+
+de
+
+2010,
+
+aproximadamente 48% da população maritubense é natural de outros municípios (IBGE,
+2010).
+
+Fonte: IBGE (2000, 2010, 2018b).
+Figura 4.3 – Evolução da população, total e por situação de domicílio, do município de Marituba - 2000,
+2010, 2018.
+
+51
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Tabela 4.3 – Taxa de crescimento da população, total e por situação do domicílio, dos municípios da
+ACP de Belém e do estado do Pará - 2000/2010, 2010/2018.
+
+Unidade
+
+Ananindeua
+Barcarena
+Belém
+Benevides
+Marituba
+ACP de Belém
+PARÁ
+
+Situação / TC (% a.a.)
+Urbana
+Rural
+2000/2010
+2000/2010
+1,83
+2,11
+2,72
+6,00
+0,83
+3,74
+3,29
+4,51
+5,14
+-19,27
+1,30
+3,85
+2,34
+1,44
+
+Total
+2000/2010
+1,83
+4,67
+0,85
+3,81
+3,82
+1,41
+2,04
+
+2010/2018*
+1,55
+2,94
+0,92
+2,57
+2,57
+1,29
+1,67
+
+Fonte: IBGE (2000, 2010, 2018b).
+Nota: (*) Com base nas estimativas populacionais de 2018.
+Como se pode constatar a população de Marituba fez um trajeto rural para urbano na
+última década.
+Em relação à distribuição da população segundo o sexo, ao contrário dos demais
+municípios da ACP de Belém, assim como da grande maioria dos municípios do país,
+em Marituba se verifica uma crescente concentração de homens em relação às
+mulheres, mas ainda predomina a população feminina no município. Conforme ilustrado
+na Figura 4.4, a razão de sexo (proporção de homens para cada 100 mulheres) do
+município, que era de 98 em 2000, subiu para 99 em 2010.
+
+Figura 4.4 – Evolução da razão de sexo dos municípios da ACP de Belém e do estado do Pará - 2000,
+2010.
+
+Elevadas razões de sexo geralmente são observadas em unidades territoriais com
+populações mais jovens – uma vez que a sobrevida dos homens tende a diminuir ao
+longo das faixas etárias –, assim como nas unidades territoriais que recebem grandes
+fluxos migratórios, marcadas por um contexto que condiciona o emprego majoritário de
+mão de obra masculina. Neste sentido, a variação na razão de sexo de Marituba no
+período analisado sugere uma leve mudança no perfil socioeconômico do município.
+
+52
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+A análise da estrutura etária dos munícipes de Marituba demonstra a queda na razão
+de dependência ocorrida entre os anos 2000 e 2010, tal como observado em todo o
+contexto nacional. A razão de dependência consiste na relação entre a população
+definida como economicamente dependente – os menores de 15 anos de idade e os
+maiores de 65 anos –, e a população definida como potencialmente ativa – as pessoas
+com idade entre 15 e 64 anos. Assim, elevados valores desta razão indicam um maior
+contingente de dependentes que a população em idade produtiva deve sustentar, o que
+significa maiores demandas por políticas públicas, especialmente nas áreas de
+educação e saúde.
+De acordo com os dados da Figura 4.5, em 2000 Marituba apresentava uma razão de
+dependência de 63, que equivale a dizer que para cada grupo de 100 pessoas havia
+potencialmente cerca de 63 dependentes. Já em 2010 a razão do município caiu para
+48. Não obstante, este índice permaneceu superior aos registrados em Belém (42) e
+Ananindeua (43).
+Esta variação na razão de dependência de Marituba está relacionada, principalmente,
+à queda da taxa de fecundidade (número médio de filhos por mulher), forte tendência
+brasileira e mundial, e à consequente elevação da população de 15 a 64 anos, a
+população potencialmente ativa (PNUD/IPEA/FJP, 2013).
+
+Fonte: IBGE (2000, 2010).
+Figura 4.5 – Evolução da razão de dependência dos municípios da ACP de Belém e do estado do Pará 2000, 2010.
+
+A Figura 4.6 ilustra as transformações na estrutura etária da população maritubense
+através das pirâmides etárias do município.
+
+53
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: IBGE (2000, 2010).
+Figura 4.6 – Pirâmides etárias, por sexo, do município de Marituba - 2000, 2010.
+
+Constata-se pela análise da figura precedente o paulatino envelhecimento da população
+e a diminuição da razão de dependência. Também se observa uma constrição na base
+da pirâmide em função da queda da fecundidade (PNUD/IPEA/FJP, 2013).
+
+Ordenamento Territorial
+No que diz respeito aos instrumentos que orientam as políticas de
+desenvolvimento e de planejamento da expansão urbana municipal, Marituba
+conta com o Plano Diretor Participativo (PDP). Instituído em 2007, por meio da
+Lei Municipal Nº 170/2007, o PDP de Marituba estabelece diretrizes para
+implementação das políticas municipais de desenvolvimento econômico, social,
+urbano e ambiental (PMM, 2007).
+O texto do PDP não apresenta claramente o macrozoneamento do território
+municipal, tão pouco um mapa exclusivo de zoneamento, sendo que cada zona
+ou tipo de uso do solo estabelecidos são retratados em mapa específico. De todo
+modo, conforme ilustrado na Figura 4.8 e na Figura 4.9, o PDP define uma
+Divisão Administrativa do município, a qual compreende 6 regiões, além da área
+denominada Parque Ecológico da Pirelli. Estas 6 regiões compõem a Área de
+Zoneamento Urbano (AZU), que, por sua vez, apresenta uma Área de
+Consolidação Urbana (ACU) e duas Áreas de Expansão Urbana com Atividade
+Rural (AEU).
+54
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.7 – Planta de Marituba com a divisão administrativa dos bairros atualizada (2019)
+
+55
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: Retirado de PMM (2007), EnVex.
+Figura 4.8 – Divisão Administrativa do município de Marituba, definida no Plano Diretor Participativo de
+2007.
+
+56
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: Retirado de PMM (2007). EnVex
+Figura 4.9 – Área de Zoneamento Urbano (AZU) do município de Marituba, definida no Plano Diretor
+Participativo de 2007.
+
+Tento em vista o constante processo de transformação dos territórios municipais,
+especialmente no caso das regiões metropolitanas e aglomerações urbanas, a
+Lei Federal Nº 10.257/2001, comumente denominada Estatuto da Cidade,
+estabelece que a lei que institui o Plano Diretor deve ser revista, ao menos, a
+cada dez anos (BRASIL, 2001).
+57
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Segundo informações da PMM, o PDP de Marituba está em processo de
+atualização desde meados de 2014, sendo os trabalhos realizados pela
+Secretaria Municipal de Planejamento e Gestão (SEPLAN), em parceria com o
+Instituto Técnico de Apoio Municipal (ITAM).
+Áreas Urbanizadas
+Marituba apresenta significativa área urbanizada. De acordo com o levantamento
+realizado por pesquisadores da Universidade Federal do Pará (UFPA), em 2016,
+Marituba já contava com 14.051 km2 de malha urbana, o que corresponde a 14%
+da área total do município (MARQUES et al., 2017). A Figura 4.10 apresenta o
+mapa de uso e ocupação do solo de Marituba elaborado pelos pesquisadores da
+UFPA. O percentual de ocupação das demais classes de uso equivalem a 37%
+para floresta densa, 27% para campo natural e antrópico, 13% para solo exposto
+e 9% para água.
+
+58
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: Marques et al. (2017).
+Figura 4.10 – Mapa de uso e ocupação do solo do município de Marituba - 2016.
+
+A figura anterior revela uma considerável expansão das áreas urbanizadas no
+município desde a instituição do PDP de Marituba em 2007, sendo notável a
+presença de consolidação urbana nas áreas até então definidas como AEU
+(PMM, 2007). Neste sentido, os próprios estudos realizados para atualização do
+PDP sugerem que o novo zoneamento considere a AZU como uma área única
+(SEPLAN/PMM/ITAM, 2016).
+Também considerando as transformações ocorridas no território, marcadas pela
+implantação de conjuntos habitacionais e ocupações informais nas áreas rurais,
+a PMM elaborou, por intermédio da SEPLAN, o Projeto de Lei Municipal Nº
+
+59
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+67/2018, que prevê a denominação e delimitação de 20 bairros no município,
+quais sejam: Almir Gabriel, Bairro Novo, Bela Vista, Boa Vista, Canaã, Centro,
+Decouville, Dom Aristides, Mirizal, Nova Marituba, Novo Horizonte, Pedreirinha,
+Riacho Doce, Santa Clara, Santa Lúcia, São Francisco, São João, São José,
+União e Uriboca. Conforme apontado no referido documento, os limites
+estabelecidos para os novos bairros englobam as comunidades pré-existentes
+no município e estão de acordo com a dinâmica social estabelecida no local.
+(PMM, 2018).
+apresenta o mapa dos bairros elaborado pela SEIDUR. Nota-se que estes
+bairros estão distribuídos pela área até então denominada AZU (PMM, 2007).
+
+60
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.11 – Bairros de Marituba
+
+61
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.12 – Mapa dos bairros do município de Marituba, definidos no Projeto de Lei Municipal Nº 67/2018. (Fonte: SEMMA/PMM (2017).
+
+62
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+No que se refere à delimitação de Marituba e Benevides, há um diferendo, uma
+vez que os limites dos bairros Bela Vista e Canaã, definidos no Projeto de Lei
+Municipal Nº 67/2018, não condizem com o limite político-administrativo
+municipal disponibilizado pelo IBGE (2018a).
+Com efeito, observando-se a Figura 4.13, os limites dos referidos bairros
+extrapolam o limite territorial de Marituba, abrangendo parte do município de
+Benevides. A Lei Municipal Nº 1.031/2006 de Benevides apresenta delimitação
+municipal condizente com o limite político-administrativo do IBGE (2018a), dado
+ser o que lhe beneficia territorialmente.
+Apesar desta situação, a área ocupada do bairro Canaã conta com infraestrutura
+e gestão do poder público de Marituba. Os equipamentos e serviços de educação
+e saúde são administrados pela PMM, que, inclusive, atualmente gerencia a
+construção de uma nova unidade de saúde no local. Além disso, os eleitores
+residentes no bairro Canaã votam no município de Marituba.
+
+63
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: PMSB Marituba (2019); IBGE (2018a).
+Figura 4.13 – Limite municipal de Marituba e delimitação dos bairros Bela Vista e Canaã, definidos no
+Projeto de Lei Municipal Nº 67/2018.
+
+Tendo em conta a necessidade da delimitação do limite do município de Marituba e
+Benevides, encontra-se em elaboração um estudo de georreferenciamento com
+previsão de conclusão no segundo semestre de 2019.
+
+64
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Estrutura Fundiária
+Em relação aos usos antrópicos rurais, de acordo com os dados preliminares do
+último Censo Agropecuário realizado pelo IBGE, em 2017 Marituba contava com
+apenas 50 estabelecimentos rurais, os quais totalizam uma área ocupada de 70
+hectares, o que representa menos de um porcento do atual território municipal
+(IBGE, 2017a).
+A análise da distribuição dos estabelecimentos do município segundo a
+classificação fundiária revela a predominância de minifúndios e, em menor
+proporção, de pequenas propriedades. No que se refere ao uso das terras, em
+2017 prevaleceram as áreas de lavouras temporárias, que totalizaram 36
+hectares, o que equivaleu a metade da área total ocupada pelos
+estabelecimentos rurais de Marituba. (IBGE, 2017a).
+Área sob regime especial
+As áreas submetidas a regimes especiais de administração e/ou proteção –
+como Unidades de Conservação (UCs), Terras Indígenas (TIs), Territórios
+Quilombolas (TQs), assentamentos rurais e áreas militares –, são espaços que
+apresentam restrições legais quanto ao uso e ocupação do território. O município
+de Marituba abriga apenas uma área deste caráter, mas que abrange parte
+significativa de seu território, qual seja, a UC Refúgio da Vida Silvestre (REVIS)
+Metrópole da Amazônia.
+As UCs são regidas pela Lei Federal Nº 9.985/2000, que instituiu o Sistema
+Nacional de Unidades de Conservação da Natureza (SNUC). Constituem
+espaços territoriais, incluindo seus respectivos recursos ambientais, com
+características naturais relevantes, legalmente instituídos pelo poder público,
+sob regime especial de administração e garantias de proteção. As UCs são
+classificadas em dois grupos: as de proteção integral, cujo objetivo básico é
+preservar a natureza, admitindo-se apenas o uso indireto dos recursos naturais;
+e as de uso sustentável, cuja finalidade é compatibilizar a conservação da
+natureza com o uso sustentável de parcela dos seus recursos naturais. (BRASIL,
+2000)
+
+65
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Pertencente ao grupo das UCs de proteção integral, o REVIS Metrópole da
+Amazônia foi criado em 2010, por meio do Decreto Estadual Nº 2.211/2010, teve
+seu Plano de Manejo instituído em 2018, e sua gestão é de competência do
+Instituto de Desenvolvimento Florestal e da Biodiversidade do Estado do Pará
+(IDEFLOR-Bio). (IA/IDEFLOR-Bio, 2018; PARÁ, 2010)
+
+Fonte: IA/IDEFLOR-Bio (2018).
+Figura 4.14 – Limites do Refúgio da Vida Silvestre (REVIS) Metrópole da Amazônia.
+
+Conforme ilustrado na Figura 4.14, os limites da REVIS Metrópole da Amazônia
+está distribuído em uma área de 6.367 hectares e abrange porções dos
+municípios de Marituba, Ananindeua, Benevides e Santa Isabel do Pará. A
+porção ocupada pela UC em Marituba é de 3.176 hectares, o que corresponde
+a aproximadamente 30% do território municipal. Destaca-se que esta porção
+compreende grande parte da área denominada pelo vigente PDP de Marituba
+como Parque Ecológico da Pirelli. (IA/IDEFLOR-Bio, 2018; PMM, 2007)
+
+66
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+4.2
+
+Aspectos Sociais
+Índice de Desenvolvimento Humano Social
+
+O Índice de Desenvolvimento Humano Municipal (IDHM) é uma medida resumida
+do desenvolvimento humano, em longo prazo, em três dimensões básicas:
+educação, saúde e renda5. Tanto o índice geral como o de seus componentes
+(educação, longevidade e renda) apresentam valores que variam entre zero e
+um, sendo que quanto mais próximo de um, maior o nível de desenvolvimento
+da unidade territorial em relação ao indicador.
+De acordo com o Atlas de Desenvolvimento Humano do Brasil, que apresenta a
+evolução dos diversos índices com a leitura relativamente a Marituba, que se
+resume a seguir.
+Entre 1991 e 2010
+De 1991 a 2010, o IDHM do município passou de 0,397, em 1991, para 0,676,
+em 2010, enquanto o IDHM da Unidade Federativa (UF) passou de 0,413 para
+0,646. Isso implica em uma taxa de crescimento de 70,28% para o município e
+56% para a UF; e em uma taxa de redução do hiato de desenvolvimento humano
+de 53,73% para o município e 53,85% para a UF. No município, a dimensão cujo
+índice mais cresceu em termos absolutos foi Educação (com crescimento de
+0,426), seguida por Longevidade e por Renda. Na UF, por sua vez, a dimensão
+cujo índice mais cresceu em termos absolutos foi Educação (com crescimento
+de 0,358), seguida por Longevidade e por Renda.
+Evolução do IDGM entre 2000 e 2010
+
+5
+
+O IDHM foi desenvolvido com base no IDH, índice criado pelo Programa das Nações Unidas para o
+Desenvolvimento (PNUD). O IDHM que oferece contraponto a outro indicador muito utilizado, o Produto
+Interno Bruto (PIB) per capita, que considera apenas a dimensão econômica do desenvolvimento. Não
+obstante, é importante notar que os Relatórios de Desenvolvimento Humano publicados pela Organização
+das Nações Unidas (ONU) indicam que o desenvolvimento dos aspectos de saúde, educação e rendimento
+a nível individual, apesar de fundamentais, não significam uma correlação direta com as melhorias nas
+condições de desenvolvimento humano se “as conquistas individuais e se as percepções sobre o progresso
+diferirem”. (PNUD/IPEA/FJP, 2013)
+
+67
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+O IDHM de Marituba passou de 0,505 em 2000 para 0,676 em 2010 - uma taxa
+de crescimento de 33,86%. O hiato de desenvolvimento humano, ou seja, a
+distância entre o IDHM do município e o limite máximo do índice, que é 1, foi
+reduzido em 65,45% entre 2000 e 2010. Nesse período, a dimensão cujo índice
+mais cresceu em termos absolutos foi Educação (com crescimento de 0,286),
+seguida por Longevidade e por Renda.
+Apresenta-se na Figura 4.15 a evolução do IDHM de Marituba e comparação
+com a evolução a nível da Federação.
+
+Fonte: PNUD/IPEA/FJP (2013).
+Figura 4.15 – Evolução do Índice de Desenvolvimento Humano Municipal (IDHM) dos municípios da ACP
+de Belém e do estado do Pará – 1991, 2000, 2010.
+
+Quando analisados separadamente, os componentes do IDHM (educação,
+longevidade e renda) refletem situações socioeconômicas com diferentes
+desempenhos em Marituba, conforme ilustrado na Figura 4.16.
+Diferentemente da grande maioria dos municípios brasileiros, nos quais o índice
+do componente educação continua sendo o mais baixo na composição do IDHM
+68
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+(apesar do expressivo avanço nos últimos anos), em Marituba o IDHM-Educação
+figurou o segundo melhor índice do município em 2010. Com uma variação de
+quase 85% no período 2000/2010, o IDHM-Educação de Marituba subiu de 0,342
+(muito baixo desenvolvimento) para 0,628 (médio desenvolvimento).
+O melhor índice de Marituba continua sendo o do componente longevidade, que
+subiu de 0,679 (médio desenvolvimento), em 2000, para 0,793 (alto
+desenvolvimento) em 2010. Já o índice do componente renda figurou o mais
+baixo na composição do IDHM em 2010, equivalendo a 0,621 (médio
+desenvolvimento).
+
+Fonte: PNUD/IPEA/FJP (2013).
+Figura 4.16 – Evolução do Índice de Desenvolvimento Humano Municipal (IDHM), geral e por
+componente, do município de Marituba - 2000, 2010.
+
+Educação
+Conforme revelam os índices do IDHM, na área da educação Marituba
+apresentou melhoras significativas nos últimos anos. Não obstante, outros
+indicadores educacionais evidenciam uma baixa escolaridade da população
+maritubense.
+A expectativa de anos de estudo da população corresponde ao número médio
+de anos de estudo que uma geração de crianças que ingressa na escola deverá
+completar ao atingir 18 anos de idade, se os padrões atuais se mantiverem ao
+longo de sua vida escolar. No caso de Marituba, em 2010 o município apresentou
+uma expectativa de 9,2 anos, cujo período é suficiente para completar apenas o
+ensino fundamental regular. Comparado ao índice registrado em 2000, a
+expectativa de anos de estudo dos munícipes aumentou apenas cerca de 2 anos.
+(PNUD/IPEA/FJP, 2013).
+69
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.17 – Fluxo escolar comparativo de Marituba, com o Estado do Pará e Brasil, por faixa etária
+(2010)
+
+Constata-se que Marituba tem exibido performances na educação superiores ao
+próprio Estado do Pará, embora inferior à média do país.
+Também compõe o IDHM Educação um indicador de escolaridade da população
+adulta, o percentual da população de 18 anos ou mais com o ensino fundamental
+completo. Esse indicador carrega uma grande inércia, em função do peso das
+gerações mais antigas, de menor escolaridade. Entre 2000 e 2010, esse
+percentual passou de 35,57% para 60,44%, no município, e de 39,76% para
+54,92%, na UF. Em 1991, os percentuais eram de 22,42% ,no município, e
+30,09%, na UF. Em 2010, considerando-se a população municipal de 25 anos
+ou mais de idade, 5,90% eram analfabetos, 56,44% tinham o ensino fundamental
+completo, 34,02% possuíam o ensino médio completo e 3,42%, o superior
+completo. No Brasil, esses percentuais são, respectivamente, 11,82%, 50,75%,
+35,83% e 11,27%.
+
+70
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Fonte: PNUD, Ipea e FJP (2013).
+Figura 4.18 – Evolução do nível de instrução da população adulta (>25 anos) em Marituba – 1991 a 2010.
+
+No que se refere à rede de atendimento da Educação Básica6 de Marituba, cabe
+analisar as taxas de atendimento escolar (proporção de pessoas que frequenta
+escola) das faixas etárias relativas às etapas da educação infantil, do ensino
+fundamental e do ensino médio. Conforme estabelecido no Plano Nacional de
+Educação7, referente ao decênio 2014/2024, as principais metas consistiram em:
+(i) universalizar, até 2016, a educação infantil na pré-escola para as crianças de
+4 a 5 anos e ampliar a oferta de educação infantil em creches de forma a atender,
+no mínimo, 50% das crianças de até 3 anos até 2024; (ii) universalizar o ensino
+fundamental para toda a população de 6 a 14 anos e garantir que pelo menos
+95% dos alunos concluam essa etapa na idade recomendada, até 2024; e (iii)
+universalizar, até 2016, o atendimento escolar para toda a população de 15 a 17
+anos e elevar, até 2024, a taxa líquida de matrículas no ensino médio para 85%
+(BRASIL, 2014).
+
+6
+
+A Educação Básica é o primeiro nível do ensino escolar no país e compreende três etapas: a educação
+infantil (para crianças com até 5 anos), o ensino fundamental (para alunos de 6 a 14 anos) e o ensino médio
+(para alunos de 15 a 17 anos). De acordo com a Secretaria de Educação Básica do Ministério da Educação
+(SEB/MEC), o objetivo desta modalidade de educação é assegurar a todos os brasileiros a formação
+comum indispensável tanto para o exercício da cidadania, quanto para progredir no trabalho e em estudos
+posteriores (SEB/MEC, 2019).
+7
+
+Além do Plano Nacional de Educação, as referências oficiais que norteiam a Educação Básica são a Lei
+Federal Nº 9.394/1996, que estabelece as diretrizes e bases da educação nacional, e as Diretrizes
+Curriculares Nacionais da Educação Básica, instituídas pelo MEC (BRASIL, 1996; MEC, 2013).
+
+71
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+De acordo com os dados ilustrados na Figura 4.19, em 2010 o município de
+Marituba apresentou uma taxa de atendimento da faixa etária de até 5 anos
+(relativa à idade escolar da educação infantil) de 49%, a maior da ACP de Belém,
+mas aquém das metas estabelecidas pelo Plano Nacional de Educação.
+No caso da faixa de 6 a 14 anos, relativa à idade do ensino fundamental, a taxa
+de atendimento era relativamente alta em Marituba, de 95,5%, diferente do que
+ocorria com a faixa de 15 a 17 anos, correspondente à idade escolar do ensino
+médio. Em relação a esta última, a taxa de atendimento escolar foi de 86,4%,
+também aquém das metas do referido Plano.
+
+Fonte: PNUD/IPEA/FJP (2013).
+Figura 4.19 – Taxa de atendimento escolar, por faixa etária, dos municípios da ACP de Belém e do estado
+do Pará – 2010.
+
+Marituba integra a 19ª Unidade Regional de Educação8, uma das 22 unidades
+do estado, as quais constituem instâncias administrativas intermediárias da
+Secretaria de Estado de Educação do Pará (SEDUC/PA), que, por sua vez,
+define e executa as políticas de educação no âmbito estadual. Na esfera
+municipal, a implementação das políticas educacionais é de competência da
+Secretaria Municipal de Educação (SEMED). (SEDUC/PA, 2019; PMM, 2014)
+No que diz respeito à rede pública da Educação Básica de Marituba, segundo os
+dados do último Censo Escolar coordenado pelo Instituto Nacional de Estudos e
+Pesquisas Educacionais Anísio Teixeira (INEP), apresentados na Tabela 4.4, em
+2018 o município contava com 68 estabelecimentos de ensino, sendo 61 de
+
+8
+
+A 19ª Unidade Regional de Educação também abrange os municípios de Belém, Ananindeua, Benevides
+e Santa Bárbara do Pará.
+
+72
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+administração municipal e 7 de administração estadual. Juntos, estes
+estabelecimentos totalizaram 29.279 alunos matriculados.
+Dos 61 estabelecimentos municipais, 14 eram considerados de grande porte
+(com mais de 500 alunos) – com destaque para a escola Nossa Senhora do
+Rosário, que contava com cerca de 1.400 alunos –, sendo o restante de porte
+médio (entre 50 e 500 alunos). Em relação à oferta de ensino, 29 ofertavam a
+creche, 35 a pré-escola, 52 os anos iniciais do ensino fundamental e 31 os anos
+finais do ensino fundamental. A modalidade de Educação de Jovens e Adultos 9
+era ofertada por 14 estabelecimentos municipais.
+No caso dos 7 estabelecimentos estaduais, 5 eram considerados de grande
+porte – com destaque para as escolas Fernando Ferrari, Nossa Senhora do
+Rosário e Professor José Edmundo Queiroz, que contavam com mais de 1.000
+alunos –, sendo os outros 2 de porte médio. Todos os estabelecimentos
+estaduais ofertavam exclusivamente o ensino médio.
+Apresenta-se na Figura a seguir a localização das Escolas Municipais de Marituba.
+
+9
+
+Modalidade destinada aos jovens acima de 15 anos que não concluíram o ensino fundamental
+e aos jovens acima de 18 anos que não concluíram o ensino médio (MEC, 2013).
+
+73
+
+Figura 4.20 – Localização das escolhas em Marituba (fonte: SEMMA)
+
+74
+
+Tabela 4.4 – Características dos estabelecimentos da rede pública de Educação Básica do município de Marituba - 2018.
+Matrículas
+(Nº total)
+
+Gestão
+
+Nome
+
+Bairro
+
+Atendimento
+
+Municipal
+
+Creche Lar Criança Esperança
+
+Bairro Novo
+
+Creche; Pré-escola
+
+172
+
+Municipal
+
+Creche Menino Deus
+
+Bairro Novo
+
+Creche; Pré-escola
+
+163
+
+Municipal
+
+Escola Congregação das Pequenas Irmãs da Sagrada Família
+
+Dom Aristides Creche; Pré-escola
+
+214
+
+Municipal
+
+Escola José Felipe Santiago
+
+Nova
+Marituba
+
+Creche; Pré-escola
+
+206
+
+Municipal
+
+Escola Nossa Senhora de Nazaré
+
+Dom Aristides Creche; Pré-escola
+
+135
+
+Municipal
+
+Escola Pobres Servos da Divina Providência
+
+Dom Aristides Creche; Pré-escola
+
+141
+
+Municipal
+
+Escola São Francisco
+
+Nova União
+
+Creche; Pré-escola
+
+120
+
+Municipal
+
+Núcleo de Educação Infantil Doutor Marcello Candia
+
+Mirizal
+
+Creche; Pré-escola
+
+199
+
+Municipal
+
+Centro Educacional Pimpolho
+
+Decouville
+
+Creche; Pré-escola; EF (anos iniciais e
+finais)
+
+623
+
+Municipal
+
+Escola Benedito Bezerra Falcão
+
+Centro
+
+Creche; Pré-escola; EF (anos iniciais e
+finais)
+
+402
+
+Municipal
+
+Escola Célia Astral
+
+Almir Gabriel
+
+Creche; Pré-escola; EF (anos iniciais e
+finais)
+
+253
+
+Municipal
+
+Escola Júlia Freire
+
+Bela Vista
+
+Creche; Pré-escola; EF (anos iniciais e
+finais)
+
+175
+
+Municipal
+
+Escola Pequenos Brilhantes
+
+Bairro Novo
+
+Creche; Pré-escola; EF (anos iniciais e
+finais)
+
+494
+
+Municipal
+
+Centro Educacional LP
+
+Almir Gabriel
+
+Creche; Pré-escola; EF (anos iniciais e
+finais); EJA
+
+1.069
+
+Municipal
+
+Escola Suely Falcão
+
+Almir Gabriel
+
+Creche; Pré-escola; EF (anos iniciais e
+finais); EJA
+
+697
+
+Municipal
+
+Centro Educacional Alegria do Saber
+
+Novo
+Horizonte
+
+Creche; Pré-escola; EF (anos iniciais)
+
+629
+
+75
+
+Matrículas
+(Nº total)
+
+Gestão
+
+Nome
+
+Bairro
+
+Atendimento
+
+Municipal
+
+Centro Educacional Dinâmico
+
+Santa Clara
+
+Creche; Pré-escola; EF (anos iniciais)
+
+371
+
+Municipal
+
+Centro Educacional Frei Galvão
+
+São Francisco Creche; Pré-escola; EF (anos iniciais)
+
+123
+
+Municipal
+
+Centro Educacional Nossa Senhora do Perpétuo Socorro
+
+São João
+
+Creche; Pré-escola; EF (anos iniciais)
+
+273
+
+Municipal
+
+Escola Espaço Integrado Anjinhos do Saber
+
+São José
+
+Creche; Pré-escola; EF (anos iniciais)
+
+138
+
+Municipal
+
+Escola Luz e Vida
+
+Nova União
+
+Creche; Pré-escola; EF (anos iniciais)
+
+268
+
+Municipal
+
+Escola Mundo Mágico
+
+Decouville
+
+Creche; Pré-escola; EF (anos iniciais)
+
+589
+
+Municipal
+
+Escola Portal do Saber
+
+Nova União
+
+Creche; Pré-escola; EF (anos iniciais)
+
+400
+
+Municipal
+
+Escola Professora Nazaré Costa
+
+Decouville
+
+Creche; Pré-escola; EF (anos iniciais)
+
+577
+
+Municipal
+
+Escola Santa Maria de Belém
+
+Centro
+
+Creche; Pré-escola; EF (anos iniciais)
+
+332
+
+Municipal
+
+Escola Teodorico Aleixo
+
+São José
+
+Creche; Pré-escola; EF (anos iniciais)
+
+158
+
+Municipal
+
+Sistema de Ensino Eli Bastos
+
+Riacho Doce
+
+Creche; Pré-escola; EF (anos iniciais)
+
+273
+
+Municipal
+
+Sistema de Ensino Tania Matos
+
+Pedreirinha
+
+Creche; Pré-escola; EF (anos iniciais)
+
+273
+
+Municipal
+
+Escola Geracina Begot Granhen
+
+São João
+
+Creche; Pré-escola; EF (anos iniciais);
+EJA
+
+665
+
+Municipal
+
+Escola Espaço de Convivência Educar
+
+Mirizal
+
+Pré-escola; EF (anos iniciais)
+
+115
+
+Municipal
+
+Escola Raquel de Queiroz
+
+Almir Gabriel
+
+Pré-escola; EF (anos iniciais)
+
+195
+
+Municipal
+
+Escola Santa Lúcia
+
+Santa Lúcia
+
+Pré-escola; EF (anos iniciais)
+
+92
+
+Municipal
+
+Sistema de Ensino Semente do Amanhã
+
+Bairro Novo
+
+Pré-escola; EF (anos iniciais)
+
+268
+
+Municipal
+
+Escola Padre Marcos Schawalder
+
+Pedreirinha
+
+Pré-escola; EF (anos iniciais e finais)
+
+228
+
+Municipal
+
+Escola Santo Amaro
+
+Riacho Doce
+
+Pré-escola; EF (anos iniciais e finais); EJA
+
+376
+
+Municipal
+
+Escola Novo Horizonte
+
+Novo
+Horizonte
+
+EF (anos iniciais)
+
+205
+
+Municipal
+
+Escola Professora Nadéia Guimarães dos Santos
+
+Decouville
+
+EF (anos iniciais)
+
+189
+
+Municipal
+
+Escola Santa Helena
+
+Nova União
+
+EF (anos iniciais)
+
+125
+
+76
+
+Matrículas
+(Nº total)
+
+Gestão
+
+Nome
+
+Bairro
+
+Atendimento
+
+Municipal
+
+Escola São José
+
+São José
+
+EF (anos iniciais)
+
+438
+
+Municipal
+
+Escola Doutor Alcântara
+
+Uriboca
+
+EF (anos iniciais e finais)
+
+354
+
+Municipal
+
+Escola Eudamidas Lopes de Miranda
+
+Dom Aristides EF (anos iniciais e finais)
+
+224
+
+Municipal
+
+Escola Inácio Rodrigues da Cunha
+
+Centro
+
+EF (anos iniciais e finais)
+
+283
+
+Municipal
+
+Escola Laura Freire de Oliveira Falcão
+
+Nova União
+
+EF (anos iniciais e finais)
+
+281
+
+Municipal
+
+Escola Maestro Carlos Gomes
+
+Novo
+Horizonte
+
+EF (anos iniciais e finais)
+
+335
+
+Municipal
+
+Escola Maria do Carmo Pinheiro Rodrigues
+
+Santa Clara
+
+EF (anos iniciais e finais)
+
+178
+
+Municipal
+
+Escola Nossa Senhora da Paz
+
+Bairro Novo
+
+EF (anos iniciais e finais)
+
+934
+
+Municipal
+
+Escola Otilia Begot
+
+Nova União
+
+EF (anos iniciais e finais)
+
+143
+
+Municipal
+
+Escola Padre Romeu Pires Borges
+
+Centro
+
+EF (anos iniciais e finais)
+
+589
+
+Municipal
+
+Escola Professora Gracinda Peres
+
+Decouville
+
+EF (anos iniciais e finais)
+
+338
+
+Municipal
+
+Escola Santa Tereza D'Ávila
+
+Decouville
+
+EF (anos iniciais e finais)
+
+828
+
+Municipal
+
+Escola Dom Calábria
+
+São Francisco EF (anos iniciais e finais); EJA
+
+826
+
+Municipal
+
+Escola Dona Mora Guimarães
+
+Decouville
+
+EF (anos iniciais e finais); EJA
+
+396
+
+Municipal
+
+Escola Doutor Renausto Amanajas
+
+Dom Aristides EF (anos iniciais e finais); EJA
+
+461
+
+Municipal
+
+Escola João Milton Dantas
+
+Bairro Novo
+
+EF (anos iniciais e finais); EJA
+
+532
+
+Municipal
+
+Escola Maria de Fátima Monteiro Ferreira
+
+Mirizal
+
+EF (anos iniciais e finais); EJA
+
+495
+
+Municipal
+
+Escola Nossa Senhora do Rosário
+
+Centro
+
+EF (anos iniciais e finais); EJA
+
+1.408
+
+Municipal
+
+Escola Parque das Palmeiras
+
+Decouville
+
+EF (anos iniciais e finais); EJA
+
+505
+
+Municipal
+
+Escola Professor Paulo Freire
+
+Decouville
+
+EF (anos iniciais e finais); EJA
+
+495
+
+Municipal
+
+Escola Professora Emília Clara de Lima
+
+Centro
+
+EF (anos iniciais e finais); EJA
+
+401
+
+Municipal
+
+Escola Santa Rita
+
+São João
+
+EF (anos iniciais e finais); EJA
+
+483
+
+77
+
+Matrículas
+(Nº total)
+
+Gestão
+
+Nome
+
+Bairro
+
+Atendimento
+
+Municipal
+
+Escola Professor Nilson Pinto
+
+Almir Gabriel
+
+EF (anos finais)
+
+247
+
+Estadual
+
+Centro de Educação Profissional Dom Aristides Pirovano
+
+Pedreirinha
+
+EM
+
+273
+
+Estadual
+
+Escola Dom Calábria
+
+São Francisco EM
+
+443
+
+Estadual
+
+Escola Eduardo Lauande
+
+Almir Gabriel
+
+EM
+
+629
+
+Estadual
+
+Escola Fernando Ferrari
+
+Centro
+
+EM
+
+1.611
+
+Estadual
+
+Escola Juscelino Kubitschek De Oliveira
+
+Bela Vista
+
+EM
+
+412
+
+Estadual
+
+Escola Nossa Senhora do Rosário
+
+Centro
+
+EM
+
+1.213
+
+Estadual
+
+Escola Professor José Edmundo Queiroz
+
+Dom Aristides EM
+
+1.079
+
+Estadual
+
+Escola Santa Tereza D'Ávila
+
+Decouville
+
+EM
+
+520
+
+Fonte: INEP (2018).
+Nota: Ensino fundamental (EF), Ensino médio (EM), Educação de Jovens e Adultos (EJA).
+
+78
+
+Saúde
+De acordo com os índices do IDHM, o município de Marituba continua
+apresentando índice elevado no componente longevidade, o que sugere boas
+condições de saúde e salubridade locais.
+A esperança de vida ao nascer corresponde ao número médio de anos que uma
+pessoa viverá a partir do nascimento, se as taxas de mortalidade atuais se
+mantiverem ao longo de sua vida. No caso de Marituba, em 2010 o município
+apresentou esperança de 72,6 anos. Comparado ao índice registrado em 2000,
+a
+
+esperança
+
+de
+
+vida
+
+dos
+
+munícipes aumentou
+
+cerca
+
+de
+
+7
+
+anos.
+
+(PNUD/IPEA/FJP, 2013)
+A análise dos problemas de saúde enfrentados por uma população é restringida
+devido ao caráter limitado e difuso das informações. As informações acerca das
+morbidades são provenientes dos serviços ofertados, sendo que os sistemas de
+informações
+
+não
+
+conseguem
+
+contemplar
+
+a
+
+diversidade
+
+de
+
+serviços
+
+disponibilizados pelo próprio Sistema Único de Saúde (SUS), pela rede privada,
+tão pouco as várias alternativas recorridas pela população para sanar ou
+minimizar suas enfermidades, tais como as práticas tradicionais. Ainda assim, as
+informações sobre morbidade hospitalar do SUS permitem um dimensionamento
+dos problemas de saúde que afetam a população usuária do sistema em
+Marituba, uma vez que corresponde à grande maioria da população residente no
+município.
+O coeficiente de morbidade hospitalar refere-se ao número total de
+internamentos hospitalares por mil habitantes. De acordo com os dados
+apresentados na Tabela 4.5, o valor médio de coeficiente registrado entre os
+anos 2012 e 2016 no município de Marituba foi de 54,1 internamentos/mil
+habitantes, índice baixo comparado ao conjunto paraense (60,4).
+Os dados de internamentos hospitalares ocorridos no referido período, ilustrados
+na Figura 4.21, revelam que estão entre as principais causas de morbidade a
+gravidez, parto e puerpério (29%), as lesões, envenenamento e outras
+consequências de causas externas (13%), as doenças dos aparelhos
+79
+
+respiratórios (13%) e digestivo (8%) e as doenças infecciosas e parasitárias
+(9%). Destaca-se que as doenças infeciosas e parasitárias incluem as doenças
+frequentemente relacionadas à precariedade das condições (ou à falta) de
+saneamento básico, tais como febre tifoide e paratifoide, malária, cólera,
+leptospirose e hepatites.
+O coeficiente de mortalidade refere-se ao número total de óbitos por mil
+habitantes. Conforme apresentado na Tabela 4.5, no município de Marituba o
+valor médio de coeficiente registrado entre os anos 2012 e 2016 foi de 4,6
+óbitos/mil habitantes, índice baixo comparado aos demais municípios da ACP de
+Belém, mas superior ao registrado no conjunto do estado (4,4).
+Tabela 4.5 – Média dos coeficientes de morbidade e mortalidade dos municípios da ACP de Belém e do
+estado do Pará - 2012/2016.
+
+Unidade
+
+Tipo / Média do coeficiente (mil habitantes)
+Morbidade
+
+Mortalidade
+
+Ananindeua
+
+67,2
+
+5,0
+
+Barcarena
+
+57,5
+
+3,4
+
+Belém
+
+50,6
+
+6,2
+
+Benevides
+
+53,1
+
+5,1
+
+Marituba
+
+54,1
+
+4,6
+
+PARÁ
+
+60,4
+
+4,4
+
+Fonte: DATASUS/MS (2019).
+
+No que diz respeito às causas que levaram a óbitos no período analisado,
+conforme ilustrado na Figura 4.21, as causas externas foram responsáveis pelo
+maior índice em Marituba, correspondendo a 24% dos óbitos registrados no
+município.
+Vale ressaltar que os óbitos por causas externas consistem nas mortalidades por
+acidentes (relacionados ao trânsito, afogamento, envenenamento, quedas ou
+queimaduras) e violências (agressões/homicídios, suicídios, tentativas de
+suicídio, abusos físicos, sexuais e psicológicos).
+Também foram consideráveis os percentuais de óbitos registrados em
+decorrência das doenças dos aparelhos circulatório (21%) e respiratório (12%),
+
+80
+
+das neoplasias (12%), das doenças endócrinas, nutricionais e metabólicas (8%)
+e das doenças infecciosas e parasitárias (7%).
+
+Fonte: DATASUS/MS (2019).
+Figura 4.21 – Proporção de casos de morbidade e mortalidade, por principais causas, do município de
+Marituba - 2012/2016.
+
+No que diz respeito à rede de atendimento da Atenção Básica10 de Marituba,
+cabe analisar as taxas de cobertura (proporção de pessoas atendidas) pela
+Estratégia Saúde da Família (ESF). Conforme estabelecido pela Política
+Nacional de Atenção Básica, a ESF constitui a base de estruturação do sistema
+de saúde brasileiro e suas ações são operacionalizadas pelas Equipes de Saúde
+da Família. Segundo os parâmetros do Ministério da Saúde, multiprofissionais,
+estas equipes devem ser compostas por, no mínimo: médico generalista ou
+especialista em saúde da família ou médico de família e comunidade; enfermeiro
+generalista ou especialista em saúde da família; auxiliar ou técnico de
+
+10
+
+A Atenção Básica é o primeiro nível de atenção em saúde e se caracteriza por um conjunto de ações de
+saúde, no âmbito individual e coletivo, que abrange a promoção e a proteção da saúde, a prevenção de
+agravos, o diagnóstico, o tratamento, a reabilitação, a redução de danos e a manutenção da saúde. De
+acordo com o Departamento de Atenção Básica do Ministério da Saúde (DAB/MS), o objetivo é desenvolver
+uma atenção integral que impacte positivamente na situação de saúde das coletividades (DAB/MS, 2019).
+
+81
+
+enfermagem; e Agentes Comunitários de Saúde, que atuam principalmente nas
+Unidades Básicas de Saúde (UBS) e por meio de visitas domiciliares nos
+territórios de suas responsabilidades. Em relação à cobertura de atendimento, a
+quantidade de equipes e agentes é definida de acordo com base populacional
+(critérios demográficos, epidemiológicos e socioeconômicos), no entanto, cada
+Equipe de Saúde da Família deve ser responsável por, no máximo, 4 mil
+habitantes, e cada Agente Comunitário de Saúde por, no máximo, 750
+habitantes. (BRASIL, 2011b, 2017)
+Conforme os dados ilustrados na Figura 4.22, tal como o conjunto paraense,
+Marituba apresentou déficits de cobertura pela ESF. Em relação às Equipes de
+Saúde da Família, a taxa de cobertura de Marituba foi de 56,7%, próxima do
+registrado no conjunto estadual (57%), mas a segunda menor da ACP de Belém,
+superando apenas a da capital (22,8%). No caso da taxa de cobertura por
+Agentes Comunitários de Saúde, enquanto no conjunto estadual a taxa
+correspondeu a 79,3%, em Marituba foi de 66,6%, a qual também superou
+apenas a da capital (25,4%).
+
+Fonte: DATASUS/MS (2019).
+Figura 4.22 – Taxa de cobertura da população por Equipes de Saúde da Família e Agentes Comunitários
+de Saúde, dos municípios da ACP de Belém e do estado do Pará - 2018.
+
+Outros indicadores relevantes na análise da capacidade de estrutura de
+atendimento à saúde pública são a razão de leitos hospitalares e a razão de
+médicos (relação entre a oferta e a população residente em determinado
+território). Além de contribuírem para a análise dos serviços de assistência
+médico-hospitalar, estes indicadores permitem a avaliação de variações
+geográficas e temporais que indiquem situações de desigualdade e tendências
+que demandem ações específicas. Sobre os parâmetros de referência, os
+82
+
+índices recomendados pela Organização Mundial de Saúde (OMS) são de 3 a 5
+leitos/mil habitantes e de, no mínimo, um médico/mil habitantes.
+Conforme ilustrado na Figura 4.23, tal como se observa em todo o contexto
+brasileiro, no conjunto paraense e na ACP de Belém a razão de leitos do SUS
+está aquém da recomendação da OMS. Em dezembro de 2018 Marituba contava
+com menos de um leito/mil habitantes, índice inferior aos registrados no conjunto
+estadual (1,3) e na maioria dos municípios da ACP de Belém.
+Em relação à razão de médicos do SUS, assim como o conjunto paraense e a
+maioria dos municípios da ACP de Belém, Marituba também não atendia ao
+recomendado pela OMS, contando com menos de um médico/mil habitantes.
+
+Fonte: DATASUS/MS (2019).
+Figura 4.23 – Razão de leitos e de médicos do Sistema Único de Saúde (SUS), por mil habitantes, dos
+municípios da ACP de Belém e do estado do Pará - Dezembro/2018.
+
+Marituba integra o 1º Centro Regional de Saúde do Pará11, um dos 13 centros
+do estado, os quais constituem instâncias administrativas intermediárias da
+Secretaria de Saúde Pública do Estado do Pará (SESPA), que, por sua vez,
+define e executa as políticas de assistência à saúde no âmbito estadual. Na
+esfera municipal, a implementação das políticas de assistência à saúde é de
+competência da Secretaria Municipal de Saúde (SESAU). (SESPA, 2019; PMM,
+2014)
+
+11
+
+O 1º Centro Regional de Saúde do Pará também abrange os municípios de Belém, Ananindeua,
+Benevides e Santa Bárbara do Pará.
+
+83
+
+No que se refere à rede pública de atendimento à saúde de Marituba, segundo
+os dados do Cadastro Nacional de Estabelecimentos de Saúde do Ministério da
+Saúde (CNES/MS), apresentados na Tabela 4.6, o município conta com um
+conjunto de estabelecimentos, cuja grande maioria presta serviços de atenção
+básica e/ou de média complexidade. Estes estabelecimentos incluem os
+atendimentos ambulatorial, diagnóstico, urgência, internação e vigilância em
+saúde.
+A atenção primária é realizada em 18 centros/unidades de saúde que prestam
+atendimentos ambulatoriais básicos e/ou de média complexidade, sendo que 3
+contam com o Serviço de Apoio à Diagnose e Terapia (SADT), o qual oferece
+vários tipos de exames com objetivo de esclarecer o diagnóstico ou realizar
+procedimentos terapêuticos específicos para os pacientes. O SADT também é
+disponibilizado em 3 unidades isoladas, em duas clínicas/centros de
+especialidades e no Hospital Doutor Augusto Chaves.
+Os atendimentos de urgência e emergência são prestados (contínuos de 24
+horas) na Unidade de Pronto Atendimento (UPA) Eládio Soares, no Hospital
+Doutor Augusto Chaves, no Hospital da Divina Providência e na unidade do
+Serviço de Atendimento Móvel de Urgência (SAMU).
+As internações são realizadas no Hospital da Divina Providência, o qual presta
+atendimentos de média e alta complexidades, além de contar com farmácia.
+O município também dispõe de duas unidades de Centro de Atenção
+Psicossocial (CAPS), sendo uma da modalidade Álcool e Drogas (CAPS AD), a
+qual é destinada ao atendimento de usuários com transtornos mentais
+decorrentes do uso e dependência de substâncias psicoativas, incluindo o álcool.
+
+84
+
+Tabela 4.6 – Características dos estabelecimentos da rede pública de saúde do município de Marituba - 2019.
+Atividade
+Atendimento
+(complexidade)
+
+Gestão
+
+Tipo
+
+Nome
+
+Bairro
+
+Municipal
+
+Central de Gestão em Saúde
+
+Secretaria Municipal de Saúde
+
+Dom Aristides Alta
+
+Ambulatorial;
+Vigilância; Outros
+
+Municipal
+
+Centro de Regulação do Acesso
+
+Centro de Regulação de Marituba
+
+Centro
+
+Alta
+
+Regulação
+
+Estadual
+
+Centro/Unidade de Saúde
+
+Presídio Estadual Metropolitano II
+
+Centro
+
+Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+UBS Celina Lameira do Nascimento
+
+Novo
+Horizonte
+
+Básica
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+UBS José Coelho Serrão
+
+Boa Vista
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+UBS Santa Clara
+
+Santa Clara
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Betânia
+
+Pedreirinha
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Haifa Gabriel
+
+Almir Gabriel
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Nova Marituba
+
+Nova
+Marituba
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Riacho Doce
+
+Riacho Doce
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF São Francisco
+
+São Francisco Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF São João
+
+São José
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Adalúcio Calado
+
+Dom Aristides Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Bela Vista
+
+Bela Vista
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Santa Lúcia
+
+Santa Lúcia
+
+Básica
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Uriboca
+
+Uriboca
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF Cristiano Claudio Torres
+
+Novo
+Horizonte
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Centro/Unidade de Saúde
+
+USF União
+
+União
+
+Básica; Média
+
+Ambulatorial; SADT;
+Vigilância; Outros
+
+Tipo
+
+Nome
+
+Municipal
+
+Centro/Unidade de Saúde
+
+Centro Saúde Dr Gilson Rufino Gonçalves Decouville
+
+Básica; Média
+
+Ambulatorial; SADT
+
+Municipal
+
+Centro/Unidade de Saúde
+
+Centro de Saúde Nossa Senhora da Paz
+
+Bairro Novo
+
+Básica; Média
+
+Ambulatorial; SADT
+
+Municipal
+
+Clínica/Centro de Especialidade
+
+Abrigo João Paulo II
+
+Dom Aristides Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Clínica/Centro de Especialidade
+
+Centro Especializado Odontológico
+Manuel Rocha
+
+Centro
+
+Básica; Média
+
+Ambulatorial
+
+Municipal
+
+Clínica/Centro de Especialidade
+
+Centro de Diagnósticos e Serviços
+Especializados Ignácio Gabriel
+
+Centro
+
+Básica; Média
+
+Ambulatorial; SADT
+
+Municipal
+
+Clínica/Centro de Especialidade
+
+URE Marcello Candia
+
+Dom Aristides Básica; Média
+
+Ambulatorial; SADT
+
+Municipal
+
+Unidade de SADT
+
+Centro de Testagem e Aconselhamento
+Marituba
+
+Bairro Novo
+
+Ambulatorial
+
+Municipal
+
+Unidade de SADT
+
+Agência Transfusional de Marituba
+
+Dom Aristides Média
+
+Municipal
+
+Unidade de SADT
+
+Clínica de Olhos
+
+Bairro Novo
+
+Municipal
+
+CAPS
+
+CAPS de Marituba
+
+Dom Aristides Média; Alta
+
+Ambulatorial
+
+Municipal
+
+CAPS
+
+CAPS AD Padre Jaime Pereira
+
+Mirizal
+
+Média; Alta
+
+Ambulatorial
+
+Estadual
+
+Farmácia
+
+UDME do Hospital Divina Providência
+
+Centro
+
+Alta
+
+Outros
+
+Municipal
+
+Pronto Atendimento
+
+UPA Eládio Soares
+
+Almir Gabriel
+
+Média
+
+Ambulatorial; Urgência;
+SADT; Regulação
+
+Municipal
+
+Hospital Geral
+
+Hospital Doutor Augusto Chaves
+
+Centro
+
+Básica; Média
+
+Internação; Urgência;
+SADT
+
+Estadual
+
+Hospital Geral
+
+Hospital da Divina Providência
+
+Dom Aristides Média; Alta
+
+Ambulatorial;
+Internação; Urgência
+
+Municipal
+
+Unidade móvel de nível préhospitalar na área de urgência e
+emergência
+
+SAMU Marituba
+
+Dom Aristides Média
+
+Urgência
+
+Fonte: CNES/MS (2019).
+
+Bairro
+
+Atividade
+Atendimento
+(complexidade)
+
+Gestão
+
+Básica; Média
+
+Básica; Média;
+Alta
+
+Ambulatorial; SADT
+Ambulatorial; SADT
+
+Nota: Unidade Básica de Saúde (UBS), Unidade Saúde da Família (USF), Serviço de Apoio à Diagnose e Terapia (SADT), Unidade de Referência Estadual (URE), Centro
+de Atenção Psicossocial (CAPS), Centro de Atenção Psicossocial - Álcool e Drogas (CAPS AD), Unidade de Dispensação de Medicamentos Especializados (UDME),
+Unidade de Pronto Atendimento (UPA), Serviço de Atendimento Móvel de Urgência (SAMU).
+
+Renda
+A participação do município no PIB, dados de 2012 da FAPESPA, no contexto
+da Região Metropolitana de Belém pontava para 3,35%, enquanto a população
+do município represente cerca de 5,6%, que sugere a debilidade do município
+no plano da produção de riqueza.
+Tabela 4.7 – Perfil do PIB na Região Metropolitana de Belém (2012)
+
+Um índice usado para avaliar a concentração de renda numa comunidade é o
+índice Geni, que aponta a diferença entre os rendimentos dos mais pobres e
+dos mais ricos. Numericamente, varia de 0 a 1, sendo que 0 representa a
+situação de total igualdade, ou seja, todos têm a mesma renda, e o valor 1
+significa completa desigualdade de renda, ou seja, uma só pessoa detém toda a
+renda dessa comunidade.
+De acordo com o Atlas de Desenvolvimento Humano do Brasil, a renda per capita
+média de Marituba cresceu 102,14% nas últimas duas décadas, passando de R$
+188,99, em 1991, para R$ 254,86, em 2000, e para R$ 382,02, em 2010. Isso
+equivale a uma taxa média anual de crescimento no período de 3,77%. A taxa
+média anual de crescimento foi de 3,38%, entre 1991 e 2000, e 4,13%, entre
+2000 e 2010. A proporção de pessoas pobres, ou seja, com renda domiciliar per
+capita inferior a R$ 140,00 (a preços de agosto de 2010), passou de 57,41%, em
+1991, para 42,14%, em 2000, e para 17,02%, em 2010. A evolução da
+88
+
+desigualdade de renda nesses dois períodos pode ser descrita através do Índice
+de Gini, que passou de 0,53, em 1991, para 0,52, em 2000, e para 0,42, em
+2010.
+Conforme ilustrado na Figura 4.24, se apresenta a evolução da renda da
+população de Marituba.
+
+Fonte: PNUD/IPEA/FJP (2013).
+Figura 4.24 – Evolução da distribuição da renda da população de Marituba de 1991 a 2010.
+
+De acordo com os dados ilustrados na Figura 4.25, em 2010, embora tenha
+apresentado a menor renda média domiciliar da ACP de Belém, Marituba
+registrou o menor Índice de Gini, indicando uma menor concentração de renda.
+Enquanto na capital paraense a renda média foi de R$ 853,82 (1,67 salário
+mínimo) e o Índice de Gini figurou 0,610, em Marituba a renda média equivaleu
+a R$ 382,02 (0,75 salário mínimo) e o Índice de Gini figurou 0,420.
+
+Fonte: PNUD/IPEA/FJP (2013).
+
+89
+
+Figura 4.25 – Renda domiciliar per capita e Índice de Gini dos municípios da ACP de Belém e do estado
+do Pará - 2010.
+
+Os indicadores relevantes na análise da condição da população no sistema
+produtivo são a taxa de atividade e a taxa de desocupação. A primeira refere-se
+ao percentual da população acima de 10 anos que é considerada
+economicamente ativa (que exerceu alguma atividade econômica, com ou sem
+remuneração em dinheiro ou benefícios, ou que estava buscando inserir-se no
+mercado de trabalho). Já a taxa de desocupação é o percentual da população
+economicamente ativa que está desocupada, ou ainda, desempregada.
+De acordo com os dados ilustrados na Figura 4.26, tal como no conjunto
+paraense, em Marituba a taxa de atividade da população acima de 10 anos
+equivaleu a aproximadamente 53% em 2010. Já o percentual de desempregados
+do município foi significativo, equivalendo a 15,2%, o maior índice registrado na
+ACP de Belém.
+
+Fonte: PNUD/IPEA/FJP (2013).
+Figura 4.26 – Taxa de atividade da população acima de 10 anos (economicamente ativa) e de
+desocupação da população economicamente ativa, dos municípios da ACP de Belém e do estado do
+Pará - 2010.
+
+Tendo em vista os indicadores de renda, especialmente os relativos à pobreza,
+pode-se afirmar que o Programa Bolsa Família12 do Governo Federal exerce um
+papel relevante para a população maritubense. O Bolsa Família consiste num
+programa de transferência condicionada de recursos financeiros que beneficia
+famílias pobres (com renda per capita de até R$ 178,00) e extremamente pobres
+
+12
+
+O Programa Bolsa Família foi criado em 2004, por meio da Lei Federal Nº 10.836/2004, posteriormente
+integrando Plano Brasil Sem Miséria do Governo Federal, instituído pelo Decreto Federal Nº 7.492/2011,
+que tem por objetivo superar a extrema pobreza do país baseando-se na garantia de renda, inclusão
+produtiva e no acesso aos serviços públicos.
+
+90
+
+(com renda per capita de até R$ 89,00) inscritas no Cadastro Único para
+Programas Sociais do Governo Federal13. (SAGI/MC, 2019)
+No município de Marituba, de acordo com a Secretaria de Avaliação e Gestão
+da Informação do Ministério da Cidadania (SAGI/MC), no mês de março de 2019,
+o total de famílias inscritas no Cadastro Único era de 24.613. Destaca-se que
+estas famílias somaram 62.153 pessoas, o que equivale a aproximadamente
+48% da população maritubense estimada no ano de 2018 (SAGI/MC, 2019;
+IBGE, 2018b).
+No mês de abril de 2019, 14.009 famílias foram beneficiadas pelo Bolsa Família
+em Marituba (11% da população), correspondendo à cobertura total da
+estimativa de famílias pobres do município. O valor médio do benefício por
+família equivaleu a R$ 173,49 e o total transferido pelo Governo Federal em
+benefícios às famílias atendidas foi de R$ 2.430.354,00. (SAGI/MC, 2019)
+A definição e execução das políticas de assistência social no âmbito estadual
+são de responsabilidade da Secretaria de Estado de Assistência Social,
+Trabalho, Emprego e Renda do Pará (SEASTER/PA). Na esfera municipal a
+implementação destas políticas é de competência da Secretaria Municipal de
+Assistência Social (SEMAS). (SEASTER/PA, 2019; PMM, 2014)
+No que diz respeito à rede de atendimento socioassistencial da população
+maritubense, segundo os dados do Cadastro Nacional do Sistema Único de
+Assistência Social do Ministério da Cidadania (CADSUAS/MC), apresentados na
+Tabela 4.8, o município conta com 6 estabelecimentos.
+Em Marituba a rede de Proteção Social Básica, destinada a pessoas em situação
+de vulnerabilidade social, é composta pelos Centros de Referência de
+Assistência Social (CRAS). Já a rede de Proteção Social Especial, destinada a
+
+13
+
+O Cadastro Único foi instituído pelo Decreto Federal Nº 6.135/2007 e é um instrumento de identificação
+e caracterização socioeconômica das famílias de baixa renda, em especial daquelas cujas rendas mensais
+não extrapolam meio salário mínimo, que permite ao poder público a formulação e implementação de
+políticas específicas voltadas à redução das vulnerabilidades sociais. O Cadastro Único é a principal
+ferramenta do Governo Federal para seleção e inclusão dos beneficiários de programas sociais. A
+Secretaria Nacional de Renda de Cidadania estima as famílias pobres com perfil de atendimento para o
+Programa Bolsa Família a partir dos dados do Censo Demográfico de 2010, considerando tanto a renda
+familiar de até R$ 179,00 por pessoa quanto um coeficiente de volatilidade de renda (SAGI/MC, 2019).
+
+91
+
+pessoas em situação de risco pessoal ou social ou que tiveram seus direitos
+violados, é composta pelo Centro de Referência Especializado de Assistência
+Social (CREAS) e pela unidade de acolhimento de crianças e adolescentes.
+(SEDS/MC, 2019)
+Tabela 4.8 – Características dos estabelecimentos da rede pública socioassistencial
+do município de Marituba – 2019.
+Tipo
+
+Nome
+
+Bairro
+
+Proteção Social
+
+CRAS
+
+Déa Rebello
+
+Almir Gabriel
+
+Básica
+
+CRAS
+
+Dom Vicente Zico
+
+Boa Vista
+
+Básica
+
+CRAS
+
+Emmanuel Rocha
+
+Decouville
+
+Básica
+
+CRAS
+
+Gedovar Nazzari
+
+Dom Aristides
+
+Básica
+
+CREAS
+
+Marituba
+
+Mirizal
+
+Especial
+
+Unidade de
+acolhimento
+
+Marituba
+
+Centro
+
+Especial
+
+Fonte: CADSUAS/MC (2019).
+Nota: Centro de Referência de Assistência Social (CRAS), Centro de Referência Especializado de
+Assistência Social (CREAS)
+
+Indicadores socioeconômicos do progresso social, necessidades básicas e
+outros, de Marituba e municipios da RMB são apresentados na
+Tabela 4.9 – Indicadores da situação socioeconômica de Marituba e municípios da RMB (2012)
+
+Como se pode constatar, Marituba apresenta um índice de necessidades
+humanas básicas inferior ao dos restantes municípios da RMB, embora superior
+à média do Estado do Pará.
+
+92
+
+Segurança
+Para analisar a segurança de determinada localidade pode-se tomar como ponto
+de partida os fenômenos de criminalidade e de vitimização. Uma forma de avaliar
+a magnitude destes fenômenos é pela análise do coeficiente de ocorrências
+policiais (número total de ocorrências por cem mil habitantes).
+De acordo com os últimos dados da Secretaria de Estado da Segurança Pública
+e da Defesa Social do Pará (SEGUP/PA), disponibilizados pela Fundação
+Amazônia de Amparo a Estudos e Pesquisas (FAPESPA) e ilustrados na Figura
+4.27, tal como no contexto da ACP de Belém, em Marituba os índices de
+criminalidade foram expressivos em 2013, muitos superiores aos do conjunto
+paraense.
+Em relação aos crimes contra o patrimônio (apropriação indébita, dano, esbulho
+possessório, estelionato, extorsão, furto, latrocínio, outras fraudes, receptação,
+roubo e sequestro relâmpago), no ano analisado, enquanto o coeficiente do
+conjunto estadual foi de 2.874 ocorrências/cem mil habitantes, em Marituba
+correspondeu a 4.181 ocorrências/por cem mil habitantes.
+No que se refere aos crimes contra a pessoa (ameaça, calúnia, cárcere privado,
+constrangimento ilegal, difamação, homicídio, injúria, lesão corporal, maus
+tratos, rixa, tentativa de homicídio e violação de domicílio), em 2013 foram
+registradas 1.336 ocorrências/cem mil habitantes em Marituba.
+No caso dos crimes violentos (homicídio, tentativa de homicídio, latrocínio, roubo
+e estupro), Marituba registrou 2.698 ocorrências/cem mil habitantes em 2013,
+quase o dobro do coeficiente do conjunto do Pará (1.373).
+
+93
+
+Fonte: SEGUP/PA apud FAPESPA (2015).
+Figura 4.27 – Coeficiente de ocorrências policiais, por tipo de ocorrência, dos municípios da ACP de
+Belém e do estado do Pará - 2013.
+
+Especificamente em relação aos homicídios, os coeficientes são ainda mais
+alarmantes, tanto da população total como da população jovem (15 a 29 anos).
+Conforme ilustrado na Figura 4.28, no período 2012/2016, Marituba registrou as
+maiores médias dos coeficientes de homicídios da ACP de Belém, que, por sua
+vez, superaram as do conjunto paraense.
+Em Marituba, a média do coeficiente de homicídios da população total equivaleu
+a 83 casos/cem mil habitantes. Já entre os jovens entre 15 e 29 anos, a média
+foi de 176 casos/cem mil habitantes.
+
+Fonte: DATASUS/MS (2019).
+Figura 4.28 – Média dos coeficientes de homicídios da população total e da população jovem (15 a 29
+anos) dos municípios da ACP de Belém e do estado do Pará - 2012/2016.
+
+A definição e execução das políticas de segurança pública no âmbito estadual
+são de responsabilidade da SEGUP/PA. Na esfera municipal a implementação
+
+94
+
+destas políticas é de competência da Secretaria Municipal de Segurança Pública
+e Mobilidade Urbana (SEGMOB).
+A rede de segurança pública de Marituba é composta por organizações das
+esferas governamentais municipal e estadual. No âmbito da SEGMOB, o poder
+público municipal atua por meio da Guarda Municipal de Marituba e da Diretoria
+Municipal de Trânsito (DIRETRAN). Já o poder público estadual atua por meio
+da Polícia Civil do Estado do Pará (PCPA), da Polícia Militar do Estado do Pará
+(PMPA) e do Corpo de Bombeiros do Estado do Pará (CBMPA).
+A Guarda Municipal de Marituba foi criada em 2015, por meio da Lei Municipal
+Nº 318/2015, e é responsável pela proteção de bens, serviços, logradouros
+públicos e instalações municipais. Por usa vez, a DIRETRAN controla e fiscaliza
+o trânsito e o tráfego de Marituba. (PMM, 2014, 2015)
+No que diz respeito à Polícia Civil, órgão responsável pelas ações de
+policiamento investigativo, Marituba é sede da 15ª Seccional Urbana, uma das
+15 subdivisões da Diretoria de Polícia Metropolitana da PCPA. Localizada no
+bairro Centro de Marituba, a 15ª Seccional Urbana atua em 3 delegacias:
+Delegacia de Polícia de Decouville, situada no próprio município, no bairro
+Decouville; Delegacia de Polícia Benevides e Delegacia de Polícia Benfica,
+ambas situadas em Benevides. (PCPA, 2019)
+As ações de policiamento ostensivo e preventivo são realizadas pelo 21°
+Batalhão de Polícia Militar – Marituba, um dos 36 batalhões da PMPA, situado
+no bairro Centro de Marituba. (PMPA, 2019)
+Já as ações de prevenção e combate a incêndios, buscas, salvamentos,
+socorros públicos e defesa civil são executadas pelo 25º Grupamento Bombeiro
+Militar – Marituba, um dos 30 grupamentos do CBMPA, localizado no bairro
+Decouville. (CBMPA, 2019)
+Cabe mencionar que Marituba abriga 4 unidades prisionais da Superintendência
+do Sistema Penitenciário do Estado do Pará (SUSIPE), autarquia vinculada à
+SEGUP/PA, responsável pela implementação e execução das políticas
+penitenciárias do estado. Localizado no bairro Decouville, o complexo
+95
+
+penitenciário de Marituba é composto pelos Presídios Estaduais Metropolitanos
+I, II e II, além do Centro de Reeducação Feminino de Marituba (regime
+semiaberto). (SUSIPE, 2019)
+Habitação
+Nos últimos anos a questão da habitação em Marituba teve uma evolução muito
+positiva com a finalização de diversos empreendimentos que se encontravam
+paralizados, devido ao dinamismo da gestão municipal. Essa é uma das razões
+de crescimento acelerado do município nos últimos anos, com a fixação de
+milhares da famílias pela existência de habitações consolidadas disponíveris.
+Pode constatar-se que os dados do último Censo Demográfico do IBGE (2010),
+apresentava Marituba com déficits de cobertura dos serviços de saneamento
+básico, especialmente nos componentes abastecimento de água e esgotamento
+sanitário, além de elevado número de ocupações irregulares.
+Considerando a condição de ocupação, conforme ilustrado na Figura 4.29, em
+2010 cerca de 80% dos domicílios de Marituba era próprio (de propriedade, total
+ou parcial, de um ou mais moradores, integralmente pago ou não), índice
+semelhante aos registrados nos conjuntos estadual e da ACP de Belém.
+
+Fonte: IBGE (2010).
+Figura 4.29 – Proporção de domicílios, por condição de ocupação, do município de Marituba, da ACP de
+Belém e do estado do Pará - 2010.
+
+No que se refere ao material das paredes externas dos domicílios, conforme
+ilustrado na Figura 4.30, assim como no conjunto da ACP de Belém, em Marituba
+mais de 60% dos domicílios apresentava paredes de alvenaria com revestimento
+(2010).
+
+96
+
+Fonte: IBGE (2010).
+Figura 4.30 – Proporção de domicílios, por tipo de material das paredes externas, do município de
+Marituba, da ACP de Belém e do estado do Pará - 2010.
+
+Quanto ao abastecimento de água, tal como ilustrado na Figura 4.31, menos de
+40% dos domicílios de Marituba contava com abastecimento por rede geral em
+2010, índice bem inferior aos registrados nos conjuntos da ACP de Belém
+(62,8%) e do Pará (47,9%). As principais alternativas de abastecimento foram os
+poços ou nascentes.
+
+Fonte: IBGE (2010).
+Figura 4.31 – Proporção de domicílios, por tipo de abastecimento de água, do município de Marituba, da
+ACP de Belém e do estado do Pará - 2010.
+
+Em relação ao esgotamento sanitário, conforme ilustrado na Figura 4.32, em
+2010 menos de 5% dos domicílios de Marituba contava com lançamento em rede
+geral de esgoto ou pluvial, proporção também inferior às registradas nos
+conjuntos da ACP de Belém (28,1%) e do Pará (10,2%). A grande maioria fazia
+uso de fossas rudimentares, o que torna passível a contaminação do solo e da
+água subterrânea.
+
+97
+
+Fonte: IBGE (2010).
+Figura 4.32 – Proporção de domicílios, por tipo de esgotamento sanitário, do município de Marituba, da
+ACP de Belém e do estado do Pará - 2010.
+
+Tal como ilustrado na Figura 4.33, a proporção de domicílios de Marituba sem
+banheiro ou sanitário era irrisória em 2010, inferior a 2%, índice semelhante ao
+registrado no conjunto da ACP de Belém.
+
+Fonte: IBGE (2010).
+Figura 4.33 – Proporção de domicílios, por existência de banheiro ou sanitário, do município de Marituba,
+da ACP de Belém e do estado do Pará - 2010.
+
+Sobre o destino dos resíduos sólidos, conforme ilustrado na Figura 4.34,
+aproximadamente 90% dos domicílios de Marituba contava com sistema de
+coleta em 2010.
+
+Fonte: IBGE (2010).
+Figura 4.34 – Percentagem de domicílios com coleta de resíduos sólidos no município de Marituba, na
+ACP de Belém e no Estado do Pará - 2010.
+
+98
+
+Atualmente a cobertura do serviço de coleta de resíduos é praticamente de
+100%, havendo, isso sim, carência de meios para que a frequência da coleta
+seja a adequada.
+Na Figura a seguir apresenta-se o nível de cobertura da rede elétrica.
+
+Fonte: IBGE (2010).
+Figura 4.35 – Percentagem de domicílios com rede de energia elétrica no município de Marituba, na ACP
+de Belém e no Estado do Pará - 2010.
+
+Conforme se pode constatar pela Figura 4.35, a cobertura com energia elétrica
+em Marituba é quase 100%, similar à dos restantes municípios da ACP de
+Belém.
+Dados de 2010, apresentavam aproximadamente 77% da população
+maritubense a residir em locais precários e de forma inadequada, o maior índice
+registrado no estado paraense. Conforme apresentado na Tabela 4.10, o
+município contava com 22 aglomerados subnormais, caracterizados pela
+ocupação irregular e precariedade na oferta de serviços públicos essenciais
+(saneamento básico e energia elétrica)14. Juntos, estes aglomerados abrigavam
+21,2 mil domicílios. No entanto, esta situação alterou-se nos últimos anos para
+melhor.
+Com efeito, segundo as estimativas da Companhia de Habitação do Estado do
+Pará (COHAB/PA), em 2010 o déficit habitacional absoluto de Marituba era de
+4.895 domicílios (17,9%). Este déficit refere-se à quantidade necessária de
+moradias que devem ser repostas por apresentarem habitações precárias,
+
+14
+
+O IBGE (2010) classificou como aglomerado subnormal cada conjunto constituído de, no mínimo, 51
+unidades habitacionais carentes, em sua maioria, de serviços públicos essenciais, ocupando ou tendo
+ocupado, até período recente, terreno de propriedade alheia (pública ou particular) e estando dispostas, em
+geral, de forma desordenada e densa.
+
+99
+
+coabitação familiar, ônus excessivo com aluguel e adensamento excessivo em
+imóveis alugados15. (COHAB/PA, 2014)
+Tabela 4.10 – Quantidade de domicílios em aglomerados subnormais, por
+aglomerado, do município de Marituba – 2010.
+Aglomerado Subnormal
+
+Domicílios (nº total)
+
+Agrovila Riacho Doce
+
+111
+
+São Francisco
+
+753
+
+Dom Aristides
+
+1.613
+
+Nova União
+
+3.870
+
+Marituba I
+Bairro Novo
+
+870
+1.653
+
+Agrovila São Pedro
+
+230
+
+Novo Horizonte
+
+577
+
+Invasão do Decouville
+
+239
+
+Conjunto Jardim Imperial
+
+625
+
+Parque das Palmeiras
+
+721
+
+Beija Flor
+
+1.280
+
+Almir Gabriel
+
+3.109
+
+Conjunto Nova Marituba
+
+895
+
+Pedreirinha
+
+1.019
+
+Mário Couto
+
+716
+
+Centro
+
+632
+
+Invasão Vida Nova
+
+108
+
+Invasão Uriboca
+
+475
+
+Invasão Santa Lúcia I e II
+
+152
+
+Invasão Guara-Suco
+
+810
+
+Invasão Santa Clara
+
+762
+
+TOTAL
+
+21.220
+
+Fonte: IBGE (2010).
+
+A definição e execução das políticas de habitação no âmbito estadual são de
+responsabilidade da COHAB/PA. Na esfera municipal a implementação destas
+
+15
+
+Vale ressaltar que no cálculo do déficit habitacional não é considerada a inadequação de moradias, a
+qual está relacionada aos problemas na qualidade do imóvel quanto à garantia de condições adequadas
+de habitabilidade.
+
+100
+
+políticas é de competência da Secretaria Municipal de Habitação (SEHAB).
+(COHAB/PA, 2019a; PMM, 2014).
+O município de Marituba conta com dois importantes projetos habitacionais de
+interesse social executados por meio de parceria entre a COHAB/PA e a SEHAB,
+quais sejam, o Projeto de Regularização Fundiária – Almir Gabriel e o
+empreendimento Residencial Viver Melhor Marituba.
+O Projeto de Regularização Fundiária – Almir Gabriel prevê a regularização de
+1500 ocupações urbanas consolidadas do bairro Almir Gabriel, que tem
+atualmente 3.201 moradias, sobretudo de famílias de baixa renda. De acordo
+com informações da COHAB/PA (2019), até o momento foram executas as
+etapas de reuniões de orientação, topografia, cadastro físico e cadastro social,
+sendo que ainda serão necessárias as etapas de coleta de documentos, reunião
+de pactuação, elaboração e aprovação do projeto, assinatura de títulos e envio
+ao cartório e entrega de títulos.
+Apresenta-se na foto da Figura a seguir a imagem aérea do do bairro Almir
+Gabriel, objeto de regularização fundiária. O bairro está consolidado.
+
+101
+
+Figura 4.36 – Bairro Almir Gabriel (Google)
+
+O bairro Residencial Viver Melhor Marituba é o maior dos empreendimentos
+habitacionais mais recentes do município de Marituba, implementado no âmbito
+do Programa Minha Casa, Minha Vida16 do Governo Federal dirigido a famílias
+de baixo rendimento com necessidade de moradia. Situado no km 15 da rodovia
+BR-316, no bairro Novo Horizonte, o empreendimento conta com 147 torres de
+4 andares com 3744 apartamentos.
+
+16
+
+O Programa Minha Casa, Minha Vida foi criado em 2009, por meio da Lei Federal Nº 11.977/2009, com
+o objetivo de reduzir o déficit habitacional brasileiro (BRASIL, 2009).
+
+102
+
+Apresenta-se na Figura 4.37 a vista aérea do bairro Viver Melhor, delimitado a
+vermelho na foto, ao lado direito inferior pode ver-se os condomínios Salinas,
+Soure e Algodoal (condomínios fechados).
+
+Figura 4.37 – Panorama aéreo do Bairro Viver Melhor
+
+Total Viver Melhor
+Tipologia
+Sul
+Norte
+Total
+Apartamentos
+
+Torres 32 ap Torres 16 ap
+População
+4 pisos
+4 pisos
+47
+16
+6.144
+70
+16
+9.984
+117
+32
+16.128
+3744
+512
+
+Na Figura a seguir apresenta-se uma vista da área norte do Bairro Viver Melhor.
+
+103
+
+Figura 4.38 – Vista aérea da zona Norte do Bairro Viver Melhor
+
+A infraestrutura conta com estação de tratamento de água e ETE operadas pela
+COSANPA. Ainda não foram construídos os equipamentos e serviços de
+educação, lazer e saúde previstos.
+No quadrante sudeste foram construídos 3 condomínios fechados: Salinas,
+Soure e Algodoal, constituídos por 91 torres de 4 pisos e 81 blocos de
+apartamentos duplex e com uma população estimada de 6.229 habitantes.
+
+Soure
+Algodoal
+Salinas
+
+Torres 16 ap duplex
+População
+20
+38
+1470
+40
+2560
+31
+43
+2199
+
+Apresenta-se na Erro! A origem da referência não foi encontrada. a vista aérea dos
+condomínios Salinas, Soure e Algodoal, adjacente ao bairro Viver Melhor.
+
+104
+
+Figura 4.39 – Planta de localização dos condomínios fechados Salinas, Algodoal e Soure, na Direcional.
+
+105
+
+Outro bairro recente de moradias do Programa Minha Casa Minha Vida, é o Bairro
+Uriboca com 981 moradias e população estimada de 3.720 habitantes.
+Apresenta-se na Figura 4.40 a vista aérea do bairro Uriboca.
+
+Figura 4.40 – Vista aérea do bairro Uriboca
+
+Do crescimento induzido faz igualmente parte o condomínio Citá Maris, com acesso pela
+Rodovia BR 316.
+O condomínio tem 47 torres de 4 pisos e 20 apartamentos cada torre com infraestruturas
+de tratamento de água e de esgoto. Tem uma população estimada de 3.290 habitantes.
+Apresenta-se na Figura 4.41 a vista aérea do condomínio Citá Maris em Marituba.
+
+106
+
+Figura 4.41 – Condomínio Cita Maris com 47 torres de 4 pisos
+
+107
+
+4.3
+
+Aspectos Socioeconômicos
+Sistema produtivo
+
+O Produto Interno Bruto (PIB) corresponde à soma de toda a riqueza (bens,
+produtos e serviços) produzida por uma determinada região em um período
+determinado, constituindo um dos principais indicadores de potencial econômico.
+De acordo com os dados apresentados na Tabela 4.11, em 2016 o município de
+Marituba totalizou um PIB de R$ 1,7 bilhões, que correspondeu 3,9% do PIB da
+ACP de Belém e a 1,2% do PIB do Pará. Este montante foi o segundo menor
+registrado na ACP de Belém (superando apenas o valor de Benevides), mas
+situou Marituba na 13ª posição do ranking dos 144 municípios paraenses (IBGE,
+2016).
+Apesar da relativamente baixa contribuição de Marituba na economia da ACP de
+Belém, no período 2014/2016 o PIB do município cresceu quase 22%, índice
+superior ao registrado no conjunto estadual (10,8%).
+Tabela 4.11 – Produto Interno Bruto (PIB) dos municípios da ACP de Belém e do estado do Pará - 2014 a
+2016.
+
+Ano / PIB (mil reais)
+Unidade
+
+2014
+
+2015
+
+2016
+
+Ananindeua
+
+5.772.894
+
+6.222.672
+
+6.710.890
+
+Variação
+2014/2016 (%)
+16,2
+
+Barcarena
+
+3.902.985
+
+5.513.144
+
+5.012.997
+
+28,4
+
+Belém
+
+28.687.488
+
+29.215.036
+
+29.426.953
+
+2,6
+
+Benevides
+
+1.050.325
+
+1.202.057
+
+1.289.648
+
+22,8
+
+Marituba
+
+1.418.283
+
+1.592.877
+
+1.728.664
+
+21,9
+
+ACP de Belém
+
+40.831.975
+
+43.745.786
+
+44.169.152
+
+8,2
+
+PARÁ
+
+124.584.945
+
+130.899.505
+
+138.068.008
+
+10,8
+
+Fonte: IBGE (2014, 2015b, 2016).
+
+O valor adicionado bruto (VAB) a preços básicos do PIB diz respeito ao valor que
+a atividade agrega aos bens e serviços consumidos no seu processo produtivo
+e é obtido pela diferença entre o valor da produção e o consumo intermediário.
+A distribuição do VAB, segundo os principais setores de atividades, indica o
+desempenho da economia.
+108
+
+Conforme os dados apresentados na Tabela 4.12, tal como nos conjuntos da
+ACP de Belém e do Pará, em Marituba o setor de serviços (setor terciário)
+continua sendo o principal responsável pelo montante do VAB. No período
+2014/2016 a participação deste setor na economia municipal correspondeu a
+mais de 80%, sendo que no último ano analisado foi de aproximadamente 90%.
+Embora prevaleça a participação do setor de serviços, o setor da indústria (setor
+secundário) também é relevante na geração da renda interna de Marituba.
+Apesar queda no período analisado, em 2016 a indústria foi responsável por
+9,8% do montante.
+Vale destacar que atualmente a atividade industrial da ACP de Belém está
+concentrada na capital paraense e nos municípios de Barcarena e Ananindeua,
+territórios que abrigam três dos quatro Distritos Industriais presentes no Pará
+(CODEC/PA, 2019).
+Já o setor da agropecuária (setor primário) apresenta participação irrisória na
+economia de Marituba – tal como nos demais municípios da ACP de Belém –,
+sendo que no período analisado correspondeu a menos de um por cento do
+montante do VAB.
+Tabela 4.12 – Composição do valor adicionado bruto (VAB), por setor, dos municípios da ACP de Belém e
+do estado do Pará - 2014 a 2016.
+
+Unidade
+Ananindeua
+
+Barcarena
+
+Belém
+
+Benevides
+
+Marituba
+
+Agropecuária
+
+2014
+0,2
+20,1
+79,7
+2,5
+52,6
+44,8
+0,2
+17,7
+82,1
+0,6
+43,4
+56,0
+0,3
+
+Ano / VAB (%)
+2015
+0,2
+20,5
+79,2
+2,1
+63,6
+34,3
+0,3
+17,5
+82,2
+0,6
+39,9
+59,5
+0,3
+
+2016
+0,2
+17,6
+82,2
+2,1
+57,9
+40,0
+0,2
+14,9
+84,9
+0,6
+37,6
+61,8
+0,1
+
+Indústria
+
+15,0
+
+12,2
+
+9,8
+
+Serviços
+
+84,7
+
+87,5
+
+90,1
+
+Setor
+Agropecuária
+Indústria
+Serviços
+Agropecuária
+Indústria
+Serviços
+Agropecuária
+Indústria
+Serviços
+Agropecuária
+Indústria
+Serviços
+
+109
+
+Agropecuária
+
+2014
+0,5
+
+Ano / VAB (%)
+2015
+0,5
+
+2016
+0,4
+
+Indústria
+
+21,7
+
+24,0
+
+20,3
+
+Serviços
+
+77,9
+
+75,5
+
+79,3
+
+Agropecuária
+
+11,9
+
+12,3
+
+13,8
+
+Indústria
+
+29,5
+
+28,0
+
+25,3
+
+Serviços
+
+58,6
+
+59,7
+
+61,0
+
+Unidade
+
+ACP de Belém
+
+PARÁ
+
+Setor
+
+Fonte: IBGE (2014, 2015b, 2016).
+
+A Figura 4.42 ilustra a evolução do PIB e da composição setorial do VAB do
+município de Marituba no período analisado.
+
+Fonte: IBGE (2014, 2015b, 2016).
+Figura 4.42 – Evolução do Produto Interno Bruto (PIB) e da composição do valor adicionado bruto (VAB),
+por setor, do município de Marituba - 2014 a 2016.
+
+No que diz respeito às atividades econômicas exercidas pela população ocupada
+– que se refere à população que trabalha, com ou sem remuneração em dinheiro
+ou benefícios –, de acordo com os dados do último Censo Demográfico,
+ilustrados na Figura 4.43, em Marituba destacam-se as atividades dos setores
+terciário e secundário.
+Em 2010, dos 40.003 trabalhadores maritubenses, 79,7% foram mobilizados
+pelo setor terciário. As atividades exercidas deste setor compreenderam,
+principalmente: comércio (25% do total de ocupados), serviços domésticos (8%
+do total de ocupados), transporte terrestre (6,9% do total de ocupados),
+110
+
+administração pública (6,7% do total de ocupados) e educação (6% do total de
+ocupados). (IBGE, 2010)
+Já o setor secundário mobilizou 17,5% dos trabalhadores do município,
+prevalecendo as atividades da construção civil (11,7% do total de ocupados) e
+da indústria da transformação (5% do total de ocupados), com destaque para as
+fabricações de produtos alimentícios e de móveis e para a confecção de
+vestuário. (IBGE, 2010).
+O setor primário mobiliza apenas 2,8% dos trabalhadores do município, em
+atividades da agricultura (IBGE, 2010).
+Em relação à ocupação, como se apresenta na Figura 4.43, em 2010 os
+empregados somavam 73,7% dos trabalhadores maritubenses, dos quais 23%
+não contava com carteira de trabalho assinada. Também se destacaram no
+município os trabalhadores na condição de conta própria, que corresponderam
+a 23,5% do total de ocupados.
+
+Fonte: IBGE (2010).
+Figura 4.43 – Ocupação da população, por setor da economia e posição da ocupação, do município de
+Marituba - 2010.
+
+No contexto nacional, de um modo geral, o tamanho das economias municipais
+está relacionado ao contingente populacional e ao desenvolvimento de
+atividades importantes do setor secundário, como as industriais. Apesar de
+incorporar a ACP de Belém e de contar com uma população estimada em
+111
+
+aproximadamente 129 mil habitantes, Marituba apresenta uma estrutura
+econômica pouco dinâmica.
+Tal como muitos municípios conurbados, Marituba ainda constitui uma “cidadedormitório”,
+
+apresentando
+
+inchaço
+
+populacional,
+
+ocupações
+
+irregulares,
+
+problemas de saneamento básico e, conforme apontado adiante, baixa receita
+de arrecadação tributária e forte dependência de recursos do Governo Federal.
+Principais Atividades Econômicas
+
+Setor Terciário
+Além da relevância na composição da economia municipal, o setor terciário é o
+principal gerador de emprego e renda de Marituba. De acordo com os dados do
+Cadastro Central de Empresas (CEMPRE) do IBGE, em 2015, das 848 unidades
+empresariais locais cadastradas no município de Marituba, 694 (81,8%)
+pertenciam ao setor terciário. (IBGE, 2015a)
+Este índice refere-se principalmente ao comércio varejista, que contabilizou 234
+unidades (27,6% do total). Também se destacaram as unidades de comércio por
+atacado (95 unidades; 11,2% do total), de transporte rodoviário de carga (68
+unidades; 8% do total), de educação (50 unidades; 5,9% do total), de comércio
+de peças e acessórios para veículos automotores (49 unidades; 5,8% do total) e
+de organizações associativas (42 unidades; 5% do total). (IBGE, 2015a).
+
+Setor Secundário
+Em 2015, segundo os dados do CEMPRE, 154 (18,2%) das 848 unidades
+empresariais locais cadastradas no município pertenciam ao setor secundário.
+(IBGE, 2015a)
+Neste setor, destacam-se as unidades da indústria de transformação (98
+unidades; 11,6% do total) e da construção civil (52 unidades; 6,14% do total). No
+caso da indústria de transformação, prevalecem as fábricas de produtos
+alimentícios (15 unidades; 1,8% do total), de produtos minerais não-metálicos
+(14 unidades; 1,7% do total) e de produtos de madeira (11 unidades; 1,3% do
+112
+
+

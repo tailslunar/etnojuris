@@ -1,0 +1,149 @@
+ESTADO DE SANTA CATARINA
+SECRETARIA DE ESTADO DA FAZENDA
+DIRETORIA DE ADMINISTRAÇÃO TRIBUTÁRIA
+GERÊNCIA DE ARRECADAÇÃO
+
+PROTOCOLO DE CADASTRAMENTO DO DÉBITO Nº
+PÁGINA
+
+220000326981
+1 de 1
+
+PROTOCOLO DE CADASTRAMENTO DO DÉBITO PARA INSCRIÇÃO EM DÍVIDA ATIVA
+IDENTIFICAÇÃO DO DEVEDOR
+Nome Empresarial ou Nome
+FABIANO ADORMELINDO JANTSCH
+Tipo
+LINHA
+
+CNPJ/CPF
+06184778960
+
+Inscrição Estadual
+---
+
+Nome do logradouro
+NOVA ARATIBA
+
+Bairro
+INTERIOR
+
+Município
+FORMOSA DO SUL
+
+Número
+SN
+
+Complemento
+
+CEP
+89859-000
+
+UF
+SC
+
+IDENTIFICAÇÃO DO DOCUMENTO ORIGINAL
+Nº Processo/Lançamento
+1622620198240053
+
+Tipo de Doc./Origem do Débito
+Outros
+
+Órgão Emissor
+TJSC
+
+Unidade/Comarca
+QUILOMBO
+
+Data de emissão
+21/03/2022
+
+Data do ciente do documento
+23/03/2022
+
+Modo de ciência
+Pessoalmente
+
+Débito atualizado até
+21/03/2022
+
+FUNDAMENTAÇÃO LEGAL
+Código da infração/Descrição
+9711 - Multa Penal - TJSC (FUNPEN)
+Histórico do lançamento
+Condenação criminal à pena de multa, perda, quebra da fiança ou perdimento de bens. Recursos destinados ao FUNPEN - Fundo Penitenciário Nacional (Lei
+Complementar n. 79/1994). Autos n.: (editar). Comarca: (editar) Vara: (editar).
+Infração
+Art. 49 e 51 do Código Penal (Decreto-Lei n. 2.848 de 7 de dezembro de 1940).
+Multa
+NC
+Acréscimos
+Art. 49, § 2°, do Código Penal c/c art. 2º, §2º, da Lei n. 6.830/1980.
+Juros
+Art. 2º, §2º, da Lei n. 6.830/1980.
+
+VALOR DO CRÉDITO
+Valor original
+
+Deduções efetuadas
+
+Acréscimos
+
+Total inscrito
+
+432,33
+
+---
+
+---
+
+432,33
+
+Multa
+
+0,00
+
+---
+
+---
+
+0,00
+
+Juros de mora
+
+0,00
+
+---
+
+---
+
+0,00
+
+432,33
+
+---
+
+---
+
+432,33
+
+Principal
+
+Total
+
+INFORMAÇÕES DO RESPONSÁVEL PELO CADASTRAMENTO
+Órgão Emissor
+TJSC
+
+Nome do usuário
+TJ0010448 - IVETE TEDESCO CAMBRI
+
+Impresso por: TJ0010448 - IVETE TEDESCO CAMBRI
+
+Unidade/Comarca
+QUILOMBO
+
+Data do cadastramento/Envio
+14/07/2022 - 17:34:28
+
+

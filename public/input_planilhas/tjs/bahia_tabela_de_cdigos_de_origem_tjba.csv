@@ -1,0 +1,280 @@
+TIPO DE JUSTIÇA (estadual),Código do Estado ,Código da Unidade,Descrição da Unidade,Tipo
+8,5,0,TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA,Tribunal
+8,5,1,SALVADOR,Foro de comarca
+8,5,2,ABARÉ,Foro de comarca
+8,5,3,ACAJUTIBA,Foro de comarca
+8,5,4,ALAGOINHAS,Foro de comarca
+8,5,5,ALCOBAÇA,Foro de comarca
+8,5,6,AMARGOSA,Foro de comarca
+8,5,7,AMÉLIA RODRIGUES,Foro de comarca
+8,5,8,AMÉRICA DOURADA,Foro de comarca
+8,5,9,ANAGÉ,Foro de comarca
+8,5,10,ANDARAÍ,Foro de comarca
+8,5,11,ANGICAL,Foro de comarca
+8,5,12,ANTAS,Foro de comarca
+8,5,13,APORÁ,Foro de comarca
+8,5,14,ARACI,Foro de comarca
+8,5,15,AURELINO LEAL,Foro de comarca
+8,5,16,BAIANÓPOLIS,Foro de comarca
+8,5,17,BAIXA GRANDE,Foro de comarca
+8,5,18,BARRA,Foro de comarca
+8,5,19,BARRA DA ESTIVA,Foro de comarca
+8,5,20,BARRA DO CHOÇA,Foro de comarca
+8,5,21,BARRA DO MENDES,Foro de comarca
+8,5,22,BARREIRAS,Foro de comarca
+8,5,23,BELMONTE,Foro de comarca
+8,5,24,BELO CAMPO,Foro de comarca
+8,5,25,BOA NOVA,Foro de comarca
+8,5,26,BOA VISTA DO TUPIM,Foro de comarca
+8,5,27,BOM JESUS DA LAPA,Foro de comarca
+8,5,28,BOQUIRA,Foro de comarca
+8,5,29,BOTUPORÃ,Foro de comarca
+8,5,30,BREJÕES,Foro de comarca
+8,5,31,BROTAS DE MACAÚBAS,Foro de comarca
+8,5,32,BRUMADO,Foro de comarca
+8,5,33,BUERAREMA,Foro de comarca
+8,5,34,CACHOEIRA,Foro de comarca
+8,5,35,CACULÉ,Foro de comarca
+8,5,36,CAETITÉ,Foro de comarca
+8,5,37,CALDEIRÃO GRANDE,Foro de comarca
+8,5,38,CAMACÃ,Foro de comarca
+8,5,39,CAMAÇARI,Foro de comarca
+8,5,40,CAMAMU,Foro de comarca
+8,5,41,CAMPO FORMOSO,Foro de comarca
+8,5,42,CANARANA,Foro de comarca
+8,5,43,CANAVIEIRAS,Foro de comarca
+8,5,44,CANDEIAS,Foro de comarca
+8,5,45,CÂNDIDO SALES,Foro de comarca
+8,5,46,CANSANÇÃO,Foro de comarca
+8,5,47,CANUDOS,Foro de comarca
+8,5,48,CAPELA DO ALTO ALEGRE,Foro de comarca
+8,5,49,CAPIM GROSSO,Foro de comarca
+8,5,50,CARAVELAS,Foro de comarca
+8,5,51,CARINHANHA,Foro de comarca
+8,5,52,CASA NOVA,Foro de comarca
+8,5,53,CASTRO ALVES,Foro de comarca
+8,5,54,CATU,Foro de comarca
+8,5,55,CENTRAL,Foro de comarca
+8,5,56,CHORROCHÓ,Foro de comarca
+8,5,57,CÍCERO DANTAS,Foro de comarca
+8,5,58,CIPÓ,Foro de comarca
+8,5,59,COARACI,Foro de comarca
+8,5,60,CÔCOS,Foro de comarca
+8,5,61,CONCEIÇÃO DA FEIRA,Foro de comarca
+8,5,62,CONCEIÇÃO DO ALMEIDA,Foro de comarca
+8,5,63,CONCEIÇÃO DO COITÉ,Foro de comarca
+8,5,64,CONCEIÇÃO DO JACUÍPE,Foro de comarca
+8,5,65,CONDE,Foro de comarca
+8,5,66,CONDEÚBA,Foro de comarca
+8,5,67,CORAÇÃO DE MARIA,Foro de comarca
+8,5,68,CORIBE,Foro de comarca
+8,5,69,CORRENTINA,Foro de comarca
+8,5,70,COTEGIPE,Foro de comarca
+8,5,71,CRISTÓPOLIS,Foro de comarca
+8,5,72,CRUZ DAS ALMAS,Foro de comarca
+8,5,73,CURAÇÁ,Foro de comarca
+8,5,74,DIAS D'ÁVILA,Foro de comarca
+8,5,75,ENCRUZILHADA,Foro de comarca
+8,5,76,ENTRE RIOS,Foro de comarca
+8,5,77,ESPLANADA,Foro de comarca
+8,5,78,EUCLIDES DA CUNHA,Foro de comarca
+8,5,79,EUNÁPOLIS,Foro de comarca
+8,5,80,FEIRA DE SANTANA,Foro de comarca
+8,5,81,FORMOSA DO RIO PRETO,Foro de comarca
+8,5,82,GANDU,Foro de comarca
+8,5,83,GAVIÃO,Foro de comarca
+8,5,84,GENTIO DO OURO,Foro de comarca
+8,5,85,GLÓRIA,Foro de comarca
+8,5,86,GOVERNADOR LOMANTO JÚNIOR,Foro de comarca
+8,5,87,GOVERNADOR MANGABEIRA,Foro de comarca
+8,5,88,GUANAMBI,Foro de comarca
+8,5,89,GUARATINGA,Foro de comarca
+8,5,90,IAÇU,Foro de comarca
+8,5,91,IBICARAÍ,Foro de comarca
+8,5,92,IBICUÍ,Foro de comarca
+8,5,93,IBIQUERA,Foro de comarca
+8,5,94,IBIRAPITANGA,Foro de comarca
+8,5,95,IBIRAPUÃ,Foro de comarca
+8,5,96,IBIRATAIA,Foro de comarca
+8,5,97,IBITIARA,Foro de comarca
+8,5,98,IBITITÁ,Foro de comarca
+8,5,99,IBOTIRAMA,Foro de comarca
+8,5,100,ICHU,Foro de comarca
+8,5,101,IGAPORÃ,Foro de comarca
+8,5,102,IGUAÍ,Foro de comarca
+8,5,103,ILHÉUS,Foro de comarca
+8,5,104,INHAMBUPE,Foro de comarca
+8,5,105,IPIAÚ,Foro de comarca
+8,5,106,IPIRÁ,Foro de comarca
+8,5,107,IRAMAIA,Foro de comarca
+8,5,108,IRAQUARA,Foro de comarca
+8,5,109,IRARÁ,Foro de comarca
+8,5,110,IRECÊ,Foro de comarca
+8,5,111,ITABELA,Foro de comarca
+8,5,112,ITABERABA,Foro de comarca
+8,5,113,ITABUNA,Foro de comarca
+8,5,114,ITACARÉ,Foro de comarca
+8,5,115,ITAETÉ,Foro de comarca
+8,5,116,ITAGI,Foro de comarca
+8,5,117,ITAGIBÁ,Foro de comarca
+8,5,118,ITAGIMIRIM,Foro de comarca
+8,5,119,ITAJUÍPE,Foro de comarca
+8,5,120,ITAMARAJU,Foro de comarca
+8,5,121,ITAMARI,Foro de comarca
+8,5,122,ITAMBÉ,Foro de comarca
+8,5,123,ITANHÉM,Foro de comarca
+8,5,124,ITAPARICA,Foro de comarca
+8,5,125,ITAPEBI,Foro de comarca
+8,5,126,ITAPETINGA,Foro de comarca
+8,5,127,ITAPICURU,Foro de comarca
+8,5,128,ITAPITANGA,Foro de comarca
+8,5,129,ITAQUARA,Foro de comarca
+8,5,130,ITARANTIM,Foro de comarca
+8,5,131,ITIRUÇU,Foro de comarca
+8,5,132,ITIÚBA,Foro de comarca
+8,5,133,ITORORÓ,Foro de comarca
+8,5,134,ITUAÇU,Foro de comarca
+8,5,135,ITUBERÁ,Foro de comarca
+8,5,136,JACARACI,Foro de comarca
+8,5,137,JACOBINA,Foro de comarca
+8,5,138,JAGUAQUARA,Foro de comarca
+8,5,139,JAGUARARI,Foro de comarca
+8,5,140,JAGUARIPE,Foro de comarca
+8,5,141,JEQUIÉ,Foro de comarca
+8,5,142,JEREMOABO,Foro de comarca
+8,5,143,JIQUIRIÇÁ,Foro de comarca
+8,5,144,JITAÚNA,Foro de comarca
+8,5,145,JOÃO DOURADO,Foro de comarca
+8,5,146,JUAZEIRO,Foro de comarca
+8,5,147,JUSSARA,Foro de comarca
+8,5,148,LAJE,Foro de comarca
+8,5,149,LAPÃO,Foro de comarca
+8,5,150,LAURO DE FREITAS,Foro de comarca
+8,5,151,LENÇÓIS,Foro de comarca
+8,5,152,LICÍNIO DE ALMEIDA,Foro de comarca
+8,5,153,LIVRAMENTO DE NOSSA SENHORA,Foro de comarca
+8,5,154,LUIS EDUARDO MAGALHÃES,Foro de comarca
+8,5,155,MACARANI,Foro de comarca
+8,5,156,MACAÚBAS,Foro de comarca
+8,5,157,MACURURÉ,Foro de comarca
+8,5,158,MAIRI,Foro de comarca
+8,5,159,MALHADA,Foro de comarca
+8,5,160,MARACÁS,Foro de comarca
+8,5,161,MARAGOGIPE,Foro de comarca
+8,5,162,MARAÚ,Foro de comarca
+8,5,163,MARCIONÍLIO SOUZA,Foro de comarca
+8,5,164,MATA DE SÃO JOÃO,Foro de comarca
+8,5,165,MEDEIROS NETO,Foro de comarca
+8,5,166,MIGUEL CALMON,Foro de comarca
+8,5,167,MILAGRES,Foro de comarca
+8,5,168,MONTE SANTO,Foro de comarca
+8,5,169,MORPARÁ,Foro de comarca
+8,5,170,MORRO DO CHAPÉU,Foro de comarca
+8,5,171,MUCUGÊ,Foro de comarca
+8,5,172,MUCURI,Foro de comarca
+8,5,173,MUNDO NOVO,Foro de comarca
+8,5,174,MURITIBA,Foro de comarca
+8,5,175,MUTUÍPE,Foro de comarca
+8,5,176,NAZARÉ,Foro de comarca
+8,5,177,NILO PEÇANHA,Foro de comarca
+8,5,178,NORDESTINA,Foro de comarca
+8,5,179,NOVA CANAÃ,Foro de comarca
+8,5,180,NOVA FÁTIMA,Foro de comarca
+8,5,181,NOVA SOURE,Foro de comarca
+8,5,182,NOVA VIÇOSA,Foro de comarca
+8,5,183,OLINDINA,Foro de comarca
+8,5,184,OLIVEIRA DOS BREJINHOS,Foro de comarca
+8,5,185,PALMAS DE MONTE ALTO,Foro de comarca
+8,5,186,PALMEIRAS,Foro de comarca
+8,5,187,PARAMIRIM,Foro de comarca
+8,5,188,PARATINGA,Foro de comarca
+8,5,189,PARIPIRANGA,Foro de comarca
+8,5,190,PAU BRASIL,Foro de comarca
+8,5,191,PAULO AFONSO,Foro de comarca
+8,5,192,PÉ DE SERRA,Foro de comarca
+8,5,193,PIATÃ,Foro de comarca
+8,5,194,PILÃO ARCADO,Foro de comarca
+8,5,195,PINDAÍ,Foro de comarca
+8,5,196,PINDOBAÇU,Foro de comarca
+8,5,197,PIRITIBA,Foro de comarca
+8,5,198,PLANALTO,Foro de comarca
+8,5,199,POÇÕES,Foro de comarca
+8,5,200,POJUCA,Foro de comarca
+8,5,201,PORTO SEGURO,Foro de comarca
+8,5,202,POTIRAGUÁ,Foro de comarca
+8,5,203,PRADO,Foro de comarca
+8,5,204,PRESIDENTE DUTRA,Foro de comarca
+8,5,205,PRESIDENTE JÂNIO QUADROS,Foro de comarca
+8,5,206,QUEIMADAS,Foro de comarca
+8,5,207,QUIXABEIRA,Foro de comarca
+8,5,208,REMANSO,Foro de comarca
+8,5,209,RETIROLÂNDIA,Foro de comarca
+8,5,210,RIACHÃO DAS NEVES,Foro de comarca
+8,5,211,RIACHÃO DO JACUÍPE,Foro de comarca
+8,5,212,RIACHO DE SANTANA,Foro de comarca
+8,5,213,RIBEIRA DO POMBAL,Foro de comarca
+8,5,214,RIO DE CONTAS,Foro de comarca
+8,5,215,RIO DO ANTÔNIO,Foro de comarca
+8,5,216,RIO REAL,Foro de comarca
+8,5,217,RODELAS,Foro de comarca
+8,5,218,RUY BARBOSA,Foro de comarca
+8,5,219,SANTA BÁRBARA,Foro de comarca
+8,5,220,SANTA CRUZ  CABRÁLIA,Foro de comarca
+8,5,221,SANTA INÊS,Foro de comarca
+8,5,222,SANTA LUZIA,Foro de comarca
+8,5,223,SANTA MARIA DA VITÓRIA,Foro de comarca
+8,5,224,SANTA RITA DE CÁSSIA,Foro de comarca
+8,5,225,SANTA TEREZINHA,Foro de comarca
+8,5,226,SANTALUZ,Foro de comarca
+8,5,227,SANTANA,Foro de comarca
+8,5,228,SANTO AMARO,Foro de comarca
+8,5,229,SANTO ANTÔNIO DE JESUS,Foro de comarca
+8,5,230,SANTO ESTEVÃO,Foro de comarca
+8,5,231,SÃO DESIDÉRIO,Foro de comarca
+8,5,232,SÃO DOMINGOS,Foro de comarca
+8,5,233,SÃO FELIPE,Foro de comarca
+8,5,234,SÃO FÉLIX,Foro de comarca
+8,5,235,SÃO FRANCISCO DO CONDE,Foro de comarca
+8,5,236,SÃO GABRIEL,Foro de comarca
+8,5,237,SÃO GONÇALO DOS CAMPOS,Foro de comarca
+8,5,238,SÃO JOSÉ DO JACUÍPE,Foro de comarca
+8,5,239,SÃO SEBASTIÃO DO PASSÉ,Foro de comarca
+8,5,240,SAPEAÇU,Foro de comarca
+8,5,241,SÁTIRO DIAS,Foro de comarca
+8,5,242,SAÚDE,Foro de comarca
+8,5,243,SEABRA,Foro de comarca
+8,5,244,SENHOR DO BONFIM,Foro de comarca
+8,5,245,SENTO SÉ,Foro de comarca
+8,5,246,SERRA DOURADA,Foro de comarca
+8,5,247,SERRA PRETA,Foro de comarca
+8,5,248,SERRINHA,Foro de comarca
+8,5,249,SERROLÂNDIA,Foro de comarca
+8,5,250,SIMÕES FILHO,Foro de comarca
+8,5,251,SOBRADINHO,Foro de comarca
+8,5,252,SOUTO SOARES,Foro de comarca
+8,5,253,TANHAÇU,Foro de comarca
+8,5,254,TANQUE NOVO,Foro de comarca
+8,5,255,TAPEROÁ,Foro de comarca
+8,5,256,TEIXEIRA DE FREITAS,Foro de comarca
+8,5,257,TEODORO SAMPAIO,Foro de comarca
+8,5,258,TEOFILÂNDIA,Foro de comarca
+8,5,259,TERRA NOVA,Foro de comarca
+8,5,260,TREMEDAL,Foro de comarca
+8,5,261,TUCANO,Foro de comarca
+8,5,262,UAUÁ,Foro de comarca
+8,5,263,UBAÍRA,Foro de comarca
+8,5,264,UBAITABA,Foro de comarca
+8,5,265,UBATÃ,Foro de comarca
+8,5,266,UIBAÍ,Foro de comarca
+8,5,267,UNA,Foro de comarca
+8,5,268,URANDI,Foro de comarca
+8,5,269,URUÇUCA,Foro de comarca
+8,5,270,UTINGA,Foro de comarca
+8,5,271,VALENÇA,Foro de comarca
+8,5,272,VALENTE,Foro de comarca
+8,5,273,VÁRZEA DO POÇO,Foro de comarca
+8,5,274,VITÓRIA DA CONQUISTA,Foro de comarca
+8,5,275,WANDERLEY,Foro de comarca
+8,5,276,WENCESLAU GUIMARÃES,Foro de comarca
+8,5,277,XIQUE-XIQUE,Foro de comarca
+8,5,9000,TURMAS RECURSAIS,Turma Recursal

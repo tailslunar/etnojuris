@@ -1,0 +1,75 @@
+PROJEF WEB - Programa para Cálculos Judiciais Diversos
+Desenvolvido pelos Núcleos de Cálculos Judiciais e de Tecnologia da Informação da Justiça Federal do Rio Grande do Sul
+
+RESUMO DO CÁLCULO
+Processo: 1.33.008.000385/2007-13
+Autor: MINISTÉRIO PÚBLICO FEDERAL
+Réu:
+
+I - SUCUMBÊNCIA
+Descrição
+
+Total (R$)
+
+PRINCIPAL
+Total de Sucumbências ->
+
+1.100.127,64
+1.100.127,64
+
+II - TOTALIZAÇÃO
+Descrição
+
+Total (R$)
+
+SUBTOTAL DA CONTA (I)
+TOTAL DA CONTA EM 02/2018
+
+1.100.127,64
+1.100.127,64
+
+ATUALIZADO ATÉ FEVEREIRO/2018
+
+7 de fevereiro de 2018
+
+________________________________________________
+Cálculo elaborado por:
+
+Critérios e parâmetros do cálculo
+Juros moratórios: Não foram apurados.
+Parcelas: não foram apuradas
+Critério de correção monetária das sucumbências: Ações Condenatórias em Geral - Manual de Cálculos da JF (Edição 2013), ORTN (10/6402/86) OTN (03/86-01/89) IPC/IBGE (01/89-42,72% e 02/89-10,14%, expurgos) BTN (03/89-03/90) IPC/IBGE (03/90-02/91) INPC (03/91-11/91)
+IPCA-E (12/91) UFIR (01/92-12/00) IPCA-E (01/01-acumulado ano 2000) IPCA-E (mensal, de 01/2001 em diante) (contém expurgos - IPC/IBGE
+de 03/90 a 02/91).
+Honorários advocatícios: Não foram apurados.
+
+Gere novamente este cálculo usando o identificador 1d90772f - Página 1 de 2
+
+PROJEF WEB - Programa para Cálculos Judiciais Diversos
+
+DEMONSTRATIVO DE SUCUMBÊNCIAS
+
+Descrição
+PRINCIPAL
+
+Data
+08/97
+
+Principal
+303.000,00
+
+Coef. Correção
+Monetária
+3,63078430
+
+Total da Sucumbência =>
+
+Principal Corrigido
+(R$)
+1.100.127,64
+
+1.100.127,64
+
+Gere novamente este cálculo usando o identificador 1d90772f - Página 2 de 2
+
+

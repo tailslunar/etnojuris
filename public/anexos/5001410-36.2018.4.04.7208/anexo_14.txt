@@ -1,0 +1,5498 @@
+MINISTÉRIO DOS TRANSPORTES
+DEPARTAMENTO NACIONAL DE ESTRADAS DE RODAGEM
+DIRETORIA DE ENGENHARIA
+
+MINISTÉRIO DO EXÉRCITO
+SECRETARIA DE Cli':;NCIA E TECNOLOGIA
+INSTITUTO MILITAR DE ENGENHARIA
+
+CONVÊNIO DNER / IME
+
+Projeto de Ampliação da
+Capacidade Rodoviária
+entre São Paulo e Florianópolis
+(BR-116/SP/PR, BR-376/PR e BR-101/SC)
+
+Duplicação da Rodovia BR-101
+Garuva - Palhoça
+Santa Catarina
+
+Estudo de Impacto Ambiental- EIA
+VOLUME 2/2
+
+Julho/ 1995
+
+MINISTÉRIO DOS TRANSPORTES
+~
+
+DEPARTAMENTO NACIONAL DE ESTRADAS DE RODAGEM
+DIRETORIA DE ENGENHARIA
+
+MINISTÉRIO DO EXÉRCITO
+SECRETARIA DE CI~NCIA E TECNOLOGIA
+
+INSTITUTO MILITAR DE ENGENHARIA
+
+CONVÊNIO DNER I IME
+
+Projeto de Ampliação da
+Capacidade Rodoviária
+entre São Paulo e Florianópolis
+(BR-116/SP/PR, BR-376/PR e BR-101/SC)
+
+Duplicação da Rodovia BR-101
+Garuva - Palhoça
+Santa Catarina
+,~
+
+Estudo de Impacto Ambiental- ElA
+VOLUME 2/2
+
+Julho/1995
+
+ENCiEVIX
+
+EnGEVIX
+SUMÁRIO
+
+1 - Introdução
+
+1
+
+2 - Descrição do Empreendimento
+
+3
+
+2.1 - Identificação
+
+3
+3
+3
+
+2.1.1 - Denominação Oficial do Empreendimento
+2.1.2 -Identificação do Empreendedor
+
+3
+
+2.2 - Justificativas
+
+3
+5
+
+2.2.1 - Justificativas Técnico-econômicas
+2.2.2 - Justificativas Ambientais
+
+6
+
+2.3 - Descrição Técnica
+
+6
+7
+8
+13
+15
+
+2.3.1 - Introdução
+2.3.2 - Aspectos Geográficos
+2.3.3 - Pontos Notáveis
+2.3.4 - Estudos Básicos e Temáticos
+2.3.5 - Caracterlsticas da Rodovia
+3 - Aspectos da Legislação Ambiental
+
+34
+
+3.1 - Introdução
+3.2 - Legislação Constitucional
+3.3 - Legislação E:rtraconstitucional
+
+34
+
+35
+36
+
+36
+
+3.3.1 - Código Civil Brasileiro e Leis Complementares
+3.3.2 - Código de Águas e Legislação Subseqüente
+3.3.3 - Código Florestal e Legislação Correlata
+3.3.4 - Outros Dispositivos Legais
+
+37
+37
+38
+
+4 - Planos e Programas Governamentais
+
+43
+
+5 - Áreas de Influência
+
+48
+
+6 - Diagnóstico Ambiental
+
+49
+49
+
+6.1 - Área de Influência Indireta
+
+I
+
+EnGEVIX
+49
+
+6.1.1 - Meio Físico
+
+49
+54
+
+6.1.1.1 - Clima
+6.1.1.2 - Geologia
+6.1.1.3 - Geomorfologia
+6.1.1.4 - Recursos Hídricos
+6.1.1.5- Solos
+
+62
+
+71
+73
+80
+
+6.1.2 - Meio Biótico
+
+80
+
+6.1.2.1- Vegetação e Uso Atual das Terras
+6.1.2.2 - Fauna
+
+84
+
+95
+
+6.1.3 - Meio Sócio-Econômico
+
+95
+95
+
+6.1.3.1 - Introdução
+6.1.3.2- Sistemas de Transporte e Energia
+
+a. Geral
+
+95
+
+b. Sistema Rodoviário
+c. Sistema Ferroviário
+d. Sistema de Transmissão de Energia
+
+95
+98
+
+99
+101
+
+6.1.3.3 - Aspectos Sócio-Econômicos
+
+a. Geral
+
+101
+102
+
+b. Demografia
+c. Atividades Econômicas
+d. Infra-estrutura de Saúde
+e. Patrimônio Histórico e Arqueológico
+f. Áreas Indígenas
+
+6.2 - Área de Influência Direta
+6.2.1 - Introdução
+6.2.2 - Meio Físico
+
+a. Locais Suscetíveis à Erosão
+b. Principais Travessias de Corpos d'Água
+6.2.3 - Meio Biótico
+
+107
+114
+
+121
+142
+
+143
+143
+143
+143
+
+146
+152
+
+a. Cruzamento com Remanescentes da Vegetação Natural
+
+152
+
+b. Fauna Associada
+
+154
+11
+
+EnGEVIX
+6.2.4 - Sócio-Economia
+a. Interferência com Populaçio Indígena
+b. Interferência com Área de Ocupaçio Urbana
+c. Cruzamentos com Rodovias e Ferrovias
+d. Cruzamentos com Linhas de Transmissio
+6.2.5 - Estruturas de Apoio
+6.2.5.1 - Pedreiras
+6.2.5.2 - Jazidas de Solo
+6.2.5.3 - Jazidas de Areia
+6.2.5.4 - Canteiros de Obras
+7- Avaliaçio dos Impactos Ambientais e Proposiçio de Medidas
+7.1 - Introduçio
+7.1.1 - Conhecimento do Projeto e Seleçio das Ações Programadas
+7.1.2- Disguóstico das Áreas de Influência e Seleçio dos Componentes Ambientais
+7.1.3- Elaboraçio da Matriz de Impacto
+
+157
+157
+
+158
+161
+162
+163
+163
+167
+169
+169
+171
+171
+171
+171
+172
+
+7.2- Identificaçio e Classificaçio dos Impactos
+
+172
+
+7.3- Análise dos Impactos e Proposiçio de Medidas
+
+174
+
+8. Programas Ambientais
+8.1 - Introduçio
+8.2 - Programa de Comunicaçio Social
+8.3 - Programa de Saúde da Mio-de-Obra
+8.4 - Programa de Investigações Arqueológicas
+8.5 - Programa de Apoio à Área Indlgena
+8.6 - Programa de Controle dos Processos Erosivos
+8.7- Programa de Recuperaçio das Áreas Degradadas
+8.8 - Programa de Monitoramento
+9 - Prognósticos
+9.1 - A Regilo Sem o Empreendimento
+9.2 - A Regiio Com o Empreendimento
+
+210
+210
+210
+211
+212
+213
+213
+215
+216
+219
+219
+220
+
+10 - Bibfiografia
+
+222
+
+11 -Equipe Técnica
+
+229
+
+m
+
+ENGEVIX
+230
+
+ANEXO - Desenhos
+Mapa de Geologia
+Mapa de Geomorfologia
+Mapa de Solos
+Mapa de Vegetaçlo e Uso Atual das Terras
+Mapa Esquemático de Pontos Notáveis
+
+IV
+
+EnGEVIX
+6.2. Área de Influência Direta
+
+6.2.1. Introdução
+
+Procurou-se definir, do ponto de vista ambiental, o conjunto de áreas afetadas e pontos notáveis,
+ao longo da faixa a ser duplicada, considerando esse conjunto como a Área de Influência Direta
+do empreendimento.
+
+Em relação à sócio-economia, foi considerada como Área de Influência Direta, a faixa de 60m, já
+pertencente ao Departamento Nacional de Estradas de Rodagem - DNER, dentro da qual será
+implantada a nova pista e o seu entorno imediato.
+
+Dessa forma, ainda em relação à sócio-economia, a análise baseou-se no que se pode chamar de
+aspectos sociais, entendendo-se por isso, especialmente, a questão populacional e as atividades
+econômicas ali desenvolvidas.
+
+Na realidade, a Área de Influência Direta já foi objeto de macroanálise, quando do Diagnóstico
+Ambiental da Área de Influência Indireta, da qual ela é parte integrante, já se dispondo, portanto,
+de uma visão geral do seu comportamento ambiental.
+
+Apresentam-se, a seguir, os principais pontos considerados notáveis, agrupados por sua natureza
+e interferências com a BR-1 01.
+
+6.2.2. Meio Físico
+
+a. Locais Suscetíveis a Erosão
+
+Como o atual traçado da rodovia BR-101, em Santa Catarina, no trecho a ser duplicado entre
+Garuva e Palhoça, desenvolve-se em sua maior extensão (mais de 700/o) sobre terras baixas da
+planície flúvio-marinha, com relevo plano e sensibilidade a erosão praticamente nula, a atenção
+143
+
+EnGEVIX
+quanto aos locais com probabilidade de ocorrência desses processos, a partir da implantação do
+empreendimento, restringe-se a pequenos trechos de relevo forte ondulado ou mais movimentado,
+aliado a solos rasos e pedregosos ou mesmo afloramentos de rocha, representados, no mapa
+esquemático de pontos notáveis.
+
+Tal situação concentra-se no trecho inicial das obras previstas, entre a divisa com o Estado do
+Paraná (Km O) e o cruzamento com o rio Cubatão (Km 28), a norte de Joinville, onde foram
+registrados, durante as observações de campo, três focos de deslizamentos ativos.
+
+Além desse trecho, foram registrados ainda, durante a inspeção de campo, diversos pontos
+isolados onde as pistas atuais transpõem ou margeiam pequenas elevações, onde não foram
+~,
+
+observados processos erosivos em atividade, mas sim a grande probabilidade de sua ocorrência a
+partir de intervenções como o corte de taludes.
+
+O Quadro 6.2.2-1, a seguir, enumera os locais considerados de maior suscetibilidade a erosão,
+incluindo aqueles em que os processos já se encontram ativos, localizando-os e caracterizando
+suas principais condicionantes.
+
+144
+
+EnGEVIX
+~lJi\])ll()
+
+6.2.2-1
+
+LOCAIS SlJSCETÍVEIS À EllOSÃO
+
+KM
+3.0
+
+OBSERVAÇAO
+Escorregamento Ativo
+
+17.5
+30.0
+
+12.2
+
+12.2
+
+12.5
+
+14.0
+
+17.0
+17.4
+19.1
+19.4
+
+I
+
+CARACTERISTICAS
+Talude W da estrada; 8 m de altura; declividade de 60%;
+Cambissolo cascalhento; Mata Secundária em regeneração
+média.
+Escorregamento Ativo
+Talude W da estrada; 13 m de altura; declividade de 80%;
+Podzólico pouco profundo· vegetação herbácea secundária.
+Escorregamento Ativo
+Talude W da estrada; 10m de altura; declividade de 60%;
+Podzólico pouco profundo; Mata Secundária em
+regeneração inicial.
+Area com alto potencial Elevação à L da estrada, declividade de 25% a 60"/o;
+erosivo
+Cambissolos, Litólicos e Afloramentos Rochosos;
+Ipastagem e capões de Mata Secundária.
+Area com alto potencial Elevação à L da estrada, declividade de 40"/o; Cambissolos
+erosivo
+e Podzólicos rasos. Vegetação em regeneração inicial
+I(macega).
+Area com alto potencial L e W da estrada; declividade de 40"/o a 80%; Cambissolos
+erosivo
+e Litólicos cascalhentos; pasto e capões de Mata
+Secundária em estágios inicial e médio de regenerações.
+Area com alto potencial L e W da estrada; declividade de 40% a 60%; Litólicos e
+erosivo
+Afloramentos Rochosos; Mata Secundária em regeneração
+média a avançada.
+Area com alto potencial W da estrada; declividade de 10% a 25%; Podzólicos;
+erosivo
+Mata Secundária em regeneração média.
+Area com alto potencial W da estrada; declividade de 40"/o a 70%; Cambissolos e
+erosivo
+Podzólicos· Capoeira rala e pasto.
+Area com alto potencial W da estrada; encosta íngreme com Afloramentos de
+erosivo
+Igranito com pouca cobertura vegetal.
+Area com alto potencial W da estrada; encosta íngreme com Afloramentos de
+erosivo
+Igranito com pouca cobertura vegetal.
+
+Além dos locais enumerados no quadro acima, todos às margens da rodovia, atenção especial
+deve ser também dispensada às áreas de obtenção dos materiais de empréstimo (brita, argila e
+areia), identificadas no mapa esquemático de pontos notáveis.
+
+145
+.~.
+
+.
+
+ENGEVIX
+A maior parte das pedreiras, caixas de empréstimo e areais a serem utilizados para as obras de
+duplicação da BR-101 já são no presente momento, ou foram num passado próximo, exploradas
+comercialmente.
+
+Todas essas áreas deverão fazer parte do Programa de Recuperação de Áreas Degradadas, à
+medida que for terminando a exploração.
+
+b. Principais Travessias de Corpos d'Água
+
+Nesse item são analisadas as travessias de cursos d'água (bueiros, canais e rios) atravessados pela
+rodovia.
+
+O projeto de duplicação da BR-101, levou à redefinição das redes de drenagem atravessadas nas
+áreas urbanas englobando algumas pontes e principalmente, bueiros.
+
+O primeiro projeto de redefinição de drenagem é de 1989, tendo sido parcialmente reformulado
+em 1995.
+
+Os bueiros deverão operar livremente como canal, para uma vazão de projeto de TR = 15 anos, e
+trabalhando afogado com vazão de TR = 25 anos, adotando-se afogamento máximo de duas vezes
+o diâmetro. A dimensão mínima adotada foi de 4> 0,80 m .
+
+Todos os bueiros existentes foram inspecionados, com a finalidade de saber se deveriam ser
+substituídos (dependendo de seu estado de conservação e diâmetro), recolocados (quando havia
+inclinação negativa, provocando retenção de sedimentos e portanto diminuição do vão livre),
+desobstruídos ou se deveriam ser acrescentados mais bueiros para aumentar a capacidade de
+vazão.
+
+No Quadro 6.2.2-2 são apresentados os rios a serem transpostos pela duplicação da rodovia,
+~
+
+considerando-se a divisa PR/SC como km O.
+146
+
+EnGEVIX
+QUADRO 6.2.2-2
+PRINCIPAIS TRAVESSIAS DE CORPOS D'ÁGUA.
+RIOS
+
+.. ''
+........
+
+km
+
+RioLagoão
+
+1,0
+
+Rio Garuva
+
+3,0
+
+Rio Orquldea
+
+4,0
+
+Rio Bracinho
+
+4,6
+
+Rio do Braço
+
+5,8
+
+Rio das Antas
+
+7,5
+
+Rio das Onças
+
+8,0
+
+Rio Sete Voltas
+
+8,3
+
+Rio Cupim
+
+11
+
+Rio Três Barras
+
+14,0
+
+Rio Turvo
+
+15,4
+
+Rio Pirabeiraba
+
+20,4
+
+Rio Canela
+
+24,1
+
+Rio Cubatão
+
+26,4
+
+Ribeirão das Cordas
+
+66,0
+
+Rio Itapocu
+
+80
+
+Rio Piçarras
+
+99,0
+
+Rio Lagoa
+
+103,8
+
+Rio Itajal·açu
+
+112
+
+Canal do rio Itajal·mirim
+
+119,5
+
+Rio Itajal·mirim
+
+122,4
+
+Rio Canhanduba
+
+123,5
+
+Rio Camboriú
+
+135,5
+
+Rio Bela Cruz
+
+147,3
+
+RioPerequê
+
+152,2
+
+Rio Santa Luzia
+
+160,7
+
+RioTijucas
+
+164
+
+RioBiguaçú
+
+197,0
+
+147
+
+EnGEVIX
+Os rios de maior porte serão atravessados em áreas em que predonúnam depósitos sedimentares,
+fluviais e marinhos, com exceção do rio Cubatão, que no trecho em que é atravessado pela BR1O1, está instalado sobre sedimentos colúvio-aluvionares.
+
+No trecho inicial da área de estudo, do rio Lagoão ao rio Cubatão, a elevada dinâmica fluvial
+desses cursos d'água reflete-se sobre a composição das taxocenoses aquáticas, deternúnando a
+presença exclusiva de espécies de pequeno porte e de distribuição restrita a regiões com alta
+energia hidrodinâmica
+
+Dentro
+
+dessas
+
+unidades
+
+podem
+
+ser
+
+destacadas
+
+espécies
+
+pertencentes
+
+aos
+
+gêneros
+
+Hemispsi/ichthys, Trichomyterus e Heptapterus.
+
+Depois do rio Cubatão, a BR-10 1 atravessa a região de J oinville, cruzando pequenos rios de urna
+a duas dezenas de metros em terrenos predominantemente planos formados por depósitos
+sedimentares do terciário e quaternário, e também por relevo suavemente ondulado.
+O próximo rio de maior porte atravessado, é o rio Itapocú, que tem área de 2930 km2,
+localizando-se na região leste de Santa Catarina, entre os paralelos 26°10' e 26°44 ', de latitude sul
+e os meridianos 48°41' e 49"30' de longitude oeste.
+
+Ao norte linúta-se com a bacia do rio Cubatão, a oeste com a bacia do rio Preto e a sul com a
+~
+
+bacia do rio Itajai-Açu.
+
+Seu eixo principal desenvolve-se em sentido leste-oeste, com bacia em forma de leque
+desaguando no Oceano Atlântico.
+
+O rio Itapocu tem suas nascentes na serra do Jaraguá em altitude superior a I 000 m, tendo corno
+seus principais afluentes na margem esquerda os rios ltapocuzinho e Piraí, e na margem direita os
+rios Jaraguá e Putanga.
+
+148
+
+EnGEVIX
+O alto curso supenor do rio Itapocú e também de seus afluentes, Itapocuzinho e Jaraguá,
+desenvolve-se em terrenos de forte declividade, com vales profundos, saltos e corredeiras com
+declividade de cerca de 6 mlkm.
+
+O regime do rio Itapocú não apresenta grande variação de descarga ao longo do ano, com o
+máximo ocorrendo nos meses de janeiro a março, coincidindo com as maiores precipitações.
+
+O local da travessia é próximo ao litoral em área formada por sedimentos recentes depositados
+por rios e também por erosão dos morros próximos.
+
+Os solos predominantes, próximo ao ponto de travessia, seguem uma seqüência de Aluviais e
+Gleissolos, nos terraços fluviais mais recentes, e Coluviais e Cambissolos rasos e cascalhentos nas
+encostas adjacentes, sem remanescentes da Mata Ciliar, hoje substituída por campos de arroz e
+pasto na várzea.
+
+A ictiofauna desse sistema fluvial é essencialmente composta por espécies de pequeno e médio
+porte. Dentre essas, se destacam Cyphocharox sanctacatarinae, Geophagus brasiliensis e
+
+Hoplias malabaricus, por serem ocasionalmente consumidas pela população ribeirinha. A maior
+taxa de endemismo é observada na fauna presente nas cabeceiras das drenagens integrantes dessa
+bacia.
+
+Após o rio ltapocú, a BR-101 cruza o ribeirão do Machado, rio Itajubá, Piçarras, Lagoa do
+Furado e penetra no vale do rio Itajai.
+
+O rio Itajai-Açu tem quatro grandes afluentes: os rios ltajai do Norte ou Hercilio, ltajai do Oeste,
+Itajai do Sul e ltajai-Mirirn. Todos com suas nascentes em locais elevados, acima de 1000 m e
+apresentando seu curso superior com vales profundos, corredeiras e quedas, com declividades
+entre 4 e 5 mlkm.
+
+O regime do rio Itajai-Açu apresenta pouca variação ao longo do ano, com as descargas máximas
+ocorrendo nos meses de setembro-outubro e fevereiro-março.
+149
+
+EnGEVIX
+No local da travessia do rio Itajaí, os terrenos são formados por sedimentos recentes de origem
+fluvial e por depósitos oriundos dos morros mais próximos.
+
+Próximo ao ponto de travessia o traçado desenvolve-se no sentido norte-sul, sobre Cambissolos
+argilosos, aínda ocupados por capoeira da Floresta Ombrófila Densa Submontana, em variados
+estágios de desenvolvimento; junto ao rio dominam solos Aluviais, numa faixa que não ultrapassa
+~
+
+os 500 m na margem esquerda, e 200 m na margem direita, com pastagem e raros remanescentes
+de Mata Ciliar, isolados em pequenas manchas.
+
+O complexo do rio Itajaí reúne elevada diversidade ictiofaunística, refletindo o maior porte desse
+sistema fluvial. No canal principal ocorrem taxa de maiores portes, sendo Rhamdia sp.,
+
+Geophagus brasiliensis, Cyphocharax sanctacatarinae e Astyanax bimaculatus freqüentemente
+capturados em atividades de pesca.
+
+Depois do rio Itajai, a BR-101 cruza o canal do rio Itajai-Mirim e mais a seguir o próprio rio
+ltajai-Mirim. Esse canal foi construído para aumentar a velocidade de vazão do rio Itajai-Mirim
+em uma área em que este atravessa terrenos planos ocupados por agricultura e áreas urbanas.
+
+~
+
+Depois do rio Camboriú, mais ao sul, são atravessados pequenos rios como o rio da Mata de
+Camboriú, Fabricio, Areal e Perequê. Esses são rios de pequenos porte, em que predominam
+espécies do gênero Hemipsilichthys e Trichomyterus.
+A bacia do rio Tijucas drena uma área de 2420 km2 , localizando-se na região leste de Santa
+Catarina, entre os paralelos 27"09' e 27"48' de latitude sul e os meridianos 48"39' e 49"16' de
+longitude oeste.
+
+Seu limite norte é dado pelas bacias dos rios Camboriú e Itajai-Mirim. A oeste pelas bacias dos
+rios Itajai-Mirim e Itajai do Sul e ao sul pelas bacias dos rios Biguaçu, Cubatão e Tubarão. Seu
+eixo principal desenvolve-se de sudoeste para nordeste, até a cidade de São João Batista, de onde
+se dirige para leste, indo desaguar no oceano junto à cidade de Tijucas.
+150
+
+EnGEVIX
+O rio Tijucas nasce na confluência dos rios Engano e Garcia, que tem suas nascentes nas Serras
+dos Faxinais e Boa Vista, respectivamente. O rio Tijucas tem como principais afluentes os rios
+Esperança, Alto Braço, Moura e Oliveira.
+
+No local em que a BR-101 cruza o rio Tijucas, o rio apresenta leito formado predominantemente
+por depósitos sedimentares recentes de origem marinha. AS espécies de peixe de ocorrência mais
+comum são do gênero Centropomus, lJugil, Anchoa e Micropogonias e bagres da famllia
+
+Ariidae.
+
+No rio Tijucas, as maiores vazões ocorrem nos meses de julho e agosto e as menores no mês de
+~
+
+abril, nos outros meses, a variação é pequena.
+
+A seqüência de solos dominantes no vale do rio Tijucas, em ambas as margens, corresponde a
+Podzólicos, nos terços médio e superior das elevações; Coluviais e Cambissolos, no terço inferior;
+~
+
+e Gleissolos e Aluviais na várzea.
+
+151
+
+EnGEVIX
+6.2.3. Meio Biótico
+
+a. Cruzamento com Remanescentes da Vegetação Natural
+
+A região localizada dentro dos limites de influência direta das obras de expansão da BR-1 O1
+encontra-se hoje predominantemente descaracterizada, com amplo domínio de formações
+campestres, compostas essencialmente por espécies herbáceas invasoras, principalmente
+gramíneas, e sobre solos preferencialmente ácidos. Encontram-se ainda macegas, notadamente em
+locais em que o solo guarda pequena reserva de nutrientes e onde se vêem espécies de grande
+capacidade de dispersão e de reprodução.
+
+Ao longo dos estudos de campo, foram analisadas doze manchas de mata situadas dentro dos
+limites..lk.influ.Çnçia diret-ª-das obras de expansão da BR-101 (ver mapa de pontos notáveis), as
+quais constituem a maior parte da vegetação florestal existente neste trecho da BR-101.
+
+~
+
+Foi constatada a existência de três ecossistemas vegetais em diferentes estados de regeneração.
+
+'
+
+(
+
+\JDCr ~~
+'
+
+í
+
+O primeiro grupamento é composto essencialmente por espécies silvestres preexistentes
+mescladas com espécies provenientes de outras formações vegetais presentes em áreas
+circunvizinhas, caracterizando um estado inicial de regeneração. Trata-se de um conjunto
+florístico que, se não perturbado, prosseguirá seu crescimento , viabilizando o progressivo
+acréscimo de espécies procedentes de matas adjacentes. Na região estudada, fàzem parte do andar
+superior da vegetação, principalmente, a embaúba e o guapuruw, ambas espécies pioneiras e
+bastante comuns nessa formação. Além destas, ocorre, ainda, o alecrim. Tais formações
+encontram-se bordeadas por uma samambaia que, segundo Rizzini (1962) exibe elevado potencial
+biótico e capacidade de comprometer a manutenção das formas vegetais associadas. Nesses
+locais, o solo mostra-se relativamente seco e coberto por delgada camada de serrapilheira, com
+profundidade máxima de 5 em. Neste grupo, incluem-se as manchas de mata 6 e 12.
+
+O segundo grupamento, representativo das áreas em estado intermediário de regeneração se
+desenvolve naquelas com maior umidade no solo, incluindo as manchas de mata 1,2,3,4, e 11.
+152
+
+EnGEVIX
+Nesses locais, a camada de serrapilheira apresenta profundidades variáveis, tendo sua maior
+espessura nas formações mais densas, com cerca de I O em. A representatividade das lianas é
+nitidamente superior à verificada no primeiro conjunto florístico analisado, havendo urna
+correlação positiva desta variável com as alterações no número de epífitas. A composição do
+estrato arbóreo mostra-se igualmente mais diversificada, com uma mescla florística na qual se
+incluem também espécies igualmente observáveis nos outros conjuntos.Constata-se, portanto,
+nítido aumento na diversidade biológica.
+
+As unidades cujas características gerais assemelham-se às descritas como "nível avançado de
+regeneração" pela resolução CONAMA utilizada com base para o presente estudo, manchas de
+mata 5, 7, 8, 9 e I O, exibem urna composição de espécies bastante variáveL Apresentam subbosque composto plãntulas de espécies arbustiva e arbórea, além de gravatàs, samambaias, araçàs,
+gramíneas e cipós, cujas densidades variam de acordo com as condições locais.
+
+De destaque são as epífitas que ocorrem em grande número, dispostas em diferentes níveis nos
+galhos das árvores. São principalmente bromeliáceas, orquidáceas, aráceas e cactáceas. Lianas são
+igualmente freqüentes, como também begônias, samambaias e aráceas trepadeiras.
+
+A alta biodiversidade dessas formações e o nível evolutivo mais elevado denotam maior
+estabilidade geral do sistema ambiental.
+
+Ressalta-se a ocorrência de formações pioneiras flúvio-marinhas (manguezais) próximo à Área de
+Influência Direta, sendo particularmente evidente nas margens do rio Camboriú.
+
+A esses complexos florísticos sorna-se, ainda, uma formação de mata paludial, entremeada por
+campos alagados, situada próxima ao km 130 da BR-I 01. Dentro da faixa de domínio da rodovia,
+estão distribuídas formas herbáceas, ciperáceas e gramíneas.
+
+I 53
+
+EnGEVIX
+b. Fauna Associada
+
+Os estudos de campo demonstraram um padrão geral coincidente na distribuição da
+biodiversidade da mastofauna (mamlferos) e da omitofauna (aves), havendo, em ambos os casos,
+decréscimo na diversidade biológica, seguindo o sentido sul. Como previamente relatado na
+descrição da Área de Influência Indireta, esse aspecto reflete nitidamente a redução de áreas
+nativas e a substituição das mesmas por formações campestres. Conseqüentemente, foi
+observado, para ambos os complexos, a expansão ocupacional de populações de grupos que se
+adaptam ao meio ambiente modificado pelo homem, ou característicos de formações abertas.
+
+No caso particular dos mamlferos, as informações obtidas durante o trabalho de campo
+demonstraram a ampla dominância, em termos de ocupação espacial, de grupos com alta valência
+ecológica, sendo mais comuns, ao longo de todo o traçado da BR-IO I, as seguintes espécies:
+tatu-peba, tatu, cachorro-do-mato, cutia, tatu-de-rabo-mole, gambá, gambá-de-orelha-preta, tapiti
+e diversas espécies de roedores. Nas cidades localizadas ao longo da rodovia encontram-se,
+ainda, espécies tipicamente adaptadas aos meios modificados, favorecidas, portanto, pela
+urbanização, tais como diferentes tipos de ratos, igualmente registradas em áreas camPestres
+próximas às cidades.
+"~
+
+Em todas as áreas remanescentes com estágio médio de regeneração e com comprimento
+longitudinal maior que 200 metros, ao longo da BR-1 OI, foram registradas as seguintes espécies:
+preá, cutia, tatu-de-rabo-mole, gambá, gambá-de-orelha-preta, tapiti, cuíca, quati, furão, tatupeba, tatu, cachorro do mato, cutia, cuíca-verdadeira, ouriço-cacheiro e tamanduá-mirim. Em
+formações florestais no mesmo nivel de sucessão, porém com pequenas dimensões (inferiores a
+100 metros) a diversidade faunistica mostrou-se mais reduzida, reunindo apenas preá, cutia, tatude-rabo-mole, gambá, gambá-de-orelha-preta, tapiti, cotia e cuíca. Alguns moradores da região,
+quando entrevistados, relataram ainda a ocorrência de lobo-guará
+
+em áreas abertas e em
+
+capoeiras.
+
+As formações florestais localizadas ao longo da BR-101, cujas características gerais se aproximam
+
+do nivel avançado de regeneração, exibem maior variedade da mastofauna, quando sua extensão é
+154
+
+EnGEVIX
+superior a 200 metros. Nestas, foram registradas, em entrevistas com a população local, espécies
+ameaçadas de extinção, tais como gato-do-mato, bugio, que, como a irara, são também
+características das formações florestais em estágio intermediário de regeneração. Complexos
+florestais em nível avançado de regeneração, porém com áreas reduzidas, abrigam uma fauna
+similar a de florestas em estágio intermediário de regeneração.
+~.
+
+Nas formações de matas ribeirinhas identificadas no trecho inicial das obras, kms O a 20, ocorrem
+espécies características, tendo sido registrada a presença, nesses locais da lontra (Lutra
+longcauda), espécie ameaçada de extinção. As áreas de baixada adjacentes às bacias de outros
+
+rios, tais como ltapocu e Itajai-Mirim, foram assinaladas pela população local como áreas de
+ocorrência de capivaras, as quais, contudo, não foram registradas na Área de Influência Direta.
+Considerando o número esperado de espécies ocorrentes na região e o total inventariado,
+constatou-se o forte impacto já ocorrido sobre a fauna de mamíferos da região, o qual alterou, a
+um nível estatisticamente signíficativo, a riqueza desse segmento faunístico.
+
+Mesmo admitindo que algumas espécies, notadamente de roedores, não tenham sido incluídas
+nessa análise, a descaracterização ambiental da região pode ser igualmente verificada pela
+ausência de animais de maior porte, tais como a onça e outros felinos, denotando uma limitação
+do ambiente ao suporte desses grupos e, dessa forma, uma expressiva redução na integridade
+ambiental da área como um todo.
+
+Pode-se constatar a formação de cinco grupos ecológicos representativos de áreas com pequenas
+dimensões, de matas em estádio inicial de regeneração, de áreas com maior diversidade faunística
+e complexos intermediários.
+
+Foram observadas, ao longo dos estudos de campo, 174 espécies de aves. Considerando as
+preferências de ocupação das distintas espécies, constatou-se a alta freqüência de grupos de aves
+típicos de ambientes abertos, tais como campos e pastagens, que ocupam a maior parte do
+traçado. Neste grupamento, destacam-se: carrapateiro, carcará, araquã, quero-quero, rolinha, •
+~
+
+picuí, asa-branca, avoante,
+
+jurit~
+
+gemedeira, jutiri-pupu, anu-preto, anu-branco,
+
+sac~
+
+coruja
+
+ISS
+
+EnGEVIX
+buraqueira,
+
+bacurau-tesoura,
+
+pica-pau-do-campo,
+
+tesourinha, bem-te-vi. sabiá-do-campo,
+
+andorinhão
+
+pardal. tico-tico,
+
+de
+
+coleira,
+
+bico-de-lacre,
+
+João-de-barro,
+
+urubu-de-cabeça-
+
+vermelha, coruja, sanhaço-cinzento, tsiu, sabiá-laranjeira, canário-do-campo, vira-bosta e tipiu.
+Complexos de matas de pequeno porte ou em estágios iniciais de regeneração exibem grupos de
+aves similares aos observados nas áreas campestres.
+
+Os campos de rizicultura, situados em áreas adjacentes ao empreendimento, atuam como áreas de
+atração para diversas aves. A1l espécies mais comuns observadas durante os trabalhos de campo
+são, em sua maioria, grupos de regiões alagadas como garça, jaçanã, quero-quero, patos e
+
+marrecos.
+
+A1l matas secundárias em estágio intermediário de regeneração abrigam uma ornitofauna
+relativamente diversificada, principalmente nas formações florestais localizadas próximos a
+Garuva (áreas com melhores condições de integridade ambiental), onde foi, inclusive, registrada a
+ocorrência de macuco (Tinamus solitarius), uma espécie ameaçada de extinção. Em todos os
+complexos com essas características, foram registrados: alma-de-gato, tucano-de-bico-verde,
+chupa-dente, trinca-ferro, maritaca, periquito, cambaxirra, tico-tico, curruira, garibaldo, inambuxitã,
+
+juriti-pupu,
+
+gavião-carijó,
+
+gavião-de-rabo-pequeno,
+
+tico-tico-do-mato,
+
+trinca-ferro,
+
+juntamente com pula-pula e japim, e alegrinho, os três últimos particularmente comuns nas bordas
+de mata.
+
+Nos trechos adjacentes aos rios, registra-se a presença de aves de áreas alagadas como garças,
+jaçanã e Maria-faceira.
+
+Foram inventariadas
+
+47
+
+espécies de peixes, tendo-se reunido um conjunto faunistico
+
+característico da região zoogeográfica do leste brasileiro. Não houve comprometimento da
+riqueza deste segmento faunistico na região, o que atesta a manutenção qualitativa da
+biodiversidade aquática, apesar das alterações ambientais sofridas pelos sistemas hídricos locais.
+
+156
+
+EnGEVIX
+O rio Cubatão (de serra) destaca-se por apresentar alto nível de espécies de aves características
+do próprio rio, com reduzida tolerância às alterações ambientais. Já os rios Itapucu e Itajai-núrim
+posuem aves típicas de baixadas aluviais.
+
+Encontram-se ainda, diversas espécies de répteis, destacando-se, por sua elevada freqüência a
+cobra-de-vidro e o calango. Destaca-se, ainda, a ocorrência de espécies de cobras peçonhentas no
+local, notadamente de cobra-coral e jararaca.
+
+A análise dos resultados apontou, como região de maior restrição ambiental, sob o ponto de vista
+da fauna, o trecho localizado entre a divisa com o Estado do Paraná e proximidades da cidade de
+Garuva. Neste setor, embora as manchas de vegetação junto à BR-101 não sejam mais originais,
+nelas são ainda encontradas espécies da fauna características da vegetação primária com alto grau
+de biodiversidade, influenciada pelos complexos florestais adjacentes. Estes atuam como fontes de
+espécies e aumentam a capacidade de suporte daqueles sistemas que, possivelmente, consistem
+em áreas de circulação da fauna.
+
+Considerando a ictiofauna (peixes), foi observado padrão similar, isto é, espécies exclusivas de
+cursos d'água próximos, pouco alterados, são ainda encontradas na área de Influência Direta.
+
+6.2.4. Sócio-Economia
+
+a. Interferência com População Indígena
+
+No munícipio de Biguaçu, às margens da BR-101, está localizada a Área Indígena Manguaçu,
+cuja aldeia encontra-se no km 190. Esta área ainda não está demarcada, tendo sido realizado, em
+
+final de 1994, levantamento para dar início ao seu processo de legalização. Segundo informações
+prestadas pelos próprios índios, a área tem 35 ha. Habitada pelo grupo índígena Guaraní, sua
+população é de 27 pessoas, dístribuídas em quatro famílias. Ocupam o local há I O anos, e são
+oriundos da AI Morro dos Cavalos, localizada no município de Palhoça.
+
+157
+
+EnGEVIX
+Os Guarani plantam milho, feijão e mandioca, principalmente para consumo, e o pequeno
+excedente é comercializado à beira da rodovia. Vendem também, na rodovia, peças de artesanato
+e o produto de atividades extrativas (jabuticabas). Outra fonte de renda da comunidade são os
+~
+
+pequenos biscates feitos nas fazendas vizinhas.
+
+Como são dependentes da BR-101 para obtenção de renda, uma reivindicação da comunidade é a
+construção de um posto de venda à margem da estrada para facilitar a comercialização.
+Queixam-se, ainda, da dificuldade em atravessar a estrada para chegar ao litoral, onde existe
+mercado para seu artesanato. Uma outra dificuldade que a comunidade vem encontrando é a
+impossibilidade de efetuar desmatamentos para aumentar sua área de plantio.
+
+b. Interferência com Área de Ocupação Urbana
+
+A BR-101, no trecho considerado, é um importante eixo rodoviário e, desta forma, ao longo da
+rodovia, foram se desenvolvendo áreas de ocupação urbana, ainda que de forma desigual. Estas
+áreas concentram-se mais nas proximidades dos centros urbanos servidos pela estrada.
+
+A maior concentração está no trecho compreendido entre Biguaçu e Palhoça, principalmente nas
+proximidades de Florianópolis. Esta é uma região que vem apresentando crescimento
+populacional nos últimos vinte anos, com um elevado grau de urbanização. Além disso, Biguaçu,
+São José e Palhoça vêm se caracterizando como áreas-dormitório de Florianópolis e, deste modo,
+têm surgido novas áreas de expansão urbana, especialmente com
+
+a população
+
+oriunda da área
+
+rural, ao longo das vias de acesso principais.
+
+As áreas ocupadas, aqui consideradas, têm uso predominantemente residencial e comercial com
+
+estabelecimentos que atendem à demanda criada pelos usuários da estrada (lanchonetes,
+~
+
+restaurantes, postos de gasolina, etc ... ), embora também sejam encontradas algumas indústrias.
+
+No levantamento realizado, considerou-se a ocupação existente na faixa de 60m já pertencente ao
+Departamento Nacional de Estradas de Rodagem - DNER, dentro da qual será implantada a nova
+158
+
+EnGEYIX
+pista, e o seu entorno imediato, ou seja, aquelas unidades que ficarão mais próximas da nova
+rodovia e que deverão ser alvo de um programa de comunicação social.
+
+O Quadro 6.2.4-1, a seguir, mostra os principais pontos de interferência com as áreas ocupadas,
+indicando o seu uso principal.
+
+QUADRO 6.2.4-1
+INTERFERÊNCIAS COM ÁREAS DE OCUPAÇÃO URBANA
+OCUPA(ÁO
+LOCAUZAÇÃO
+
+KM
+
+Na faixa
+do
+
+Fonda
+Faixa
+
+uso
+
+DNER
+
+Garuva- entroncamento
+BR-376 I BR-101
+
+6
+
+X
+
+X
+
+Residencial I Comercial
+
+39a42
+
+X
+
+X
+
+Residencial I Comercial
+
+57,5
+
+X
+
+X
+
+Residencial I Comercial
+
+Itapocu
+
+73 a 75
+
+X
+
+X
+
+Residencial I Comercial
+
+Barra Velha
+Piçarras
+
+86a 88
+101
+
+X
+
+X
+
+X
+
+X
+
+Residencial I Comercial
+Residencial I Comercial
+
+Trevo para Penha
+
+105
+
+X
+
+X
+
+Residencial I Comercial
+
+Penha - Itajaí
+
+107
+
+X
+
+X
+
+Residencial I Comercial
+
+Trevo SC-470
+(acesso a Blumenau)
+
+117
+
+X
+
+Residencial I Comercial
+
+Canal Itajaí- Mirim
+
+119
+
+Canal Itajaí- Mirim
+
+120
+
+Itajaí
+
+126
+
+Camboriú
+Camboriú
+
+JoinviUe I Pirabeiraba
+Trevo BR-280 - Guaramirim
+
+Balneário Camboriú
+
+X
+
+X
+
+· Comercial
+
+X
+
+Residencial I Comercial
+
+X
+
+X
+
+Industrial
+
+131
+
+X
+
+X
+
+Residencial I Comercial
+
+132
+
+X
+
+X
+
+Residencial I Comercial
+
+134 a 136
+
+X
+
+X
+
+Residencial I Comercial
+159
+
+ENGEVIH
+continuação
+Itapema
+
+141
+
+X
+
+X
+
+Residencial I Comercial
+
+Porto Belo
+
+162
+
+X
+
+X
+
+Residencial I Comercial
+
+Trevo Tijucas (SC-411)
+
+163
+
+X
+
+X
+
+Residencial/ Comercial
+
+Gov. Celso Ramos
+
+181 a 185
+
+X
+
+X
+
+Residencial I Comercial
+
+Gov. Celso Ramos
+
+186
+
+X
+
+X
+
+Residencial/ Comercial
+
+Biguaçu
+
+193 a 200
+
+X
+
+X
+
+Residencial I Comercial
+
+Biguaçu
+
+200 a 201
+
+X
+
+X
+
+Residencial
+
+Biguaçu
+
+200 a20l
+
+X
+
+X
+
+Residencial/ Comercial
+
+Biguaçu - Florianópolis
+
+201 a205
+
+X
+
+X
+
+Residencial/ Comercial
+
+Biguaçu - Florianópolis
+
+204
+
+X
+
+X
+
+Industrial
+
+Grande Florianópolis
+
+205 a206
+
+X
+
+X
+
+Residencial/ Comercial
+
+Grande Florianópolis
+
+206 a207
+
+X
+
+X
+
+Residencial/ Comercial
+
+Florianópolis-São José -Palhoça 207a217
+
+X
+
+X
+
+Residencial I Comercial
+
+160
+
+ENGEVIH
+c. Cruzamentos Com Rodovias e Ferrovias
+
+A BR-101, no trecho considerado, cruza diversas rodovias federais e estaduais, bem como a
+RFFSA, além de algumas estradas municipais de menor importância De acordo com o Mapa
+Esquemático de Pontos Notáveis, desenhado a partir de informações obtidas por intermédio de
+levantamento de campo, pode-se identificar a malha viária e relacionar seus cruzamentos com o
+empreendimento em questão, conforme lista a seguir, constituída no sentido Garuva - Palhoça:
+
+SC-301, próximo à sede de Pirabeiraba;
+~·.
+
+BR-280, no trecho entre Araquari e Guaramirim;
+
+SC-474, a 4km da sede de Barra Velha;
+
+SC-414; a Skm da sede de Penha, próximo ao rio Lagoa;
+
+BR-470, próximo ao rio ltajai-Açu;
+
+SC-470, a 6km da sede de Itajai;
+
+BR-486, próximo ao rio ltajai-Mirim;
+
+SC-412, a 6km da sede de Porto Belo, próximo ao rio Perequerê;
+
+SC-411, na sede de Tijucas;
+
+SC-410, no trecho entre Tijucas e Guaporanga;
+
+SC-409, a Jkm ao sul do entroncamento;
+
+SC-408, na sede de Biguaçu;
+161
+
+EnGEVIX
+SC-407, na sede de São José.
+
+Apenas um cruzamento com ferrovia fui identificado no trecho estudado. Trata-se da ferrovia
+Porto União - São Francisco do Sul, da RFFSA - Rede Ferroviária Federal S.A., que contribui
+para o escoamento da produção agrícola para o porto de São Francisco do Sul. O cruzamento
+mencionado ocorre próximo à cidade de Joinville.
+
+d. Cruzamentos com Linhas de Transmissão
+
+A BR-101, ao longo do seu trajeto entre Garuva e Palhoça, cruza com diversas linhas de
+transmissão (LT's) e de distribuição de energia elétrica (LD's). Neste estudo, por sua maior
+importância, foram identificados apenas os cruzamentos com as linhas de transmissão de tensão
+maior ou igual a 69 kv.
+
+A principal empresa produtora de energia elétrica, e que é proprietária do maior sistema de
+transmissão da região é a ELETROSUL - Centrais Elétricas do Sul do Brasil S.A., subsidiária da
+ELETROBRÁS. A CELESC - Centrais Elétricas do Estado de Santa Catarina S.A., empresa que
+só atua no âmbito estadual, possui um sistema de transmissão com tensões de 69 e 13 8 kv, além
+de subtransmissões de 23 e 34 kv.
+
+O Quadro 6.2.4-2, a seguir, aponta os trechos das LT's onde a rodovia BR-101 atravessa, bem
+como as informações necessárias para sua identificação.
+
+QUADRO 6.2.4-2
+
+LINHAS DE TRANSMISSÃO CRUZADAS
+NO TRECHO DAS OBRAS
+
+Joinville-Curitiba
+
+ELETROSUL
+
+230
+
+BlumenauJoinville
+
+ELETROSUL
+
+230
+
+2
+162
+
+EnGEVIX
+J.
+LacerdaJoinville
+Interligação
+p/
+Salseiras
+Interligação
+p/
+Itajaí
+Interligação
+p/
+Camboriú
+Tijucas-Porto
+Belo
+PalhoçaFlorianópolis
+
+ELETROSUL
+
+138
+
+2
+
+Próximo à BR-280
+
+CELESC
+
+138
+
+1
+
+Próximo à BR-470
+
+CELESC
+
+138
+
+2
+
+Próximo à SC-470
+
+CELESC
+
+138
+
+2
+
+Próximo à BR-486
+
+CELESC
+
+138
+
+1
+
+Próximo à SC-412
+
+CELES C
+
+138
+
+1
+
+Próximo à SC-407
+
+6.2.5. Estruturas de Apoio
+
+Para a execução das obras de duplicação da BR-101 no trecho catarinense, compreendido entre a
+divisa com o Estado do Paraná e o município de Palhoça, diversas estruturas de apoio serão
+necessárias, como as áreas para obtenção e beneficiamento dos materiaís de construção pedreiras, áreas de empréstimos, areaís, centraís de britagem e usinas de asfalto, os canteiros de
+obra reunindo a administração, pátios de estocagem, alojamentos, ambulatório, refeitório,
+garagem e oficinas, além de áreas destinadas a deposição de materiaís de descarte.
+
+Estas estruturas são tratadas neste item, quanto a sua localização, caracteristicas geraís e
+necessidades legaís para seu funcionamento.
+
+6.2.5.1. Pedreiras
+
+O Quadro 6.2.5.-1, a seguir demonstra as principaís caracteristicas das pedreiras indicadas, no
+projeto de engenharia, para o funcionamento de material durante as obras. Os números de ordem
+correspondem as suas representações no Mapa Esquemático de Pontos Notáveis.
+
+Das pedreiras propostas cabem aínda algumas observações.
+
+163
+
+EnGEVIX
+Para o trecho inicial das obras, kms O a 57, parece não haver impedimentos à exploração das
+pedreiras Pl e P2, hoje exploradas comercialmente e legalizadas em todos os níveis exigidos
+(federal, estadual e munícipal).
+
+Todas as demais pedreiras indicadas, PJ a P9, deverão passar pelos trâmites normais de
+licenciamentos, quando serão estudados em detalhe os níveis de degradação ambiental e as
+necessidades de recuperação após sua exploração. Este procedimento será de responsabilidade
+das construtoras vencedoras da licitação das obras.
+
+164
+
+EnGEVIX
+QUADRO 6.2.5-1
+PEDREIRAS INDICADAS PARA A DUPLICAÇÃO DA BR-101 • SC
+
+5
+
+750
+
+270
+
+ok
+
+ok
+
+ok
+
+Rudnick.
+Antiga
+e/paredão
+cava
+vertical de aprox.
+10m. Nova frente de
+lavra em bancadas à
+
+Vogelsanger. Antiga
+cava com paredão
+vertical aprox.lOOm
+Nova frente de lavra
+em bancadas à
+
+cava
+p
+vegetação secundária e
+estágios
+inicial
+intermediário.
+
+Estima...., em 0,8 ha
+serem desmatados.
+
+desmatamento
+pa
+atendimento às obms ser
+de aprox. 0,35 ha, ho
+cobertos por vegetaç
+secundária no estágio '
+
+~
+
+P3
+
+0,2
+
+e
+
+km93,3
+
+a w no
+
+es
+
++
+
+P4
+
+250
+
+400
+
+mentode
+pesquisa D0
+815122/93
+
+em nome
+
+~
+
+deTerraple-
+
+1coberta
+
+maciço,
+
+mna nova
+
+parcialmente
+explorada diiilUite a
+oonslruçilo da BR101.
+
+por macega e
+por
+
+vegetaç
+
+secundária em estág
+intermediário.
+Serilo desmatados apro
+2,6 ha.
+
+~
+
+P5
+
+a w no
+km ll9,0
+
+em
+
+exploração.
+
+~-
+
+veget
+
+secundária em estági
+primários até avançado
+regeneração.
+necessàrio
+Será
+desmahanento de apro
+ha.
+
+km
+
+'1>-'1
+
+a w no
+138,4.
+
+Munic.
+Camboriú
+
+os acessos e a ca
+deverilo ser desrnatad
+aprox. 0,6 ha de vegetaç
+seciUldária em adianta
+
+de
+
+estágio
+
+de regeneraçã
+
+com ocorrência de ma
+
+lavra
+
+no
+
+maciço,
+
+parcialmente
+explorada.
+
+mesmo maciço
+
+caracteriza~
+
+uma como vegetação primár
+
+brocada, até SCCIUldária e
+estágio intermediário, co
+aprox. 0,5 ha a s
+
+vegetaç
+em
+
+estág
+
+atingid
+
+165
+
+EnGEVIX
+Às pedreiras P6, P7, P8 e P9, todas com problemas em relação à necessidade de desmatamento,
+são indicadas como alternativas as pedreiras comerciais SUL CATARINENSE, PEDRITA E
+
+SAIBRITA, todas localizadas nas proximidades, sob o agravante de onerar os custos das obras.
+··~
+
+Segundo estimativas das empresas de projeto e de informações de mercado, o custo do m3 britado
+gira em tomo de R$ 9,00 (nove reais), quando explorado e beneficiado pela própria construtora,
+enquanto que adquirido junto às pedreiras comerciais estaria próximo a R$ 22,00 (vinte e dois
+reais). Considerando-se o somatório das demandas deste material para o trecho a ser abastecido
+pelas pedreiras P6 a P9, em tomo de 400.000 m3, pode-se inferir em aproximadamente R$
+'1
+
+5.200.000,00 (cinco milhões e duzentos mil reais) o acréscimo nos custos diretos das obras,
+
+·'- referentes à utilização das pedreiras comerciais.
+
+Devem ser ainda acrescidos custos indiretos, não dimensionáveis por ora, como os exemplos a
+seguir. Junto à pedreira P6, no km 138,4, município de Camboriú, o projeto indica a implantação
+do canteiro de obras, incluindo as instalações industriais como a Central de Britagem. Tais
+instalações viabilizariam o aproveitamento do material pétreo a ser gerado na escavação do túnel
+no Morro do Boi, kms 141,0 a 142,0, da ordem de 200.000 m3 • A britagem deste material nas
+empresas comerciais existentes é de dificil negociação, o que viria a tomá-lo descartável, criando
+novas áreas de bota-fora.
+
+Como a pedreira P9 deverá ser, do ponto de vista ambiental, descartada, por sua localização e
+acessos proximidade de área densamente ocupada com moradias e escola - além de estar
+localizada no interior de uma Área Tombada pelo poder público do município de Biguaçu; e ainda
+considerando a existência de dois estudos de alternativas para obtenção de material pétreo na
+região - o primeiro incluso no ElA/RIMA da Pedreira PEDRITA, de janeiro de 1989, e o
+segundo realizado pela Iguatemi para a seleção e indicação de pedreiras para as obras da BR-1 O1
+- ressalta-se a importância do aproveitamento das pedreiras P7 e P8 como fonte, mesmo que
+parcial, do material pétreo para o trecho do rio Tijucas à Palhoça.
+
+166
+
+EnGEVIX
+Esta importância se dá não só pelo barateamento de custo do material mas também pela
+viabilização de localização do Canteiro de Obras para este lote, anteriormente indicado junto à
+pedreira P9.
+
+6.2.5.2. Jazidas de Solo
+
+As áreas de empréstimos de solo indicadas pelas empresas de projeto, identificadas como E I a
+E25 no Mapa Esquemático de Pontos Notáveis, são, via de regra, áreas já em exploração, mesmo
+que clandestina, e com volume potencial bastante superior às demandas para as obras.
+
+O Quadro 6.2.5-2, a seguir, apresenta os volumes referentes às jazidas de empréstimo de solo.
+QUADRO 6.2.5-2
+JAZIDAS DE SOLOS
+
+167
+
+ENGEVIH
+Além das jazidas enumeradas no Quadro acima os empréstimos de solos serão ainda obtidos, em
+diversos pontos ao longo da rodovia, nos cortes de taludes, por vez alargados perpendicularmente
+ao eixo, na maioria das vezes sem ultrapassar a faixa de domínio.
+
+Estes empréstimos laterais estão dimensionados nos "Projetos de Terraplenagem" item "Cortes e
+Aterros - Distribuição de Volumes" dos Projetos Bãsicos/Executivos de Engenharia - Revisão,
+1995.
+
+Para todos os empréstimos laterais visitados em campo destaca-se, como interferência imediata
+decorrente de suas explorações, a alteração no uso da terra, majoritariamente pastagens e
+macegas.
+
+Dois pontos em particular chamam a atenção. O primeiro no km 57, a leste da rodovia, pelo fato
+de encontrar-se recoberto por remanescente de Floresta Ombrófila Densa, vegetação secundária
+estágios intermediários a avançado de regeneração.
+
+Nesta área recomenda-se o inventário detalhado da vegetação a ser atingida, considerando o
+desmonte máximo até a cota 40,0 m, e a compensação deste desmatamento através do plantio de
+espécies nativas em áreas contíguas ao remanescente.
+
+O segundo ponto, representativo de praticamente todos os demais empréstimos laterais, localizase no km 58,2 a oeste da rodovia. Neste ponto a faixa de domínio, na porção a ser explorada,
+encontra-se utilizada com pastagem, capineira, e uma pequena lavoura de maracujá. A eliminação
+destes usos, neste e nos demais empréstimos, será alvo de negociação direta com o proprietário,
+culminando na indenização das terras e da produção renunciada.
+
+168
+
+EnGEVIX
+6.2.5.3. Jazidas de Areia
+
+As áreas destinadas à obtenção de areia constituem-se todas em depósitos aluviais dos rios de
+
+grande porte, próximos ao eixo da rodovia, localizados e caracterizados no Quadro 6.2.5-3, a
+seguir, e representados no Mapa Esquemático dos Pontos Notáveis.
+
+QUADRO 6.2.5-3
+JAZIDAS DE AREIA- LOCALIZAÇÃO E PRINCIPAIS CARACTERÍSTICAS
+
+14
+
+comercial no rio
+
+Os areias indicados para obtenção deste material deverão, também, ter seus processos de
+licenciamento, junto ao DNPM, à FATMA e às Prefeituras, checados e atualizados pelas
+construtoras responsáveis pelas obras de duplicação.
+
+6.2.5.4. Canteiros de Obras
+
+Estas estruturas de apoio, que totalizarão o número de seis canteiros fixos, aglutinarão
+equipamentos como: administração das obras; pátios de estocagem; instalações industriais - usinas
+de asfulto, centrais de britagem e de concreto; garagens; almoxarifados; oficinas; alojamentos;
+refeitórios; ambulatórios; e estação de estocagem/tratamentos de efluentes (lixo, óleos e graxas,
+águas servidas, etc), dentre outras. O Quadro 6.2.5-4, a seguir, relaciona os canteiros de obras
+fixos e suas localizações, em geral próximos às pedreiras, representados no Mapa Esquemático de
+Pontos Notáveis.
+169
+
+EnGEVIX
+QUADRO 6.2.5-4
+CANTEIROS DE OBRAS
+NUMERO DE
+ORDEM
+C1
+
+LOCALIZAÇAO
+Junto à P1 a w do krn 30,6
+
+C2
+
+Junto à P2 a w do krn 38,0
+
+C3
+
+Junto às P3e P4 a w do krn 93,3
+
+C4
+
+Próximo ao A4 no krn 112,0
+
+C5
+
+Junto à P6 a w do krn 138,4
+
+C6
+
+Junto àP9 a w do krn 190,0
+devendo ser alterado para junto
+das P7 e P8, a w do krn 175,8
+
+Além destes seis canteiros fixos estima-se a necessidade de pelo menos mais 25 (vinte e cinco)
+canteiros de apoio, provisórios, com duração média de funcionamento de 120 dias, junto às
+interseções de acesso às passagens em dois niveis (inferiores), para execução dos parametos em
+terra armada e superestrutura das Obras de Arte Especiais.
+
+Todos os Canteiros de Obra, fixos e provisórios, deverão ter seus projetos específicos avaliados
+pelo órgão estadual de meio ambiente- FATMA, por ocasião de suas implantações.
+
+170
+
+EnGEVIX
+7. AVALIAÇÃO DOS IMPACTOS AMBIENTAIS
+E PROPOSIÇÃO DE MEDIDAS
+7.1. Introdução
+A avaliação dos impactos ambientais foi desenvolvida, considerando-se o empreendimento em
+suas diversas fases (implantação, construção e operação) e suas implicações sobre os meios fisico
+e biótico e a sócio-economia Desta forma, para a avaliação dos impactos, desenvolveram-se as
+etapas descritas a seguir.
+
+7.1.1. Conhecimento do Projeto e Seleção das Ações Programadas
+
+Nesta fase dos estudos, a equipe técnica responsável pela execução dos estudos ambientais
+consultou o projeto de Engenharia da Duplicação da Rodovia BR-101 do trecho Garuva-Palhoça
+
+-se, em especial no que tange aos procedimentos técnicos.
+A partir daí, foram selecionadas todas as atividades previstas pelo projeto, relacionadas ao
+empreendimento, que apresentassem qualquer potencial de alteração ambiental. Essa série de
+atividades foi denominada "Ações Programadas".
+
+7.1.2. Diagnóstico das Áreas de Influência e Seleçio dos Componentes Ambientais
+
+Nesta fase dos estudos, procedeu-se à caracterização e ao diagnóstico das ãreas de influência do
+empreendimento, buscando observá-la sob os pontos de vista dos meios fisico-biótico e sócioeconômico. Desse esfurço, resultou, além de toda a informação contida nos diagnósticos das
+Seções anteriores deste relatório, a seleção dos fenômenos ou das situações que fossem passíveis
+de alteração a partir da implantação do empreendimento.
+
+171
+
+------
+
+--------------------------
+
+EnGEVIX
+A lista decorrente dessa seleção foi denominada "Componentes Ambientais".
+
+7 .1.3. Elaboração da Matriz de Impacto
+
+As listagens "Ações Programadas" e "Componentes Ambientais" foram, então, organizadas em
+uma matriz, que permitiu a verificação das relações entre as atividades previstas para as obras e as
+características ambientais da área de influência.
+
+Da análise dessas relações, resultou a identificação dos impactos ambientais, classificados,
+descritos e prognosticados nesta Seção, acompanhados das medidas e recomendações propostas.
+Essas recomendações têm como objetivo mitigar os impactos causados ou passíveis de ocorrer a
+partir da implantação e operação do empreendimento.
+
+7.2. Identificação e Classificação dos Impactos
+São apresentados neste item os Quadros 7.2.-1, Matriz de Identificação de Impactos, e 7.2-2,
+Matriz de Classificação dos Impactos.
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+"
+~
+
+172
+
+o
+
+I <f:
+
+AÇOES
+PROGRAMADAS
+
+o
+
+o
+«:
+
+/<f;
+
+1-
+
+o
+«:
+
+CONSTRUÇÃO
+
+z
+
+«:
+
+0::
+
+w
+
+_J
+
+()_
+
+()_
+
+o
+
+2
+
+.8'"
+c
+
+ill
+
+-
+
+E
+
+2
+
+;;
+
+'"o
+
+o
+v
+o
+
+~
+
+'ill
+
+u
+
+f-
+
+ill
+
+o
+u
+
+c;=
+~
+
+o
+
+o
+
+u-
+
+'
+
+~
+
+_Q
+
+o
+v
+
+o
+
+10
+
+o
+
+o.
+o
+o
+o
+
+2
+o
+
+L
+
+o.
+~
+
+c
+
+o
+
+ill
+
+E
+
+o'
+
+v
+
+o
+
+~
+
+o
+
+E
+o
+o
+
+'"o
+
+ill
+
+ill
+
+v
+
+o
+
+-~
+
+o
+
+LL
+
+o
+v
+ill
+
+'"o
+'"u'"
+ill
+
+«
+
+v
+v
+o
+_,3
+
+c
+
+E
+
+·º'o
+
+"'
+o
+
+'"
+
+~
+
+~
+
+ill
+
+ill
+
+E
+
+~
+
+o
+
+-"'o.
+
+u
+
+-
+
+u
+
+-"'o.
+
+v
+v
+
+~
+
+~
+
+o
+
+/0
+0-
+
+o
+c
+
+2
+
+E
+
+co
+
+ill
+~
+
+ill
+
+o
+·o;
+~
+
+'"
+
+:;;'
+
+E
+o
+u
+
+o
+o;
+o
+c
+
+o
+
+'"o
+~
+
+_Q
+
+o
+v
+
+ill
+
+f-
+
+~
+
+v
+v
+
+.sc
+
+v
+
+'"o
+~
+
+'"o
+
+_Q
+
+_Q
+
+v
+
+o
+>
+
+o
+
+v
+
+o
+
+"'vo
+
+o
+lo
+u
+o
+o
+
+---o
+
+/0
+0-
+
+>
+
+:ªo
+
+~
+
+v
+
+<{
+
+-_Q
+o
+2
+
+<{
+
+1:
+
+o
+
+o
+
+I
+
+1,3
+
+1,2
+
+1,2
+
+1,2
+
+1,2
+
+2
+
+4-,5,6
+
+4-
+
+5,6
+
+5,6
+
+5,6
+
+5,6
+
+7
+
+7,8
+
+7
+
+7,8
+
+7,8
+
+7,9
+
+10,11
+
+lO
+
+10,11
+
+10,11
+
+12
+
+12
+
+12
+
+12
+
+14
+
+14
+
+14
+
+15
+
+15
+
+16,17
+
+16
+
+16,17
+
+18
+
+18
+
+Recursos HÍdricas
+
+19
+
+19
+
+19
+
+Vegetação
+
+20
+
+20
+
+20
+
+COMPONENTES
+AMBIENTAIS
+
+.sc
+
+10
+
+u-
+
+o
+
+ill
+
+Demografia e Dinâmico
+Populacional
+
+u
+
+o
+
+o
+o.
+o
+
+f-
+
+o
+
+ill
+
+o
+
+.Q
+
+o;
+
+u
+w
+
+v
+
+lO
+
+'O
+
+o
+o.
+o
+
+_Q
+
+·.S
+
+At"1vidades Econômicas
+
+o
+
+"
+
+~
+
+v
+
+_Q
+
+.sc
+o
+
+Q_
+
+ill
+
+~
+
+ill
+
+E
+
+o
+
+ill
+Q.
+
+o
+
+u
+
+~
+
+Q.
+
+o
+
+"'z
+
+<O
+
+o
+
+u
+
+w
+
+Infra -Es tru tu r a
+
+7
+
+o
+'
+
+,g
+U1
+
+lO
+
+Saúde
+
+Patrimônio
+
+lO
+
+13
+
+Grupo Etnico
+
+'
+Clima/Condições Atmosféricas
+
+o
+,fZl
+
+Geologia
+
+17
+
+14
+
+15
+
+15
+
+17
+
+u
+
+LL
+
+o
+
+Geomorfologia
+
+w
+2
+
+Solos
+
+o
+u
+
+18
+
+19
+
+oi=
+
+W'Q
+
+2m
+
+Fauna
+
+23
+
+2,23 23,21
+
+21
+
+22
+
+24
+
+LISTAGEM DE IMPACTOS
+
+Alteração do Cotidiana da População
+2
+
+Exposição da População ao Risco de Acidente
+
+3
+
+Alteração do Quadro Demográfico
+
+4
+
+Aumento da Oferta de Postos de Trabalho
+
+5
+
+Aumenta da Demando por Bens e Serviços
+
+6
+
+Aumento da Renda Local e das Arrecadações Públicas
+
+7
+
+Aumento do Trófegc de Veic'uios
+
+8
+
+Interferências entre J
+
+9
+
+Melhorias nas Condiçües de Circulaçàa de Pessoas, Bens e Serviços
+
+Gasoduto e o Infra-Estrutura Viário e de Transmissão
+
+10
+
+Alterações na Quadro de Saúde
+
+11
+
+Formação de .Ambientes Proprícios à Proliferação de Valores
+
+12
+
+Interferência com
+
+o Patrimônio Arqueológica
+
+13
+
+lnterferencia com
+
+Area IndÍgena
+
+14
+
+Alteração nos Níveis de Emissé'5es Atmosféricas
+
+15
+
+Incremento das Atividcdes Minerários
+
+16
+
+InÍcio e/ou Aceleraçào de Processos Erosivos
+
+17
+
+lnstobilizaçào de Terrenos
+
+18
+
+M'rtcraçõa no Uso das Terras
+
+19
+
+Correomento de Solldas e Assoreamento
+da Rede de Drenagem
+
+20
+
+Aiteroçêío nos Ecossistemas Florestais
+
+21
+
+Alteração nos Hábitos da Fauna
+
+22
+
+Alteração na Estruturo dos Taxocenases Aquáticas
+
+23
+
+Aumento da Caça Predatória
+
+24 -Atropelamento de Espécies da Fauna Local
+
+DUPLICAÇÃO
+TRECHO
+
+DA
+
+GARAUVA.
+
+RODOVIA
+A
+
+PALHOÇA
+
+BR-101
+
+se
+
+EnGEVIH
+QUADRO 7.2-2
+MATRIZ DE CLASSIFICAÇÃO DOS IMPACfOS
+DABR-101
+~r---------------------~--~----~--~--~--~~--r---~--~
+
+IMPOR.
+
+IMPACTOS
+) do
+
+.A
+
+..
+
+GDE
+1 ao
+
+• da
+
+Risco de
+
+PB
+
+m
+
+1 doQnAdm
+
+4.
+
+'de Postos de r ....ru.n
+
+15.
+
+,de
+
+16.
+
+!9.
+~
+
+·Bense:
+
+de Renda Local e
+
+17.
+
+18.
+
+1 do
+
+tviáriae:~
+
+0
+
+<.
+
+,Bens':"
+>de
+
+II .
+
+REV
+REV
+
+de
+
+GDE
+
+GDE
+
+IRR
+
+PER
+
+POS
+
+DJR
+
+REV
+REV
+
+1EM
+1EM
+
+NEG
+NEG
+
+IND
+IND
+
+IRR
+IRR
+IRR
+
+PER
+
+NEG
+
+DIR
+
+~~1-NE~PO~GS!.-4-~::~+-~
+=<::........j__;~~OCOC~"-1
+1EM
+1EM
+1EM
+PER
+
+NEG
+NEG
+NEG
+NEG
+
+DJR
+DJR
+
+de
+
+'das.
+
+>I:;::D---J-~.;::
+D
+MED
+GDI
+
+MDE
+
+MDE
+
+MED
+
+MED
+
+PEQ
+
+"ME >
+
+lMl
+
+REG
+
+1 de 1
+Uso das Terras
+
+PE<
+PE<
+
+PB
+PB
+
+' de Sólidos e Assoreamento da
+
+PE<;
+
+PEQ
+
+REV
+
+1EM
+
+NEG
+
+IND
+
+!ME
+
+LOC
+
+~
+
+PER
+PER
+1EM
+
+NE,
+NE'
+NE'
+
+DIR
+DIR
+DIR
+
+!ME
+!ME
+!ME
+
+8
+8
+
+'de.
+
+20.
+
+1 aos
+
+21.
+22.
+
+1nos~n•l
+
+•
+
+na
+
+1daFauna
+das
+
+PJl(
+
+PB
+PB
+PB
+
+M
+
+1
+
+El
+•B
+
+~
+
+'E•
+
+DIR
+
+~'--1-~tx:LOC~
+
+IRR
+REV
+REV
+IRR
+
+, J, . Inicio e/nu
+
+IRede de i
+
+EST
+
+GDE
+
+de
+
+1 no
+
+!ME
+
+LOC
+LOC
+LOC
+REG
+LOC
+REG
+
+:H@
+
+de
+
+' """' o
+•comArcas
+nos Niveis
+
+••n>•
+
+IND
+IND
+
+TEMP.
+lMl
+lMl
+lMl
+IMl
+CP
+CP
+
+FOR.
+DIR
+DIR
+DIR
+DIR
+
+GDE
+GDE
+
+>de Saúde
+
+111.
+
+REVER. DURA. NATU.
+REV
+1EM
+NEG
+REV
+PER
+POS
+REV
+1EM
+NEG
+REV
+1EM
+POS
+REV
+1EM
+POS
+REV
+1EM
+POS
+
+c a Infra-
+
+Tráfego de·
+
+·w.
+
+=
+
+ME
+MED
+MED
+
+MAG.
+GDE
+PB
+PB
+ME
+MED
+MED
+
+DIR
+
+!ME
+!ME
+MLP
+!ME
+
+REG
+LOC
+LOC
+
+LOC
+
+~
+
+~ L·;'b:.=:~=~~...l.J1~.:..,;.,~~
+LOC: locai; REG: regional; EST: estratégico.
+
+7.3. Análise dos Impactos e Proposição de Medidas
+Conforme apresentados no item anterior, foram identificados 24 impactos ambientais que poderão
+decorrer do empreendimento. Desses impactos, 13 dizem respeito a alterações ambientais na
+sócio-economia e 11 referem-se a interferências no meio fisico-biótico.
+
+Dos impactos analisados para a sócio-economia, cinco são de natureza positiva e referem-se,
+principalmente, a uma possibilidade de aquecimento na economia local, pelo aumento de postos
+174
+
+EnGEVIX
+de trabalho, diretos e indiretos; pela maior demanda de bens e serviços, pelo aumento das
+arrecadações municipais, o que permitirá novos investimentos por parte das prefeituras locais,
+pela melhoria da circulação de pessoas bens e serviços e pela diminuição do risco de acidentes.
+
+Ainda na sócio-economia, dentre os impactos de natureza negativa, o de maior magnitude referese a alterações no cotidiano da população. Os demais impactos são de magnitude que varia de
+pequeno a médio.
+
+A maioria dos impactos na sócio-economia é de natureza temporária, manifestam-se
+imediatamente e têm abrangência local. São também passíveis de serem revertidos, desde que
+sejam adotadas as medidas recomendadas.
+
+Já em relação ao meio fisico-biótico, foi prognosticado apenas um impacto positivo, que se refere
+
+à redução dos niveis de erosão atmosférica, tratando-se de um impacto permanente. Os demais
+impactos, de natureza negativa, são, de modo geral, de magnitude pequena e importâncias que
+~
+
+variam de pequena a média. A maioria dos impactos é de abrangência local e de duração
+temporária, restrito ao periodo de obras.
+
+Em relação às etapas do empreendimento, verifica-se que é na fase de construção que ocorre o
+maior número de impactos. Nessa fase, as ações mais importantes são a de abertura de acessos e
+faixa de dominio, a implantação de canteiros e alojamentos, e a de obras de terraplenagem,
+causando impactos em praticamente todos os componentes ambientais analisados.
+
+Na fase de operação, os principais impactos são de natureza positiva para a sócio-economia.
+Prevê-se apenas um impacto negativo no meio biótico, devido ao aumento de atropelamentos de
+espécies da fauna local.
+
+~
+
+A seguir, é apresentada a análise dos principais impactos previstos e respectivas medidas
+propostas.
+
+175
+
+EnGEVIX
+7.3.1. Alteração do Cotidiano da População
+
+A implantação do empreendimento interfere, especialmente na Área de Influência Direta, na
+dinâmica de vida da população local, pois a presença de elementos estranhos quebra o equihorio
+vigente, desencadeando um clima de expectativas e sentimentos de insegurança, entre seus
+habitantes. Essas expectativas estão relacionadas com os principais beneficios e prejuízos que o
+empreendimento possa trazer.
+
+A instalação dos canteiros de obra e, conseqüentemente, a entrada de um contingente de
+trabalhadores, já serão sentidas na fase de construção.
+
+As ações ligadas às obras em si , como aumento de ruído, poeira, tráfego intenso de veículos,
+desapropriações, desvios de tráfego, engarrafamentos, também causam alterações no dia a dia das
+pessoas residentes e de usuários, afetando, ainda que temporariamente, o cotidiano da população
+que vive no seu entorno.
+
+/-~o caso específico das desapropriações, haverá uma mudança de vida para os residentes nos
+1
+
+)
+
+/
+
+\
+
+imóveis que serão atingidos. De acordo com os projetos de desapropriação realizados em 1989, e
+que se encontram atualmente em revisão, deverão ser desapropriados os imóveis abaixo
+relacionados no Quadro 7.3.1-1, a seguir. Considerou-se como terrenos as áreas sem edificações
+e, no caso das residências e outros imóveis, não foi computada a área do terreno, embora estes
+sejam contemplados no projeto de desapropriação.
+
+176
+
+EnGEVIH
+QUADRO 7.3.1-1
+
+IMÓVEIS ATINGIDOS PELAS OBRAS DE DUPLICAÇÃO
+Municipios
+
+Terrenos
+
+Residências
+
+Outros Imóveis
+
+Quantidade
+
+Area Total
+
+Araquari
+
+3
+
+32.800m2
+
+-
+
+Navegantes
+
+4
+
+11.428 m•
+
+03
+
+Penha
+
+I
+
+2.712 m'
+
+Joinville
+
+28
+
+33.498,50 m•
+
+-
+
+-
+
+Itapema
+
+25
+
+9.326,5 m'
+
+32
+
+I oficina mecânica
+I garagem
+
+ltajaí
+
+57
+
+ll9.348 m•
+
+21
+
+I galpão
+I posto de informação
+
+Balneário Camboriú
+
+43
+
+40.077 m•
+
+6
+
+Porto Belo
+
+4
+
+58.841 m•
+
+5
+
+Tijucas
+
+I
+
+27m•
+
+I
+
+-
+
+Biguaçu
+
+-
+
+-
+
+14
+
+I lanchonete
+
+28
+
+I borracharia
+
+166
+
+305.346 m•
+
+110
+
+6
+
+São José
+Total
+
+Fonte. Projetos de Desapropnação reahzado petas Empreite113S, 1989
+
+A análise do quadro mostra que haverá interferência em pelo menos 11 O residências, que variam
+~
+
+de padrão baixo a alto, e que abrigam uma população estimada em cerca de 500 pessoas.
+
+Medidas Recomendadas:
+
+•
+
+Constante comunicação com a população local, através da implantação de um Programa de
+Comunicação Social, que esclareça dúvidas e repasse informações sobre as diversas ações
+ligadas às obras de implantação, enfatizando, principalmente, o cronograma das atividades
+próximas aos centros urbanos;
+
+177
+
+EnGEVIX
+•
+
+Reforço da sinalização de tráfego nas áreas próximas às localidades onde a entrada e saída de
+veículos for constante, como nos acessos aos povoados vizinhos à rodovia, para facilitar a
+locomoção da população local;
+
+•
+
+Elaboração de um planejamento para situações de emergência, como acidentes graves,
+planejando rotas especiais para o transporte de vitimas, já que a via principal estará em obras,
+contando com a ajuda de organismos institucionais em todos os níveis;
+
+•
+
+Facilitar o cruzamento da rodovia com segurança pelos pedestres, instalando barreiras,
+sinalização adequada e providenciando recursos humanos preparados para essa supervisão,
+principalmente nos locaís onde os povoados crescem nas duas margens da via;
+
+Após as Obras
+
+• Construir e manter em bom estado de conservação passarelas ou outros dispositivos
+adequados à travessia de pedestres, nos locaís onde existirem adensamentos populacionais, de
+forma a perrnítir a travessia com segurança;
+
+• Construir e manter em bom estado de conservação a sinalização de tráfego aérea e na própria
+pista de rolamento da rodovia, principalmente nas entradas e saídas de vias secundárias onde o
+tráfego é maís lento;
+
+• Manter um esquema eficiente de manutenção rotineira e prevenção de danos graves á rodovia;
+
+• Estudar maneiras de compatibilizar, com segurança e em nível local, o uso de meios de
+transporte não-motorizado.
+
+179
+
+EnGEVIX
+7.3.3. Alteração do Quadro Demográfico
+
+Empreendimentos como a duplicação da BR I OI empregam um grande número de pessoas, e a
+chegada desses trabalhadores pode vir a causar alterações na estrutura demográfica local,
+aumentando a taxa de crescimento populacional, modificando a distribuição urbano-rural, a taxa
+de migração e, sobretudo, a composição da população por idade e sexo.
+
+Tal impacto se faz sentir durante toda a construção, neste caso, prevista para até 30 meses, mas
+com a desmobilização, a situação tende a voltar ao normal.
+
+Como se trata de obra de
+
+desenvolvimento linear, não estando concentrada em um único local, a possibilidade de atrair
+mão-de-obra indireta é reduzida.
+
+Mesmo a mão-de-obra diretamente empregada tende a se
+
+dispensar, após o término da construção.
+
+Como cerca de 40% da mão-de-obra a ser utilizada é qualificada, deverá ser recrutada fora das
+frentes de trabalho. O restante deverá ser recrutado nos locais das frentes de trabalho e nos
+municípios vizinhos, provocando deslocamentos de população dentro de uma mesma região.
+Desta forma, considerou-se o número total de trabalhadores envolvidos como sendo população
+trazida pelo empreendimento e, portanto, causa de alteração no quadro demográfico.
+
+r
+
+A implantação da estrada prevê a utilização de 2000 trabalhadores, divididos em I 00 frentes de
+trabalho.
+
+Tal impacto, por ser temporário e conjuntural, não tem por si só grande significação, mas é
+~
+
+gerador de outros impactos, como o aumento da demanda por bens e serviços, alteração no
+cotidiano e no quadro de saúde.
+
+Medidas Recomendadas:
+
+•
+
+Priorizar a concentração de mão-de-obra local, visando reduzir a entrada de pessoas estranhas
+à região;
+
+ISO
+
+EnGEVIH
+•
+
+Instalar, de preferência, os canteiros de obras longe das pequenas localidades ao longo do
+traçado e, especialmente, longe da Área Indígena;
+
+•
+
+Caso isso não seja possível, dimensionar os canteiros para que possam abrigar o mínimo de
+pessoas necessárias para a realização das obras.
+
+7.3.4. Aumento da Oferta de Posto de Trabalho
+
+A implantação do empreendimento traz novas oportunidades de emprego para a região, tanto
+diretos, quanto indiretos.
+
+Em relação aos empregos diretos, pode-se considerar que 60% da mão-de-obra não precisa ser
+especialmente qualificada, podendo ser recrutada no local. O trecho poderá requerer a
+mobilização de 1200 trabalhadores nos municípios da região.
+
+Este impacto é considerado positivo, naturalmente, haja vista a oferta de pontos de trabalho
+constituir uma nova alternativa de fonte de renda para os contigentes desempregados, para as
+famílias do setor primário, essencialmente, e também concorrendo com as funções menos
+remuneradas dos setores secundários e terciários. Por outro lado, os novos empregos, com a
+renda gerada, aumentam a demanda por bens e serviços, sendo este efeito mais sentido nas
+localidades próximas aos canteiros de obras.
+
+O efeito permanente sobre a oferta de postos de trabalho ocorre quando da entrada em operação
+da duplicação da rodovia . É um impacto derivado da redução de custos e de tempo de
+deslocamento, e gera um amplo efeito na estrutura sócio-econômica.
+
+181
+
+EnGEVIH
+Medidas Recomendadas:
+
+• Contratação de mão-de-obra local;
+• Planejamento da capacidade de oferta de serviços, comércio e insumos locais;
+• Adaptar os picos de oferta de mão-de-obra à sazonalidade do turismo.
+
+7.3.5. Aumento da Demanda de Bens de Consumo e Serviços
+
+A duplicação da rodovia BR 101 no trecho Garuva/Palhoça, em Santa Catarina, deverá empregar
+em tomo de 2000 trabalhadores, distribuídos em 100 frentes de trabalho.
+
+~
+
+A entrada em operação dos canteiros de obras vai acrescer urna população ativa à estrutura préexistente e, conseqüentemente, aquecer a demanda de bens e serviços Isto ocorrerá, em especial,
+nas localizadas situadas mais próximo aos canteiros de obra, ao longo da área de influência.
+
+O acréscimo demográfico pesará sobre o sistema de saúde, transporte, educação e segurança. A
+pressão sobre o comércio de maneira mais típica será sentida sobre pequenos estabelecimentos,
+como lojas, bares e pensões. Estas atividades adicionais criarão novas oportunidades de
+empregos.
+
+Esse efeito, embora importante, não tem tanta repercussão no contexto geral. A implantação de
+atividades dessa natureza, positiva em si, deve ser considerada com precaução, devido ao seu
+caráter temporário. Os possíveis efeitos negativos que esta populaçilo traz para a região, somado
+
+à descontinuidade de sustentação, não recomendam que se otimizem essas atividades, que devem
+ficar restritas às pequenas localidades. As conseqüências negativas são de oneroso controle; não é
+recomendado que se privilegie os beneficios que possam trazer para os agentes da economia local
+esse crescimento temporário da demanda.
+182
+
+EnGEVIH
+A entrada em operação da duplicação oferece um decréscimo nos custos de deslocamento de
+pessoas e mercadorias, atraindo também uma população consumidora adicional.
+
+A população das localidades menores poderá ainda ter acesso aos serviços concentrados nos
+centros maiores.
+
+Medidas Recomendadas:
+
+• Priorizar a contratação de mão-de-obra local;
+• Aproximar os canteiros de obras dos centros regionais;
+• Planejar a oferta de bens e serviço para a nova demanda.
+
+7.3.6. Aumento da Renda Local
+
+A duplicação da estrada trará um acréscimo na massa de salários, através do crescimento da
+oferta de empregos e da elevação de salários regionais. Esse acréscimo da massa de salários
+trará, por seu tirno, um aumento na arrecadação de tributos como o ICMS e o ISS, o que vai
+possibilitar uma dinamização de investimentos. Por tratar-se de um ciclo temporário, pois está
+ligado ao período da obra , a sua descontinuidade afetará a geração dessa renda adicional e da
+receita dela derivada.
+
+Medida Recomendada:
+
+• Recrutamento de mão-de-obra,
+
+serviços e insumos locais para otimizar o aumento dessa
+
+receita.
+
+183
+
+EnGEVIX
+7.3.7. Aumento do Tráfego de Veículos
+
+-
+
+Durante o período das obras, espera-se um aumento na circulação de veículos, por parte das
+empreiteiras encarregadas da construção. Para o transporte dos equipamentos, será utilizado o
+sistema viário que, de certa forma, terá aumentado seu fluxo de veículos.
+
+Esse aumento de
+
+tráfego ocorrerá também nas rodovias próximas às obras, devido ao transporte da mão-de-obra,
+porém vai interferir pouco no trânsito local, devido à quantidade reduzida de ônibus necessária ao
+transporte do pessoal.
+
+Além do aumento do número de veículos, conta-se também com a circulação de equipamentos
+sobre rodas do tipo "fora de estrada", que exigem cuidados especiais para o seu deslocamento.
+Tal impacto se faz sentir durante toda a construção, desaparecendo ao final das obras.
+
+O aumento no fluxo de veículos, após as obras, será proveniente do aumento de segurança, graças
+~
+
+à construção da segunda pista. Ressalta-se que, atualmente, a BR-IO I supera, em alguns locais,
+quatro vezes a sua capacidade máxima.
+
+Medidas Recomendadas:
+
+• Utilizar, sempre que possível, caminhos de serviço para máquinas lentas ou de grande porte,
+principalmente as do tipo "fora de estrada", para que interfiram o mínimo possível com as vias
+de transporte normalmente utilizadas pela população local;
+
+• Manter carros-pipa para umedecimento e equipamentos para manutenção de caminhos de
+serviço;
+
+• Providenciar sinalização adequada e pessoal treinado, quando houver necessidade do tráfego
+de máquinas pesadas na mesma pista de rolamento de veículos de passageiros ou carga;
+
+184
+
+EnGEVIX
+•
+
+Melhoria das condições das estradas de acesso aos canteiros de obras e frentes de serviço,
+particularmente quanto à sinalização, raios de curvatura, rampas e natureza do leito, devido
+ao porte dos veículos;
+
+•
+
+Cuidados para evitar que o tráfego rodoviário de passagem afete área residencial. Caso isso
+ocorra, deve-se implantar sinalizações adequadas e redutores de velocidade, principalmente
+nas proximidades de escolas e hospitais/postos de saúde;
+
+•
+
+O transporte dos equipamentos com o uso de veículos pesados deverá ser precedido de um
+planejamento, de forma a respeitar os gabaritos das rodovias quanto a peso e dimensões
+máximos permitidos;
+
+•
+
+Informações às comunidades a serem afetadas pelo tráfego, bem como, se necessário,
+estabelecimento de contatos com as prefeituras, visando implantar modificações nos fluxos
+das vias (inversão de mão ou mesmo mão-única);
+
+•
+
+Sinalização dos pontos de acesso aos canteiros de obra.
+
+7.3.8. Interferência com a Infra-Estrutura Viária e de Transmissão
+
+A duplicação da BR-1 O1 não provocará maiores interferências do que as já acarretadas por sua
+única pista, atualmente em uso. Os entroncamentos e as saídas de veículos configuram-se como
+os principais problemas a serem resolvidos, no que tange à malha viária. Quanto ao sistema de
+transmissão de energia elétrica, o problema pode ter que ser solucionado pela concessionária do
+serviço, ou seja, a ELETROSUL ou a CELESC. Quando não houver condições para manter o
+gabarito vertical da rodovia dentro dos valores previstos, as estruturas que suportam os cabos da
+
+linha de transmissão devem ser modificadas.
+
+185
+
+EnGEVIX
+Medidas Recomendadas:
+
+• Prover a rodovia de retornos, acessos e demais dispositivos adequados à segurança nas
+manobras dos veículos, sempre que a importância da via, ou de uma aglomeração urbana,
+assim o exigir;
+
+•
+
+Durante a construção, deve ser instalada sinalização, inclusive noturna, para a segurança do
+tráfego. Essa sinalização atende a todas as exigências das autoridades responsáveis pela
+administração das vias;
+
+• Estabelecer contatos junto à concessionária de energia elétrica, proprietária da linha de
+transmissão atravessada, para verificar se os espaçamentos verticais entre a nova pista de
+rolamento e os cabos condutores são suficientes e, também, o gabarito da rodovia e as
+condições de segurança da própria linha de transmissão. Deve ser observado, também, se as
+torres da linha estão a uma distância segura da rodovia e se existem barreiras naturais ou
+artificiais que impeçam a colisão de veículos com as torres; caso não existam, as barreiras
+deverão ser construídas, ou as torres deverão ser relocadas para local a ser definido em projeto
+da própria concessionária;
+
+• No caso de cruzamentos com linhas de distribuição de energia elétrica, o procedimento
+recomendado é o mesmo para as linhas de transmissão;
+
+•
+
+Deve ser considerada a existência de projetos em curso, de forma a minimizar futuras
+interferências.
+
+7.3.9. Melhoria nas Condições de Circulação de Pessoas, Bens e Serviços
+
+A entrada em operação da rodovia duplicada trará o barateamento dos custos de deslocamento de
+pessoas, bens e serviços.
+186
+
+EnGEVIH
+A redução de custos de transporte oferece aos habitantes da região, em especial para os das
+pequenas localidades, um melhor acesso aos serviços dos centros regionais.
+
+A facilidade inversa, com a redução dos tempos de viagem trará uma população em busca de
+turismo e lazer, o que induzirá uma elevação do valor do estoque de imóveis. Num conjunto de
+itens, se não houver um planejamento da expansão da oferta de serviços, em particular os
+equipamentos urbanos, a estrutura disponível deverá iniciar processo de degradação.
+
+Essa população adicional elevará o consumo, beneficiando o comércio, dai podendo esperar-se
+uma resposta do mercado, considerando-se as caracteristicas do setor.
+
+Medida Recomendada:
+
+• Unidades de planejamento de oferta de serviços urbanos.
+
+7.3.10. Alterações no Quadro de Saúde
+
+A chegada de mão-de-obra de fora e a população atraida, mesmo que pequena, poderão afetar o
+quadro de saúde das comunidades, especialmente nas localidades de menor porte, onde o contato
+é mais intenso.
+
+Alguns individuas da população migrante podem ser portadores, receptores ou transmissores em
+potencial de doenças contagiosas, existindo a possibilidade de surtos de doenças cujos vetores
+sejam encontrados na região, ou de doenças transmissíveis.
+
+187
+
+EnGEVIX
+O aumento da violência e da prostituição poderá aumentar a mortalidade e o índice de doenças
+sexualmente transmissíveis e por causas externas. Da mesma forma, a concentração de
+trabalhadores nos canteiros de obras e alojamentos pode vir a favorecer o aparecimento e
+desenvolvimento de doenças transmissíves em ambientes confinados. Aumentam igualmente os
+riscos de acidentes de trabalho.
+
+A entrada de mão-de-obra de fora e as possíveis alterações no quadro de saúde poderão aumentar
+a demanda por serviços de saúde na região. Os locais que se encontram na Área de Influência
+Direta possuem uma infra-estrutura de saúde capaz de atender ao aumento da demanda.
+
+Medidas Recomendadas:
+
+•
+
+Preferência na contratação de mão-de-obra local, de modo a minimizar ao máximo a entrada
+de pessoal estranho à região;
+
+•
+
+Realização de exames médicos durante a contratação da mão-de-obra, e periodicamente até o
+término da construção, sempre que for julgado necessário pelo responsável da área de saúde;
+
+•
+
+Tratamento adequado de água, esgoto e lixo dos alojamentos e canteiros, visando não só
+proteger os trabalhadores como a população circunvizinha;
+
+•
+
+As atividades de educação em saúde, a cargo de um especialista designado ou contratado pela
+empreiteira para esta função, deverão atingir todo o pessoal das obras;
+
+•
+
+Campanha de prevenção de acidentes;
+
+•
+
+Intercâmbio permanente das empreiteiras com as prefeituras locais, visando minimizar
+possíveis pressões sobre a infra-estrutura de saúde. Nesse sentido, deverá haver um canal de
+
+..
+
+~
+
+188
+
+EnGEVIX
+comunicação entre ambas as partes durante a construção, de modo a serem adotadas as
+medidas necessárias.
+
+7.3.11. Formação de Ambientes Propícios ao Desenvolvimento de Vetores.
+
+A formação de ambientes favoráveis ao desenvolvimento de espécies de animais condutores de
+doenças, especialmente insetos,
+
+pode ocorrer como resultado da exploração e posterior
+
+abandono de pedreiras, gerando piscinas nas áreas utilizadas, e nas áreas de empréstimo de terra.
+De forma similar, o acúmulo de lixo pode atuar como um agente de atração de roedores, entre
+outros animais, que atuam como disserninadores de diversas doenças. Esse impacto, claramente
+negativo, até sob o ponto de vista de manutenção das condições de saúde humanas, pode, se não
+tomadas as medidas corretas, apresentar longa duração.
+
+Medidas Recomendadas:
+
+• . Interligação das caixas de empréstimo visando reduzir o acúmulo de água. Deve-se ter atenção
+na inter-relação entre as variáveis Volume de Água Acumulada e Velocidade de Escoamento e
+adotar um monitoramento rigoroso visando evitar que esse procedimento dê origem a erosões
+e a ravinamentos de grande porte;
+• Todo o lixo degradável deverá ser enterrado ou incinerado, adotando-se procedimentos que
+evitem contaminação dos cursos d'água e incêndios, respectivamente.
+
+7.3.12. Interferência com o Patrimônio Arqueológico
+
+A BR-101, no trecho a ser duplicado,atravessa áreas de potencial arqueológico, demonstrado pela
+existência de sítios já cadastrados na Área de Influência Indireta. Esses sítios testemunham as
+diversas etapas do processo de ocupação humana, tanto pré-histórica, quanto histórica.
+
+189
+
+EnGEVIX
+A duplicação da estrada será feita, na sua maior parte, em áreas que já foram bastante
+modificadas, o que diminui a possibilidade de serem encontrados vestígios arqueológicos. No
+entanto, esse patrimônio deverá ser investigado, de acordo com o disposto na Lei n• 3924/61 e na
+Resolução CONAMA 001/86.
+
+Medidas Recomendadas:
+
+•
+
+Avaliação do potencial arqueológico na faixa a ser implantada, realizada por profissional
+competente;
+
+•
+
+Caso seja detectada a existência de sítios arqueológicos, deverá ser elaborado um programa
+de salvamento para esses sítios.
+
+~
+
+..
+
+7.3.13. Interferência com Área Indígena
+
+A duplicação da BR 101 interferirá com a Área Indígena Mbiguaçu, diminuindo o seu território,
+que é de apenas 40 ha e que já apresenta escassez de recursos, conseqüência da exploração
+.~
+
+intensiva realizada pela população regional. Além disso, os habitantes da área já reclamam da
+dificuldade de atravessar a estrada, de apenas uma pista, para chegar ao litoral onde vendem o
+artesanato produzido, dificuldade esta que se agravará com duas pistas de rolamento.
+
+As terras indígenas, mesmo quando ainda não demarcadas, são bens inalienáveis da União. No
+
+entanto, a Lei 6001173, Estatuto do Índio, em seu Artigo 20, alinea d, prevê intervenções para
+serem realizadas obras públicas que interessem ao desenvolvimento nacional, como é o caso da
+duplicação da BR 101. O mesmo artigo, nos seus Parágrafos 4• e
+
+s• ,
+
+determina que a
+
+comunidade indígena deverá ser ressarcida dos prejuízos decorrentes da intervenção e que este
+ato deverá ser acompanhado diretamente pelo órgão federal que exerce a tutela, no caso, a
+Fundação Nacional do Índio-FUNAI.
+
+190
+
+EnGEVIX
+No caso da comunidade que habita a Área Indígena Mbiguaçu, o impacto da implantação do
+empreendimento poderá ser o seguinte:
+
+- Durante o período de obras, além dos transtornos causados pelas próprias ações ligadas à
+construção ( movimentação de materiais, aumento do tráfego de veículos, dentre outros), haverá
+um maior contato dos índios com os trabalhadores da estrada, expondo os primeiros a riscos de
+doenças e, principalmente, aos preconceitos e estereótipos que a população não índia costuma ter,
+podendo vir a criar algum tipo de conflito;
+
+- Com a implantação do empreendimento, haverá a diminuição permanente do território indígena,
+que já é bastante reduzido para o sustento do grupo;
+
+- Na fase de operação, haverá maiores dificuldades dos índios para o acesso ao litoral, limitando
+ainda mais a sua mobilidade.
+
+Medidas Recomendadas:
+
+tCon:.
+
+tato do elllP.f.!l.tlllcl_elf~.I"_<:_<J__m a Fundação Nacional do Índio para a implantação imediata do
+-------._
+
+Programa
+de Apoio à Área .Indígena;
+)
+--.
+---------
+
+-'
+
+--
+
+~~~-
+
+-·~-·
+
+• Este Programa deverá estabelecer formas de ressarcimento e de acompanhamento das obras
+junto à Área Mbiguaçu.
+
+7.3.14. Alteração nos Níveis de Emissões Atmosféricas
+
+Este impacto será registrado em momentos distintos. Na fase de construção, quando apresenta
+natureza negativa, abrangerá toda a Faixa de Dominio, as áreas destinadas às estruturas de apoio,
+como canteiros e alojamentos, e ainda a rede de acessos utilizada para as obras.
+
+191
+
+EnGEVIX
+Neste momento, será de pequenas magnitude e importância, por ser restrito aos locais de obras e
+entomos e ao periodo de duração das mesmas, atingindo um número bastante reduzido de
+pessoas.
+
+As máquinas e equipamentos a serem empregados nesta fàse serão suas principais fontes de ruído.
+
+Uma das caracteristicas inerentes a construções desse porte é a alta proporção de ruído,
+principalmente durante as operações de escavações, terraplenagem e soldagem, dentre outras.
+
+O impacto desses instrumentos tem maior significância nas frentes de obras localizadas próximo
+aos aglomerados urbanos, principalmente Joinville, Barra Velha, Balneário Camboriú, ltapema,
+Tijucas, Biguaçu, Florianópolis, São José e Palhoça, onde será sentido tanto pelo pessoal
+envolvido na obra, quanto pelos que ali habitam, trabalham ou circulam. Já nas frentes de obras
+mais isoladas, o mesmo impacto atingirá apenas o pessoal envolvido nas obras, ou residentes nos
+bairros próximos à rodovia.
+
+Para as obras aqui consideradas, prevê-se, ainda, emissão de material particulado, poeira
+circunscrita, basicamente, aos locais das frentes de trabalho e, em menor escala, aos trajetos de
+materiais, equipamentos e pessoal, por estradas não pavimentadas. Esta situação ocorrerá apenas
+durante as operações de corte, aterro e terraplenagem, quando a mensuração do fator de emissão
+
+é função do tipo de solo, de seu teor de umidade e da fbrma de execução.
+Em um segundo momento, durante a operação da rodovia após concluída sua duplicação, é que a
+alteração nos níveis de emissões atmosféricas toma-se mais significativa, traduzida pela sensível
+redução das emissões de gases tóxicos e/ou asfixiantes das descargas dos motores a combustão,
+ao longo de todo o trecho beneficiado.
+
+Considerando-se a baixa velocidade média e constantes reduções de marchas, dos veículos que
+hoje circulam neste trecho da BR-101, decorrentes da saturação de suas capacidades, e ainda os
+freqüentes engarrafamentos nos pontos e horários de estrangulamento da rodovia, pode-se
+antever o quanto sua duplicação contribuiria para a redução dos níveis emitidos diariamente de
+monóxido de carbono, hidrocarbonetos, óxidos de nitrogênio, chumbo e outros.
+192
+
+EnGEVIX
+A grande significância desse impacto, agora de média magnitude e importância e de natureza
+positiva, será sentida principalmente junto aos citados aglomerados urbanos, lindeiros à rodovia.
+
+Medidas Recomendadas:
+
+(Para a Fase de Construção)
+
+•
+
+Planejamento para o transporte de materiais e equipamentos, evitando-se os horários de pico e
+noturno nas auto-estradas;
+
+•
+
+Controle do teor de umidade do solo, a partir de aspersões periódicas, inclusive nos acessos
+às obras;
+
+~
+
+•
+
+Utilização de equipamentos de segurança, como màscaras, botas, fones de ouvido, luvas,
+capacetes, etc., pelos funcionários das obras.
+
+Para fase de Operação:
+
+•
+
+Monitoramento dos niveis de efluentes das descargas dos motores a combustão, ao longo da
+rodovia;
+
+~
+
+•
+
+Controle e manejo das velocidades médias dos veículos através de sinalização e radares;
+
+•
+
+Divulgação dos resultados do monitoramento e controle às comunidades da região.
+
+193
+
+EnGEVIX
+7.3.15. Incremento das Atividades Minerárias
+
+As obras de terraplenagem , a implantação de canteiros, obras de arte, capeamentos e obras
+
+complementares irão requerer o uso de materiais provenientes de pedreiras, jazidas de empréstimo
+e depósitos de areia.
+
+A exploração de pedreiras e a escavação em empréstimos irão produzir de imediato alterações nos
+aspectos paisagísticos.
+
+Essas alterações estão relacionadas aos grandes desmontes,
+
+movimentação de terras, depósitos de estéreis ou rejeitas e implantação de vias de acessos. Essas
+ações provocam modificações, tais como quebra de relevo, formação de novas vertentes,
+eliminação da vegetação, mudança na drenagem.
+
+Os depósitos de estéril poderão formar destaques topográficos no relevo, desprovidos de
+vegetação e expostos aos processos erosivos.
+
+Nos desmontes de pedreiras devem ser considerados, como principais pontos críticos, as
+vibrações (dinarnitação e marteletes), a queda e lançamento de blocos e a estabilidade dos taludes,
+
+·-
+
+além da necessidade de recuperação dos maciços remanescentes e de preservação da vegetação.
+
+As descontinuidades comumente encontradas nos maciços rochosos, tais como xistosidade e
+
+fraturas, propiciam o isolamento de blocos de rocha, principalmente onde o fraturamento é
+desfavorável a estabilidade.
+
+Durante a execução de cortes nas encostas rochosas, poderão,
+
+portanto, ocorrer queda de blocos instáveis.
+
+Deve-se levar em conta, também, a drenagem interna dos maciços, zonas de saturação e pressões
+de percolação.
+
+Outro problema associado ao desmonte de rochas é a formação de poeiras e ruídos.
+
+Em face de o relevo apresentar ondulações, com declividades por vezes acentuadas, do clima
+
+úmido e da alteração intensa das rochas, algumas áreas de empréstimo poderão representar zonas
+194
+
+EnGEVIX
+de fragilidade fisica, sujeitas à ação significativa dos processos erosivos e conseqüentes
+movimentos de massa, deslizamento de solos, queda ou reptação de blocos de rocha.
+
+Esses locais deverão merecer maiores cuidados, pois a erosão hídrica poderá ser agravada pelas
+chuvas torrenciais durante a fase de exploração de jazidas.
+
+As caixas de empréstimo situadas em trecho de rampa poderão sofrer erosão laminar, em sulcos
+~
+
+ou mesmo escorregamentos superficiais, devido à inclinação do corte e deficiências temporárias
+no sistema de drenagem.
+
+Nas rochas de textura granular como granitos, granulitos e mignatitos homogêneos, o solo de
+alteração é predominantemente arenoso, podendo atingir dezenas de metros de espessura em
+relevos mais suaves. Nesses terrenos é comum a presença de grandes matacões imersis no solo
+residual ou em superfície. Em relevos mais acidentados, podem ocorrer escorregamentos no
+contato solo-rocha devido à saturação do solo.
+
+Nas rochas de textura xistosa-gnaisses e mignatitos heterogêneos - o solo residual é siltoso, em
+geral de grandes espessuras, apresentando a xistosidade preservada. Os principais problemas que
+poderão ocorrer nesses sítios são: erosão em sulcos e/ou diferenciada e escorregamentos mais
+freqüentes, devido às descontinuidades determinadas pela xistosidade.
+
+Em todos os casos mencionados, os processos erosivos decorrentes das atividades minerárias
+poderão contribuir para o carreamento de sólidos e o assoreamento dos cursos d'água.
+
+Outro problema comum a todos esses materiais diz respeito a desativação da área minerada (cava
+e rejeito).
+
+Em relação às extrações de areia para obras de pavimentação, estão previstas dragagens nos rios
+ltajai e Tijucas (principais fornecedores).
+
+Outras fontes consideradas potenciais são os
+
+sedimentos litorâneos constituídos de terraços marinhos, fluviais, lacustres e mistos. Geralmente
+
+são sedimentos distribuídos em camadas arenosas e argilosas distintas e interdigitadas.
+195
+
+EnGEYIX
+A extração de areia no leite dos rios não induz a impactos expressivos. Poderá ocorrer um
+aumento da lâmina d'água com aproveitamento da escavação no fundo dos rios e alterações na
+energia das apenas correntes, provocando, eventualmente, erosão nas margens e maior transporte
+de sedimentos. No que se refere ao meio biológico, consideram-se apenas algumas alterações
+locais e temporárias na ictiofauna e perda de vegetação se houver desbarrancamento de margens
+vegetadas.
+
+No que se refere ao meio sócio-econômico, as atividades minerárias trarão interferências
+negativas somente nos aspectos de uso ocupação do solo.
+
+Como impacto positivo, ressalta-se o aumento da oferta de postos de trabalho, com as novas
+oportunidades de emprego nas frentes de extração. Apesar de a demanda da mão-de-obra ser
+restrita, os trabalhadores contratados localmente terão uma nova fonte de renda para suas famílias
+durante o desenvolvimento da obra.
+
+Medidas Recomendadas:
+
+Relacionam-se, a seguir, recomendações pertinentes à mitigação dos impactos decorrentes das
+atividades de exploração tanto nas pedreiras quanto nas jazidas de empréstimo:
+
+•
+
+Evitar a execução de cortes com inclinação acentuada, adotando inclinações compatíveis com
+a resistência dos materiais;
+
+•
+
+Implantação de sistemas de drenagem superficial e profunda. Deverão ser incluidos sistemas
+de dissipação de energia d'água através de sondas laterais, caixas de dissipação e bacias de
+retenção;
+
+•
+
+Regularização dos taludes criados, com implementação de proteção superficial;
+
+196
+
+EltGEVIX
+•
+
+Conhecimento prévio das descontinuidades da rocha e do solo residual e adoção de
+inclinações compatíveis e/ou obras de contenção;
+
+•
+
+Impermeabilização superficial para saturações temporárias;
+
+•
+
+Consideração correta dos parâmetros hídricos e geológico-geotécnicos para evitar que as
+novas estradas de acessos entrem precocemente em degradação no que se refere aos cortes e
+aterros;
+
+•
+
+Observação do comportamento no tempo e no espaço das respostas de caráter geológicogeotécnico promovidas pela natureza frente às novas condições de equihbrio exigidas;
+
+•
+
+Considerar experiências precedentes em locais similares onde o projeto foi feito com sucesso
+(aplicar-se-ia para casos de horizontes geotécnicos homogêneos);
+
+•
+
+Para as pedreiras, recomenda-se a remoção manual e individual de blocos instáveis ou fixação
+através de chumbadores ou tirantes. Como alternativa, pode-se utilizar tela metálica com ou
+semgunita;
+
+•
+
+Nas áreas de empréstimo de rochas graniticas, com eventuais blocos de rocha (matacões)
+isolados e expostos na superfície, recomenda-se proteção da área de apoio do bloco
+considerado instável com sistemas de drenagem e fixação do bloco ou o desmonte e remoção
+dele;
+
+•
+
+Aspersão da água nos pátios de extração e nas estradas de acesso para diminuição da poeira
+provocada pelo movimentação de materiais;
+
+•
+
+No caso de erosão das margens dos rios fornecedores de areia, sugere-se proteção através de
+gabiões ou outro tipo de enrocamento nos pontos considerados suscetíveis;
+
+197
+
+EnGEVIH
+•
+
+Programa de recuperação das áreas mineradas compreendendo:
+
+. relocação ou melhoria de vias de acesso;
+. adequação da drenagem;
+. revegetação e preservação da vegetação;
+. implantação de cinturões verdes;
+. deposição adequada de estéril e rejeites;
+. controle de poeira e ruídos;
+. recomposição da paisagem;
+. monitoramento ambiental;
+. outros procedimentos específicos.
+
+7.3.16. Início e/ou Aceleração de Processos Erosivos
+
+Este impacto se deve à instalação da pista em áreas consideradas suscetíveis a erosão, enumeradas
+no item 6.2.2.a. deste documento, bem como à exploração dos materiais de construção
+necessários às obras, vias, pedreiras, caixas de empréstimos e areais.
+
+O surgimento dos processos erosivos ou a aceleração daqueles já existentes decorrem
+principalmente do grau elevado de suscetibilidade a erosão dos solos a serem atingidos pelas
+ações inerentes a esse tipo de obra, somadas à intensíficação das chuvas e o seu caráter torrencial,
+quando coincidente ao periodo da construção. Esse impacto tem abrangência local e duração não
+provocando alterações que possam comprometer de forma marcante a qualidade ambiental, desde
+que sejam adotadas medidas preventivas e/ou corretivas, tendo sido considerado, portanto, de
+pequenas importância e magnitude.
+
+É fundamental que as ações propostas de mitigação na fase de construção sejam bem avaliadas e
+tecnicamente implementadas, para corrigir os impactos gerados sobre os solos, de forma a
+manter, na medida do possível, seu equilibrio.
+
+198
+
+EnGEVIX
+Medidas Recomendadas:
+
+•
+
+Em alguns trechos de transposição de relevos mais movimentados serão atingidos solos rasos,
+cascalhentos e rochosos, altamente suscetíveis a erosão, como Cambissolos, Litólicos e
+Coluviais. Assim, em função da declividade e tipo de solo, esses locais merecerão maior
+atenção, relativamente ao controle dos processos erosivos, dando-se ênfase especial ao
+respectivo programa;
+
+•
+
+Nesses, como em outros trechos em rampa, para evitar erosão ou mesmo deslizamentos de
+solos ou material de cobertura, deverão ser adotados, em função do tipo de solo e da declividade, os seguintes procedimentos:
+
+•
+
+elaboração de projeto de estabilização dos taludes;
+
+•
+
+execução de drenagem eficiente conforme projeto, a fim de assegurar o bom escoamento das
+águas. Será executado, também, um sistema de drenagem provisória (calhas, calhas de crista,
+canaletas e saidas laterais), minimizando as erosões superficiais da pista, áreas terraplenadas e
+encostas;
+
+•
+
+execução de revestimento vegetal dos taludes, imediatamente após a conclusão dos cortes e
+aterros. Recomenda-se o plantio de gramíneas e leguminosas fixadoras de nitrogênio. O
+revolvimento do solo deverá ser o minimo possível durante o plantio;
+
+7.3.17. Instabilização de Terrenos
+
+A maior parte de BR-101 no trecho entre Garuva e Palhoça percorre terrenos planos ou com
+fraca declividade. Nesses casos, não existem problemas de instabilização de terrenos.
+
+199
+
+EnGEVIX
+Haverá, entretanto, necessidade da execução de cortes em terrenos mais íngremes em alguns
+trechos da estrada. Esses cortes, mutilando a encosta, modificam sua geometria, provocam a
+desestruturação dos materiais que a compõem e reduzem sua resistência mecânica. Muitas vezes,
+o tráfego contínuo de veículos pesados provoca trepidação nos terrenos mais próximos à rodovia
+reforçando ainda mais os processos de instabilização das encostas.
+
+Além do problema da ínstabilização dos terrenos, deve-se mencionar a possibilidade da queda de
+blocos nos terrenos de rochas granlticas.
+
+Medidas Recomendadas
+
+• Os cronogramas de execução das obras deverão ser adequados, sempre que possível, às épocas
+de menor pluviosidade;
+
+• Na ocorrência de nascentes ou infiltrações de água, deverão ser previstos meios adequados
+para a sua drenagem;
+
+• Os blocos de rocha que se apresentem em posição perigosa serão removidos ou estabilizados;
+
+• Os cortes deverão ser escalonados, dimunuíndo-se sua ínclínação e revestidos de gramíneas,
+legumínosas e arbustos com raizes pouco profundas e de maior cobertura do solo. Esse
+revestimento vegetal deverá ser feito logo que finalizados os trabalhos de formatação da
+encosta ( dimínuição da ínclínação e terraceamento);
+
+• Utilização de revestimento protetor (solo-cimento) em locais propícios ao desenvolvimento de
+processos erosivos superficiais índutores de ínstabilização (sulcos de erosão, ravinas,
+voçorocas, fendas no solo).
+
+200
+
+EnGEVIX
+7.3.18. Alteração no Uso das Terras
+
+A alteração no uso das terras irá manifestar-se de duas maneiras diferentes quanto à sua duração.
+
+Será temporária, em relação às áreas de estruturas de apoio, canteiros e alojamentos, e ainda nas
+áreas de exploração de argila e areia; e será permanente nas áreas desapropriadas para fins de
+assentamento das pistas e demais equipamentos laterais às mesmas.
+
+Em ambos os casos, esse impacto se faz sentir a partir da operação de limpeza das áreas
+envolvidas - làixa de domínio e estruturas de apoio, desaparecendo, quando temporário, após a
+conclusão das obras e desmobilização dos canteiros e alojamentos, momento em que se toma
+viável a retomada do uso anterior.
+
+São estimados, como suscetíveis a esse impacto, cerca de 950 ha, subdivididos em cerca de 900
+
+ha de alteração permanente faixa média de 20m para cada lado das pistas atuais ao longo de 218
+
+km, e 50 ha de alteração temporária do uso atual, para assentamento das estruturas de apoio
+somadas as áreas de pedreiras, empréstimos e areais.
+
+As áreas a serem desapropriadas para ceder lugar às obras estão discriminadas, por tipo de uso do
+
+solo, no item "7.3.1. Alteração do Cotidiano da População" e representados, esquematicamente,
+
+no Mapa de Pontos Notáveis.
+Medidas Recomendadas:
+
+•
+
+Armazenamento do solo, durante a abertura das frentes de lavras nas áreas de empréstimos,
+para possibilitar a reconstituição do substrato para revegetação das áreas mineradas;
+
+•
+
+Recomposição do substrato nas áreas das estruturas de apoio, no menor espaço de tempo
+possível, para a breve retomada do uso original;
+
+•
+
+Coleta de mudas e sementes de espécies nativas nas áreas de remanescentes de florestas
+atingidos, para produção de mudas e posterior replantio, em áreas contíguas;
+201
+
+EnGEVIH
+•
+
+Restrição da limpeza da faixa de domínio e áreas das estruturas de apoio ao mínimo necessário, evitando-se excessos de retirada da vegetação.
+
+7.3.19. Carreamento de Sólidos e Assoreamento da Rede de Drenagem
+
+Este impacto ocorre em função, principalmente, dos movimentos de terra necessários à
+construção das obras para aberturas de acessos, faixas de domínio, execução de canteiros e
+alojamentos.
+
+Os processos de assoreamento estão associados ao carreamento de material sólido (erosão),
+indevidamente equacionado ou posicionado inadequadamente em relação à rede de drenagem.
+Essa situação provoca um aumento da carga de material sólido transportado, com conseqüente
+assoreamento de rios e reservatórios.
+
+A erosão em rodovias pode ser classificada em quatro diferentes categorias:
+
+•
+
+erosão em taludes de cortes ou aterros;
+
+•
+
+erosão em plataforma longitudinal, ao longo do acostamento;
+
+•
+
+erosão associada a obras de drenagem, localizada no :final de canaletas, valetas, etc;
+
+•
+
+erosão interna em aterros.
+
+O carrearnento de sólidos com possibilidade de assoreamento da rede de drenagem acontece de
+maneira mais significativa durante a fase de construção da rodovia, quando os movimentos de
+terra são maiores, principalmente durante a estação chuvosa. É mais brando durante a operação,
+quando poderão ocorrer casos de erosão ou deposição nas margens dos cursos d'água interceptados.
+
+202
+
+--
+
+EnGEVIX
+Em todas as áreas onde houver exploração de materiais para construção da rodovia, poderá
+ocorrer carreamento de sólidos, principalmente no período chuvoso.
+
+Deve-se lembrar que, de maneira geral, todas as bacias hidrográficas atravessadas pela BR-101 já
+se encontram bastante modificadas, no que diz respeito à cobertura vegetal, principalmente por
+atividades agropecuárias. Ressalta-se que, na maior parte, essas áreas estão sem o devido manejo
+de solos para o controle de erosão e perda de solos.
+
+A fim de serem minimizados os efeitos desse impacto, deverão ser seguidas algumas medidas
+mitigadoras recomendadas, principalmente nas áreas próximas aos cursos d'água, onde o aspecto
+de carreamento de sólidos pode ser mais significativo.
+
+Medidas Recomendadas:
+
+•
+
+Os movimentos de terra realizados, bem como o balanço de materiais, deverão ser
+equacionados de forma a não provocar carreamento de material sólido para a rede de drenagem local, ou para o próprio rio ou reservatório atravessado;
+
+•
+
+Terraplenagem bem balanceada, com técnicas de construção de valetas, taludes e drenagem
+adequadas;
+
+•
+
+Recomposição vegetal de margens e taludes;
+
+•
+
+Recuperação das áreas degradadas pela exploração do material de construção necessário às
+obras.
+
+Na fase de operação, atenção especial deverá ser dada aos resultados do programa de
+..
+
+~
+
+monitoramento a ser implementado, de forma a se prever em medidas que atenuem um possivel
+~
+
+movimento de fundo da calha dos rios nas travessias.
+
+203
+
+EnGEVIH
+7.3.20-21. Alterações nos Ecossistemas Florestais e nos Hábitos da Fauna
+
+~
+
+Alterações nos habitats florestais são impactos diretos decorrentes das ações Abertura de acessos
+
+e da faixa de domínio, ImplantaçlJo de canteiros e alojamentos e obras de te"aplanagem,
+empréstimos e bota-fora, refletindo-se fortemente sobre os hábitos das espécies integrantes da
+fauna, o que justifica a análise conjunta desses impactos.. As magnitudes desse impacto estão
+intimamente correlacionadas com o estado de conservação dos ecossistemas situados dentro da
+área diretamente afetada. Assim, comunidades cujo grau de organização interna permite classificálas como bem preservadas são particularmente afutadas pelos processos de desmatamento e de
+movimentação do solo que antecedem o estabelecimento desse tipo de empreendimento.
+
+Como apresentado no Diagnóstico Ambiental, a maior parte da região a ser afetada pelas obras de
+implantação do empreendimento encontra-se profundamente alterada, com sua vegetação florestal
+nativa substituída por complexo formado por pastagens e campos de cultivo, determinando o
+predomínio de espécies animais mais bem adaptadas, juntamente com formas invasoras. Contudo,
+dentro do traçado da BR-101, encontram-se inseridos alguns remanescentes florestais que, apesar
+de serem, em sua maioria compostos por vegetação secundária, incluem algumas áreas
+particularmente interessantes sob o ponto de vista de manejo dos estoques populacionais de
+~
+
+diversas espécies integrantes da fauna, alguns dos quais constantes na lista de espécies ameaçadas
+de extinção.
+
+A abertura de novos acessos, a exploração de pedreiras e a ampliação da faixa de domínio da
+rodovia causarão, como impacto imediato, a supressão de parte da cobertura vegetal e,
+conseqüentemente, ampliarão as áreas de borda florestal. Esses processos atuarão como indutores
+de deslocamento de diversas espécies do entorno da Área Diretamente Afetada para regiões
+adjacentes. Conseqüentemente, este evento, especialmente atuante sobre grupos associados aos
+sistemas florestais determinará uma alteração na distribuição espacial das espécies afutadas, o que
+implicará uma mudança no padrão geral de ocupação dos microambientes disponiveis.
+
+204
+
+EnGEVIX
+Nos sistemas florestais afetados, a implantação de novas vias gerará uma faixa pennanentemente
+desprovida de vegetação arbórea ou arbustiva, aumentando a taxa de fragmentação dos ambientes
+e dificultando a livre circulação de algumas espécies, notadamente de formas arborícolas ou de
+grupos de pequeno porte que ocupam os microambientes . A correlação positiva entre o aumento
+na fragmentação de complexos naturais e a redução na variabilidade genética das populações
+localizadas nas áreas afetadas (com concomitante elevação na probabilidade de extinção local das
+mesmas), encontra-se largamente documentada na literatura.
+
+A posição das faixas de acesso poderá levar a uma alteração nos limites externos das áreas de
+mata, modificando, desta forma, as distribuição das bordas florestais, o que gera novas zonas de
+contato e modifica o padrão original de penetração luminosa, restringindo as áreas de uso de
+espécies ombrófilas, com reflexos imediatos sobre os estoques populacionais desses grupos.
+
+Considerando toda a extensão da rodovia, pode-se classificar esse impacto como sendo de média
+magnitude e importância. No caso particular dos ruídos produzidos durante a fase de construção,
+estes se restringirão aos períodos das obras, tratando-se, portanto, de uma interferência de curta
+duração.
+
+Medidas Recomendadas:
+
+~
+
+•
+
+Evitar a implantação de canteiros de obras próximos a ambientes florestados;
+
+•
+
+Evitar desmatamentos desnecessários, especialmente em formações ciliares;
+
+•
+
+Controlar a entrada de pessoal da obra nas áreas de mata cortadas pelo empreendimento;
+
+•
+
+Limitar os desmatamentos ao necessário às operações de construção e proteção do tráfego.
+
+7.3. 22. Alteraçio na Estrutura de Taxocenoses Aquáticas
+205
+
+EnGEVIX
+A travessia dos sistemas hídricos por pontes será precedida de obras de movimentação de terra
+dos leitos fluviais. Esse procedimento alterará o transporte de sedimentos, aumentando a
+quantidade de material em suspensão na água e incrementando as taxas atuais de sedimentação. O
+aumento do assoreamento pode ser reflexo da construção de bueiros curtos e sem dissipadores
+de energia e da localização equivocada do ponto de descarga dos bueiros.
+
+Concomitantemente, a retirada da cobertura vegetal implicará aumento da possibilidade de erosão
+do solo. Esse processo, quando se desenvolvendo próximo a cursos d'água, determinará um
+aumento na quantidade de terra carregada e, conseqüentemente, um incremento nas taxas naturais
+de sedimentação. De forma similar, o estabelecimento de canteiros de obra e de alojamentos
+implica a formação de novas fontes de esgoto que podem vir a comprometer as qualidades
+químicas das águas dos sistemas fluviais adjacentes. O lixo produzido durante o período da obra
+pode igualmente comprometer a qualidade ambiental da região.
+
+Consequentemente, poderão ocorrer, especialmente durante as fases pré-operacionais, alterações
+nas características fisico-quimicas da água e no padrão de circulação fluvial, conduzindo a urna
+descaracterização ambiental que, embora apresente reflexos na áreas de influência indireta,
+situadas a jusante do empreendimento, será especialmente evidenciada no trecho diretamente
+afetado.
+
+O somatório dos impactos exercidos sobre esses sistemas se refletirá, de forma diferenciada, na
+composição das distintas espécies que habitam os rios, determinando um deslocamento da fauna
+para setores menos alterados, o que modifica o padrão normal de distribuição espacial. Em
+pequenos cursos d'água, assim como nas regiões de cabeceira dos rios, possivelmente também
+ocorrerá aumento na taxa de mortalidade de alguns grupos menos tolerantes ou dotados de menor
+capacidade de dispersão, presentes nas áreas diretamente afetadas.
+
+Se respeitados os procedimentos para redução dos impactos, estes se mostrarão temporários,
+limitados apenas à fase de implantação do empreendimento, prevendo-se urna reestruturação
+
+gradual das características originais da vida aquática existentes nas drenagens afetadas ao término
+206
+
+EnGEVIX
+das obras. Estas características permitem classificar tais impactos como de pequena magnitude e
+baixa importância.
+
+Na fase de asfaltamento, existe a possibilidade de derrame acidental de asfalto nos cursos fluviais,
+o que pode comprometer as qualidades químicas da água. Logo, as medidas de segurança
+inerentes a obras desse porte devem ser redobradas quando nas proximidades dos cursos d'água,
+minimizando a possibilidade de tais acidentes.
+
+Medidas Recomendadas:
+
+•
+
+Evitar a formação de focos erosivos nas margens dos rios e em áreas adjacentes;
+
+•
+
+Evitar o comprometimento da cobertura ciliar;
+
+•
+
+Otimizar os processos de implantação, reduzindo a duração do impacto sobre as taxocenoses
+aquáticas;
+
+•
+
+Disposição dos esgotos sanitários em fussas sépticas, instaladas a distância segura de cursos
+d'água e de poços de abastecimento;
+
+•
+
+Todo o lixo degradável deverá ser enterrado ou incinerado, adotando-se procedimentos que
+evitem contaminação dos cursos d'água e incêndios, respectivamente;
+
+•
+
+Uso de caixas de sedimentação ao longo da rede de drenagem de águas pluviais, paralelas à
+rodovia;
+
+•
+
+Elaboração de cronograma de obras baseado, dentre outros aspectos, no regime
+pluviométrico local, visando efetuar movimentos de terra em períodos de estiagem, reduzindo
+dessa forma a possibilidade de ocorrência de carreamentos de terra de grande magnitude;
+
+207
+
+EnGEVIX
+•
+
+Limitar os desmatamentos ao necessário às operações de construção e proteção do tráfego.
+
+7.3. 23. Aumento da Caça
+
+A abertura de novos acessos ou as melhorias nas estradas vicinais poderão facilitar a incursão de
+caçadores e a procura de espécies de aves florestais e de mamíferos de pequeno e médio porte,
+criando uma pressão negativa quanto ao manejo dos estoques populacionais.
+
+Um segundo agravante relaciona-se com a própria mobilização de pessoal para a obra, a qual
+proporcionará um aumento no número de pessoas com hábito de caçar. Destaca-se que, no caso
+específico de certas espécies de répteis, a desinformação e o medo generalizado poderão levar ao
+abate indiscriminado de organismos que desempenham um relevante papel como controladores
+biológicos.
+
+Se consideradas as medidas recomendadas, a pressão da caça será um impacto de pequena
+~
+
+magnitude e importância.
+
+Medidas Recomendadas:
+
+•
+
+Controlar, durante a construção, as incursões do pessoal da obra às áreas florestais cortadas
+pelo empreendimento;
+
+•
+
+Reprimir qualquer tipo de agressão à fauna por parte do pessoal envolvido com o
+empreendimento, proibindo-se o uso de armas de fogo e armadilhas;
+
+•
+
+Evitar a implantação de canteiros de obras próximos a ambientes florestados.
+
+208
+
+EHGEVIX
+7.3.24. Atropelamentos de Espécies da Fauna Local
+
+Como ressaltado por Novelli et ai. (1988) e por Leedy et al. (1975), o uso de sistemas viários
+representa um impacto permanente sobre a fauna presente em setores limítrofes a esses
+empreendimentos, tendo em vista a possibilidade de atropelamento de espécimes. Sob o ponto de
+vista preservacionista, maiores atenções devem ser desviadas para a passagem da rodovia por
+áreas contiguas a ecossistemas florestais em estádios avançados de regeneração, visto serem os
+locais que concentram maior diversidade faunistica e, muitas vezes, abrigam espécies ameaçadas.
+
+A magnitude desse impacto, além de influenciada pelas características dos ecossistemas cortados
+pela rodovia, apresenta correlações positivas com a largura do empreendimento e a velocidade
+alcançada pelos veículos ao circular pelas rodovias, o que toma a BR-101 particularmente crítica
+quanto a esse aspecto. O processo de ampliação de suas dimensões, por favorecer a circulação de
+veículos em velocidades mais elevadas, amplia as probabilidades de atropelamento da fauna.
+Constitui um impacto permanente e de média importância.
+
+Medidas Recomendadas:
+
+"'
+
+•
+
+Instalação de placas indicativas especialmente em trechos
+
+da rodovia que assumem um
+
+traçado mais retilíneo e/ou situados em áreas contíguas às matas;
+
+•
+
+Implantação de passagens ou de pontes secas em pontos estratégicos ao longo do traçado,
+especialmente em áreas próximas a complexos florestais em bom estado de conservação.
+
+209
+
+EnGEVIX
+8. PROGRAMAS AMBIENTAIS
+8.1. Introdução
+A avaliação dos impactos decorrentes do processo de implantação e operação do empreendimento indicou a definição de programas que, uma vez executados, possibilitarão a
+conservação e a recuperação da situação ambiental prevista para as Áreas de Influência da
+duplicação da BR-1 O1, segundo os prognósticos abordados neste estudo.
+
+Tais programas terão a participação do empreendedor, seja na função de executor, na de
+financiador ou de indutor das ações preconizados, quando houver a necessidade de participação
+de órgãos do executivo municipal, estadual ou federal.
+
+Apresentam-se, a seguir, os procedimentos para a implantação dos programas básicos previstos e
+ainda uma estimativa do custo de implantação de cada Programa, em ordem de grandeza.
+
+8.2. Programa de Comunicação Social
+
+Este
+
+programa tem como objetivo maior assegurar à população informações sobre o
+
+empreendimento, medidas e projetos ambientais a serem desenvolvidos, visando evitar qualquer
+tipo de conflito.
+
+Ao se esclarecer a população, através de um processo educativo, serão minimizadas as
+expectativas que possam vir a ser criadas e, ao mesmo tempo, assegurar a sua efetiva participação
+nas diversas etapas de implantação do empreendimento.
+
+A primeira ação do Programa de Comunicação Social é a identificação e o contato com os
+principais interlocutores (representantes de órgãos públicos e da sociedade civil) para avaliar as
+demandas de informações da comunidade da Área de Influência Direta.
+
+210
+
+EnGEVIX
+Em seguida, serão desenvolvidas atividades direcionadas ao pessoal interno das empreiteiras que
+estará em contato com a população, assim como do pessoal das instituições envolvidas que
+estarão à frente do Programa.
+
+Todas as informações necessárias serão repassadas através de reuniões e discussões com a
+~
+
+população e técnicos de instituições locais, sendo também difundidas através de material didático
+(jornais, folhetos, vídeos, cartilhas), adequado aos diversos segmentos que se pretende atingir.
+
+Deverá ser desenvolvida uma campanha orientativa sobre trãnsito, em conjunto com as secretarias
+de educação das prefeituras dos municípios que possuem aglomerações urbanas na Área de
+Influência Direta. Esta campanha deverá ter inicio durante a fase de implantação, durando até o
+final da construção, e será dirigida, principalmente, às crianças. Deverão ser utilizados folhetos,
+folders e demais técnicas de comunicação, de forma a permitir à população a perfeita
+compreensão dos problemas de trãnsito gerados pelo empreendimento, principalmente sobre as
+travessias da rodovia pelos pedestres. As crianças deverão ser incentivadas a trabalhar o assunto
+com as suas famílias, permitindo, dessa forma, atingir toda a comunidade.
+
+Os custos estimados para a implantação deste programa são da ordem de R$ 180.000,00 (cento e
+oitenta mil reais).
+
+8.3. Programa de Saúde da Mão-de-Obra
+
+A construção da nova pista da BR-1 OI envolverá um contingente de cerca de 2000 trabalhadores,
+distribuídos por 06 canteiros de obras. Durante a construção, poderão ocorrer acidentes de
+trabalho e disseminação de doenças transmissíveis, fàvorecidas, estas últimas, pelo confinamento
+dos trabalhadores em alojamentos. Assim, são necessários cuidados especiais no sentido de
+preservar a saúde dos trabalhadores envolvidos na duplicação da rodovia, bem como das comunidades adjacentes, evitando-se que esses trabalhadores adquiram moléstias existentes na região
+ou ajam como transmissores de doenças às comunidades.
+
+211
+
+I.
+
+EnGEVIX
+Os procedimentos previstos para o desenvolvimento do Programa são os seguintes:
+
+•
+
+construção de pequeno ambulatório junto aos canteiros de obra para atendimento da mão-deobra empregada;
+
+•
+
+realização de exames admissionais e periódicos para mão-de-obra, conforme legislação em
+vigor;
+
+•
+
+realização de campanhas de esclarecimento junto aos trabalhadores quanto às questões
+relativas à saúde, particularmente acidentes de trabalho, doenças sexualmente transmissíveis,
+higiene, saneamento e possíveis endemias.
+
+O Programa deverá ser desenvolvido pelas Empreiteiras, com apoio das Secretarias Municipais e
+Estaduais de Saúde, e sua implantação deverá ser iniciada concomitantemente com o marco zero
+das obras, estendendo-se durante todo o periodo de construção. Sem custo de implantação está
+estimado em R$ 300.000,00 (trezentos mil reais), ao longo dos 30 meses de obras.
+
+8.4. Programa de Investigações Arqueológicas
+O Programa de Investigações Arqueológicas tem como objetivo promover o levantamento de
+possíveis evidências arqueológicas na área de implantação da nova faixa da BR I OI, e proceder a
+sua preservação.
+
+Os trabalhos deverão ser desenvolvido através de convênios com a Universidade de Santa
+Catarina, que já possui trabalhos realizados na região.
+
+O custo estimado para a execução destes trabalhos é da ordem de R$ 80.000,00 (oitenta mil
+~
+
+reais).
+
+2I2
+
+-'
+
+EnGEVIX
+8.5. Programa de Apoio à Área Indígena
+.~.
+
+Os objetivos do Programa de Apoio à Área Indígena são de ressarcir, de forma adequada, as
+terras a serem desapropriadas para a implantação da nova pista da BR-IO 1 e regulamentar a
+forma de contato entre a mão-de-obra empregada e a população indígena.
+
+O Programa deverá ser realizado junto com o órgão tutelar responsável, a Fundação Nacional do
+Índio - FUNAI, informando-a da interferência na área indígena, com a apresentação de croquis de
+dados quantitativos sobre a porção a ser desapropriada, e do cronograma da obra além de
+estabelecer formas de indenização, demarcação de área e ainda garantir à população indígena o
+acesso ao litoral, que é uma necessidade do grupo. Deve haver um acompanhamento direto de um
+funcionário da FUNAI.
+
+O custo estimado para o atendimento às recomendações de apoio à Área Indígena são da ordem
+de R$ 160.000,00 (Cento e sessenta mil reais).
+
+8.6. Programa de Controle dos Processos Erosivos
+Este Programa engloba ações visando minimizar alterações na topografia natural dos terrenos
+(taludes de cortes e aterros, áreas mineradas e outras) e preservar a integridade das estruturas da
+rodovia (pistas, obras de arte, etc.), durante as fases de construção e de operação do
+empreendimento, de forma a assegurar que os seus beneficios se prolonguem pelo maior tempo
+possível.
+
+O Programa visa acompanhar o desenvolvimento dos processos erosivos, bem como monitorar as
+obras de contenção desses processos, em especial os retaludamentos, os sistemas de drenagem e
+a revegetação a serem implantados. Esse acompanhamento deverá ser permanente, visando
+determinar as condições de suporte e a eficiência dos sistemas e das obras durante, pelo menos,
+um ciclo hidrológico completo, para se ter comprovada a sua estabilização.
+
+213
+
+ENGEVIX
+~
+
+Apresentam-se, a seguir, os principais procedimentos:
+•
+
+monitoramento ao longo dos taludes de maiores declividades e nos terrenos com maior
+suscetibilidade à erosão, visando detectar a formação de sulcos erosivos, fraturas no solo e
+indícios de rastejo, e estimar a taxa de progressão relativa de movimento do solo, principalmente onde houver vegetação menos desenvolvida, ausente ou alterada, que indique terrenos
+instáveis sujeitos à formação de ravinas, voçorocas ou escorregamentos;
+
+• · observação dos fenômenos de instabilidade, quando necessária, auxiliada pelo emprego de
+instrumentação para avaliar o grau de risco para cada local (uso de inclinômetro, pluviômetro,
+tensiômetro, etc.);
+
+•
+
+conservação e observação do comportamento das obras de contenção realizadas, verificando
+as deficiências que possam ocorrer no sistema de drenagem, revegetação, e outros, evitando
+novas instabilizações e, ao mesmo tempo, contribuindo com a estética dos sistemas
+implantados;
+
+•
+
+durante o monitoramento do sistema de drenagem será efetuada, constantemente, a limpeza
+das canaletas pluviais;
+
+•
+
+aplicação e reposição periódica do material de preenchimento dos sucos de erosão porventura
+formados (os sulcos mais profundos poderão ser preenchidos por solo-cimento);
+
+•
+
+acompanhamento do desenvolvimento da vegetação plantada, através de excursões com
+freqüência mensal durante os dois primeiros anos e trimestral do terceiro ao quinto ano, para
+se ter uma idéia da readaptação da flora. O prazo estimado em 5 anos leva em conta o tempo
+necessário para que as espécies replantadas atinjam um estágio evoluído, ao mesmo tempo em
+que o solo já apresenta condições de sustar seu processo de degradação.
+
+Este Programa será desenvolvido pelas empreiteiras contratadas e supervisionado pelo Convênio
+DNERIIME, tendo seu custo de implantação estimado em R$ 240.000,00 (duzentos e quarenta
+mil reais).
+214
+
+EnGEVIX
+8. 7. Programa de Recuperação das Áreas Degradadas
+A exploração das áreas, fontes de materiais de construção (pedreiras, empréstimos de solos e
+areais) a instalação do canteiro de obras e a deposição do material de bota-fora irá provocar
+alteração nas condições do solo do local, além da supressão da vegetação existente.
+
+A recuperação dessas áreas dependerá em grande parte da recomposição parcial do solo e da
+capacidade de produção vegetal, restabelecendo a relação água-solo-planta.
+
+A primeira etapa do processo de recuperação dessas áreas consiste na delimitação da área a ser
+recuperada, preferencialmente na forma de quadriculas.
+
+A segunda etapa consiste na remoção e armazenamento, de forma adequada, do material vegetal e
+das camadas superficiais do solo para futuro aproveitamento na recomposição do terreno. Nas
+camadas superiores (20 a 30 em de espessura), encontram-se os mais altos teores de matéria
+orgânica, micro e macronutrientes, e a atividade microbiológica.
+
+A remoção dessa camada deverá ser feita por processo mecânico, evitando-se a mistura dos
+horizontes do solo, e estocado em cordões ou !eiras com altura inferior a 1,5 m de altura ou em
+pilhas individuais de 5 a 8 m3 , da mesma altura. O local da estocagem deverá ser plano e
+protegido de chuvas e erosão, devendo-se evitar sua compactação durante o armazenamento.
+
+Na terceira etapa, o material de bota-fora ou estéril deverá ser colocado de forma a perseguir a
+topografia original do local. Depois disso, será depositado o solo fértil, previamente armazenado,
+em camadas de 20 em, sobre toda a área. A seguir será feita a gradagem do terreno com
+equipamento adequado.
+
+A quarta e última etapa consiste no replantio da vegetação original com espécies nativas.
+
+215
+
+ENGEVIX
+Estas são as etapas bãsicas para recuperação de todas as áreas degradadas topográfica,
+pedológica e paisagisticamente em função das obras de duplicação.
+
+Especificidades para a recuperação de cada área, em particular, como terraceamento, subsolagem,
+amenização de taludes e redefinição da dragagem, dentre outros, deverão ser definidas nos
+Programas de Recuperação-PRADE a serem desenvolvidos visando seus licenciamentos.
+
+Este Programa deverá ser detalhado e executado pelas construtoras responsáveis por cada
+subtrecho das obras, sob a supervisão do Convênio DNERIIME, sob um custo total estimado da
+ordem de R$ 280.000,00 (duzentos e oitenta mil reais), a serem investidos ao longo dos 900 dias
+de duração das obras.
+
+8.8. Programa de Monitoramento
+
+Para tal, o monitoramento deverá ser executado durante a construção e ao longo da operação da
+rodovia, visando à conservação e à observação das medidas adotadas, verificando sempre as deficiências que possam surgir, especialmente durante a operação, no que se refere a sua segurança.
+
+O monitoramento englobará as atividades de vistorias, amostragens, interpretação de dados
+obtidos nas amostragens, tratos culturais, correção e desenvolvimento das técnicas aplicadas para
+os diversos procedimentos.
+
+O acompanhamento deverá ser permanente, visando determinar as condições de suporte dos
+sistemas e das obras, bem como avaliar a sua eficiência.
+
+As atividades de monitoramento, a serem desenvolvidas, estão resumidas a seguir:
+
+•
+
+o monitoramento das obras de drenagem será permanente, efetuando, constantemente, a
+limpeza das canaletas pluviais, assim como a desobstrução das caixas de sedimentação;
+
+216
+
+EnGEVIH
+•
+
+nas localidades de maiores declividades, haverá observação continua das encostas, pelo menos
+durante um ciclo hidrológico completo, para se ter comprovada a estabilização das pistas e
+áreas contíguas;
+
+•
+
+em relação à vegetação da pista, haverá acompanhamento periódico do desenvolvimento e
+adaptação dos plantios.
+
+~
+
+Os principais parâmetros a serem observados durante o
+
+monitoramento são os seguintes:
+
+•
+
+detecção de possíveis ocupações de espécies invasoras;
+
+•
+
+ocorrência de pragas, doenças e ervas daninhas;
+
+•
+
+limitação da fertilidade dos solos, decorrente da instalação de processos erosivos;
+
+•
+
+desenvolvimento das mudas;
+
+•
+
+registro de movimentos de massas de solo.
+
+Tratos culturais a serem executados na faixa revegetada:
+
+•
+
+roçadas manuais e cobertura morta;
+
+•
+
+coroamento de mudas;
+
+•
+
+combate ás pragas e doenças;
+
+•
+
+adubação em cobertura;
+
+•
+
+replantio nas falhas;
+217
+
+ENGEVIX
+•
+
+nas travessias dos rios de maior volume d'água, deverão ser adotados os seguintes
+procedimentos para monitorar o transporte de sedimentos e as possíveis mudanças de leito do
+rio:
+
+levantamento topobatimétrico de seções transversais a jusante e a montante da travessia
+do rio (duas campanhas por ano - cheia e estiagem);
+
+medições de descarga líquida e sólida (mensal nas cheias e bimensal nas estiagens).
+
+Este programa é de responsabilidade do Convênio DNERIIME que deverá montar eqmpe
+específica para sua realização ou contar diretamente com as construtoras responsáveis pelas
+obras.
+
+Seu custo estimado, ao longo de cinco anos (até dois anos após o término das obras), é da ordem
+de R$ 100.000,00 (cem mil reais).
+
+218
+
+EnGEVIX
+9. PROGNÓSTICOS
+9.1 A Região sem o Empreendimento
+O trecho a ser duplicado da BR-101, entre Garuva e Palhoça, acompanha longitudinalmente o
+litoral de Santa Catarina. A atual estrada cumpre principalmente algumas funções cruciais para a
+estrutura sócio-produtiva do estado, a saber:
+
+• faz a ligação dos três pólos sócio-produtivos de Santa Catarina: os municípios de Joinville,
+Blumenau-Brusque e Florianópolis;
+
+• faz a ligação, tanto ao norte, quanto ao sul, com os estados vizinhos, recebendo a pressão de
+cargas e passageíros da crescente integração econômica com São Paulo, por um lado e dos
+~
+
+efeitos do MERCOSUL, do outro;
+
+• atende, ainda, a parte importante das migrações do turismo, com dois fluxos: dos estados
+vizinhos e da Argentina e Uruguai.
+
+O dinamismo da economia catarinense, sobretudo a produção industrial, mais concentrada em
+Blumenau e Joinville, vem proporcionando crescimento sustentado da renda e dos padrões de
+consumo, levando a uma utilização mais intensa das vias disponiveis. O uso excessivo acaba
+impondo uma degração da qualidade do serviço viário, expressivo no número de acidentes, que é
+um indicador de síntese do grau de eficiência da utilização do equipamento viário.
+
+Os pólos dominantes em termos do uso do equipamento, no grau atual de desenvolvimento,
+compõem uma quase malha, tendendo, na evolução futura, a uma conurbação no sentido do que
+~
+
+são hoje as megalópolis de São Paulo e Rio de Janeiro. A interação entre esses pólos desempenha
+uma função de crescente importância para o ganho de eficiência das empresas e pessoas. O
+gargalo do equipamento de fluxo rodoviário contagia os sub-sistemas como fator de estagnação.
+A inibição das opções de terceirização, por exemplo, é produzida pela deseconomia externa que
+
+219
+
+EnGEVIX
+induz a pressão crescente da demanda do fluxo de pessoas e bens, em face da rigidez da
+disponibilidade viária e a queda de eficiência no uso dessa disponibilidade com a redução da
+velocidade e alongamento dos tempos de viagem.
+
+A situação atual, sem a duplicação da BR-101, mostra um outro componente derivado do caráter
+exportador do sistema produtivo catarinense, de um lado, e integração econômica com as regiões
+sul e sudeste do país. O grau de eficiência da indústria catarinense concentrada em Joinville e Vale
+do Itajaí se deve à especialização com suprimento de insumos externos à pequena dimensão do
+estado e à conquista de mercados também externos. A corrente do incremento de trocas
+produzida pelo MERCOSUL intensifica o uso da atual estrada, diminuindo seu coeficiente
+unitário de eficiência.
+
+O terceiro fator decisivo de uso atual do sistema é associado ao vetor maís dinâmico de uso, ou
+seja, o trânsito sazonal induzido pelo turismo. É preciso levar em conta que os índices de trânsito
+de passageiros não retratam por inteiro as caracteristicas da atividade de turismo. É assim que a
+demanda de serviços e bens, para atender à população acolhida, intensifica um trânsito adicional
+de pessoas e bens.
+
+É na disposição desses três fàtores de demanda que se configura o processo de intensa queda da
+qualidade do serviço oferecido ao usuário da atual BR-101, sem a duplicação .
+
+-
+
+.
+
+9.2 A Região com o Empreendimento
+
+A realização do empreendimento, naturalmente, dobra o oferecimento, ao usuário, de capacidade
+de trânsito de veículos automotores. Será feita uma maíor ligação da área com outros pólos
+econômicos. A hierarquia de valor do uso do solo sofrerá um ajuste, com a redefinição das
+opções de localização. Háverá uma potencialização das oportunidades que se abrem. A região
+como conjunto desloca sua fronteira de competitividade com outras regiões, devendo acolher
+investimentos adicionaís, que não estavam em condições de exeqüibilidade.
+
+220
+
+EnGEVIH
+o perfil exportador do sistema produtivo regional,
+
+notadamente os dois pólos industriais, são
+
+mais sensíveis, devendo responder acentuadamente a esta oferta específica de ampliação de infraestrutura rodoviária.
+
+Os agentes econômicos se ajustarão às novas oportunidades de ajuste de eficiência, o que abrirá
+um ciclo longo de beneficios, até atingir todo o campo da produção industrial e de serviços.
+
+As novas opções de moradias e de serviços e comércio atrairão investimentos adicionais em
+~
+
+infra-estrutura urbana nas novas áreas viabilizadas.
+
+~
+
+Essa abertura de alternativas atrairá poupança externa no campo imobiliário e uma nova demanda
+
+~
+
+~
+
+--r:
+
+"''"
+
+de serviços em novos espaços. As atividades de turismo atingirão localidades menores.
+
+I -
+
+()
+
+~
+
+;:-_J
+f.ü
+
+ü
+
+<-
+
+~
+
+~
+
+~'
+~I
+,_,
+
+Tal potencialização do crescimento, através de um instrumento de ampliação da infra-estrutura,
+com reproduções tão amplas de dinamização do espaço construído, faz pensar na demanda que
+
+~ ela traz associada, de esforço de planejamento e de institucionalização do controle ambiental.
+
+~
+
+~
+
+Em termos da região como conjunto, a importante vocação rural de parte da produção chama a
+~
+
+atenção pela reprodução modemizadora que a rodovia deverá incrementar. O tipo de produção
+intensiva em pequenos e médios estabelecimentos, que desponta no entorno de Joinville, deverá
+colher consideráveis frutos em toda a região. A crescente demanda de uma quantidade de funções
+de suporte técnico à produção faz, da interação com o meio urbano, uma característica dessa
+modernização e ganho de eficiência. A facilidade de acesso desses serviços nos estabelecimentos
+reduzirá os custos e mobilizará fatores intangíveis para a introdução de inovações.
+
+221
+
+EnGEVIX
+10. BmLIOGRAFIA
+ALMEIDA, F.F.M. de. Contribuição à geomonologia da região oriental de Santa Catarina
+-Boi. Paul. de Geogr. N" 10. março, 1952.
+
+AMARAL, A Serpentes do Brasil: iconografia colorida. São Paulo; Melhoramentos!EDUSP,
+1978. 247p.
+
+AMARAL, A., 1977- Serpentes do Brasil. Melhoramentos, São Paulo. 246 pp.
+BECK, Anamaria., Os Sambaquis do Brasil Meridional. Anais do Museu de Antropologia
+da UFSC. N" 3 Ed. da UFSC, Florianópolis, 1970. pag. 57-70.
+BERNARDES, A., MACHADO, AB.M, RAYLANDS, A.B. Fauna brasileira ameaçada de
+extinção. Belo Horizonte: Fundação Biodiversitas, 1990.
+BIZERRIL, C.R.S.F., 1994- Análise taxonômica e biogeográfica da ictiofauna de água doce
+do leste brasileiro. Acta Biol. Leopoldensia, : 51-80.
+BRASIL, Departamento Nacional da Produção Mineral - Mapa Geológico do Quaternário
+Costeiro dos Estados do Paraná e Santa Catarina por Luís Martin, Kenitiro Suguio, JeanMarie Flexor e Antônio E. G. de Azevedo. Brasília, 1988.
+- . Assembléia Nacional Constituinte.
+Brasília, 1988.
+
+Constituição da República Federativa do Brasil.
+
+---. Código Civil Brasileiro e Legislação Complementar. #.ed Rio de Janeiro, : Forense,
+1969.
+--.Ministério da Saúde. Divisão Nacional de Organização de Serviços de Saúde. Cadastro de
+Estabelecimentos de Saúde: Brasil, 1985. Brasília, 1986. 2v.
+- . Ministério das Minas e Energia. Projeto RADAMBRASIL. Fitogeografia brasileira:
+classificação fisionômico-ecológica da vegetação neotropical. Rio de Janeiro, 1982. (série
+Vegetação Salvador, 1).
+----.Ministério dos Transportes. Anuário estatístico dos transportes, 1987. Brasília, 1988.
+BREYER, R., 1979- O guará no Rio Grande do Sul. Mimeograf.\não paginado.
+BRITO, E.N. & I.V.D.MOREIRA, Legislação Ambiental Básica. FEEMA, Rio de Janeiro. 383
+pp.
+
+222
+
+ENGEVIX
+~
+
+cotinuação
+BROWN, KS. & AN. AB'SABER, 1979- Ice ages forest refuges and evolution in tropics:
+correlation of paleoclimatological, geomorphologicalland, pedological data with modem
+endemism. Paleoclimas: 134-145.
+
+CABRERA, A Catalogo de los mamiferos de America dei Sur. Rev. dei Museu Argentino de
+Ciências Naturales "Bernardino Rivadacia", Buenos Aires, t.6, n.1, 1975. p.l-307; t.6, n.2, 1957.
+p.308-732.
+CÂMARA, I.G., 1991 - Planos de ação para a Mata Atlântica. Fundação S.O.S. Mata
+Atlântica, São Paulo. 152 pp.
+CARVALHO, A. L. de. Os jacarés do Brasil. Separata do volume de Homenagem a Olímpio
+de Miranda Ribeiro, Arquivos do Museu Nacional, Rio de Janeiro, v.XLII, n.127,1951.
+CARVALHO, C.T. de. Lista nominal dos mamíferos brasileiros. Boi. Técnico do Instituto
+Florestal, São Paulo, v.37, dez. 1983.
+CASSETI, V., 1991, Ambiente e Apropriação do Relevo. Universidade Federal de Goiás,
+Goiânia. 147pp.
+CEDI/MUSEU NACIONAL. Terras indígenas no Brasil. São Paulo, 1987. 147pp.
+COOK, R.U. and DOORNKAMP, J.C., Geomorphology in Environmental Management: a
+new introdution. sec ed. Clarendon Press. Oxford 1990.
+DAVIDSON, D.A., Soils and land use planning. London, 1980.
+DER-PR, 1992, Anuário Estatístico de Tráfego.
+Paraná, Curitiba. 38pp.
+
+Secretaria dos Transportes do Estado do
+
+DNAEE. Código de águas e legislação subseqüente e correlata. Brasília, 1972 v. 1 e 1980
+v.2.
+DNER-SC-Esteio - Plano Funcional, Ante-Projeto e Projeto Básico Executivo de Duplicação da
+BR-101/SC trecho km O ao km 57; Florianópolis, 1989.
+.... ........ - Iguatemi - Esteio - Plano Funcional, Ante-Projeto e Projeto Básico Executivo de
+Duplicação da BR-1 O1/SC trecho km 164 ao km 219; Florianópolis, 1989.
+. .......... - Sotepa - Esteio - Plano Funcional, Ante-Projeto e Projeto Básico Executivo de
+Duplicação da BR-10I/SC trecho km 112 ao km 164, Florianópolis, 1989.
+
+223
+
+ENGEVIX
+cotinuação
+........... - STE -Esteio -Plano Funcional, Ante-Projeto e Projeto Básico Executivo de Duplicação
+da BR-lOIISC trecho km 57 ao km 112, Florianópolis, 1989.
+DNPM. Mapa geológico do quaternário costeiro dos estados do Paraná e Santa Catar
+Martin, L., Suguio, K., Flexor, J., Azevedo, A. Brasília, 1988.
+~
+
+DNER-Mapa rodoviário Santa Catarina. 1:750.000. n• 2235.
+DNPM-Mapa hidrogeológico do Brasil, escala 1:500.000, 1983.
+DNPM/CPRM-Projeto mapas metalogenéticos e de previsão de recursos minerais, folhas
+Joinville e Florianópolis, escala I :250.000, 1985.
+DUMMING, J.S., 1987- South American birds. Harrowood Books, Pensylvania. 351 pp.
+EISENBERG, J.F. Mammals ofthe Neotropics: the Northern Neotropics. Chicago: Univ. of
+Chicago Press, 1989. v.l.
+ELETROBRÁS.
+Janeiro, 1988.
+
+Sistema de transmissão; regiões Centro-Oeste, Sudeste e Sul.
+
+Rio de
+
+EMBRAPNSNLCS - Estudo expedido de solos do estado de Santa Catarina para fins de
+classificação e legenda preliminar; Florianópolis, 1980.
+... .. . .. ..... - Parâmetros de consistência dos solos - sem Estudo de Avaliação ao longo de Perfis
+Pedológicos para a aplicação na Engenharia Rodoviária; Rio de Janeiro, 1992.
+--.Reunião Técnica de Levantamento de Solos, 10. Rio de Janeiro, 1979. Súmula ... Rio
+de Janeiro, 1979.
+EMMONS, L.H. Neotropical rainforest mammals: a field guide. Chicago: Univ. of Chicago
+ofPress, 1990.
+EUA. Departament of Agriculture. Soil survey staff, soil survey manual. Washington, O. C.,
+1951. (Handbook, 18).
+--. Soil survey staff, soil taxonomy a basic system of soil classification for making and
+interpreting soil surveys: soil conservation service. (Agriculture Handbook, 436).
+FATMA, 1981 - Parques estaduais e reservas biológicas estaduais administradas pela
+FATMA. Florianópolis. não paginado.
+~
+
+FBCN. Legislação de conservação da natureza. 4. ed. Rio de Janeiro, 1986.
+
+224
+
+EnGEVIX
+cotinuação
+
+FONZAR, B.C., A circulação atmosférica na amenea do Sul: os grandes sistemas
+planetários e subsistemas regionais que atingem o continente: localização e trajetória. Cad.
+Geoc. Rio de Janeiro. ffiGE- n• ll:ll-13,juVset. 1994.
+FRANK, P. Less-loss prevention in the process industries: Hazard Identification,
+
+Assessment and Conrol. 2v.
+FUNDAÇÃO DO MEIO AMBIENTE, 1991 - Santa Catarina - 92. Perfil ambiental e
+estratégias. F ATMA, Florianópolis. 72 pp.
+GAPLAN, 1986, Adas de Santa Catarina. Aerofoto Cruzeiro, Rio de Janeiro. 173pp.
+GODOY, M.P. de. Peixes do Estado de Santa Catarina. Florianópolis: UFSC, 1987.
+GOSLINE, W.A. Catálogo dos nematognatos de água doce da América do Sul e Centnd.
+Boi. Mus. Nac., n.33, 1945. p.l-138.
+HARDING, K.A. Catalogue of new world amphibians. Oxford: Pergamon Press, 1983 .
+.~
+
+HOWARD, A.D., Draimage analysis in geologie interfretation: a summation. amer. Assoe.
+Petr. Geologists Bulletim. V. 51. N" 11 Nov., 1967.
+ffiGE, 1986, Projeto RADAMBRASIL- vol33. SEPLANIIBGE, Rio de Janeiro, 791pp.
+---. 1990, Geografia do Brasil, Região Sul-vol2. ffiGE, Rio de Janeiro. 419pp.
+----. Mercosul: Sinopse Estatística.
+---.Censo dos serviços Santa Catarina, 1980.
+-----.Censo agropecuário Santa Catarina, 1980.
+---.Censo agropecuário Santa Catarina, 1985.
+---.Censo Demográfico resultados preliminares, 1991.
+---.Censo demográfico Santa Catarina dados distritaís, 1980.
+--.Censo demográfico Santa Catarina dados geraís, 1980.
+-.Censo demográfico Santa Catarina, 1991.
+-.Censo industrial Santa Catarina dados gerais, 1980.
+
+225
+
+ENGEVIX
+~
+
+cotinuação
+IHERING, R., Von, 1911- As cobras do Brasil. Rev. Mus. Paul., 8: 273-379.
+ITCF. Coletânea de legislação ambiental. Curitiba, 1986.
+KINZEY, W.G. Distribution of primates and forest refuges. Biological Diversification in the
+tropics, n.25.p.455-82.
+LAVINA, Rodrigo, Os XOKLENG DE SANTA CATARINA: Uma Etnohistória e Sugestões
+para os arqueólogos. Instituto Anchietano de Pesquisas/Unisinos, S. Leopoldo, 1994.
+LAZZAROTTO, Danilo Et. Ali~ Pesquisas Arqueológicas no Planalto. In o homem Antigo na
+América, São Paulo, Instituto de Pré-história da USP, 1971, p. 79-90.
+LORENZL H., 1992, Árvores Brasileiras. Editora Plantarum, Nova Odessa. 3 52 pp.
+LUCENA, Z.M. & C.A.S. LUCENA, 1992- Revisão das espécies do gênero Deuterodon dos
+sistemas costeiros do sul do Brasil, com a descrição de quatro espécies novas. Eigenmann,
+1907 Com. Mus. PUCRS, 5(9): 123-168.
+LUDWIG J.A. & J.F. REYNOLDS, 1988- Statistical ecology. Jonh Wiley & Sons, New York.
+337 pp.
+Manual de Geotecnia: taludes de rodovias: orientação para diagnóstico e soluções de seus
+problemas. Pedro Alexandre Sawaya de Carvalho (coord.). São Paulo: Instituto de Pesquisas
+Tecnológicas, 1991.
+Ministério da Agricultura e Reforma Agrária. Departamento Nacional de Agricultura. Normais
+Oimatológicas (I 961-1990). Brasília 1992.
+- - . 1978, Aptidão Agrícola das Terras do Estado de Santa Catarina, Secretaria Nacional
+de Planejamento Agricola, Brasília, 1978 SSpp.
+Ministério da Agricultura - IPHAN - 11• Coordenadoria Regional Plotagem dos Sítios
+Arqueológicos Cadastrados na 11• CR. Florianópolis, 1995.
+Ministério da Saúde - Fundação Nacional de Saúde - Dados de Morbilidade estaduais e
+municipais - Santa Catarina, Paraná e Rio Grande do Sul. Série Histórica 1979 a 1990.
+MOBRAL. Mapa cultural: artesanato, folclore, patrimônio ecológico, patrimônio histórico.
+Rio de Janeiro, 1980. 2v.
+MONTEIRO, M. F. & T. C. da Silva, 1989, Aspectos Fluviais Importantes para a
+Fotointerpretaçio. Universidade Federal da Bahia, Salvador. 44pp.
+
+.
+
+~.
+
+226
+
+ENGEVIX
+cotinuação
+MOR!, S.A., 1981 - Distrbutioo patterns aod cooservatioo of eastern brazilian coastal forest
+tree species. Britttonia, 33(2): 1-32.
+
+NIMER, Edmon., Climatologia do Brasil. Rio de Janeiro: ffiGE, 1979.
+NIMUENDAJU, K. Mapa etno-histórico de Curt-Nimuendaju. Rio de Janeiro: Fundação
+Pró-Memória/IBGE, 1981.
+PEREZ-NETO, P.R., C.R.S.F. BIZERRIL & R.R. IGLESIAS, 1994 -Ao overview of some
+aspects of river ecology: a case study oo fish assemblages distribution in ao eastern
+braziliao coastal river. IN: ESTEVES, F.A. Oecologia Brasiliensis. Universidade Federal do Rio
+de Janeiro, Rio de Janeiro. 265-279.
+PERIÓDICO-Números de Santa Catarina, 1986.
+PETERS, J.A. & E. OREJAS-MIRANDA, 1970- Catalogue of the neotropical squamata.
+Buli. U.S. Mus., 297: 1-293.
+PETERS, J.A. & R. DONOSO-BARROS, 1970- Catalogue ofthe ooetropical squamata. Buli.
+U.S. Mus, 297: 1-327.
+PONÇANO, R.U., Bistrichi, C.A., Carneiro, C.D.R., Almeida, M.A., Neto, A.G.P., Almeida, F.F
+O conceito de sistemas de relevo aplicado ao mapeamento geomorfológico do estado de São Pa
+Rio Claro. Atas 2° Simpósio Regional de Geologia- 1979, 2:253-262.
+PRANDINI, F.L., Guidicini, G., Bottura, J.A., Ponçano,W.L., Santos, A.R. dos. Resenha critic
+atuação da cobertura vegetal na estabilidade de encostas. Const. Pesada, v.6, n°69, out.I976.
+Prefeitura Municipal de Florianópolis - Plano Diretor de Uso e Ocupação do Solo, 1994
+~
+
+Prefeitura Municipal de Joinville-SC -Dados Básicos de Joinville, 1994.
+----.Lei orginica Municipal, 1990.
+PROUS, A. Arqueologia brasileira. Brasília: UNB, 1991.
+REDFORD, K.H., EISENBERG, J.F. Mammals of the Neotropics: the southern cone.
+Chicago: Univ. ofChicagoPress, 1992. v.2.
+RFFSA. Ferrovias, 1988. Rio deJaneiro, 1988.
+ROHR, João A., Pesquisas Arqueológicas de Santa Catarina.
+Antropologia da UFSC N" 17, Florianópolis, Ed. da UFSC, 1984.
+
+Anais do Museu de
+
+227
+
+EnGEVIX
+cotinuação
+SBCS - Efeito do manejo da vegetação sobre retenção e movimento da água no solo.
+Revista Brasileira de Ciência do Solo, v.4, n.2, maio/agosto 1980.
+
+SCHAEFFER, S.A., WEITZMANN, S.H., BRITSKI, H.A. Review of the neotropical catfish
+genus Scoloplax. Proc. acad. Nat. Sei. Phila. n. 141, 1989. p. 181-211.
+Secretaria de Estado de Planejamento e Fazenda(SC)IFECAM - Federação Catarinense de
+Associações de Municípios - Planos Básicos de Desenvolvimento Regional (PBDR), das
+Microrregiões de: Médio Vale do Itajaí, Região Nordeste, Região da Grande Florianópolis
+(GRANFPOLIS) e Vale do Itapocu, Versões Preliminares, 1994.
+SICK, H. & L.A.R BEGE, 1984 - Novas informações sobre as aves do Estado de Santa
+Catarina. Anais da Sociedade Rio-Grandense de Ornitologia, 5: 3.
+SICK, H., 1985 - Ornitologia brasileira: uma introdução. Universidade de Brasília, Brasília.
+pp.
+SICK, H., L.A.R. BEGE & T.R.A. AZEVEDO, 1981 - Aves do Estado de Santa Catarina.
+Sellowia Zoologia, I: 1-51.
+SOULÉ, M.E., 1987 - Viable population for conservation. Cambridge University Press,
+Carnbridge. 189 pp.
+SPHAN/PRÓ-MEMÓRIA. Bens móveis e imóveis inscritos nos livros do tombo do
+Patrimônio Histórico e Artístico NacionaL Rio de Janeiro, 1982. 195p.
+SUREHMNGTZ - Manual de Avaliação de Impactos Ambientais, Curitiba, 1992.
+
+228
+
+.
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+). )
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+.
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+.
+
+11. EQUIPE TÉCNICA
+
+"' Gilberto Alcântara da Cruz
+
+!CORECON- 12227- RJ !
+
+!Economista/Coord. Geral
+
+~ &<.., ~
+
+-·!.:~~~:~~~~~.·~~~~:;~~i····~::·:·. · :· : .: .·.:. . ~~~--:·~~~a..~~~~~~:~~~~~:!.:~~~~~:.:::::J:.s..s..::~:~·~~~~~~~~~·::·:.:::·::·.::; ~~ffi=.
+...:. .;/ ::::~~::···:·:::;ç;;;;;t.:
+~:;:.::.~
+ii;:;;;;·li~~i~.d~··sii~··-···································!·E:~i···Ai;õ·~~~;;···············································j·s:ziõ6s2i~·9;cliEA:~ru·········T-··
+J.4 }t;;;tf~
+.:.~~.~~~. ~.~~~~~·:~:.~~~i~a.. :· : · :.· :. .:. . ..r~·~~~~!.~. .: . : .:· : : ·:·.:·:.:.~. . :. :. · :· : :.·: : . .:::.:~~f~~~.~~~~~~~~~·. :. :. .~. ]. :-~~x;;;~:.::.::.::.:::::::.
+L . '
+.A
+)I/'
+Sidney de Miguel
+
+::l.
+iEconomista
+
+i CORECON - 17870 - RJ
+
+/
+
+/
+
+·····, ········ ........ ::::
+
+Antônio Ivo de M. Medina
+
+i Geólogo
+
+Carlos Roberi;;s~ii.siZe;:;:JJ
+
+Tsiól~go
+
+! 17.521-D/CREA-RJ
+
+Tii.il8iiicR8~ru -
+
+~
+
+P'f2j7·
+
+·
+
+J
+
+'
+
+Marco
+
+S.
+
+Gilberto C.A. Prazeres
+
+·
+
+Eng• Elétrico/Pianej. Ambiental
+Advogado
+
+•
+
+23.444-D/CREA-RJ
+
+·1779······
+/1
+·C::d/1~ .~o
+
+·····~7'
+
+-- 1=c~~·-r~i. s;~g···~··~i..d~-s;;;~~················h3~~iói;;·g..iJ~t~·p·..; ;i; ·g· ·~· · · · · · · · · · · · · · · !· · · · · · · · · · · · · · · · ·: · · · · · · · · · · · · · · ·-· t·/.~ - · ·.·~ ;~
+....-,::----
+
+;
+
+-
+
+r..-~~
+
+·•
+
+V?l""
+
+• ••••
+
+_
+
+':A ....
+
+••••
+
+,y~
+
+L/~ ···-.=~
+·• /
+' tt./;
+'--..,/
+
+·······························-·······································-······························~··········......,-··········-······························--···············
+
+04.321/0AB-RJ
+
+!
+
+I
+
+I
+
+Rodrigo Lavina
+Arqueólogo
+Laura 'iiie;;~~~~·L;;-s~d~··························To;;óg~~r~···········......................................................T89-:iõ3'õ'69·s~ri/c:REÁ~ru·····-:/ . a.c(~
+
+"'-.;&:~t{l'/----... (~
+
+c_
+
+1-o
+
+- ·-~~-=-2·
+
+~
+
+oLv
+
+.........................................................................................................................................................................................j.........................................................................j ....•:;.. ................................................ ..................................................
+
+. . -L. -·
+Cláudia Anarea
+l'mto
+Suzana Tavares B1ass
+1Ne1ae Pacheco R. Terra
+
+Jorge Barbosa Teixeira
+~1 Marcos
+
+Vinicios de B. Netto
+
+Flávio Souza Santos
+
+~
+
+'. ~
+Geógrafa
+Jornalista
+Professora de Língua Portuguesa
+Projetista
+, Técnico
+Técnico
+
+'95120033-0/CREA-RJ
+'R.P. 13832
+L0231-MEC
+
+i
+.
+
+!
+
+,
+
+,
+
+'~Q,A,r,~,- J~ li't~
+
+, ~. . . .z.aw)@~
+. . . . . . . . . . . . J(i_,
+_..... r
+
+··············-······
+
+'~\~o~
+Qé\~\..OÇ{~o,
+,c;U
+• '
+····························
+.A':" ·.~
+
+·~:~c~
+
+- l ~~··~· s~;;·······
+
+)
+
+.
+
+)
+
+EnGEVIX
+
+ANEXO - Desenhos
+•
+•
+•
+•
+
+Mapa de Geologia
+Mapa de Geomorfologia
+Mapa de Solos
+Mapa de Vegetação
+e Uso Atual das Terras
+• Mapa Esquemático
+de Pontos Notáveis
+
+230
+
+

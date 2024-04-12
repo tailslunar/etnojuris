@@ -1,0 +1,318 @@
+ASSOCIACAO QUILOMBOLA DE PEDRAS NEGRAS
+RUA BEIRA RIO S/N INST. VIDA NATIVA - NAO CADASTRADO
+CEP 76936000 - SAO FRANCISCO DO GUAPORE / RO (AG: 83)
+
+CPF/CNPJ/RANI: 11.394.545/0001-46
+Grp/Sbg:MTC-CONVENCIONAL BAIXA TENSÃO / B3
+Cls/Sbc:COMERCIAL/COMERCIAL TRIFÁSICA
+
+Roteiro: 68-0083-010-0072
+
+20/1369929-3
+
+Medidor: EFN12000093
+
+CADASTRE SUA FATURA EM DÉBITO AUTOMÁTICO UTILIZANDO O CÓDIGO: 00013699293
+
+R$ 96,68
+
+06/04/2022
+
+MAR/2022
+
+100 kWh
+
+3,03kWH
+MÉDIA DIÁRIA
+
+FATURAS EM ATRASO
+05/10/2021
+72,28
+72,28
+05/11/2021
+06/12/2021
+92,23
+07/01/2022
+94,75
+04/02/2022
+96,68
+08/03/2022
+96,68
+10/05/2017
+280,72
++ 55 contas
+28.996,04
+
+BASE
+CALC. Aliq.
+ICMS(R$) ICMS
+72,67 20
+18,89 20
+
+TARIFA C/
+CCI Descrição
+QUANT. IMPOSTOS
+601 Custo de Disponibilidade
+601 Adic. B. Vermelha
+LANÇAMENTOS E SERVIÇOS
+807 Contrib de Ilum Pub
+
+Valor Total
+(R$)
+72,67
+18,89
+5,12
+
+0
+
+Total:
+
+96,68
+
+91,56
+
+CCI: Código de Classificação do Item
+
+0
+
+BASE CALC.
+ICMS
+PIS/COFINS
+(R$)
+(R$)
+14,53
+58,13
+3,78
+15,1
+
+PIS ($)
+1,0845%
+0,63
+0,16
+
+COFINS ($)
+4,9955%
+2,9
+0,75
+
+0,00
+
+0
+
+0
+
+0
+
+18,31
+
+73,23
+
+0,79
+
+3,65
+
+e603.c265.8171.dfe4.e76a.3c2b.2bd2.e92b
+MAR/21
+ABR/21
+MAI/21
+JUN/21
+JUL/21
+AGO/21
+SET/21
+OUT/21
+NOV/21
+DEZ/21
+JAN/22
+FEV/22
+Média
+* Faturamento pela média/mínimo
+
+v
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
+Descrição
+
+LEITURAS
+Anterior 25/02/22
+Atual
+30/03/22
+
+Consumo
+Período
+Constante do medidor
+
+85269 kWh
+85369 kWh
+100 kWh
+33 dias
+1
+
+PRÓXIMA LEITURA
+29/04/2022
+
+Valor(R$)
+
+%
+
+21,33
+
+22,06
+
+35,24
+2,10
+10,14
+27,87
+
+36,45
+2,17
+10,49
+28,83
+
+Serv Dist.
+Compra de Energia
+Serviço de Transmissão
+Encargos Setoriais
+Impostos Diretos e Encargos
+
+Outros Serviços
+
+Total
+Valor do EUSD(Ref 01/2022): R$ 35,06
+
+0,00
+
+0,00
+
+96,68
+
+100,00
+
+(REFERÊNCIA - 01/2022 - Conjunto COSTA MARQUES )
+
+META
+Horas que o cliente ficou sem energisa - DIC
+Vezes em que o cliente ficou sem energia - FIC
+Duração da maior interrupção de energia no período - DMIC
+Duração da interrupção individual em dia crítico - DICRI
+
+MENSAL
+15,00
+7,00
+12,00
+13,00
+
+APURADO TRIMEST. ANUAL
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+LIMITE DE TENSÃO
+Nominal
+Contratada
+Limite inferior
+Limite superior
+
+127 V
+
+117 V
+133 V
+
+SEGUNDA VIA DE CONTA
+-Conforme determinação da Aneel, clientes inscritos na Tarifa
+Social terão a bandeira tarifária verde neste mês.
+A bandeira não tem custo extra.
+Para os demais clientes, a bandeira vigente é a de Escassez
+Hídrica, que indica condições críticas para geração hidrelétrica
+no país.
+A cobrança consta no campo “descritivo” da sua conta no item
+0601, que soma a bandeira vermelha,
+totalizando R$ 14,20 a cada 100 kWh consumidos.
+O valor é estabelecido pela Aneel.
+
+- Além das faturas em atraso acima, existe(m) 48 fatura(s) no montante de
+R$ 21.992,38 relativa(s) a período(s) anterior(es).
+- REAVISO: Caso a(s) fatura(s) acima continue(m) em atraso, o fornecimento poderá
+ser suspenso a partir de 14/04/2022. Conforme Resolução 414/ANEEL. O pagamento
+após essa data não elimina a possível suspensão do fornecimento, caso o mesmo não
+seja comunicado ou as contas pagas não estejam na unidade consumidora para
+comprovação. Caso essas faturas estejam pagas, desconsiderar essa mensagem.
+ESTE PRAZO NÃO VALE PARA AS FATURAS JÁ REAVISADAS, para estas a suspensão do
+fornecimento poderá ocorrer a qualquer momento até o decurso do prazo de 90(noventa)
+dias, contado da data de vencimento da fatura vencida e não paga.
+Fatura sujeita a inclusão em órgãos de proteção ao crédito no caso de inadimplemento
+-Reajuste tarifário médio 6,93%,a partir de 13/12/21, conforme REH Nº 2.990/ANEEL.
+
+ENERGISA RONDONIA - DISTR. DE ENERGIA S.A.
+AV. IMIGRANTES, 4137
+INDUSTRIAL - PORTO VELHO - RO - CEP 76.821-063
+CNPJ: 05.914.650/0001-66 IE: 255637
+Nota Fiscal/Conta de Energia Elétrica - Série U - NF 035.884.609 - Emissão: 29/03/2022
+
+Pague com PIX!
+
+e largue o boleto para la!
+Use o QR Code PIX
+E pague também nos fins de semana e feriados.
+Acesse o app do seu banco -> clique na opção PIX
+Aponte a câmera do seu celular para o QR Code ao
+lado e pronto! Conta paga.
+Quer mais facilidade ?
+Abra sua Conta Voltz - Energisa.
+
+BANCO DO BRASIL PAGAR PREFERENCIALMENTE NO BANCO DO BRASIL
+
+00190.00009 03268.723008 35168.954176 1 89470000009668
+PAGADOR:ASSOCIACAO QUILOMBOLA DE PEDRAS NEGRAS CNPJ/CPF: 11.394.545/0001-46
+RUA BEIRA RIO S/N INST. VIDA NATIVA - NAO CADASTRADO - SAO FRANCISCO DO GUAPORE / RO - CEP 76936000
+Nosso-Número
+
+Nr Documento
+
+Data de Vencimento Valor do Documento
+
+32687230035168954 1369929-2022-03-9
+
+06/04/2022
+
+Valor Pago
+
+96,68
+
+BENEFICIÁRIO:ENERGISA RONDONIA - DISTRIBUIDORA DE ENERGIA S.A. 05.914.650/0001-66
+AV IMIGRANTES, 4137 - INDUSTRIAL - PORTO VELHO / RO - CEP 76821-063
+
+Agência / Código do Beneficiário: 3180-1/21257-1
+
+(B{SgWgExA|B{B{DmHqQ{B{B{LiGsQnOcB{[qSsSmRrQh)
+
+

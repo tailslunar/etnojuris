@@ -1,0 +1,24 @@
+Abrir Modal x Alerta Some text in the modal. Fechar Consulta pública Atalhos do sistema alt+1 Menu de navegação
+					 alt+2 Ir para página inicial
+					 alt+7 Auto-contraste
+					 alt+8 Fale conosco
+					 alt+9 Sair
+					 Processo Judicial Eletrônico Versao  2.1.10.0-SNAPSHOT_TRF1 (5e5f775c)  - Atualizado em   01/09/2022 - 23:54
+							 O Pje é um sistema de tramitação de processos judiciais que busca atender às necessidades dos diversos segmentos do Poder Judiciário brasileiro(Justiça Militar da União e dos Estados, Tribunais Superiores, Justiça do Trabalho, Justiça Eleitoral e Justiça Comum, Federal e Estadual) O PJe é desenvolvido pela comunidade dos tribunais brasileiros sob a coordenação do 
+								 Conselho Nacional de Justiça (CNJ). Para mais ajuda sobre o sistema acesse a 
+								 Wiki do projeto. Verifique sobre as versões do sistema em Mais informações Fale conosco Informações Fale Conosco Procedimentos para abrir solicitação: 1)  Usuários externos: entrar em contato pelo telefone 61-3314-1620 ou encaminhar e-mail à Central de Serviços de  Tecnologia da Informação (csti@trf1.jus.br), com sugestões, dúvidas ou  relato de problemas técnicos, nesta hipótese acompanhado de  PrintScreen  da tela de erro e descrição dos procedimentos realizados, com data e  horário da ocorrência. Informamos que o e-mail da CSTI não poderá ser  utilizado para fins de peticionamento, de forma que documentos recebidos  nesse sentido serão imediatamente descartados; 2) Usuários  internos: demandas relativas ao PJe, de qualquer natureza, devem ser  encaminhadas via e-Sosti, observando-se, nos casos de problema técnico, a  necessidade de anexar  PrintScreen  da tela de erro e descrição dos procedimentos realizados, com data e horário da ocorrência. 
+Processo Processo referência 
+						Numeração única   
+						Livre  
+Nome da Parte 
+Nome do advogado 
+Classe Judicial 
+
+						CPF   
+						CNPJ  
+OAB (000000 A UF)  -   -    UF AC AL AP AM BA CE DF ES GO MA MT MS MG PR PB PA PE PI RJ RN RS RO RR SC SE SP TO 
+							Processo 
+							Última movimentação  resultados encontrados 
+				    A presente consulta não retornará qualquer resultado em caso de informações prestadas incorretamente ou de processos sob segredo de justiça, conforme art. 1º, parágrafo único, da 
+					 Resolução nº 121 do Conselho Nacional de Justiça .
+				 PJeOffice Indisponível O aplicativo PJeOffice não está disponível! Por favor aguarde

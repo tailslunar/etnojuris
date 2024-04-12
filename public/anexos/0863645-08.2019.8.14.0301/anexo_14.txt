@@ -1,0 +1,4734 @@
+TJPA
+Tribunal de Justiça do Pará
+O documento a seguir foi juntado aos autos do processo de número 0863645-08.2019.8.14.0301
+em 04/05/2022 15:48:42 por HERCULES DA ROCHA PAIXAO
+Documento assinado por:
+- HERCULES DA ROCHA PAIXAO
+
+Consulte este documento em:
+https://pje-consultas.tjpa.jus.br/pje-1g-consultas/Processo/ConsultaDocumento/listView.seam
+usando o código: 22050415484047200000057187498
+ID do documento: 60120615
+
+Projeção da geração de Resíduos Sólidos
+7.1
+
+Projeção da população
+
+A projeção da população feita pela Agência Nacional de Águas e da COSANPA
+apresentam população no fim do prazo do Plano bastante diferentes. O modelo
+matemático utilizado apresenta valores muito semelhantes ao da ANA.
+Tabela 7.1 – Projeção da população de Marituba para o período do Plano
+
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+
+ANA
+134 088
+137 316
+140 621
+144 006
+147 472
+151 021
+154 656
+158 378
+162 190
+166 094
+170 091
+174 185
+178 378
+182 671
+187 068
+191 570
+196 181
+200 903
+205 738
+210 690
+
+COSANPA
+148 976
+151 876
+154 664
+157 336
+159 895
+162 337
+164 662
+166 868
+168 953
+170 916
+172 757
+174 472
+176 062
+177 539
+178 898
+180 135
+181 245
+182 223
+183 065
+183 768
+
+Modelo
+135 521
+138 486
+141 515
+144 611
+147 774
+151 007
+154 310
+157 686
+161 136
+164 661
+168 263
+171 944
+175 705
+179 549
+183 477
+187 490
+191 592
+195 783
+200 066
+204 443
+
+A taxa de progressão utilizada pela COSANPA a partir de 2019 é de menor
+crescimento. A modelagem da ANA segue mais próxima da do IBGE.
+Para o PGIRS, adotou-se o resultado do modelo matemático utilizado, que prevê
+uma população de 204.443 habitantes no fim do período do Plano.
+7.2
+
+Geração de resíduos
+
+Com base na projeção da população e da capitação de resíduos, estima-se a
+quantidade de resíduos gerados.
+
+179
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Para o Plano, considerou-se capitação de 0.51kg/hab.dia, com taxa de progressão
+incremental anual de 5% em relação à taxa do ano anterior, atingindo-se capitação de
+0.70 kg/hab.dia no final do período de vigência do PGIRS.
+Geração de resíduos:
+
+1) Cálculo da geração anual de Resíduos Urbanos (QRU) é dado pelo produto
+da capitação (Cap) pela população (Pop) em 365 dias, segundo a
+seguinte expressão, em toneladas:
+𝑄𝑅𝑈 =
+
+𝑃𝑜𝑝 𝑥 𝐶𝑎𝑝 𝑥 365
+(𝑡)
+1000
+
+QRU(i) (Mg) – Quantidade de resíduos no ano i
+Cap (i) (kg/hab.d) – capitação no ano i
+Tabela 7.2 – Projeção da geração de resíduos total e por categoria (2019-2024)
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+População servida pelo
+aterro (%)
+Marituba
+Geração RSU (t)
+Prod. Por categoria
+
+Matéria Orgânica
+Papel
+Cartão
+Cartão complexo (tetrapak)
+Plástico filme
+PET, PEAD, PP
+Outros plásticos
+Vidro
+Metais Ferrosos
+Alumínio
+Madeira
+Têxteis
+Têxteis sanitários (fraldas,
+pensos higiênicos)
+Rejeitos/terras/outros
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+
+t
+
+42.40%
+5.10%
+3.00%
+1.00%
+8.60%
+5.10%
+2.30%
+2.60%
+1.60%
+0.60%
+1.20%
+3.50%
+8.20%
+14.80%
+
+2019
+135 521
+135 521
+2.2%
+1.0%
+0.51
+
+2020
+138 486
+138 486
+2.2%
+1.1%
+0.52
+
+2021
+141 516
+141 516
+2.2%
+1.1%
+0.52
+
+2022
+144 612
+144 612
+2.2%
+1.2%
+0.53
+
+2023
+147 776
+147 776
+2.2%
+1.2%
+0.53
+
+2024
+151 009
+151 009
+2.2%
+1.3%
+0.54
+
+100%
+25 227
+
+100%
+26 050
+
+100%
+26 913
+
+100%
+27 820
+
+100%
+28 775
+
+100%
+29 780
+
+10 696
+
+11 045
+
+11 411
+
+11 796
+
+12 200
+
+12 627
+
+1 287
+
+1 329
+
+1 373
+
+1 419
+
+1 468
+
+1 519
+
+757
+
+781
+
+807
+
+835
+
+863
+
+893
+
+252
+
+260
+
+269
+
+278
+
+288
+
+298
+
+2 170
+
+2 240
+
+2 315
+
+2 393
+
+2 475
+
+2 561
+
+1 287
+
+1 329
+
+1 373
+
+1 419
+
+1 468
+
+1 519
+
+580
+
+599
+
+619
+
+640
+
+662
+
+685
+
+656
+
+677
+
+700
+
+723
+
+748
+
+774
+
+404
+
+417
+
+431
+
+445
+
+460
+
+476
+
+151
+
+156
+
+161
+
+167
+
+173
+
+179
+
+303
+
+313
+
+323
+
+334
+
+345
+
+357
+
+883
+
+912
+
+942
+
+974
+
+1 007
+
+1 042
+
+2 069
+
+2 136
+
+2 207
+
+2 281
+
+2 360
+
+2 442
+
+3 734
+
+3 855
+
+3 983
+
+4 117
+
+4 259
+
+4 407
+
+180
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 7.3 – Projeção da geração de resíduos total e por categoria (2025-2030)
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+
+População servida pelo
+aterro (%)
+Marituba
+Geração RSU (t)
+Prod. Por categoria
+
+Matéria Orgânica
+Papel
+Cartão
+Cartão complexo (tetrapak)
+Plástico filme
+PET, PEAD, PP
+Outros plásticos
+Vidro
+Metais Ferrosos
+Alumínio
+Madeira
+Têxteis
+Têxteis sanitários (fraldas,
+pensos higiênicos)
+Rejeitos/terras/outros
+
+t
+
+42.40%
+5.10%
+3.00%
+1.00%
+8.60%
+5.10%
+2.30%
+2.60%
+1.60%
+0.60%
+1.20%
+3.50%
+8.20%
+14.80%
+
+2025
+154 313
+154 313
+2.2%
+1.3%
+0.55
+
+2026
+157 689
+157 689
+2.2%
+1.4%
+0.56
+
+2027
+161 139
+161 139
+2.2%
+1.5%
+0.56
+
+2028
+164 664
+164 664
+2.2%
+1.6%
+0.57
+
+2029
+168 267
+168 267
+2.2%
+1.6%
+0.58
+
+2030
+171 949
+171 949
+2.2%
+1.7%
+0.59
+
+100%
+30 839
+
+100%
+31 957
+
+100%
+33 139
+
+100%
+34 389
+
+100%
+35 714
+
+100%
+37 119
+
+13 076
+
+13 550
+
+14 051
+
+14 581
+
+15 143
+
+15 739
+
+1 573
+
+1 630
+
+1 690
+
+1 754
+
+1 821
+
+1 893
+
+925
+
+959
+
+994
+
+1 032
+
+1 071
+
+1 114
+
+308
+
+320
+
+331
+
+344
+
+357
+
+371
+
+2 652
+
+2 748
+
+2 850
+
+2 957
+
+3 071
+
+3 192
+
+1 573
+
+1 630
+
+1 690
+
+1 754
+
+1 821
+
+1 893
+
+709
+
+735
+
+762
+
+791
+
+821
+
+854
+
+802
+
+831
+
+862
+
+894
+
+929
+
+965
+
+493
+
+511
+
+530
+
+550
+
+571
+
+594
+
+185
+
+192
+
+199
+
+206
+
+214
+
+223
+
+370
+
+383
+
+398
+
+413
+
+429
+
+445
+
+1 079
+
+1 118
+
+1 160
+
+1 204
+
+1 250
+
+1 299
+
+2 529
+
+2 620
+
+2 717
+
+2 820
+
+2 929
+
+3 044
+
+4 564
+
+4 730
+
+4 905
+
+5 090
+
+5 286
+
+5 494
+
+Tabela 7.4 – Projeção da geração de resíduos total e por categoria (2031-2034)
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+População servida pelo
+aterro (%)
+Marituba
+Geração RSU (t)
+Prod. Por categoria
+
+Matéria Orgânica
+Papel
+Cartão
+Cartão complexo (tetrapak)
+Plástico filme
+PET, PEAD, PP
+Outros plásticos
+Vidro
+Metais Ferrosos
+Alumínio
+Madeira
+Têxteis
+Têxteis sanitários (fraldas,
+pensos higiênicos)
+Rejeitos/terras/outros
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+
+t
+
+42.40%
+5.10%
+3.00%
+1.00%
+8.60%
+5.10%
+2.30%
+2.60%
+1.60%
+0.60%
+1.20%
+3.50%
+8.20%
+14.80%
+
+2031
+175 711
+175 711
+2.2%
+1.8%
+0.60
+
+2032
+179 555
+179 555
+2.2%
+1.9%
+0.61
+
+2033
+183 483
+183 483
+2.2%
+2.0%
+0.63
+
+2034
+187 498
+187 498
+2.2%
+2.1%
+0.64
+
+100%
+38 613
+
+100%
+40 201
+
+100%
+41 894
+
+100%
+43 701
+
+16 372
+
+17 045
+
+17 763
+
+18 529
+
+1 969
+
+2 050
+
+2 137
+
+2 229
+
+1 158
+
+1 206
+
+1 257
+
+1 311
+
+386
+
+402
+
+419
+
+437
+
+3 321
+
+3 457
+
+3 603
+
+3 758
+
+1 969
+
+2 050
+
+2 137
+
+2 229
+
+888
+
+925
+
+964
+
+1 005
+
+1 004
+
+1 045
+
+1 089
+
+1 136
+
+618
+
+643
+
+670
+
+699
+
+232
+
+241
+
+251
+
+262
+
+463
+
+482
+
+503
+
+524
+
+1 351
+
+1 407
+
+1 466
+
+1 530
+
+3 166
+
+3 297
+
+3 435
+
+3 583
+
+5 715
+
+5 950
+
+6 200
+
+6 468
+
+181
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 7.5 – Projeção da geração de resíduos total e por categoria (2034-2038)
+
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+População servida pelo
+aterro (%)
+Marituba
+Geração RSU (t)
+Prod. Por categoria
+
+Matéria Orgânica
+Papel
+Cartão
+Cartão complexo (tetrapak)
+Plástico filme
+PET, PEAD, PP
+Outros plásticos
+Vidro
+Metais Ferrosos
+Alumínio
+Madeira
+Têxteis
+Têxteis sanitários (fraldas,
+pensos higiênicos)
+Rejeitos/terras/outros
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+
+t
+
+42.40%
+5.10%
+3.00%
+1.00%
+8.60%
+5.10%
+2.30%
+2.60%
+1.60%
+0.60%
+1.20%
+3.50%
+8.20%
+14.80%
+
+2035
+191 600
+191 600
+2.2%
+2.2%
+0.65
+
+2036
+195 792
+195 792
+2.2%
+2.3%
+0.67
+
+2037
+200 075
+200 075
+2.2%
+2.4%
+0.68
+
+2038
+204 453
+204 453
+2.2%
+2.5%
+0.70
+
+100%
+45 632
+
+200%
+95 398
+
+300%
+149 747
+
+400%
+209 187
+
+19 348
+
+40 449
+
+63 493
+
+88 695
+
+2 327
+
+4 865
+
+7 637
+
+10 669
+
+1 369
+
+2 862
+
+4 492
+
+6 276
+
+456
+
+954
+
+1 497
+
+2 092
+
+3 924
+
+8 204
+
+12 878
+
+17 990
+
+2 327
+
+4 865
+
+7 637
+
+10 669
+
+1 050
+
+2 194
+
+3 444
+
+4 811
+
+1 186
+
+2 480
+
+3 893
+
+5 439
+
+730
+
+1 526
+
+2 396
+
+3 347
+
+274
+
+572
+
+898
+
+1 255
+
+548
+
+1 145
+
+1 797
+
+2 510
+
+1 597
+
+3 339
+
+5 241
+
+7 322
+
+3 742
+
+7 823
+
+12 279
+
+17 153
+
+6 754
+
+14 119
+
+22 163
+
+30 960
+
+182
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tecnologias de tratamento e valorização de resíduos
+A Lei 12.305/2010, que instituiu a PNRS, dá grande ênfase ao aterro sanitário como
+solução para a gestão de resíduos. No entanto, há um conjunto de outras tecnologias e
+processos que podem ser solução isolada ou associadas.
+No presente capítulo faz-se uma breve descrição de cada uma das tecnologias mais
+comuns em tratamento de resíduos sólidos urbanos.
+
+8.1
+
+Aterro Sanitário
+
+Como se disse, o aterro sanitário é a tecnologia que norteia a PNRS e por isso tem
+grande importância. Por outro lado, as outras tecnologias e processos precisam sempre
+de ter no modelo técnico um aterro como fusível das operações de tratamento ou de
+valorização, porque há sempre refugos a necessitar de local para descarte. Também é
+local de deposição em períodos de manutenção ou reparação dos equipamento de
+outras tecnologias.
+Por definição da NBR 8419 da ABNT de 1992, Aterro sanitário é uma “Técnica de
+disposição de resíduos sólidos urbanos no solo, sem causar danos à saúde pública e à
+sua segurança, minimizando os impactos ambientais, método este que utiliza princípios
+de engenharia para confinar os resíduos sólidos à menor área possível e reduzi-los ao
+menor volume permissível, cobrindo-os com uma camada de terra na conclusão de cada
+jornada de trabalho, ou a intervalos menores, se necessário”. É uma definição
+generalista ultrapassada pela evolução da tecnologia em si e pelas exigências
+legislativas entretanto aprovadas em diversos países e mesmo no Brasil.
+
+Figura 8.1 – Panorama de um aterro sanitário, parte encerado e parte em operação
+
+183
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+No projeto de um aterro sanitário contempla-se normalmente as seguintes áreas: zona
+de apoio com os edifícios técnico-administrativos, armazém e oficina; as células de
+disposição de resíduos, a estação de tratamento de lixiviados (ETL); a unidade de
+tratamento de biogás e as instalações de proteção ambiental: redes de drenagem de
+lixiviados, de águas pluviais e de biogás.
+
+8.2
+
+Tecnologia de Separação de resíduos (Triagem)
+
+Após a coleta, os materiais recuperados secos são transportados para as unidades ou
+centrais de triagem, onde ocorrerá a separação dos materiais específicos, a limpeza e
+o enfardamento/acondicionamento dos materiais para que possam ser devidamente
+comercializados. Essas unidades são equipadas com esteiras ou mesas de catação,
+além de prensas, para reduzir o volume dos materiais secos e facilitar a sua estocagem
+e o transporte.
+A separação de resíduos pode ser feita de forma manual ou por via mecânica (Planta
+de Triagem) com graus de sofisticação variada. As de primeira geração são dotadas de
+ajudas mecânicas como esteiras inclinadas para condução dos resíduos a uma
+plataforma elevada onde se localizam os postos de triagem sobre esteira rolante. Para
+a separação dos ferrosos pode utilizar-se no fim a linha, um separador magnético (íman)
+que capta os metais ferrosos e os desvia da esteira de catação. Na parte inferior da
+plataforma de segregação, se posicionam baias de separação dos diversos materiais,
+com acesso a uma esteira horizontal no piso para acesso à prensa.
+
+Figura 8.2 – Lay-out da Estação de Triagem da Lipor, Portugal
+Fonte: (Lipor/Russo, M. 2020)
+
+184
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+8.3
+
+Tratamento Mecânico e Biológico
+
+Os denominados TM e TMB, são os Tratamentos Mecânicos e os Tratamentos
+Mecânico e Biológico são tecnologias de separação que permitem a segregação dos
+resíduos em orgânicos (restos de alimentos e comidas) e dos inorgânicos (materiais
+com potencial de reciclagem).
+Uma possível rota tecnológica é a que se apresenta na figura a seguir.
+
+Figura 8.3- Fluxograma de tratamento com unidade de Tratamento Mecânico e biológico por
+compostagem (fonte: Russo, M. 2020)
+
+Figura 8.4 – Imagem de uma unidade de separação mecânica de resíduos (fonte: Russo, M. 2020)
+
+185
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+8.4
+
+Compostagem
+
+A compostagem é um processo biológico de decomposição aeróbia da matéria
+orgânica biodegradável dos resíduos sólidos (Marituba apresentou 42%). É um
+processo cujo resultado final é a obtenção de um produto, o composto, que é um
+condicionador do solo, que melhora as suas características físicas, químicas e
+biológicas, além de oferecer entre 5 e 7% de macro e micro nutrientes (Russo,
+M., 2012).
+A NBR 13591/2010 da ABNT define Usina ou Unidade de Compostagem “como uma
+instalação dotada de pátio de compostagem e conjunto de equipamentos eletromecânicos
+destinados a promover e/ou auxiliar o tratamento das frações orgânicas dos resíduos
+domiciliares”.
+
+A compostagem processa-se em duas fases, a primeira é a degradação ativa,
+em que é necessário suprir os microrganismos com oxigênio, haja visto que é
+um processo de degradação da matéria orgânica aeróbio. Este período de
+degradação leva em média cerca de 30 dias, com obrigatoriedade de prover as
+pilhas com oxigênio (de forma estática ou por revolvimento). O revolvimento é
+mecânico, com volteadoras que operam sobre as pilhas com o compostado a
+permanecer na pilha (Figura 8.5).
+
+Figura 8.5 – Tipo de volteadora de composto que revolve a leira e deixa o material na mesma posição
+
+186
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 8.6 – Exemplo de pilha estática arejada (o ar é insuflado por sopradores) (Russo, M., 2012)
+
+Nos sistemas estáticos dimensiona-se a vazão de oxigênio necessário para
+degradar a matéria orgânica, tendo em conta que a fonte de oxigênio é o ar, que
+contém cerca de 21% deste gás.
+O processo da compostagem pode ser classificado de várias maneiras, mas a principal
+é a classificação em sistemas reator e sistemas não-reator (Haug, 1993):
+a) Sistemas não - Reator:
+Pilhas com revolvimento (“windrow”)
+Pilhas Estáticas:
+- sucção de ar;
+- indução de ar;
+- ventilação alternada (sucção e indução) ou híbrido;
+- indução de ar conjugada com controlo da temperatura.
+b) Sistemas Reator:
+Reatores verticais:
+- contínuos
+- descontínuos
+Reatores horizontais ou inclinados:
+- estáticos
+- rotativos
+
+187
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Parâmetros de controle operacional:
+A compostagem é controlada através de diversos parâmetros, sendo que em termos
+operacionais são importantes . (i) a temperatura, que não deve ser superior a 58ºC, para
+evitar a morte de microrganismos aeróbios que não são termotolerantes, (ii) o teor de
+umidade, que deve estar na faixa de 40 a 60%, uma vez que a água é um fator limitante
+do processo e (iii) teor de oxigênio, uma vez que é aeróbio o processo, é necessário
+suprir a DBO (demanda bioquímica de oxigênio).
+
+8.5
+
+Combustível Derivado de Resíduos (CDR)
+
+Os resíduos sólidos urbanos contêm cerca de 30 a 38% de materiais que podem ser
+reciclados, preservando-se assim a utilização de recursos naturais. Porém, para que
+estes sejam preservados em grande escala exige-se que a sua coleta seja seletiva, uma
+vez que na coleta indiferenciada há conspurcação destes materiais com resíduos
+orgânicos biodegradáveis que os inviabilizam para encaminhamento para a indústria de
+reciclagem, ou apenas em limitadas situações tal é possível. As unidades de separação
+mecânica (TM e TMB) fazem a separação, porém o aproveitamento dos recicláveis é
+limitada a 5 a 12%, normalmente condicionado à percentagem de matéria orgânica
+existente nos resíduos coletados e da sua umidade.
+
+Figura 8.7 – Fluxo dos resíduos urbanos numa unidade de tratamento mecânico de separação (fonte:
+Russo, M. 2020)
+
+Quanto maior a percentagem de materiais orgânicos e de umidade, menor o sucesso
+na separação dos materiais recicláveis.
+
+188
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+O que sobra da separação de orgânicos biodegradáveis e de recicláveis (papelão,
+plásticos, metais e vidros) é refugo com adequado PCI para valorização em processos
+térmicos, em vez de ser depositado em aterros sanitários.
+O CDR – Combustível derivado de resíduo, é um combustível sólido preparado a partir
+de resíduos não perigosos para utilização em unidades de incineração e co-incineração
+(NP 4486:2008). Código 19 12 10 da Lista Europeia de Resíduos.
+No Brasil, o CDR é definido na Lista Brasileira de Resíduos Sólidos, publicada na
+Instrução Normativa N˚ 13/2.012 do IBAMA, pelo código 19.12.10.
+o CDR é produzido a partir de resíduos urbanos não perigosos, em instalações
+industriais mecanizadas, a partir de operações de tratamento mecânico (segregação de
+orgânicos e não orgânicos, seguido de trituração. Os resíduos para o CDR têm um PCI
+(poder calorífico inferior) com potencial para a produção de energia elétrica após
+utilizado como combustível em unidades de geração (motogeradores) ou em processos
+térmicos, como a incineração ou a pirólise.
+Para a produção do CDR também podem ser utilizados resíduos oriundos dos setores
+da indústria e do comércio, constituídos maioritariamente de plástico, papel, borracha,
+madeira, têxteis, entre outros, rejeitados em processos de reciclagem multimaterial.
+
+8.6
+
+Pirólise
+
+A pirólise é um processo de conversão térmica em atmosfera pobre em oxigênio, que
+implica na rotura de ligações C-C e na formação de ligações carbono-oxigênio, ou seja,
+a pirólise é um processo de oxidação-redução na qual uma parte da biomassa é
+reduzida a carbono e a outra parte, é oxidada e hidrolisada dando origem a fenóis,
+carboidratos, álcoois, aldeídos, cetonas e ácidos carboxílicos. Esses produtos primários
+combinam-se entre si para dar moléculas mais complexas tais como ésteres, produtos
+poliméricos.
+Tratando-se de uma degradação térmica em uma atmosfera com deficiência de
+oxigênio, a pirólise minimiza as emissões de poluentes formados em atmosfera
+oxidante, tais como as dioxinas e os furanos, que constitui-se como uma grande
+vantagem em relação à incineração.
+
+189
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 8.8 – Fluxograma de uma unidade de valorização energética por pirólise, incluído o pré-tratamento
+e preparação do CDR para alimentação dos reatores pirolíticos (fonte: Russo, M. 2020)
+
+8.7
+
+Incineração
+
+As três principais tecnologias de incineração são (i) - a incineração denominada “mass
+burning”, por grades fixas ou móveis, (ii) incineração com fundo em leitos fluidizados e
+(iii) incineração em fornos rotativos. As mais utilizadas para tratamento de resíduos
+urbanos são as duas primeiras, ou seja, por grades e leitos fluidizados. Destas, sem
+dúvida que a dominante é a mass burning de grades móveis.
+
+Figura 8.9 – corte de uma incineradora evidenciando a área de combustão e área de tratamento de gases
+
+Sobretudo a partir de 1970 é que se começou a reconhecer as vantagens da combustão
+em leito fluidizado, sobretudo devido às baixas temperaturas de operação (800-900 ºC)
+190
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+e à possibilidade de retenção de SO2, através do uso de adsorventes diretamente no
+leito, evitando a necessidade de dispendiosos equipamentos de dessulfurização dos
+gases de exaustão.
+Tal como outras tecnologias de tratamento de resíduos, a incineração põe problemas
+diversos no que toca à poluição potencial, cujo grau depende da tecnologia utilizada. As
+principais saídas do processo são escórias e cinzas, lixiviados da fossa de receção de
+resíduos e os gases da combustão.
+As escórias e cinzas constituem a fração sólida a tratar, normalmente deposição com
+ou sem pré-tratamento em aterro adequado. O lixiviado constitui uma emissão líquida a
+tratar que responde por 12% a 23% do volume entrado na instalação, proveniente dos
+resíduos depositados nas fossas de alimentação da instalação, normalmente ali
+depositados durante mais de 3 dias, devido à pressão a que estão sujeitas as camadas
+inferiores e ao teor de humidade dos mesmos (bastas vezes superiores a 50%).
+As emissões gasosas são provenientes da queima e que saem pela chaminé. Estas
+emissões gasosas são constituídas por matéria particulada que sai pela chaminé
+conjuntamente com dióxido de carbono, NOx, dioxinas, furanos, PCBs e metais
+pesados, entre outros. Estes gases constituem uma das desvantagens da queima de
+resíduos por serem considerados resíduos perigosos.
+Com efeito, a matéria particulada inalável causa problemas respiratórios. As dioxinas,
+furanos e PCBs são cancerígenos. O mercúrio e outros metais pesados são tóxicos e o
+dióxido de carbono e o NOx, entre outros, são gases de efeito de estufa.
+Diante desta realidade, os fabricantes de incineradoras começaram a incorporar
+sistemas sofisticados de lavagem de gases, sobretudo a partir de 1990, para mitigar os
+efeitos nefastos deste tipo de tratamento e também porque a legislação começou a ser
+cada vez mais restritiva no que toca à qualidade das emissões descarregadas.
+Com efeito, hoje em dia na Europa, as incineradoras operam sob restrita legislação e
+regulamentação utilizando tecnologias em que o Estado da Arte da Tecnologia reduziu
+drasticamente os perigos das emissões, sobretudo das gasosas.
+A redução de volume de resíduos após o tratamento situa-se entre 90% (leitos
+fluidizados) e 80% (incineração por grades), sendo uma das grandes vantagens para
+diversos contextos. Em termos de massa a redução é de cerca de 70%.
+Nos leitos fluidizados é preciso ter em conta o consumo energético para o prétratamento que na maior parte dos casos se exige com a prévia trituração dos resíduos
+antes da carga do forno.
+191
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Os gases de combustão são recirculados para a câmara de combustão para redução
+das emissões de NOx.
+O dióxido de carbono e o carbono orgânico podem ser regulados por controlo da
+combustão.
+O enxofre e cloretos de hidrogénio são removidos através da adição de cal hidratada ou
+leite de cal, consoante o sistema de lavagem de gases seja por via seca ou húmida.
+Para a absorção de dioxinas, furanos, PCBs, mercúrio e outros metais pesados é
+utilizado um sistema com carvão ativado.
+Os gases depois dos processos de lavagem antes da saída pela chaminé ainda passam
+por um sistema de filtragem (precipitadores electrostáticos) para separação de material
+particulado remanescente.
+
+192
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Modelos tecnológicos de tratamento de resíduos para Marituba
+A rota tecnológica para a gestão de resíduos de Marituba contempla a coleta seletiva
+de resíduos orgânicos e resíduos recicláveis e o tratamento dos resíduos coletados de
+forma indiferenciada.
+Foram estudadas soluções individuais e soluções em consórcio de municípios da RMB,
+como acontece atualmente e até ao encerramento das atividades do aterro sanitário da
+empresa Guamá.
+Estima-se que o município de Marituba tenha uma população de cerca de 135 mil
+habitantes, que produzem cerca de 80 t/dia de resíduos urbanos, incluindo domiciliares,
+comerciais e entulhos de construção civil e resíduos de limpeza urbana, em que cerca
+de 60 t/dia são depositados no aterro sanitário da GUAMÁ, segundo registros da
+empresa, que correspondem à coleta indiferenciada realizada no município.
+O aterro sanitário implantado no município, da empresa Guamá, tem os seus dias de
+operação contados, com a decretação judicial do término a 31 de maio de 2021, devido
+ao esgotamento da sua capacidade de recepção de resíduos, entre outras razões.
+O município de Marituba busca soluções isoladas ou em consórcio para a solução de
+gestão dos resíduos, para fazer face ao problema gerado com o fim da operação do
+referido aterro.
+O enfoque é a coleta seletiva de resíduos orgânicos e recicláveis e, para os resíduos
+indiferenciados, de entre soluções passíveis de serem implementadas, foram
+consideradas as seguintes: (i) aterro sanitário; (ii) Pirólise, com pré-tratamento
+(separação de orgânicos e inorgânicos, desidratação, trituração, preparação de CDR);
+(iii) TMB, com compostagem e aterro de retaguarda.
+
+9.1
+
+Coleta seletiva de materiais
+
+A gestão de resíduos de Marituba será conduzida pela mudança de paradigma na
+relação da população com os resíduos, através do incremento da coleta seletiva de
+resíduos orgânicos e resíduos recicláveis, por meio das cooperativas do município que
+serão fortalecidas com apoio da Prefeitura Municipal.
+Prevê-se a construção de um ecocentro com capacidade de recepção volumétrica de
+48 m3, a implantação de 15 ecopontos (Pontos de Entrega Voluntária) de resíduos, onde
+os munícipes e pequenos comerciantes podem entregar os seus resíduos devidamente
+segregados por componente reciclável.
+
+193
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 9.1 – PEV instalado no bairro Viver Melhor, Marituba
+
+A implantação do projeto de coleta seletiva de resíduos orgânicos atingirá uma
+população de cerca de 24 mil habitantes na primeira fase.
+A implantação do Ecocentro em Marituba será uma sinalização à população do
+município relativamente à política que a Prefeitura de Marituba pretende adotar, no
+cumprimento da legislação nacional no domínio dos resíduos sólidos.
+A SEMMA já cadastrou catadores e providenciou formação, assim como forneceu os
+carrinhos para a coleta porta-a-porta, como se pode constatar na figura a seguir.
+
+Figura 9.2 – Carrinho para os catadores d Marituba, no Bairro Viver Melhor, fornecidos pela Prefeitura de
+Marituba (fonte: Russo, M.)
+
+194
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 9.3 – Planta do Ecocentro projetado para Marituba (autor: Russo, M.)
+
+Figura 9.4 – Perspectiva 3D do ecocentro de Marituba
+
+9.2
+
+O aterro sanitário
+
+O aterro sanitário é uma das tecnologias previstas na Lei 12.305/2010 como solução
+para os resíduos sólidos no Brasil, dado que pode receber a totalidade dos resíduos
+195
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+gerados ou uma percentagem deles, consoante a nível de coleta seletiva que
+gradualmente venha a ser implementada.
+Com base na população e na capitação de RSU e estimativa das respetivas taxas de
+crescimento, estimou-se o volume de resíduos em 20 anos de operação do aterro
+sanitário, conforme se apresenta nas Tabelas a seguir.
+Tabela 9.1- Geração de resíduos dispostos de 2019 a 2038 em aterro sanitário
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+Geração RSU (t)
+Prod RSU diária (t/dia)
+Volume RSU ANUAL
+Vol terras
+Vol Acum. Em Aterro Sanitário (m3)
+
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+Geração RSU (t)
+Prod RSU diária (t/dia)
+Volume RSU ANUAL
+Vol terras
+Vol Acum. Em Aterro Sanitário (m3)
+
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+Geração RSU (t)
+Prod RSU diária (t/dia)
+Volume RSU ANUAL
+Vol terras
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+t
+t/dia
+m3
+m3
+
+2019
+135 521
+135 521
+2.2%
+1.0%
+0.44
+21 765
+59.63
+27 206
+3 809
+
+2020
+138 486
+138 486
+2.2%
+1.1%
+0.44
+22 474
+61.57
+28 093
+3 933
+
+2021
+141 516
+141 516
+2.2%
+1.1%
+0.45
+23 219
+63.61
+29 024
+4 063
+
+m3
+
+31 015
+
+63 041
+
+96 128
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+t
+t/dia
+m3
+m3
+m3
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+t
+t/dia
+m3
+m3
+
+Vol Acum. Em Aterro Sanitário (m3)
+
+m3
+
+Designação
+População
+Marituba
+tx cresc população
+Taxa crescimento capitação
+Capitação (kg/hab/dia)
+Geração RSU (t)
+Prod RSU diária (t/dia)
+Volume RSU ANUAL
+Vol terras
+
+Unid
+hab
+hab
+%
+%
+kg/hab dia
+t
+t/dia
+m3
+m3
+
+Vol Acum. Em Aterro Sanitário (m3)
+
+m3
+
+2022
+144 612
+144 612
+2.2%
+1.2%
+0.45
+24 002
+65.76
+30 002
+4 200
+130 331
+
+2023
+147 776
+147 776
+2.2%
+1.2%
+0.46
+24 825
+68.01
+31 032
+4 344
+165 707
+
+2024
+151 009
+151 009
+2.2%
+1.3%
+0.47
+25 692
+70.39
+32 115
+4 496
+
+2025
+154 313
+154 313
+2.2%
+1.3%
+0.47
+26 606
+72.89
+33 258
+4 656
+
+2026
+157 689
+157 689
+2.2%
+1.4%
+0.48
+27 571
+75.54
+34 463
+4 825
+
+2027
+161 139
+161 139
+2.2%
+1.5%
+0.49
+28 590
+78.33
+35 738
+5 003
+
+2028
+164 664
+164 664
+2.2%
+1.6%
+0.49
+29 669
+81.28
+37 086
+5 192
+
+202 318
+
+240 232
+
+279 520
+
+320 261
+
+362 539
+
+2029
+168 267
+168 267
+2.2%
+1.6%
+
+2030
+171 949
+171 949
+2.2%
+1.7%
+
+2031
+175 711
+175 711
+2.2%
+1.8%
+
+2032
+179 555
+179 555
+2.2%
+1.9%
+
+2033
+183 483
+183 483
+2.2%
+2.0%
+
+0.50
+30 812
+84.42
+38 515
+5 392
+
+0.51
+32 025
+87.74
+40 031
+5 604
+
+0.52
+33 313
+91.27
+41 641
+5 830
+
+0.53
+34 684
+95.02
+43 355
+6 070
+
+0.54
+36 144
+99.03
+45 180
+6 325
+
+406 446
+
+452 081
+
+499 552
+
+548 976
+
+600 482
+
+2034
+187 498
+187 498
+2.2%
+2.1%
+0.55
+37 703
+103.30
+47 129
+6 598
+
+2035
+191 600
+191 600
+2.2%
+2.2%
+0.56
+39 369
+107.86
+49 211
+6 890
+
+2036
+195 792
+195 792
+2.2%
+2.3%
+0.58
+41 152
+112.75
+51 440
+7 202
+
+2037
+200 075
+200 075
+2.2%
+2.4%
+0.59
+43 065
+117.98
+53 831
+7 536
+
+2038
+204 453
+204 453
+2.2%
+2.5%
+0.60
+45 119
+123.61
+56 398
+7 896
+
+654 208
+
+710 309
+
+768 950
+
+830 317
+
+894 612
+
+Produção de resíduos (kg/dia) = População x capitação (kg/hab.dia).
+A projeção do crescimento da população foi realizado com base em dados oficiais como
+o IBGE.
+
+196
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Pré-dimensionamento do aterro sanitário
+Volume de resíduos acumulado em 20 anos, incluindo terras de cobertura à taxa de
+14% = 894.612 m3.
+Área do aterro, assumindo altura do maciço de resíduos de 24.00m e taludes externos
+1:2 = 74.000 m2, em que já está considerado 25% para áreas de implantação de: (i)
+portaria, (ii) balança, (ii) edifício técnico administrativo, (iii) galpão para oficina e
+armazém e (iv) área de tratamento de lixiviados.
+Estimativa de custos:
+•
+
+Estimativa de custo de construção = R$ 8.000.000,00;
+
+•
+
+Estimativa do custo de operação durante 20 anos = R$ 68.700.000,00;
+
+•
+
+Custo de encerramento e pós-encerramento (20 anos) = R$ 39.062.280,00
+
+•
+
+Preço por tonelada (preço atual) = R$ 165.00/ t.
+
+•
+
+Custo anual com a destinação de resíduos no município em aterro municipal:
+R$ 3.613.500,00
+
+•
+
+9.3
+
+Custo anual por habitante: R$ 26,60
+
+Modelo Técnico: TMB com compostagem e produção de CDR
+
+Proposta de solução com base na minimização de resíduos em aterro sanitário baseado
+em tratamento mecânico e biológico (TMB), compostagem e produção de CDR, cujo
+fluxograma se apresenta a seguir. Considerado capacidade de 70 t/dia, para fazer face
+ao crescimento futuro.
+O modelo proposto é constituído por:
+•
+
+•
+•
+•
+
+1 Unidade TMB 70t/dia, onde se separam resíduos orgânicos, que demandam
+a unidade de compostagem, e resíduos inorgânicos, que são encaminhados
+para a trituração;
+1 unidade de compostagem 28.6t/d;
+1 unidade de produção de CDR 34.3 t/d
+1 aterro sanitário de rejeitos 4.64 t/d
+
+Apresenta-se no esquema da Figura a seguir o fluxograma de massas do modelo
+para Marituba. A massa de resíduos considerada de 70 t/dia, pressupõe maior
+dinâmica na coleta de resíduos do que aquela que se observa hoje, devido à
+falta de equipamentos, como se observou e reportou no diagnóstico do PGIRS
+do município.
+
+197
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Compostagem (28,6
+t/d)
+Orgânico (30,1t/d)
+Refugo Aterro (1,47
+t/d)
+
+Reciclável (3,5 t/d)
+
+Reciclagem
+
+Refugo aterro (2,1
+t/d)
+
+Aterro Sanitário
+(4.64 t/d)
+
+TMB (70t/d)
+
+Venda Cimenteiras
+CDR (34,3 t/d)
+Refugo Aterro (1.07
+t/d)
+
+Figura 9.5- fluxograma de tratamento de resíduos com TMB, compostagem e CDR
+
+Considerou-se nesta solução de TMB, o incremento da coleta de resíduos.
+
+Investimentos previstos
+Tabela 9.2 – Resumo financeiro dos investimentos e operação da solução TMB (autor:Russo, M.)
+
+CAPEX
+Unitário
+Projetos da Usina de
+tratamento
+TMB
+Compostagem
+CDR
+Aterro Sanitário
+TOTAL
+
+R$
+R$
+R$
+R$
+R$
+
+OPEX
+Sub-total
+
+200 000 R$
+6 835 100
+6 307 000
+2 929 900
+1 200 000
+
+Unitário
+
+Sub-total
+
+Total anual
+
+R$ 1 452 000
+R$ 140 000
+R$ 180 000
+R$ 180 000
+
+R$ 1 452 000
+R$ 140 000
+R$ 180 000
+R$ 180 000
+R$ 1 952 000
+
+R$ 4 214 704
+
+200 000
+
+R$ 6 835 100
+R$ 6 307 000
+R$ 2 929 900
+R$ 1 200 000
+R$ 17 472 000
+
+OBS: o total anual de R$ 4.214.704,00 refere-se ao valor anual da amortização
+acrescido das despesas de operação (OPEX).
+
+198
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Pressupostos financeiros
+Investimento (CAPEX)
+Tempo amortização (anos)
+Taxa bancária/ano
+Valor do Investimento (atual)
+Anuidade
+
+Variáveis
+10
+5%
+R$
+
+17 472 000
+
+R$
+
+2 262 704
+
+Receita anual (valor atual) esperada na venda dos produtos: R$ 1.265.900,00
+Tarifa por tonelada de resíduos tratado: R$ 137,20
+Custo anual da Prefeitura com o tratamento de resíduos sólidos = R$ 3.004.680,00
+Custo anual por habitante: R$ 22,17.
+
+9.4
+
+Modelo técnico de tratamento por pirólise com pré-tratamento
+
+O modelo técnico de tratamento por pirólise é constituído por um reator de pirólise que
+recebe os resíduos na forma de CDR (combustível derivado de resíduo) provenientes
+do TM (tratamento mecânico, onde se processa a separação de resíduos orgânicos
+biodegradáveis dos resíduos inorgânicos (refugos desta fase do pré-tratamento).
+Os resíduos inorgânicos são objeto de uma separação macroscópica numa mesa de
+separação manual com 2 operadores, seguindo por esteira para a trituração em
+dimensão de 5 cm, para a preparação de CDR, para alimentação do reator pirolítico de
+batelada.
+O CDR é produzido a partir de operações de tratamento mecânico (trituração) de
+resíduos não perigosos, com valor energético, sendo definido na Lista Brasileira de
+Resíduos Sólidos, publicada na Instrução Normativa N˚ 13/2.012 do IBAMA, pelo código
+19.12.10.
+Para a produção do CDR usualmente são utilizados resíduos constituídos
+maioritariamente de plástico, papel, borracha, madeira, panos, entre outros, não
+viabilizados/rejeitados em processos de reciclagem multimaterial.
+Mediante operações de trituração e mistura obtém-se um material com característica
+homogênea, o CDR, cuja qualidade e valor são avaliados considerando o teor de
+umidade, que deve ser inferior a 15%. Alguns reatores aceitam até umidade de 20%,
+porém prejudica a performance de produção dos produtos finais (combustíveis). A sua
+característica homogênea também é avaliada. O poder calorífico inferior também é
+definido com patamar mínimo ≥ 3583 kcal/kg na base seca; baixos teores de cloro
+199
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+(<1%), de enxofre e metais. O CDR é o combustível para alimentação do reator de
+pirólise.
+
+Figura 9.6 – Esquema de unidade de pirólise (fonte: BG)
+
+Separação Mecânica e Unidade de preparação de CDR
+A produção de CDR pressupõe uma separação prévia dos resíduos, desidratação e
+trituração, cujo funcionamento, resumidamente, é o seguinte:
+Após a inspeção inicial, os resíduos são triturados e em seguida passam por um sistema
+de peneiras com malhas de 50/80mm e 150 mm. A fração fina (< 50/80 mm) segue para
+o tratamento biológico para compostagem.
+A fração grossa passa por uma separação magnética (remoção de metais ferroso) e
+separador balístico (remoção de materiais inertes). Além destes processos
+automatizados, o material passa por uma esteira onde dois funcionários removem
+determinados resíduos prejudiciais à produção do CDR, como é o caso do PVC (para
+diminuir o teor de cloro na unidade de CDR). O objetivo principal da etapa de tratamento
+mecânico é recuperar a maior quantidade possível de resíduos com alto poder calorífico,
+e desta forma, conseguir produzir um CDR de alta qualidade.
+A etapa biológica é a compostagem, onde se processa uma desidratação biológica, pela
+ação dos microrganismos presentes no processo.
+200
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+A fração resto, tem alto poder energética (PCI), é encaminhada para a unidade de
+preparação do CDR, iniciando-se com a trituração e separação por componentes para
+o processo de mistura e afinação do PCI, seguindo em fluff (granel) para a alimentação
+do reator pirolítico.
+
+Figura 9.7 – Perspectiva 3D de unidade de tratamento Mecânico (segregação de resíduos). Fonte: Ghofle
+
+Apresenta-se na Tabela a seguir o resumo do CAPEX e OPEX do modelo técnico
+“Pirólise”:
+Tabela 9.3 – Resumo financeiro da solução de tratamento por Pirólise
+CAPEX
+Quant
+Projetos da Usina de
+tratamento
+TMB
+Planta CDR
+Compostagem
+Pirólise
+Aterro Sanitário
+TOTAL
+
+1
+1
+1
+1
+1
+1
+
+Unitário
+R$
+R$
+R$
+R$
+R$
+R$
+
+OPEX
+Sub-total
+
+200 000 R$
+6 777 500
+3 456 281
+4 058 000
+3 314 669
+1 200 000
+
+Unitário
+
+Sub-total
+
+Total anual
+
+R$ 974 725
+R$ 180 000
+R$ 140 000
+R$ 423 765
+R$ 345 940
+R$ 2 064 430
+
+R$ 3 895 555
+
+200 000
+
+R$ 6 777 500
+R$ 3 456 281
+R$ 4 058 000
+R$ 3 314 669
+R$ 1 200 000
+R$ 19 006 450
+
+R$
+R$
+R$
+R$
+R$
+
+974 725
+180 000
+140 000
+423 765
+345 940
+
+Preço final do tratamento por tonelada de resíduos entrados na instalação: R$129,00.
+Custo anual da Prefeitura com o tratamento de resíduos: R$ 2.825.100,00
+Como se pode observar pelos estudos realizados, o custo por tonelada de resíduos
+tratados em soluções municipais, é elevado, como se pode observar na Tabela.
+
+201
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 9.4 - Resumo das soluções individualizadas para Marituba (fonte: Russo, M.)
+
+CAPEX
+Aterro sanitário
+TM + compostagem e CDR
+TM + CDR+ Pirólise
+
+9.5
+
+OPEX
+
+Preço /Ton
+
+R$ 8 038 040
+
+R$ 5 388 728
+
+R$ 165
+
+R$ 17 472 000
+
+R$ 1 952 000
+
+R$ 137
+
+R$ 19 006 450
+
+R$ 2 064 430
+
+R$ 129
+
+Preço /hab
+R$ 26.66
+R$ 22.17
+R$ 20.84
+
+Solução em consórcio da RMB
+
+Pelo fato de Marituba sedear o atual aterro da empresa Guamá, não paga pela
+deposição dos seus resíduos nessa infraestrutura, o que torna uma solução individual
+ainda mais penalizadora para as finanças do município.
+Apesar deste aspecto particular, os valores encontrados eram esperados, devido à falta
+de escala econômica para municípios pequenos, como é o caso de Marituba. Nesse
+sentido, a integração do tratamento de resíduos de Marituba no âmbito de uma solução
+regional mostra-se a de maior sustentabilidade social e ambiental para Marituba.
+O município de Marituba tem encetado esforços no sentido de se resolver o problema
+dos resíduos da Região metropolitana, patrocinando estudos de viabilidade, de que se
+apresenta o resumo geral:
+
+Solução aterro sanitário metropolitano
+Custo estimado de construção: R$ 48.816.000,00;
+Designação
+Construção do aterro (inclui preço terreno) *
+Unidades de Tratamento lixiviados
+Total CAPEX
+OPEX
+Total Anual
+Resíduos por dia (t)
+Resíduos por ano (Belém e Ananindeua)
+Custo bruto Por tonelada
+Custo OPEX tratamento lixiviado
+Impostos
+Encerramento do aterro e pós encerramento
+Margem financeira acionista
+PREÇO FINAL por tonelada
+
+Valor
+Amortização 10 anos
+R$ 51 523 378.75
+R$ 39 860 000.00
+R$ 91 383 378.75
+R$ 11 834 565.62
+R$ 19 661 754.58
+R$ 19 661 754.58
+R$ 31 496 320.21
+1 400
+462 455
+R$ 68.11
+R$ 7.80
+9.5%
+R$ 7.21
+14.0%
+R$ 10.63
+7%
+R$ 6.56
+R$ 100.31
+
+( *) admite-se preço de terreno rural para implantação do aterro metropolitano.
+É necessário uma área de terreno de 200 hectares, no mínimo, para a implantação de
+um aterro para a região metropolitana de Belém para operar por um período de 30 anos,
+
+202
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+incluindo infraestruturas de apoio e complementares assim como áreas perimétricas de
+proteção ambiental.
+
+Solução Pirólise
+A solução de pirólise inclui o pré-tratamento de separação de resíduos orgânicos e
+inorgânicos, a desidratação e trituração dos resíduos, bem como a unidade de
+preparação de CDR, cujo fluxograma se apresenta a seguir.
+
+Figura 9.8 – Fluxograma do modelo técnico proposto com solução pirolítica (fonte: Russo, M.)
+
+Os resíduos antes de serem processados em reator pirolítico, na ausência de
+oxigênio, são submetidos a separação mecanizada, triturados e desidratados.
+Tabela 9.5 Resumo da estimativa de custos envolvidos na solução
+
+Designação
+CAPEX total (*)
+OPEX/ano
+Receita estimada por ano
+Custo por tonelada (bruto)
+Impostos por tonelada
+Remuneração do acionista
+Custo final por tonelada (Tarifa)
+
+Valor
+R$ 218 558.000
+R$ 2 967 900
+R$ 32 030 000
+R$ 81,19
+R$ 7.71
+R$ 6.48
+R$ 95,38
+
+Amortização anual
+R$ 28 304 350,00
+
+(*) sendo soluções que envolvem a aquisição de equipamentos, maioritariamente
+estrangeiros, estão sujeitos a flutuações derivadas do câmbio. (considerado câmbio
+Real x US $ = R$ 3.60)
+O valor da tarifa encontrado é semelhante ao custo que as Prefeituras têm com o
+tratamento no aterro da Guamá.
+Nestas circunstâncias, o custo anual para a Prefeitura de Marituba seria de: R$
+2.088.822,00. Não se considerou a possibilidade do município não pagar a tarifa de
+203
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+tratamento devido a compensação por ter hospedado o aterro sanitário no su município
+por mais de 7 anos.
+Esta estimativa não é um estudo de viabilidade técnica e econômica, nem lhe substitui
+na tomada de decisão, porque não cabe num plano de gestão integrada de resíduos
+sólidos realizar um tal estudo em profundidade, mas apontar tendências, reforçando a
+necessidade de aprofundamento dos estudos preliminares na vertente financeira.
+
+9.6
+
+Principais condicionantes
+
+O grande inimigo da solução é o tempo de implementação de uma solução sustentável
+de longo termo, devido às tarefas a desenvolver até ao início de operação de uma nova
+solução, desde elaboração de planos, estudos de viabilidade, projetos, licenciamentos
+ambientais e industriais, licitações, construção, tempos perdidos nos portos, tempos de
+aprovações de fases intermediárias do projeto entre outros aspetos.
+
+Solução emergencial preconizada
+Levando em consideração o tempo necessário para definir uma nova solução, projetar
+e implementar, considerando, também, que em 31 de maio de 2021 se encerra o aterro
+da empresa Guamá, os municípios têm de estar preparados para uma solução de
+emergência enquanto não entre em funcionamento pleno a nova solução.
+Dada a sensibilidade social que o aterro gerou, prevê-se uma solução mais limpa com
+a prévia compactação por prensagem dos resíduos, seguido do seu envelopamento com
+filme plástico, cujo esquema é o que se apresenta na Figura a seguir.
+
+Figura 9.9 – Planta de implantação de 4 enfardadeiras e esquema do fluxo dos resíduos até à célula do
+aterro (um dos exemplos estudados para solução de emergência). Fonte: Russo, M.2020
+
+A presente sugestão é apenas o debruçar sobre um problema que será colocado
+aos municípios que atualmente utilizam o aterro de Marituba para descarte dos
+204
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+seus resíduos. Não é um estudo aprofundado, mas o levantamento de hipótese
+de solução emergencial, em caso de se verificar que o tempo disponível não é
+suficiente para o estabelecimento de uma solução definitiva e, dos estudos já
+realizados em que apontam para cerca de 3 anos até 4 anos para o cumprimento
+de todas as tarefas necessárias até que a solução técnica esteja apta a receber
+resíduos.
+
+9.7
+
+Solução para o consórcio
+
+Esta atividade será realizada em pavilhão de 3600 m2 coberto, aberto lateralmente, com
+um fosso de recepção de resíduos (tipo incineração), movimentados por 2 garras em
+pórtico com ponte rolante que alimentam 4 máquinas enfardamento e envelopamento.
+Os fardos são carregados com carregadoras de pinças que os coloca na plataforma de
+reboque estacionado junto das enfardadeiras. A outra plataforma estará na célula de
+aterro para descarregar os fardos. O reboque (cavalo mecânico) transporta as
+plataformas entre o pavilhão de enfardamento e a célula de aterro para deposição.
+Enquanto uma plataforma estrado está a ser carregada, a outra plataforma já está junto
+à célula de aterro a descarregar, liberando o cavalo mecânico para se deslocar à zona
+de carga para transportar a plataforma carregada.
+Tabela 9.6 – Resumo financeiro da solução de emergência
+
+Designação
+Construção da célula de aterro
+Equipamentos de Enfardamento (*)
+Construção Civil
+Máquinas e equipamentos de apoio
+Tratamento lixiviado OR
+Total CAPEX
+OPEX
+Total Anual
+Custo bruto Por tonelada
+Custo OPEX tratamento lixiviado
+Impostos
+Encerramento do aterro
+Despesas administrativas
+Margem financeira acionista
+PREÇO FINAL por tonelada
+
+Valor
+R$ 14 204 521.70
+R$ 14 100 000.00
+R$ 3 195 600.00
+R$ 4 740 000.00
+R$ 7 500 000.00
+R$ 43 740 121.70
+R$ 10 819 016.00
+
+10%
+14.0%
+4.0%
+8%
+
+Amortização 3 anos
+
+R$ 16 667 246.23
+R$ 10 819 016.00
+R$ 27 486 262.23
+R$ 57.93
+R$ 7.80
+R$ 6.57
+R$ 8.11
+R$ 2.95
+R$ 5.81
+R$ 89.17
+
+(*) considerado câmbio R$ x US$ = 3,60
+205
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+A estimativa produzida é um estudo preliminar financeiro, com consulta aos
+fabricantes e dados fornecidos por agentes de transporte internacional. Não se
+substitui a um estudo detalhado para efeitos de tomada de decisão, como de
+resto deve ser sempre que é preciso tomar uma decisão deste tipo e em seio de
+um colegiado constituído pelos municípios envolvidos. No entanto, as
+estimativas desenvolvidas para este PGIRS de Marituba são baseadas em
+estudos prévios que não se reproduzem neste documento.
+
+9.8
+
+Solução Emergencial para Marituba
+
+A solução para Marituba em caso emergencial será igualmente de enfardamento e
+envelopamento dos resíduos com filme plástico. Uma unidade de envelopamento de 20
+fardos por hora de capacidade de processamento. Cada fardo tem cerca de 1,2
+toneladas e o equipamento necessitará de operar apenas 3 horas por dia para suprir a
+quantidade de resíduos que chegarão à unidade por dia.
+
+O local para a instalação desta unidade será no Parque Industrial de Marituba,
+ocupando uma área de 4.200 m2, com pavilhão coberto de 1600 m2. A célula de
+aterro ocupará cerca de 1,5 hectares.
+Apresenta-se o resumo financeiro do investimento e de operação de
+emergência.
+Tabela 9.7- Resumo financeiro da solução de envelopamento de resíduos para Marituba
+Resumo Business Plan
+Sistema de enfardamento e envelopamento
+Cobertura p/ máquina enfardamento
+Célula de aterro sanitário p/ fardos
+Caminhão estrado
+Empilhador telescópico
+Pá carregadora c/ pinças
+TOTAL
+Impostos incidentes
+Remuneração acionista
+
+CAPEX
+
+OPEX
+
+R$ 3 168 000
+
+Anuidade
+CAPEX
+
+Custo Anual
+Capex + Opex
+
+R$ 739 992 R$ 731 728
+
+R$ 1 471 720
+
+R$ 221 312 R$ 422 222
+
+R$ 643 534
+
+R$ 560 000
+
+R$ 0
+
+R$ 1 828 000
+R$ 400 000
+
+R$ 40 000
+
+R$ 40 000
+
+R$ 400 000
+
+R$ 40 000
+
+R$ 40 000
+
+R$ 450 000
+
+R$ 40 000
+
+R$ 6 806 000
+
+Sub-total
+
+R$ 1 081 304 R$ 1 153 950
+
+R$ 40 000
+R$ 2 235 254
+
+Preço por tonelada
+
+R$ 89.41
+R$ 8.49
+R$ 7.15
+R$ 105.06
+
+Esta solução implica o pagamento anual de R$ 2.300.814,00, que corresponde
+a cerca de R$ 17,00 por habitante por ano.
+Esta despesa será realizada durante o período de gestação de uma solução
+metropolitana em que Marituba será inserida, estimado em cerca de 3 anos.
+206
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+9.9
+
+CARACTERIZAÇÃO GRAVIMÉTRICA DE RESÍDUOS SÓLIDOS
+
+Metodologia de caracterização dos resíduos sólidos
+A campanha de campo de caracterização dos resíduos decorreu durante 2
+meses, segundo a seguinte metodologia, apresentada pelo Coordenador do
+PGIRS, Prof. Mário Russo.
+1 - Introdução
+A gestão dos resíduos sólidos urbanos impõe hoje em dia um conhecimento
+sistemático e aprofundado das suas características, quer quantitativas, quer
+qualitativas, em função dos objetivos de tratamento a adotar.
+Assim é que para a concepção / projeto / implementação / exploração de
+qualquer operação de gestão de resíduos – acondicionamento, coleta,
+transporte, valorização, tratamento, destino final - é imprescindível conhecer a
+natureza dos resíduos em causa. Embora determinados parâmetros possam ser
+mais relevantes para determinadas operações, como se exemplifica a seguir:
+Operação
+Coleta indiferenciada
+
+Parâmetros relevantes
+• Dados quantitativos
+• Peso específico
+Coleta seletiva
+• Dados quantitativos
+• Composição física (% dos componentes
+recicláveis)
+• Peso específico
+Valorização
+Orgânica
+• Dados quantitativos
+(Digestão anaeróbia e
+• Composição física (% de resíduos
+Compostagem)
+orgânicos biodegradáveis: restos de
+alimentos e de refeições, verdes de jardins,
+podas de árvores)
+• Composição química: teor de umidade, C,N,
+metais pesados
+Valorização Energética
+• Dados quantitativos
+• Composição física: % de materiais
+combustíveis e % de inertes;
+• Composição química: teor de umidade, PCI
+e metais pesados
+
+207
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+A caracterização dos resíduos constitui um importante instrumento de gestão,
+devendo ser adaptada e ajustada aos objetivos gerais e/ou específicos a que
+pretende dar resposta.
+Por outro lado, não deve ser uma atividade esporádica, mas de caráter regular,
+pelo menos uma vez por ano, sendo mais aconselhável duas veze por ano, uma
+no inverno e outra no verão, para ter validade estatística.
+2 - Metodologia de Caracterização gravimétrica de Resíduos
+O processo de amostragem, entre outros, envolve o agrupamento dos circuitos
+de coleta de resíduos com características semelhantes e a seleção de circuitos
+representativos destes grupos, sobre os quais incide a amostragem.
+Reportando-se à semelhança de características entre circuitos, e portanto a sua
+agregação num mesmo agrupamento, à semelhança de tipologia das respetivas
+zonas contribuidoras, pode antever-se uma homogeneidade das características
+dos resíduos abrangidos por circuitos do mesmo tipo.
+Com efeito, na conceção de uma campanha de caracterização é necessário
+fazer um trabalho prévio de definição das zonas de amostragem no município
+com iguais características socio económicas, para evitar ter de ser realizar a
+coleta de amostras em todos os circuitos (sobretudo em grandes municípios).
+Também previamente se deve estabelecer qual é o número de amostras a
+realizar e a sua distribuição temporal, bem como os parâmetros a determinar
+(dependendo dos objetivos) e os meios humanos e materiais necessários para
+a sua realização.
+A segregação dos resíduos pelos seus componentes é sempre feita, seja qual o
+objetivo. A partir das amostras deve retirar-se uma amostra adequada para se
+proceder aos ensaios de laboratório para conhecimento das características
+químicas e/ou biológicas.
+As soluções adoptadas poderão ser diferentes de situação para situação,
+dependendo, entre outros fatores, dos objetivos da caracterização e dos meios
+(humanos, materiais e financeiros) disponíveis.
+
+208
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+3 - Obtenção da Amostra
+Uma das metodologias muito divulgada é a do quarteamento, porém a
+experiência tem evidenciado que se perde muita informação com a destruição
+dos materiais ao se fazer a homogeneização para o quarteamento.
+Por essa razão, tem-se adotado a metodologia de percorrer o circuito de coleta
+e recolher um determinado número aleatório de sacolas com resíduos em cada
+ponto de coleta de resíduos e colocar na viatura de apoio.
+
+Deste modo, torna-se necessário percorrer os circuitos de coleta com
+características distintas (residencial alto, médio ou baixo padrão; zonas
+comerciais, zonas mistas, etc) com uma viatura de caixa aberta para recolher
+resíduos aleatoriamente em cada ponto de paragem da coleta urbana.
+
+209
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+4 - Preparação da campanha de caracterização
+Antes de iniciar a caracterização é necessário proceder à capacitação de todos
+os intervenientes.
+- O coordenador da campanha e o técnico de apoio que fará os registros de
+pesagens dos materiais segregados das amostras.
+- Os operários que fazem a recolha dos resíduos para amostra e os operários
+que fazem a segregação por componente, necessitam de capacitação para
+poderem desenvolver as respetivas tarefas.
+5 - Segregação de componentes dos resíduos
+Serão considerados os seguintes materiais para efeitos de segregação para a
+caracterização gravimétrica:
+210
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+1) Resíduos Orgânicos biodegradáveis (restos de alimentos, comida);
+2) Papel;
+3) Cartão;
+4) Plástico filme (PEBD, sacolas de plástico e similares);
+5) Plástico PET;
+6) Plástico propileno;
+7) Embalagens plásticas (PVC, PEAD);
+8) Outros plásticos (embalagens de margarina, manteiga, banha..)
+9) Embalagens complexas (compósitos), tipo tetra pack;
+10) Metais ferrosos;
+11) Metais não ferrosos (embalagens de alumínio, latas);
+12) Vidros;
+13) Resíduos verdes de jardins e similares;
+14) Têxteis (roupas, trapos);
+15) Têxteis sanitários (fraldas, pensos higiênicos);
+16) Resíduos eletro-eletrônicos (pequenos aparelhos);
+17) Outros resíduos
+18) Resíduos finos (<20mm)
+o Plásticos
+Os plásticos são muito utilizados e constituem um dos grupos com maior
+representatividade nos resíduos e que é reciclável. Os fabricantes de
+embalagens plásticas são obrigados a inserir um símbolo que identifica o tipo de
+plástico, de entre as diversas famílias, de que se destacam as seguintes:
+
+211
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Símbolo
+
+Onde se encontra
+
+Depois de reciclado
+
+Polietileno Tereftalato - é encontrado em
+
+Pode dar origem a fibra para
+
+produtos como garrafas de refrigerante e
+
+carpete,
+
+água, óleo, embalagens plásticas de
+
+embalagens
+
+de
+
+antisséptico bucal, cremes e outros.
+
+itens,
+
+produtos
+
+tecidos
+
+como
+
+e
+
+diversos
+de
+
+limpeza e higiene pessoal.
+Significa Polietileno de Alta Densidade e é
+
+Origina
+
+o
+
+em
+
+tubulação de esgoto e até
+
+embalagens de iogurte, sucos, frascos de
+
+conduítes – produto usado
+
+leite, produtos de limpeza e potes de
+
+em paredes, para passar
+
+sorvete
+
+fiação elétrica internamente
+
+Policloreto de Vinila usado em itens de
+
+Pode produzir-se mangueira
+
+higiene pessoal, frascos de remédio ou
+
+de
+
+brinquedos.
+
+esgoto e cone de tráfego
+
+Polietileno de Baixa Densidade e está nas
+
+Pós-reciclagem poderá ser
+
+sacolas
+
+encontrado servindo como
+
+plástico
+
+utilizado
+
+plásticas
+
+comumente
+
+de
+
+supermercados,
+
+bolsas de soro fisiológico, entre outros
+
+novos
+
+jardim,
+
+frascos,
+
+tubulação
+
+de
+
+saco de lixo e tubulação para
+irrigadores
+
+Polipropileno, que é utilizado para a
+
+Transformado, entre outras
+
+fabricação de recipientes de alimentos, de
+
+opções, em caixas e cabos
+
+produtos químicos e remédios, entre
+
+para bateria de carro etc.
+
+diversos outros
+
+Poliestireno
+
+que
+
+é
+
+encontrado
+
+comercialmente como frascos ou potes,
+em
+
+bandejas
+
+de
+
+supermercado,
+
+Transforma-se em bandejas
+e itens de escritório
+
+de
+
+geladeiras – em área interna – aparelhos
+de barbear descartáveis e outros.
+Outros são produtos fabricados à base de
+
+Após ser reciclados, viram
+
+policarbonato, ABS, poliamida, acrílicos
+
+Madeira plástica, reciclagem
+energética
+
+212
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+6 - Número de amostras
+Para que haja validade estatística é necessário recolher-se um número de
+amostras compatível com o universo da pesquisa. Assim, recomenda-se:
+•
+
+População a amostrar <200.000 habitantes: 5 amostras no mínimo
+
+•
+
+População > 200.000 habitantes: no mínimo 10 amostras
+
+Se a amostragem for Porta-a-Porta, o número de amostras será em função do
+número de habitações, do seguinte modo:
+•
+
+< 1000 habitações: 10% ou 50 amostras *
+
+•
+
+1000 a 10 000: 5% ou 100 *
+
+•
+
+10 001 a 50 000: 2,5% ou 500 *
+
+•
+
+> 50 001 : 1% ou 1250
+
+(*) – o que for maior
+7 - Meios necessários
+São necessários meios materiais e humanos para executar a recolha dos
+resíduos a amostrar, a preparação das amostras para se proceder à segregação
+física, a execução das análises físicas e a preparação de amostras para
+determinações laboratoriais.
+Coleta dos resíduos a amostrar
+•
+
+Viatura de coleta com caixa aberta segue atrás da viatura “papa-lixo” que
+procede à coleta dos resíduos, para coletar em cada ponto de coleta uma
+fração dos resíduos ali dispostos, em consonância com as instruções do
+coordenador geral da companha.
+
+•
+
+Equipes de coleta (motorista, o coordenador da campanha e 2 operários)
+
+Preparação das amostras para caracterização física:
+•
+
+Local pavimentado e amplo de modo a permitir a fácil segregação dos
+resíduos recolhidos (galpão do município);
+
+•
+
+Uma mesa de rede 2x2cm para segregar resíduos de menor dimensão;
+
+•
+
+2 Pás;
+213
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+•
+
+2 Forquilhas;
+
+Execução da caracterização física:
+•
+
+3 Contentores de 240 Litros ou bombona de 200 litros para determinação
+do peso volúmico;
+
+•
+
+Crivo de 2 m x 1 m, em rede metálica, com malha de 20 mm x 20 mm para
+a triagem primária;
+
+•
+
+Local e mesas de apoio para a triagem secundária (galpão);
+
+•
+
+Lona grossa de 3 m x 3 m ou similar;
+
+•
+
+18 Recipientes para colocação dos vários componentes - com capacidade
+da ordem de 100 litros e de 50 litros (contentores ou bombonas);
+
+•
+
+Balança para pesagens entre 5 e 100 kg, com precisão de 50 g;
+
+•
+
+Íman;
+
+•
+
+Material de proteção individual (farda, máscaras, luvas, botas de
+borracha)
+
+Meios humanos:
+•
+
+1 coordenador geral das campanhas de caracterização de campo e de
+preparação e acompanhamento das tarefas.
+
+•
+
+1 técnico/estagiário da balança, para assegurar o controle das pesagens
+e o registro dos resultados;
+
+•
+
+6 a 8 ajudantes e um supervisor de campo para a segregação dos
+resíduos por componente;
+
+Acondicionamento de amostras para determinações laboratoriais:
+•
+
+Sacos de plástico resistentes e etiquetas identificadoras;
+
+•
+
+Caixa térmica.
+
+8 - Cálculos finais e apresentação de resultados
+
+214
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Os resultados finais são apresentados pelo coordenador geral da campanha,
+após execução da ponderação dos dados obtidos com a segregação de cada
+circuito.
+Resultados estatisticamente válidos
+Local
+População
+MATÉRIA ORGÂNICA
+FERMENTÁVEL
+PAPEL E CARTÃO
+Embalagens de Papel e
+Cartão
+Jornais e revistas e outros
+Papelão
+Embalagens tipo Tetra Pack
+PLÁSTICOS
+Embalagens PET (1)
+Embalagens PEAD + PVC
+(2+3)
+Embalagens PP (5)
+Filme plático PEAB (4)
+Isopor (6)
+Outros Plásticos
+VIDRO DE EMBALAGENS
+(garrafas)
+METAIS
+Metais ferrosos
+Metais não ferrosoos
+MADEIRA
+TÊXTEIS
+Têxteis, tecidos, trapos, etc.
+Têxteis Sanitários (fraldas,
+pensos..)
+RESÍDUOS PERIGOSOS
+FINOS (< 20mm)
+Papel higiênco
+Fios,cabos de
+eletrecidade,eletronicos
+residuos de Saúde
+OUTROS RESÍDUOS
+
+Condomínios
+fechados
+5 913
+
+Centro
+
+Pedreirinha
+
+10 886
+
+6 336
+
+Viver
+Melhor
+16 258
+
+Nova
+Média (%)
+Marituba
+14 585
+
+42.11%
+
+41.63%
+
+44.47%
+
+42.60%
+
+41.93%
+
+42.4%
+
+7.09%
+
+5.54%
+
+5.30%
+
+4.02%
+
+4.95%
+
+5.1%
+
+1.43%
+0.64%
+5.71%
+0.74%
+14.78%
+2.46%
+
+2.21%
+0.72%
+3.90%
+0.92%
+17.61%
+1.94%
+
+2.09%
+0.63%
+4.01%
+0.66%
+16.89%
+1.81%
+
+2.79%
+0.23%
+3.28%
+0.51%
+15.02%
+1.95%
+
+2.21%
+0.72%
+3.63%
+0.61%
+15.78%
+1.84%
+
+2.3%
+0.6%
+3.9%
+0.7%
+15.9%
+2.0%
+
+3.29%
+0.99%
+6.35%
+0.90%
+0.81%
+
+2.63%
+0.65%
+8.32%
+2.02%
+2.05%
+
+2.03%
+0.89%
+10.37%
+0.84%
+0.95%
+
+1.84%
+0.66%
+8.67%
+0.76%
+1.13%
+
+2.73%
+0.63%
+8.87%
+0.86%
+0.85%
+
+2.4%
+0.7%
+8.6%
+1.1%
+1.2%
+
+2.36%
+2.45%
+1.28%
+1.17%
+0.10%
+14.78%
+
+2.53%
+2.19%
+1.67%
+0.52%
+0.41%
+9.85%
+
+1.45%
+2.11%
+1.35%
+0.76%
+0.25%
+11.06%
+
+3.16%
+1.50%
+0.92%
+0.58%
+0.68%
+13.23%
+
+2.67%
+2.01%
+1.46%
+0.55%
+0.90%
+10.38%
+
+2.6%
+2.0%
+1.3%
+0.6%
+0.6%
+11.7%
+
+5.68%
+
+2.89%
+
+2.69%
+
+3.49%
+
+3.32%
+
+3.5%
+
+9.09%
+0.55%
+0.99%
+5.28%
+
+6.96%
+0.04%
+2.55%
+5.09%
+
+8.37%
+0.00%
+2.15%
+5.45%
+
+9.74%
+0.12%
+1.41%
+2.45%
+
+7.06%
+0.11%
+1.97%
+2.99%
+
+8.2%
+0.1%
+1.8%
+3.8%
+
+0.19%
+11.79%
+
+2.32%
+0.16%
+12.27%
+
+2.12%
+0.11%
+10.76%
+
+0.23%
+0.50%
+16.59%
+
+2.11%
+0.12%
+16.08%
+
+1.4%
+0.3%
+15.7%
+
+215
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Reportagem Fotográfica e Mapas das rotas de Coleta Seletiva
+
+Figura 9.10- Reportagem das campanhas de caracterização. Coleta da amostra e gravimetria
+
+216
+Prognóstico - Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 9.11 – Mapa do circuito de coleta seletiva nos Bairros Viver Melhor e Bairro Novo de Marituba
+
+217
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 9.12 – Mapa rota de coleta seletiva Bairro União de Marituba
+
+218
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 9.13 – Rota de coleta seletiva no Bairro Nova Marituba
+
+219
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+METAS E AÇÕES
+10.1 INTRODUÇÃO ÀS METAS E AÇÕES DO PGIRS
+O Plano de Gestão Integrada de Resíduos Sólidos - PGIRS - é um dos mais importantes
+instrumentos da Política Nacional de Resíduos Sólidos, definida pela lei 12.305/2010,
+que o município de Marituba está a elaborar e a implementar ao mesmo tempo, com
+ampla participação, não só dos dirigentes políticos, mas também com a população em
+geral e todos os grupos sociais interessados.
+O presente PGIRS de Marituba apresentou no primeiro documento a caracterização do
+município em termos fisiográficos para que o leitor tenha uma percepção do local em
+concreto, fez um breve diagnóstico do setor do saneamento e mais aprofundado
+diagnóstico dos resíduos sólidos. Neste documento define objetivos específicos,
+diretrizes e estratégias para a elaboração do Plano, estabelecendo metas a serem
+alcançadas, bem como os meios necessários para se alcançarem tais metas
+calendarizadas no tempo, através de medidas e ações imediatas, de curto prazo, médio
+prazo e longo prazo, uma vez que o plano tem uma vigência de 20 anos, com revisão
+obrigatória a cada 4 anos, onde se faz o balanço da realização das metas definidas e
+se reformula em função do grau de atingimento.
+O PGIRS de Marituba, foi realizado temporalmente com o Plano Municipal de
+Saneamento Básico, contratado a empresa de consultoria de Curitiba, atende às
+exigências da Lei Federal de Saneamento Básico, no tocante à prestação dos serviços
+públicos de manejo de resíduos sólidos e limpeza urbana. Observa princípios, diretrizes
+e exigências da Política Nacional sobre Mudanças do Clima, principalmente as relativas
+à redução das emissões de gases de efeito estufa com origem antrópica.
+O Plano segue a hierarquia de gestão de resíduos: não geração, redução, reutilização,
+reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente
+adequada apenas dos rejeitos, eixo central da Política Nacional de Resíduos Sólidos.
+No PGIRS da Cidade de Marituba dá-se realce à coleta seletiva de materiais com vista
+à reciclagem (resíduos secos) e de orgânicos biodegradáveis, com vista à
+compostagem, reduzindo ao máximo a deposição de resíduos em aterro. Para tanto dáse ênfase à educação ambiental para a segregação de resíduos na fonte e a ampla
+participação popular.
+220
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+É dada a atenção devida e específica aos resíduos do setor da saúde e os resíduos do
+setor da construção civil, resíduos de construção e demolição (RCD), para o seu correto
+manejo, nomeadamente a perfeita segregação na fonte dos resíduos dos serviços de
+saúde, de modo a separar os resíduos infectantes, obrigatoriamente de tratamento
+térmico. Foi elaborado um Programa de coleta seletiva, iniciado no Bairro Viver Melhor
+e condomínios Soure, Algodoal e Salinas, cuja população é superior a 20 mil habitantes,
+com envolvimento de uma associação de catadores de materiais recicláveis que
+procedem à coleta porta-a-porta.
+Foi feito um levantamento de campo das empresas comerciais e industriais do
+município, georreferenciada a localização de cada uma delas, bem como demais dados
+de titularidade, tendo em vista a aplicação do Programa de Logística reversa, sendo a
+do caroço de açaí com 120 batedores registrados.
+A elaboração deste plano contou com participação popular, mobilizada também para
+participar na elaboração do PMSB, por ocasião da III Semana Municipal do Ambiente e
+II Fórum de Sustentabilidade e através dos meios de difusão usuais, como carro de som,
+site da Prefeitura, grupos de whatsapp, etc., tendo-se realizado diversas oficinas e
+reuniões que trouxeram subsídios e recomendações para a elaboração de metas do
+plano.
+No presente documento, necessariamente há algumas repetições do primeiro
+documento, apenas as necessárias a um enquadramento ao leitor que não acedeu ao
+primeiro documento ou para lembrar aos que porventura possam ter esquecido da
+leitura desse documento.
+
+221
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+10.2 Linhas de orientação estratégica no Plano
+O Plano seguiu as linhas mestras definidas pela PNRS. Com efeito, o grande
+objetivo e importância, é a implementação de um programa de coleta seletiva no
+município com vista à reciclagem dos materiais separados na origem ou em
+unidades de triagem, com a participação e inclusão dos catadores. Nesse
+sentido preconiza-se a gradativa implementação de medidas e ações tendentes
+ao incremento da coleta seletiva de modo a potenciar a reciclagem multimaterial
+no município.
+No que toca ao tratamento, o aterro sanitário é a estrutura sanitária que responde
+pela maior parte dos RU produzidos.
+A compostagem de material orgânico biodegradável é um dos objetivos, que
+será realizada a partir de coletas seletivas em feiras, mercados, supermercados,
+restaurantes, hotéis, cantinas de escolas e fábricas e outros grandes produtores,
+desviando-se assim uma parcela de resíduos orgânicos biodegradáveis do
+aterro sanitário.
+10.3 Metas e Ações Previstas
+Foram previstas ações e metas estabelecidas através dos seguintes eixos:
+•
+
+Formação e sensibilização para a Educação Ambiental;
+
+•
+
+Coleta indiferenciada;
+
+•
+
+Coleta seletiva e reciclagem;
+
+•
+
+Acondicionamento de resíduos;
+
+•
+
+Coleta de Resíduos de Construção e Demolição e correspondente
+tratamento adequado;
+
+•
+
+Coleta dos resíduos dos Serviços de Saúde e seu encaminhamento para
+unidade licenciada de tratamento;
+
+•
+
+Logística Reversa;
+
+•
+
+Tratamento e Valorização de RU;
+222
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+•
+
+Eliminação dos passivos ambientais causados por resíduos sólidos.
+Programas metas e ações
+
+Para a consecução dos objetivos do PGIRS, estão previstas metas, programas e ações:
+8. Coleta Seletiva de resíduos recicláveis (Secos).
+A ser implantada em todo o território do município até 2021. Iniciando-se no
+Bairro Viver Melhor, incluindo os condomínios fechados, Bairro Centro,
+Pedreirinha e Nova Marituba, buscando adesão crescente da população através
+das campanhas de sensibilização e educação ambiental.
+9. Coleta Seletiva de Resíduos Orgânicos Biodegradáveis (restos de comidas,
+alimentos e preparo de refeições, verdes dos jardins).
+Será implantada em todo o município até 2024, iniciando-se nos bairros
+integrantes do projeto coleta seletiva do projeto FDD e em feiras e mercados
+municipais, com vista à compostagem.
+10. Programa Compostagem comunitária
+11. Programa Horta e Compostagem na Escola (Escolas Verdes)
+Para uma gestão ambientalmente adequado dos resíduos sólidos nas Unidades
+Educacionais da Rede Municipal de Ensino. Serão implantados nos
+estabelecimentos de ensino municipal onde há espaço suficiente, hortas e pátios
+de compostagem dos resíduos orgânicos da cantina e da comunidade do
+entorno da escola que encaminhe resíduos biodegradáveis coletados
+seletivamente.
+12. Programa de Coletas Seletivas Solidárias nos Edifícios Públicos
+A ser estruturado em todos os edifícios municipais e públicos em geral, para doação
+a cooperativas de catadores de materiais recicláveis do município.
+13. Coleta de RCD e resíduos Volumosos (monstros)
+Implantação de ecocentros para a deposição de resíduos de construção civil de
+pequenos geradores e Programa de deposição para grandes geradores,
+mediante contratação para a sua remoção e transporte a local adequado.
+14. Limpeza Urbana
+Incremento da limpeza urbana de ruas, praças e logradouros, limpeza de valas
+de drenagem, capina e roçagem. Implantação de sistema de acondicionamento
+de resíduos nas ruas da cidade (contentor de grande capacidade)
+15. Coleta Seletiva de RSS
+
+223
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+A ser adotada em todas as unidades de saúde do município de modo a diminuir
+os resíduos infectantes a serem encaminhados para tratamento diferenciado em
+unidade externa e diminuir assim os custos de tratamento dos RSS.
+
+10.4 Objetivos da Política Nacional de Resíduos Sólidos
+A PNRS (Lei 12.305/2010), estabelece princípios, objetivos, instrumentos –
+inclusive instrumentos econômicos aplicáveis - e diretrizes para a gestão
+integrada e gerenciamento dos resíduos sólidos, indicando as responsabilidades
+dos geradores, do poder público, e dos consumidores.
+Define ainda, princípios importantes como o da prevenção e precaução, do
+poluidor-pagador, da ecoeficiência, da responsabilidade compartilhada pelo ciclo
+de vida dos produtos, do reconhecimento do resíduo como bem econômico e de
+valor social, do direito à informação e ao controle social, entre outros (BRASIL,
+2010b).
+A PNRS, regulamentada pelo Decreto nº 7.404 de 2010, criou como um dos seus
+principais instrumentos o Plano Nacional de Resíduos Sólidos e as orientações
+para a sua elaboração, a nível estadual e municipal.
+De modo resumido, os objetivos da PNRS são os seguintes:
+•
+
+Proteção da saúde pública e da qualidade ambiental;
+
+•
+
+Não geração, redução, reutilização, reciclagem e tratamento dos
+resíduos sólidos, bem como disposição final ambientalmente adequada
+dos rejeitos;
+
+•
+
+Estímulo à adoção de padrões sustentáveis de produção e consumo de
+bens e serviços;
+
+•
+
+Desenvolvimento e adoção de tecnologias limpas como forma de
+minimizar impactos ambientais;
+
+•
+
+Redução do volume e da periculosidade dos resíduos perigosos;
+
+•
+
+Incentivo à indústria da reciclagem, tendo em vista fomentar o uso de
+matérias-primas e insumos derivados de materiais recicláveis e
+reciclados;
+
+•
+
+Gestão integrada de resíduos sólidos;
+
+224
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+•
+
+Articulação entre as diferentes esferas do poder público e destas com o
+setor empresarial com vistas à cooperação técnica e financeira para a
+gestão integrada de resíduos sólidos;
+
+•
+
+Capacitação técnica continuada na área de resíduos sólidos.
+
+Por ser de competência dos Municípios a gestão local dos resíduos sólidos, a
+PNRS determinou que os Municípios devem estabelecer seus próprios planos
+de gestão de resíduo sólido, que é denominado PMGIRS - Plano Municipal de
+Gestão Integrada de Resíduos Sólidos, nos quais será contemplado o conteúdo
+mínimo descrito na PNRS, a seguir enunciados.
+
+10.5 Conteúdo mínimo do Plano de Gestão de Resíduos
+O plano municipal de gestão de resíduos sólidos (PGIRS) de Marituba contém o que se
+encontra descrito no artº. 19º da Lei Nacional. Para além do diagnóstico e prognóstico,
+que constam do documento PGIRS-Parte 1, tem neste documento PGIRS-Parte2, o
+seguinte conteúdo:
+VI. Indicadores de desempenho operacional e ambiental dos serviços públicos de
+limpeza urbana e de manejo de resíduos sólidos;
+VII. Regras para o transporte e outras etapas do gerenciamento de resíduos sólidos
+de que trata o artº. 20, observadas as normas estabelecidas pelos órgãos do Sisnama
+e do SNVS e demais disposições pertinentes da legislação federal e estadual;
+VIII.
+
+Definição
+
+das
+
+responsabilidades
+
+quanto
+
+à
+
+sua
+
+implementação
+
+e
+
+operacionalização, incluídas as etapas do plano de gerenciamento de resíduos sólidos
+a que se refere o artº. 20 a cargo do poder público;
+IX. Programas e ações de capacitação técnica voltados para sua implementação e
+operacionalização;
+X. Programas e ações de educação ambiental que promovam a não geração, a
+redução, a reutilização e a reciclagem de resíduos sólidos;
+XI. Programas e ações para a participação dos grupos interessados, em especial
+das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis
+e recicláveis formadas por pessoas físicas de baixa renda, se houver;
+XII. Mecanismos para a criação de fontes de negócios, emprego e renda, mediante a
+valorização dos resíduos sólidos;
+225
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+XIII. Sistema de cálculo dos custos da prestação dos serviços públicos de limpeza
+urbana e de manejo de resíduos sólidos, bem como a forma de cobrança desses
+serviços, observada a Lei nº 11.445, de 2007;
+XIV. Metas de redução, reutilização, coleta seletiva e reciclagem, entre outras, com
+vistas a reduzir a quantidade de rejeitos encaminhados para disposição final
+ambientalmente adequada;
+XV. Descrição das formas e dos limites da participação do poder público local na
+coleta seletiva e na logística reversa, respeitado o disposto no artº. 33, e de outras ações
+relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos;
+XVI. Meios a serem utilizados para o controle e a fiscalização, no âmbito local, da
+implementação e operacionalização dos planos de gerenciamento de resíduos sólidos
+de que trata o artº. 20 e dos sistemas de logística reversa previstos no artº. 33;
+XVII. Ações preventivas e corretivas a serem praticadas, incluindo programa de
+monitoramento;
+XVIII. Identificação dos passivos ambientais relacionados aos resíduos sólidos,
+incluindo áreas contaminadas, e respetivas medidas saneadoras;
+XIX. Periodicidade de sua revisão, observado prioritariamente o período de vigência do
+plano plurianual municipal.
+
+10.6 Metodologia adotada na elaboração do PGIRS de MARITUBA
+
+O PGIRS de Marituba foi elaborado de acordo com as Normas Orientadoras para
+Elaboração dos Planos municipais de Gestão de Resíduos Sólidos aprovadas pelo
+Decreto nº 7.404/2010, em particular o disposto no artº 19.
+No âmbito dos trabalhos adotou-se uma criteriosa metodologia de análise de informação
+e, com base nestes elementos e em cumprimento das demais normas legais, foi
+elaborado o Plano Municipal de Gestão de Resíduos Sólidos do município de
+
+Marituba com participação da sociedade civil, poder público, agentes interessados e
+intervenientes no setor dos resíduos sólidos.
+
+Comitê Diretor deverá ser formado por representantes dos principais órgãos
+municipais envolvidos no tema, com caráter técnico e a atribuição de formular os
+temas para debate. Exerce também papel executivo nas tarefas de organização e
+viabilização da infraestrutura (convocatória de reuniões, locais apropriados, cópias
+226
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+de documentos etc.), com a responsabilidade de garantir, inclusive com recursos, o
+bom andamento do processo.
+O Grupo de Sustentação é um organismo político de participação social formado
+por representantes do setor público e da sociedade organizada; instituições de
+âmbito municipal, buscando abarcar toda a gama de agentes envolvidos no tema.
+O Grupo de Sustentação será responsável por garantir o debate e o engajamento
+de todos os segmentos ao longo do processo participativo.
+Nesse sentido, através do Decreto nº 95/2018 do Prefeito Municipal de Marituba e da
+Portaria nº 244/2018 do Prefeito Municipal de Marituba foram nomeados (i) - Comitê
+Diretor; (ii) Grupo de Sustentação e (iii) Coordenador e Responsável pelo Comitê
+Técnico do PGIRS de Marituba.
+A composição do Comitê Diretor é a seguinte:
+1) Representante do Gabinete do Prefeito
+2) Representante da Secretaria Municipal do Meio Ambiente
+3) Representante da Secretaria Municipal de Educação
+4) Representante da Secretaria Municipal de Saúde
+5) Representante da Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano
+6) Representante da Secretaria Municipal de Orçamento e Finanças.
+7) Representante da Secretaria Municipal Planejamento e Gestão.
+8) Representante da Secretaria Municipal de Desenvolvimento da Agricultura,
+Aquicultura, Abastecimento e Pescas.
+
+O Grupo de Sustentação é constituído por representantes das seguintes entidades:
+1) Membro do Conselho Municipal de Meio Ambiente
+2) Membro do Conselho Municipal de Saúde
+3) Membro do Conselho Municipal de Assistência Social
+4) Membro do Conselho Municipal de Educação
+5) Representante das Cooperativas de Catadores de Marituba
+6) Representante de ONG: Igreja Plenitude da Bênção de Deus
+
+227
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Constituída a Equipe Técnica de desenvolvimento do Plano, cujo Coordenador e
+Responsável foi nomeado através da Portaria nº 244/2018 do Prefeito Municipal de
+Marituba, para conduzir todas as atividades técnicas do PGIRS e subsidiar com
+informação sustentada as ações dos Comitê Diretor e Grupo de Sustentação.
+O elenco de ações foi o seguinte:
+•
+
+Estabelecimento das estratégias de mobilização dos agentes, inclusive para o
+envolvimento dos meios de comunicação (jornais, rádios e outros);
+
+•
+
+Levantamento de dados provenientes principalmente de instituições
+governamentais e institutos de pesquisa, tais como: Instituto Brasileiro de
+Geografia e Estatística (IBGE), Programa das Nações Unidas para o
+Desenvolvimento (PNUD), Instituto de Pesquisa Econômica Aplicada (IPEA),
+Fundação João Pinheiro (FJP), Fundação Amazônia de Amparo a Estudos e
+Pesquisas (FAPESPA), Instituto Nacional de Estudos e Pesquisas
+Educacionais Anísio Teixeira (INEP) e Ministérios da Educação, da Saúde, do
+Desenvolvimento Social e Agrário e da Cidadania.
+
+•
+
+Elaboração do diagnóstico com apoio nos documentos elaborados por
+instituições públicas federais, estaduais e levantamentos in loco;
+
+•
+
+Apresentação pública dos resultados e validação do diagnóstico com os órgãos
+públicos do município e com o conjunto dos agentes envolvidos no Grupo de
+Sustentação;
+
+•
+
+Envolvimento dos Conselhos Municipais de Saúde, Meio Ambiente e outros na
+validação do diagnóstico;
+
+•
+
+Incorporação das contribuições e preparo de diagnóstico consolidado;
+
+•
+
+Definição das perspectivas iniciais do PGIRS;
+
+•
+
+Identificação das ações necessárias para a superação de cada um dos
+problemas de resíduos no município;
+
+•
+
+Definição dos agentes públicos e privados responsáveis por cada ação a ser
+definida no PGIRS (implementação e operacionalização do Plano);
+
+•
+
+Definição das metas a serem perseguidas num cenário de 20 anos (resultados
+necessários e possíveis, iniciativas e instalações a serem implementadas e
+outras);
+
+•
+
+Elaboração da primeira versão do PGIRS (com apoio em manuais produzidos
+pelo Governo Federal e outras instituições) identificando as possibilidades de
+compartilhar ações, instalações e custos por meio de consórcio regional
+(Região Metropolitana de Belém);
+
+228
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+•
+
+Estabelecer um plano de divulgação da primeira versão junto aos meios de
+comunicação (jornais, rádios e outros);
+
+•
+
+Apresentação pública dos resultados e validação do plano com os órgãos
+públicos do município e com o conjunto dos agentes envolvidos no Grupo de
+Sustentação;
+
+•
+
+Incorporação das contribuições e preparo do PGIRS consolidado;
+
+•
+
+Divulgação ampla do PGIRS consolidado;
+
+•
+
+Preparação da lei municipal contemplando o PGIRS aprovado;
+
+•
+
+Definição da agenda de continuidade do processo, de cada iniciativa e
+programa, contemplando inclusive a organização de consórcio regional e a
+revisão obrigatória do PGIRS a cada 4 anos;
+
+•
+
+Monitoramento do PGIRS e avaliação de resultados
+
+10.7 Participação Pública
+A participação da sociedade civil no processo de elaboração e implementação
+do PGIRS é incentivada e recomendada na legislação nacional através da PNRS
+12.305/210, sendo essencial na elaboração dos Planos de Saneamento e de
+Resíduos, que estão a ser desenvolvidos em simultâneo, sendo o de
+Saneamento desenvolvido por uma empresa, Envex Engenharia, e o de
+Resíduos por uma equipe Técnica da Secretaria Municipal de Meio Ambiente da
+Prefeitura municipal de Marituba.
+As formas de participação adotadas permitiram incorporar a percepção e os
+contributos que a sociedade civil concitada a participar, trouxe para os planos ao
+refletir a opinião pública, sendo uma forma da população ter um sentimento de
+pertença das soluções que vierem a ser adotadas, reduzindo potenciais conflitos
+decorrentes das reações clássicas de aversão à mudança de comportamentos.
+Esta participação foi concretizada através de reuniões participadas e de oficinas
+dinâmicas, aplicação de questionários e seminários, reunindo os interesses dos
+dois Planos em elaboração.
+Oficinas Técnicas
+Conforme descrito, as ações de participação pública foram feitas para
+cumprimento dos objetivos dos dois planos em elaboração, o PMSB e o PGIRS.
+229
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Fase de Divulgação
+Na fase inicial foram realizadas duas reuniões, nos dias 08 e 10 de maio de 2018,
+com o objetivo de divulgar o Plano, alinhar o planejamento e mobilizar atoreschave para as próximas fases. O público-alvo dos eventos foram os integrantes
+das instâncias envolvidas na execução, acompanhamento e avaliação do PMSB
+e os representantes da sociedade civil. As informações sobre a divulgação inicial
+são apresentadas no APÊNDICE I – Relatório das Reuniões – Fase Divulgação.
+
+Diagnóstico
+Na fase de Diagnóstico foram realizadas duas Oficinas Participativas, nos dias
+08 e 09 de agosto de 2018, com objetivo de apresentar o PMSB e o PGIRS, bem
+como compreender as percepções da população sobre a atual situação do
+saneamento básico do município, esclarecendo dúvidas e acolhendo críticas e
+sugestões. O público-alvo dos eventos foi a população maritubense, lideranças
+locais foram convidadas a participar. As informações sobre as Oficinas
+Participativas são apresentadas em APÊNDICE – Relatório das Oficinas
+Participativas – Fase Diagnóstico.
+Questionários
+Foram realizados diversos questionários que serviram a ambos Planos, durante
+as oficinas, com representatividade mediana em função dos participantes das
+diversas ações realizadas no auditório da EMATER em Marituba e salão
+paroquial da Igreja católica da Praça central da cidade.
+Também foram feitos inquéritos porta-a-porta para aferição dos conhecimentos
+sobre o tecido social e o que a população sabe acerca da gestão de resíduos ao
+nível domiciliar, sobre segregação e acondicionamento, entre outras questões
+afloradas.
+Os dados resultantes dos questionários estão nos Anexos.
+Seminários
+No dia 06 de setembro de 2018, foi realizado pela SEMMA, o Seminário sobre
+Mudanças Climáticas do município de Marituba. Este seminário discorreu sobre
+230
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+as questões climáticas ocorridas no município, a emissão dos gases de efeito de
+estufa gerada pelo aterro sanitário, além de exposições sobre possíveis
+problemas ambientais que afetam Marituba decorrentes de eventos extremos
+passíveis de ocorrência devido aos efeitos da mudança climática.
+Foram apresentadas comunicações sobre a gestão de resíduos, sobre a
+situação da gestão de resíduos em Marituba, entre outros.
+Após as explanações, proferidas por especialistas e pelo coordenador do
+PGIRS, foram realizadas oficinas práticas com dinâmica de grupo e discussão
+participada, a que se seguiu o período de respostas ao inquérito fornecido a título
+individual para coleta de informações sobre os problemas visualizados no
+entorno de suas habitações. Foram obtidas 36 respostas relacionadas aos
+serviços básicos, incluindo as vertentes de abastecimento de água, esgotamento
+sanitário, resíduos sólidos e drenagem de águas pluviais.
+Em junho de 2019, dia 07, integrando a Semana do Meio Ambiente, realizou-se
+o III Fórum Municipal de Meio Ambiente sob a tônica dos “Desafios para a Gestão
+Sustentável dos Resíduos”, onde se debateram temas relacionados aos
+resíduos sólidos e soluções para Marituba, numa organização da SEMMA.
+10.8 Diretrizes e Estratégias do PGIRS
+O município de Marituba tem como objetivo no gerenciamento dos seus resíduos,
+minimizar a disposição em aterro sanitário, através da implementação de um amplo
+programa de coleta seletiva de materiais recicláveis, apoiando as cooperativas de
+catadores instaladas no município. Paralelamente, também o enfoque vai para a coleta
+seletiva de resíduos orgânicos com vista à compostagem.
+Considera-se que um município só poderá estar limpo se tiver um projeto de
+acondicionamento de resíduos de modo a evitar que os mesmos sejam dispostos em
+pontos aleatórios nas ruas, em sacolas plásticas, à mercê de serem rasgados por
+animais à procura de alimento ou de catadores avulso, na procura de materiais valiosos
+dos resíduos, como latas de alumínio e PET. Para tanto, devem ser instalados
+ecopontos de 3 frações, com volumetria unitária de 2,5m3 a 3,2 m3, com raio de
+influência de 150 metros, ou seja, nenhuma pessoa que queira depositar os seus
+resíduos num ecoponto, terá no máximo de se deslocar 150 metros.
+
+231
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+A coleta dos resíduos será realizada, maioritariamente por caminhões coletores
+compactadores de placa com grua para içamento dos contentores, cuja descarga é
+vertical.
+Na contratação de meios de coleta e transporte de resíduos (caminhões coletores), a
+Prefeitura levará em conta o tipo de contentores que serão dispostos no município, para
+descarga vertical, exigindo que os mesmos tenham dispositivo de içamento.
+Considera-se, igualmente, no presente PGIRS, que a hierarquia na gestão dos resíduos
+passa pela minimização da sua geração, seguindo a valorização através da reciclagem,
+dos materiais e produtos existentes nos resíduos coletados, incluindo a valorização
+energética dos rejeitos e como última opção a disposição no aterro sanitário do rejeito
+não aproveitável em nenhuma operação anterior.
+A estratégia adotada é do incremento da educação ambiental e a capacitação para a
+segregação na fonte, com vista à reciclagem. As ações de educação e capacitação já
+se iniciaram com a elaboração do presente Plano, e serão incrementadas por setores
+da sociedade maritubense.
+Através de inquéritos à população nos bairros Viver Melhor, Centro, Pedreirinha e Nova
+Marituba e nos diversos condomínios fechados, é possível avaliar o tecido social e a
+melhor forma de atuar para a concretização do objetivo do incremento da coleta seletiva
+multimaterial.
+A concretização destes objetivos será materializada com a instalação de ecopontos,
+Pontos de Entrega Voluntária (PEV) de resíduos, em que os moradores dos bairros
+poderão descartar os resíduos recicláveis segregados em cada moradia. Estes PEV
+serão também locais de descarga de recicláveis coletados no porta-a-porta realizado
+pelos catadores das Cooperativas parceiras do projeto. A coleta será realizada por
+caminhões dedicados a esta tarefa.
+Marituba pretende diminuir a emissão dos gases de efeito de estufa (GEE), contribuindo
+para os objetivos nacionais de combate à mudança do clima, com o cumprimento da
+presente estratégia. Com efeito, quanto menor for a deposição de resíduos em aterro,
+menor a quantidade de GEE emitidos.
+O município de Marituba tem cerca de 24 mil estudantes na rede municipal de ensino e
+vai aproveitar esta força para mudar a face do município na questão ambiental e dos
+resíduos em particular. Nesse sentido, em todas as escolas com espaço externo
+suficiente serão instaladas unidades de compostagem de resíduos biodegradáveis
+(restos de comida e produtos resultantes da preparação de refeições nas cozinhas das
+cantinas) e hortas que utilizarão o composto produzido para a produção de hortícolas
+232
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+para uso nas cantinas escolares. Também serão incorporadas atividades relativas à
+compostagem e à horta, bem como à caracterização dos resíduos (segregação na
+fonte), ao ensino prático de biologia e matemática.
+O município de Marituba criará condições para o monitoramento do setor dos resíduos,
+com capacidade técnica de avaliação e fiscalização da qualidade do serviço, que terá
+responsabilidade pela informação estatística relativa ao setor, designadamente
+alimentar anualmente a plataforma SNIS com dados fiáveis. Assim, será criado o Centro
+de Informação e Monitoramento Ambiental (CIMA), sediado na SEMMA, que receberá
+mensalmente toda a informação do gerenciamento de resíduos domiciliares da
+SEIDUR, ou Secretaria que vier a ter responsabilidade pela coleta de resíduos, na
+Prefeitura, da Secretaria de Saúde, relativo aos resíduos do setor da saúde.
+Dados a serem disponibilizados pelas Secretarias: quantidades de resíduos, disposição
+final, quantitativos por tipo de tratamento e meios técnicos e humanos envolvidos e
+custos totais.
+Conceitos considerados no PGIRS no estabelecimento dos programas:
+Programas: são instrumentos de organização que articulam um conjunto de ações
+suficientes para enfrentar um problema ou aproveitar uma oportunidade, devendo seu
+desempenho ser passível de aferição por indicadores coerentes com o objetivo
+estabelecido.
+Os programas são compostos de ações, que são o instrumento de programação que
+contribui para atender ao objetivo de um programa, podendo ser orçamentárias ou nãoorçamentárias, sendo as ações orçamentárias classificadas, conforme a sua natureza,
+em:
+a) Projeto: instrumento de programação para alcançar o objetivo de um programa,
+envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um
+produto que concorre para a expansão ou aperfeiçoamento da ação de governo;
+b) Atividade: instrumento de programação para alcançar o objetivo de um programa,
+envolvendo um conjunto de operações que se realizam de modo contínuo e
+permanente, das quais resulta um produto necessário à manutenção da ação de
+governo;
+c) Iniciativa: ações institucionais e normativas que independem do erário público e
+podem ter caráter permanente ou temporário, de acordo com seu objetivo.
+Também foram considerados em ambos Planos (saneamento e de resíduos), os
+seguintes prazos no estabelecimento de metas:
+233
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+•
+
+Imediato: até 1 ano
+
+•
+
+Curto prazo: entre 2 e 6 anos;
+
+•
+
+Médio prazo: entre 7 e 12 anos;
+
+•
+
+Longo prazo: entre 13 e 20 anos;
+
+234
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+10.9 Metas, Programas, Projetos e Ações do PGIRS
+Metas a atingir na gestão de resíduos
+O grande objetivo do PGIRS do município de Marituba é entrar na modernidade da
+gestão dos resíduos sólidos, com enfoque na coleta seletiva de resíduos em 3 frações:
+materiais recicláveis secos; resíduos úmidos (orgânicos biodegradáveis) e rejeitos ou
+indiferenciados. Para tanto será implantado um sistema de ecopontos para
+acondicionamento dos resíduos, por todo o município, que vai permitir a redução do
+chorume nas ruas; ausência de animais disputando resíduos; evitar o rasgamento de
+sacolas com lixo por catadores autônomos procurando latas de alumínio ou garrafas
+PET; prevenção da proliferação de vetores de doenças, como os roedores; além de
+redução do mau cheiro. Concomitantemente, reforçar os meios de coleta e transporte
+dos resíduos.
+O objetivo de implantação da coleta seletiva de resíduos recicláveis tem a ver com a
+reciclagem de resíduos secos e aproveitamento dos resíduos orgânicos para a
+compostagem, diminuindo a deposição de resíduos em aterro sanitário.
+As coletas serão suportadas pela contentorização dos resíduos com a implantação de
+contentores de grande capacidade nas ruas de Marituba, em grupos de 3 unidades de
+2,5 m3 cada, para as 3 frações de resíduos (secos, úmidos e rejeitos).
+
+Figura 10.1 – Modelo de ecoponto de 3 frações e respetivas cores
+
+As coletas serão realizadas por caminhões adequados à carga vertical dos contentores,
+sendo por isso dotados de grua para içamento dos contentores.
+235
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Figura 10.2 – Tipo de caminhão com grua telescópica tipo Munck para cargas verticais
+
+Tendo em conta o diagnóstico realizado e as diretrizes e estratégias traçadas para a
+gestão de resíduos em Marituba, apresenta-se na Tabela 10.1 as metas de curto a longo
+prazo para a coleta de resíduos.
+
+Tabela 10.1- Metas para a coleta seletiva e coleta regular de resíduos indiferenciados
+
+Designação
+
+Unid
+
+Produção de resíduos
+Coleta seletiva de recicláveis
+
+t/dia
+meta
+t/dia
+meta
+t/dia
+meta
+t/dia
+
+Coleta seletiva de resíduos orgânicos
+Coleta regular resíduos indiferenciados
+
+imediato
+60
+20%
+3.0
+10%
+2.52
+95%
+54.48
+
+Prazo (anos)
+curto
+médio
+70
+85
+40%
+60%
+7.0
+12.8
+20%
+30%
+5.88
+10.71
+100%
+100%
+57.12
+61.54
+
+Para a concretização das metas apresentadas serão implementados Programas com
+atividades e ações distintas para o cumprimento dos objetivos traçados, que se
+apresentam no capítulo a seguir.
+
+Programas a implementar e calendarização
+Para a concretização das metas e objetivos do presente PGIRS, são previstos diversos
+programas:
+236
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+longo
+100
+65%
+16.3
+40%
+16.80
+100%
+66.95
+
+1) Programa de Coleta seletiva;
+2) Programa de Incremento da Coleta Regular Indiferenciada;
+3) Programa de Educação Ambiental;
+4) Programa de Compostagem Comunitária;
+5) Programa Horta Pedagógica e Compostagem nas Escolas (Escolas Verdes)
+6) Programa de Destinação Ambientalmente adequada de resíduos sólidos
+7) Programa de Logística Reversa
+Apresenta-se nas tabelas e descritivos a seguir o detalhamento dos Programas e
+respectivas Ações.
+
+Programa de Coleta Seletiva
+A coleta seletiva será gradativamente alargada a todo o município, após as
+experiências piloto em grande escala, no Bairro Viver Melhor e condomínios
+Soure, Algodoal e Salinas.
+Programa 1
+
+COLETA SELETIVA MECANIZADA
+
+Objetivos
+
+Implantação de ecopontos para deposição diferenciada dos resíduos
+segregados nas habitações em 3 frações: resíduos recicláveis secos
+com vista à reciclagem e resíduos orgânicos biodegradáveis com vista
+à compostagem e rejeitos; Apetrechamento do município com meios
+de transporte adequados ao tipo de contentor adotado (carga vertical).
+
+Justificativa
+
+A coleta seletiva de resíduos é uma forma de cumprir objetivos
+plasmados na Política Nacional de Resíduos Sólidos, mas também
+um imperativo de combate à mudança climática, diminuindo as
+emissões gasosas, preservando recursos naturais, e, não menos
+importante, contribuir para a criação de emprego e renda de milhões
+de pessoas em todo o mundo. Marituba não podia ficar atrás destes
+objetivos.
+Atualmente a coleta seletiva é insípida e sem expressão, sem
+organização e da iniciativa isolada de poucas pessoas ou entidades.
+Para que se possa realizar uma coleta seletiva é fulcral dotar o
+município de meios de acondicionamento dos resíduos por frações
+específicas de resíduos para potenciar a sua valorização, relegando
+
+237
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Programa 1
+
+COLETA SELETIVA MECANIZADA
+apenas os rejeitos para outras operações (aterro sanitário ou
+produção de CDR).
+
+COLETA SELETIVA MECANIZADA
+Nº
+1
+
+Ações
+
+Prazo
+
+Capacitação e apoio à profissionalização das imediato
+
+Tipo
+Projeto
+
+cooperativas e associação de catadores recicláveis
+para os serviços de separação e triagem dos
+materiais recolhidos na coleta.
+2
+
+Implantação de Ecopontos constituídos por grupos permanente Atividade
+de 3 contentores de grande capacidade para 3
+frações de resíduos
+
+3
+
+Implantação de PEV, pontos de entrega voluntária curto
+
+Projeto
+
+fabricados com contentores marítimos, para apoio à
+coleta porta-a-porta
+4
+
+Equipamento de transporte especial de resíduos curto
+
+Projeto
+
+para as coletas seletivas
+
+Estimativa do custo total deste Programa, a preços atuais, para os próximos 20
+anos é de R$ 12.775.000,00, conforme detalhado e calendarizado na Tabela
+10.2 a seguir apresentada.
+
+238
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 10.2 – Investimentos no Programa de coleta seletiva (Preços atuais)
+
+Item
+
+Atividade/Ação
+
+Quant
+
+1
+
+Cursos de capacitação à profissionalização das
+cooperativas e associação de catadores recicláveis
+para os serviços de separação e triagem dos materiais
+recolhidos na coleta.
+
+2
+
+Uniformização dos catadores: apoio direto aos
+catadores com uniformes e EPI (5 por ano/catador)
+
+3
+
+Unit (R$)
+
+Total (R$)
+
+Imediato (R$) Curto (R$)
+
+Médio (R$)
+
+Longo (R$)
+
+R$ 330 000
+
+R$ 660 000
+
+R$ 330 000
+
+R$ 0
+
+R$ 330 000
+
+R$ 0
+
+4000
+
+R$ 280
+
+R$ 1 120 000
+
+R$ 56 000
+
+R$ 280 000
+
+R$ 336 000
+
+R$ 448 000
+
+Implantação de Ecopontos constituídos por grupos de
+3 contentores de grande capacidade para 3 frações de
+resíduos
+
+330
+
+R$ 14 000
+
+R$ 4 620 000
+
+R$ 924 000
+
+R$ 1 064 000
+
+R$ 840 000
+
+R$ 1 792 000
+
+4
+
+Implantação de PEV, pontos de entrega voluntária
+fabricados com contentores marítimos, para apoio à
+coleta porta-a-porta
+
+25
+
+R$ 15 000
+
+R$ 375 000
+
+R$ 0
+
+R$ 90 000
+
+R$ 30 000
+
+R$ 45 000
+
+5
+
+Caminhão de coleta seletiva de resíduos
+
+12
+
+R$ 500 000
+
+R$ 6 000 000
+
+R$ 2 000 000
+
+R$ 1 000 000
+
+R$ 1 500 000
+
+R$ 1 500 000
+
+R$ 12 775 000
+
+R$ 3 310 000
+
+R$ 2 434 000
+
+R$ 3 036 000
+
+R$ 3 785 000
+
+INVESTIMENTO
+
+2
+
+Apresenta-se na Tabela seguinte as quantidades previstas serem executadas ao longo do período e os preços unitário e total de cada atividade
+ou ação, a preços atuais.
+
+239
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 10.3 – Programa de coleta seletiva (quantidades e custo)
+
+Item Atividade/Ação
+
+Quant
+
+Imediato
+
+2
+
+1
+
+Curto
+
+Médio
+
+1
+
+Cursos de capacitação à profissionalização das
+cooperativas e associação de catadores recicláveis
+para os serviços de separação e triagem dos materiais
+recolhidos na coleta.
+
+2
+
+Uniformização dos catadores: apoio direto aos
+catadores com uniformes e EPI (5 por ano/catador)
+
+4000
+
+200.00
+
+1 000.00
+
+1 200.00
+
+3
+
+Implantação de Ecopontos constituídos por grupos de
+3 contentores de grande capacidade para 3 frações de
+resíduos
+
+330
+
+66.00
+
+76.00
+
+60.00
+
+4
+
+Implantação de PEV, pontos de entrega voluntária
+fabricados com contentores marítimos, para apoio à
+coleta porta-a-porta
+
+25
+
+5
+
+Caminhão de coleta seletiva de resíduos
+
+12
+
+Longo
+
+1
+
+4
+
+6
+
+2
+
+3
+
+2
+
+3
+
+3
+
+Unitário (R$)
+
+Total (R$)
+
+330 000.00
+
+660 000.00
+
+1 600.00
+
+280.00
+
+1 120 000.00
+
+128.00
+
+14 000.00
+
+4 620 000.00
+
+15 000.00
+
+375 000.00
+
+500 000.00
+
+6 000 000.00
+12 775 000.00
+
+240
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Programa de Incremento da Coleta Indiferenciada
+A atual capacidade de coleta indiferenciada não garante a frequência adequada,
+nem a totalidade das ruas do município.
+Programa 2
+
+INCREMENTO DA COLETA REGULAR INDIFERENCIADA
+
+Objetivos
+
+Incrementar a coleta indiferenciada (regular) desenvolvida pela
+SEIDUR, com a inclusão de novos meios de coleta e transporte
+adaptados aos novos contentores de grande capacidade para
+transporte ao destino final.
+
+Justificativa
+
+Como descrito no diagnóstico, a coleta de resíduos indiferenciados,
+apesar de cobrir territorialmente todo o município, não chega a todas
+as ruas, nem tem a frequência desejada devido a falta de meios e, os
+que possui, maioritariamente alugados, estão em mau estado,
+passando demasiado tempo paralizados na manutenção, devido à
+idade avançada das viaturas. O setor terá com a implementação do
+Programa,
+
+Nº
+1
+
+Ações
+
+Prazo
+
+Aquisição de novos caminhões coletores de resíduos curto
+
+Tipo
+Projeto
+
+para as coletas indiferenciadas, para incremento da
+cobertura da coleta no município com qualidade.
+2
+
+Aquisição de um caminhão lava contentores
+
+Curto
+
+Projeto
+
+3
+
+Coleta de resíduos indiferenciados a 100% da permanente Atividade
+população
+
+Estimativa de Investimentos: R$ 148.220.987,00, conforme se apresenta na Tabela 10.4,
+a seguir apresentada, a preços atuais.
+
+241
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 10.4 - Programa 2: Incremento da coleta regular indiferenciada. Investimentos calendarizados a preços atuais
+
+Item Atividade/Ação
+
+Quant
+
+Unitário
+(R$)
+
+Total (R$)
+
+Imediato (R$)
+
+Curto (R$)
+
+R$ 1 000 000
+
+R$ 2 000 000
+
+Médio (R$)
+
+Longo (R$)
+
+1
+
+Caminhão coletor para circuitos de coleta de resíduos
+indiferenciados
+
+10
+
+R$ 500 000
+
+R$ 5 000 000
+
+2
+
+Caminhão Lava contentores c/ cisterna
+
+2
+
+R$ 550 000
+
+R$ 1 100 000
+
+5
+
+Execução da coleta regular de resíduos a 100% da
+população
+
+905 229
+
+R$ 157,00
+
+R$ 142 120 987
+
+R$ 3 194 704
+
+R$ 21 337
+226
+
+R$ 29 336 652
+
+R$ 88 252 405
+
+R$ 148 220 987
+
+R$ 4 194 704
+
+R$ 23 837
+226
+
+R$ 30 336 652
+
+R$ 89 802 405
+
+INVESTIMENTO
+
+R$ 1 000 000
+
+R$ 500 000
+
+R$ 1 000 000
+R$ 550 000
+
+Tabela 10.5- Programa 2, quantidades, preços unitários e totais
+
+Item Atividade/Ação
+
+Quant
+
+1
+
+Caminhão coletor para circuitos de coleta de resíduos
+indiferenciados de carga vertical
+
+10
+
+2
+
+Caminhão Lava contentores c/ cisterna
+
+2
+
+3
+
+Execução da coleta regular de resíduos a 100% da
+população
+
+905 229
+
+Imediato
+
+2
+
+Curto
+
+Médio
+
+Longo
+
+4
+
+2
+
+2
+
+R$ 500 000
+
+R$ 5 000 000
+
+1
+
+R$ 550 000
+
+R$ 1 100 000
+
+R$ 157
+
+R$ 142 120 987
+
+1
+20 348
+
+135 906
+
+186 858
+
+562 117
+
+Unitário (R$) Total (R$)
+
+R$ 148 220 987
+
+242
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Programa de Educação Ambiental
+As mudanças que são propostas no presente PGIRS necessitam do apoio da população
+de Marituba para o sucesso dos diversos programas, desde logo a conscientização para
+a necessidade de se separarem os resíduos na fonte, de acordo com as respetivas
+características. Para tanto serão realizadas campanhas de sensibilização e de
+capacitação da população por bairro ou condomínio, para a importância da coleta
+seletiva.
+Programa 3
+
+EDUCAÇÃO AMBIENTAL
+
+Objetivos
+
+Através de cursos, oficinas e ações de divulgação que promovam a
+não geração, a redução, a reutilização e a reciclagem de resíduos
+sólidos se consolidará o Programa de Educação Ambiental,
+envolvendo as Escolas do município, as Igrejas, órgãos públicos
+municipais e a população em geral, nos bairros e condomínios.
+
+Justificativa
+
+A população de marituba necessita conhecer o PGIRS, os objetivos,
+a importância do envolvimento da população na sua execução e no
+seu monitoramento e controle. As oficinas realizadas evidenciaram
+que a população está distanciada das questões dos resíduos sólidos,
+com excessão da questão que tem afetado a população, que é o mau
+funcionamento do aterro sanitário da empresa Guamá, Tratameto de
+Resíduos, do Grupo Solvi, SA.
+
+Nº
+1
+
+Ações
+
+Prazo
+
+Cursos de capacitação de síndicos e administradores Curto
+
+Tipo
+Projeto
+
+de condimínos, lideranças de bairros, lideranças
+locais, agentes de saúde, colaboradores da SEMMA
+2
+
+Sensibilização porta-a-porta em bairros Viver Melhor, curto
+
+Projeto
+
+Centro, Pedreirinha, Nova Marituba, condomínios
+Soure, Algodoal, Salinas, Citta Maris, etc.
+3
+
+Divulgação do programa de coleta seletiva e imediato
+
+Atividade
+
+informação à população, em caráter permanente
+
+243
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+Tabela 10.6 – Programa de Educação Ambiental: custos, a preços atuais
+
+Item Atividade/Ação
+
+Quant
+
+Unit (R$)
+
+Total (R$)
+
+Imediato (R$)
+
+Curto (R$)
+
+Médio (R$)
+
+Longo (R$)
+
+1
+
+Cursos de capacitação de síndicos e administradores
+de condomínios, lideranças de bairros, lideranças
+locais, agentes de saúde, colaboradores da SEMMA
+
+553
+
+R$ 4 500
+
+R$ 2 488 500
+
+R$ 238 500
+
+R$ 675 000
+
+R$ 675 000
+
+R$ 900 000
+
+2
+
+Sensibilização porta-a-porta em bairros Viver Melhor,
+Centro, Pedreirinha, Nova Marituba, condomínios
+Soure, Algodoal, Salinas, Citta Maris, etc.
+
+180
+
+R$ 3 000
+
+R$ 540 000
+
+R$ 60 000
+
+R$ 120 000
+
+R$ 180 000
+
+R$ 180 000
+
+3
+
+Divulgação do programa de coleta seletiva e
+informação à população, em caráter permanente
+
+1040
+
+R$ 1 200
+
+R$ 1 248 000
+
+R$ 62 400
+
+R$ 312 000
+
+R$ 374 400
+
+R$ 499 200
+
+R$ 3 028 500
+
+R$ 298 500
+
+R$ 795 000
+
+R$ 855 000
+
+R$ 1 080 000
+
+INVESTIMENTO
+
+Tabela 10.7 – Programa de educação Ambiental: quantidades e custos a preços atuais
+
+Item Atividade/Ação
+
+Quant
+
+Imediato
+
+Curto
+
+Médio
+
+Longo
+
+Unitário (R$)
+
+Total (R$)
+
+1
+
+Cursos de capacitação de síndicos e administradores
+de condomínios, lideranças de bairros, lideranças
+locais, agentes de saúde, colaboradores da SEMMA
+
+553
+
+53
+
+150
+
+150
+
+200
+
+R$ 4 500
+
+R$ 2 488 500
+
+2
+
+Sensibilização porta-a-porta em bairros Viver Melhor,
+Centro, Pedreirinha, Nova Marituba, Almir Gabriel,
+Decouville, etc., e condomínios Soure, Algodoal,
+Salinas, Citta Maris, etc.
+
+180
+
+20
+
+40
+
+60
+
+60
+
+R$ 3 000
+
+R$ 540 000
+
+3
+
+Divulgação do programa de coleta seletiva e
+informação à população, em caráter permanente
+
+1 040
+
+52
+
+260
+
+312
+
+416
+
+R$ 1 200
+
+R$ 1 248 000
+R$ 3 028 500
+
+INVESTIMENTO
+
+244
+Plano de Gestão Integrada de Resíduos Sólidos de Marituba - 2019
+
+

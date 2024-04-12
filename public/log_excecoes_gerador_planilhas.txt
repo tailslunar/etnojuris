@@ -1,0 +1,23 @@
+ErrorException: Attempt to read property "nome_coluna" on null in C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php:1237
+Stack trace:
+#0 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(254): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'Attempt to read...', 'C:\\laragon\\www\\...', 1237)
+#1 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(1237): Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(2, 'Attempt to read...', 'C:\\laragon\\www\\...', 1237)
+#2 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(1329): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->ajustarNomesDasColunas('movs', Object(Illuminate\Database\Eloquent\Collection), Array, Object(App\Models\Movs), 'Movs', 2, 9, 22.0)
+#3 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(1208): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->gerarPlanilha('movs', Object(Illuminate\Database\Eloquent\Collection), 'Movs', 2, 9, 22.0)
+#4 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(164): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->exportaBancoDeDadosPraPlanilha()
+#5 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(99): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->geradorDePlanilhas()
+#6 C:\laragon\www\Work\ufam\ufam\app\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil.php(84): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->executar()
+#7 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php(36): App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil->handle()
+#8 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Container\Util.php(41): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#9 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php(93): Illuminate\Container\Util::unwrapIfClosure(Object(Closure))
+#10 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php(37): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#11 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Container\Container.php(662): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#12 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Console\Command.php(208): Illuminate\Container\Container->call(Array)
+#13 C:\laragon\www\Work\ufam\ufam\vendor\symfony\console\Command\Command.php(312): Illuminate\Console\Command->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#14 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Console\Command.php(178): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Illuminate\Console\OutputStyle))
+#15 C:\laragon\www\Work\ufam\ufam\vendor\symfony\console\Application.php(1040): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 C:\laragon\www\Work\ufam\ufam\vendor\symfony\console\Application.php(314): Symfony\Component\Console\Application->doRunCommand(Object(App\Console\Commands\GerarPlanilhasDosProcessosDaJusbrasil), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#17 C:\laragon\www\Work\ufam\ufam\vendor\symfony\console\Application.php(168): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 C:\laragon\www\Work\ufam\ufam\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(200): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 C:\laragon\www\Work\ufam\ufam\artisan(37): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 {main}

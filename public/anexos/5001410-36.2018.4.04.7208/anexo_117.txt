@@ -1,0 +1,7806 @@
+LONDPART TRANSPORTES URBANOS LTDÁ 0.5.6--da Operação-: _14/06/2019)
+&ilha- 153_,)
+RUA BIGUAÇU N° 555 BAL. CAMBORIU -50- 8t.337-450 .
+Escala:
+1310
+CNPJ:02.032.053/0001-55
+Dia: Uteis
+(Ciiirriiiag)
+Ficha Diária
+Jornada de Trabalho Intervalo Repousc
+Horário de Trabalho em Veículos de Passageiros(P rt.tAin n°3626 de.13/11/1991
+•
+:
+Inicio
+j if30
+: 0
+inicio
+Ass.:
+111
+II
+Fim
+Fim
+4 e LisNI . 01712
+Motorista: MARCIA O MELLO DOS SANTOS
+inicio
+inicio
+Ass.:
+Fim
+Fim
+N°:
+Motorista Substituto:
+Ass.:
+:Cobrador:
+Ass.:
+
+:‘,1°:
+.
+
+-
+
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa: 0,
+Hora Itinerário
+
+N°:
+'arT
+l s. Carro 1
+
+Início
+
+Irído
+
+Fim
+
+Fim
+
+inicia
+
+I Inicio
+
+Fim
+—- ——-—Inicial
+
+Final
+
+Fim
+— ——--————
+Inicial
+
+Final
+
+1759 • INICIO JORNADA DE TRABALHO
+1E:00
+
+(1E4)HOSPITAL - BR101 - MORRO DO BOI
+
+15:45
+
+▪ FIM JORNADA DE TRABALHO
+
+(NA Ppaou d&etavcvz
+
+Men': t
+
+CAIXA
+V. Transporte
+I
+
+Adulto
+D. Escolar
+
+R$
+
+i "1 otal
+O.Taca
+,
+Inicial
+
+Dlerdliçe _ _)
+
+Hora de Chegada
+
+Visto do Fiscal
+
+1 Pneu furado 2- Quebra veículo 3 - Ausência de motodso.
+4 - Acidente 5- Trânsito congestionado 8 - Outros
+
+P. Integração
+
+tr
+itraCatiat
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+; 9. Livre
+
+Dinheiro
+
+Ti- , •
+Hora de Saída
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+
+Hora:
+
+Cód. Motivo( )
+Cód. Motivo( )
+Cód. Motivo( )
+
+OBS:
+
+jQ
+k-22
+
+13106/2019 14:39:05
+
+Systeme,' Informática Ltd 1 (
+
+1.
+I
+1
+
+LONDPART TRANSPORTES URBANOS LTDÀ.Data da Operação: 14/06/2019
+RUA BIGUAÇU N°555 Linha: 150
+BAL. CAMBORIU -50 - 86.337-450
+Escala:
+1300
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01550
+Ficha Diária
+1
+Horário de Trabalho em Veículos de Passageiros(Portillin. n°3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repousc
+Inicia
+Início
+Ass .:
+Fim
+Fim
+Motorista: LUIZ PEREIRA DA SILVA
+N°: 01646
+Inicio
+Início
+Ass.:
+Fim
+Fim
+Motorista Substituto:
+N°:
+Inicio
+Inicio
+Ass .:
+Fim
+Fim
+Cobrador:
+NP'
+Inicia
+Inicio
+Ass.:
+No:
+Fim
+Fim
+Cobrador Substituto:
+wittn-Eapala:18,00 Operante:15,00 Ociosa:3,00
+CATRACA
+6 DOMETRO
+Hora
+0E:39
+
+, peÃo
+
+Itifiesárío
+• INICÍO JORNADA DE TRABALHO
+
+.N° Pass.
+
+Carro
+
+inicial
+
+Final
+
+Inicial
+
+Final
+
+(1 57)GàtAGEM - MORRO BOI (DE LEVE)
+
+07:00
+
+(183)M0à0 DO BOI - BR101 -HOSPITAL
+
+07:45
+
+• FIM JOR ABA DE TRABALHO
+
+N. 1
+.....z.
+,...._cr,
+
+Sem
+
+CS P1
+—&€
+
+Fiti‘ANGE-M
+
+/5 ga
+
+rcr-J-P_s_s .. rt-7795õlj-7573i y
+
+h/ 71-
+
+3
+
+-
+
+'
+
+CAIXA
+
+learriatclarMikelinpl
+
+V. Transporte
+
+Hora de Saida
+
+Visto do Fiscal
+
+P. Adulto
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens no Realizadas
+1 PneJ furado 2- Quebra veículo 3- Ausência de motoristr
+4- Acidente 5- Transito congestionado 6- Outros
+
+P. Livre
+i P. Escolar
+P. Integração
+Dinheiro
+
+,
+
+R$
+
+Total
+
+R$
+
+R$
+
+.
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+
+13'06/2019 14:39:05
+
+Systemar Informática Ltd3
+
+--..
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 14/06/2019
+RUA BIGUAÇU N° 555Unha: 150
+.
+BAL. CAMBORIU - SC - 88.337-450
+- Escaa:
+l 1.320 •
+CNPJ:02.032.063/0001-55
+..
+Dia: Uteis
+Carro:
+01450
+,
+Ficha Diária
+n°3626
+de
+13/11/1991
+Jornada de Trabalho Intervalo Repousc
+Horário de Trabalho em Veículos de -assar- .ros(Port.Min.
+.
+
+Início
+
+Ass.:
+.
+Motorista: LUIZ PEREIRA DA SI V
+Ass.:
+i
+Motorista Substituto:
+Ass.: .
+
+N°:
+
+Cobrador:
+
+N40:
+
+. Ass.:
+Cobrador Substituto:
+krn Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora
+
+Itinerário
+
+09:14
+
+* INICIO JORNADA DE TRABALHO
+
+09:15
+
+(183)MORRO DO BOI - BR101 -HOSPITAL
+
+10:00
+
+• FIM JORNADA DE TRABALHO
+
+.. tl
+
+m oio
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Bitola
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+NP:
+
+Fim
+
+CATRACA
+N° Pass.
+
+Carro
+
+) (5
+
+144 5ç)
+
+Inicial -
+
+o 27-4 (4
+
+ODOMETRO
+
+Final
+
+Inicial
+
+Final
+
+orn'I . "1i 4' i 30 tjp2 if g 3
+.
+
+•
+
+3g50° j
+
+Fim
+
+N°: 01646
+
+ri
+
+ZE2o
+
+.POISÇa6eY2
+
+3clw UN"
+:1
+
+'
+gei
+
+CAIXA /4<,e)
+
+F
+
+V. Transporte
+
+Hora de Sada
+
+2. Adulto
+
+HOra de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P. Livre
+
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorisi
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+P. Escolar
+P. Integração
+i Dnheiro
+i
+
+Viste do Fiscal
+
+R$
+
+Total
+
+'
+(O co •
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód.I Motivo(
+
+Cód. Motivo(
+Cód. Motivo(
+
+oeS
+
+çetraca Fin-à1
+
+. 27 -,7 v
+1- atrácà1hicial! (.)
+ellé-reni - ) •
+
+no ,Dr)
+
+i'3,06/2019 14:39:05
+
+Systeme- Informática LU
+
+LONDPART TRANSPORTES URBANOS LT DA Data da Operação: 15/06/2019
+Linha: 150
+•
+RUA BIGUAÇU N°555 ML. CAMBORIU - SC - 88..337450
+1306
+Escala:
+CNPJ:02.032.06310001-55
+Dia: Sábados
+. Carro: 01850
+,
+Ficha Diária
+i Jornada de Trabalho! Intervalo Repouso
+Horário de Trabalho em Veículos de Passarieiros(Port.Min. n° 3626 de 13/11/1991
+,InIcio
+
+Ass.:
+'‘I',otorista: VALF
+Ass.:
+
+D
+
+;Fim
+
+\I°: 0184C
+
+UGUSTIN
+
+!Inicio
+
+\I°:
+
+Aotorista Substituto:
+
+\ri:
+
+Ass.:
+
+Hora 'Itinerário
+
+á
+
+1129
+
+" INICIO JORNADA DE TRABALHO
+
+11:30
+
+(157)GARAGEM - MORRO BOI (DE LEVE)
+
+11:50
+
+(183)MORRO DO BOI - BR101 - HOSPITAL
+
+12:30
+
+• FIM JORNADA DE TRABALHO
+
+r
+
+Pass.. Carro
+
+!Imola
+
+'Inicio
+I
+'Fim
+
+1
+
+000 METRO
+
+49YJ 3
+
+Final
+
+Inicial
+
+Final
+
+_9_ .t9
+
+9S-33
+
+i. ; PXE Iil0..
+„ . • ..nse
+
+.4
+
+i
+
+eNitteri.P
+
+i ibizi , to
+* 1 Eal linrrls
+
+1:t-..
+
+Hora de Sada i gc
+
+g kijp Eine
+
+CE Visto do Fi
+
+Visto do !is
+a
+Hora de Chegada _J
+Viagens não Realizada
+
+P. Adulto
+D. Livre
+
+e motorist8
+1 Pneu furado 2- Quebra veiculo 3- Ausé
+4 . AclJente 5 - Trânsito congesficnado 6- Outros
+
+D. Escolar.
+'
+
+k D. Integração
+F:$ —
+
+R$
+
+R$
+
+i R$
+
+i R$
+'
+
+Total
+
+atraca
+
+:Fim
+
+•
+
+CAIXA
+V. Transporte .
+
+Z.:atraca Final
+
+[Inicio
+i
+!Fim
+
+!Wil
+
+Inicial
+
+,
+
+! F im
+
+-Inicio
+
+fieir
+
+Ze-to
+
+1 Dinheiro
+
+42,2n
+
+CATRACA
+
+ff7'i5
+Are
+
+J
+950 afe ¡aio
+
+'Inicio
+
+;Fim
+
+V°:
+
+:obrador Substituto:
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+
+29
+
+. Fim
+I
+I Inicio
+
+Ass.:
+:obrador:
+
+,m
+
+1 qi133
+
+Inicial í9q2 3
+
+l Diferença
+
+5/06/2019 10:23:39
+
+....___
+
+Hora:
+hora.
+Hora-
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+• )9S:
+
+i
++I
+
+1
+ys ernar Informática Lid a CI
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 15106/2019
+Linha: 150
+RUA BIGUAÇU N°555 Escala: 1316
+BAL. CAMBORIU - SC - 86.337-450
+CNPJ:02.032.063/0001-55
+Dia: Sábados
+Carro: 01650
+Ficha Diária
+i Jornada de Trabalho Intervalo Repouso
+•
+
+Horário de Trabalho em Veículos de Pa sageiros(Port.Min. n° 3626 dia 13/11/1991
+
+Ass.:
+Motorista: LUIZ PEREIRA DA/ LV
+Ass.:
+
+i Inicio
+
+.i. 5 5
+
+/7
+
+Fim
+
+Fim
+
+\10 01646
+
+Inicio
+
+Inicio
+
+i Inicio
+
+Fim
+
+;Fim
+
+!Motorista Substituto:
+
+;Inicio
+
+Ass.:
+
+.
+
+Fim
+
+• Fim
+
+Cobrador:
+Ass.:
+,•
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+
+Inicio
+1
+i Fim
+
+Inicio
+!Firn
+
+CATRACA
+Final
+
+Inicial
+
+i Hora Itinerário
+17:59 'INICIO JORNADA DE TRABALHO
+
+,Q3°3
+
+laion (184)HOSPITAL - BR101 - MORRO DO BOI
+
+Início
+
+ODOMETRO
+Final
+
+Inicial
+
+LIN (-92, (11S
+
+18:45 " FIM JORNADA DE TRABALHO
+
+Passo, Geleo's PO, a O
+m amo do (30i
+Oltv
+
+Jodo
+
+a
+
+02420
+
+CAIXA /LR°
+V. Transporte
+D. Adulto
+
+Visto do Fiscal
+
+Hera de Ohegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+- PneJ fundo 2 - Quebra veiculo 3 - Ausência de motorist.
+4 Acidente 5 -Transito congestionado 6 - Outros
+
+P. Livre
+Escolar
+P . Integração
+Dinheiro
+
+Hora de Sala
+
+R$
+
+Es
+
+¡Total
+
+Cód. Motivo(
+
+Hora:
+
+Côd. Motivo(
+
+Hera:
+
+Cód. Motivo(
+
+)BS:
+
+00
+
+Catraca Final
+
+0 30
+
+C:atraca Inicial
+
+0300
+
+Diferença
+
+r
+
+15/06/2019 10:23:39
+
+Hora:
+
+OO
+
+Systemar Informática Lida
+
+LONDPART TRANSPORTES URBANOS LTDtData da Operação: 16/06/2019
+Linha: 150
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337-450
+Escala: 1307
+CNPJ:02.032.063/0001-55
+Dia: Domingos/Feriados
+Carro:
+03001
+Ficha Diária
+Jornada de Trabalho Intervalo Repousc.
+Horário de Trabalho em Velculos de Passageiros(Port.lAin. n°3626 de 13/11/1991
+— ..,_
+Inicio dii
+i
+. 1 7 g
+nicio
+Ass.:-.....,
+--•_+
+' /7, ) /.4
+4 71,9 -) i \ IX dl" Ajr-t(ji
+Fim
+Fim
+‘1°:1—
+02004
+Viotorista.A.D.W.ADAIR-DE OLIVEIRA
+Inicio
+Inicio
+Asai.:
+Fim
+Fim
+\I°:
+\loto rista Substituto:
+Inicio
+Inicio
+Ass.:
+Fim
+Fim
+N°:
+Cobrador
+Inicio
+Início
+Ass.:
+Fim
+Fim
+%10:
+Cobrador Substituto:
+á DOMETRO
+CATRACA
+1
+Km Escala:18,00 Operante:151 00 Ociosa:3,00
+Hora
+'129
+
+N° Pass. Carro
+
+Itinerário
+1 INICIO JORNADA DE TRABALHO
+
+Inicial
+
+2aoJ
+
+(157)GARAGEM - MORRO BOI (DE LEVE)
+
+Á - O C: ‘ k
+
+11.50 l (183)MORR0 DO BOI- BR101 -HOSPITAL
+.
+:2:30 ' FIM JORNADA DE TRABALHO
+
+.340-ei 3
+
+1.30
+
+Final
+
+.3
+. .-*_cr A
+
+1
+
+Final
+
+Inicial
+
+—1
+
+ii .s-
+
+3:Fni. inc.,(3.3 r340.4
+
+Zenn PaÇSDGe12°S
+
+/
+•
+i_ .) , ,
+
+ceogo 07e
+
+7o9.3
+Ok—
+
+.
+
+CAIXA
+
+_
+
+-áár 'Prarn rys In Rag-Rfasrn
+té 'a 11 Il.
+
+V. Transporte
+,'. Adulto
+0 . Livre -•
+,.• -
+
+P. Escolar
+i
+•P. Integra»,
+h
+
+' Dinheiro ,-(-,
+Total .-N: ‘,
+
+i
+1i
+R$ (7)(;)
+CO
+
+•Catraca Final
+
+-k-àrc),9 A
+
+' Catraca Iniciai
+ii Diferença
+
+lao Si
+
+15/06/2019 10:40:30
+
+R$
+
+R$
+
+I R$
+1
+i
+
+i
+
+1
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pnel furado 2 - Diabra veiculo 3- Ausência de MOtOf iSti.
+4-Acidente 5 - Transito congestionado 6 - Outros
+
+1
+1
+
+Hora de Salda
+
+R$
+
+Hora:
+
+Cód. Motivo(
+
+)
+
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+
+OBS:
+
+1
+1
+i
+
+Systemer Informática Ltda (3
+
+„
+
+LONDPART TRANSPORTES URBANOS LTD/II.Data da Operação: 16/06/2019
+Linha: 150
+RUA BIGUAÇU N° 555 •
+SAL. CAMBORIU - SC - 8E337-450
+Escala:
+1317
+CNPJ:02.032.063/0001-55
+Dia: Domingos/Feriados
+Carro: 01650
+
+Ficha Diária
+
+oe Veículos de Passageiros(Pon.Min. n°3626 de 13/11/1991
+
+Horário de T
+Ass.:
+
+41/
+vlotorista: JUaii CEZAR SEVERO BENEVIDES
+Ass.:
+l
+e
+.
+
+NP: 01978
+
+Aotorista Substituto:
+Ass.:
+MO:
+
+:obrador:
+Ass.:
+:obrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora ¡Itinerário
+t 7-59 I t INICIO JORNADA DE TRABALHO
+18'00 !(184)HOSPITAL - BR101 - MORRO DO BOI
+18:45 I' FIM JORNADA DE TRABALHO
+
+. Adulto
+
+D. Livre
+P. Escolar
+P. Integração
+
+R$
+
+Total
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+Inicial
+Final
+
+Li V)
+
+,
+1
+I
+--i
+l
+
+,
+
+CIDOMETRO
+Final
+Inicial
+
+0P6.-~ Wrêncialli
+Hora de Salda ii5—ityti Visto do Fiscal
+
+CAIXA
+V. Transporte
+
+Dinheiro
+
+N° Pass. Carro
+
+Inicio
+
+o8
+
+syo
+18W
+
+3
+
+NP:
+
+Jornada de Trabalho Intervalo Repouso
+Inicia
+I Inicio /iffro g
+wi
+t 2'
+:05- —
+Fim ,..257. -015
+Fim
+
+R$
+
+fl
+
+Visto do Fiscal
+Hora de Chegada
+Viagens não Realizadas
+1 PrIeJ furado 2- Quebra veículo 3- Ausência de motorlsti:
+4 - Acidente 5 - Inânsito congestionado 6 - Outros
+Cód. Motivo( )
+Hora:
+Cod Motivo( )
+Hera:
+Cód. Motivo( )
+Hora:
+OBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+_
+
+r S'OS/2019 10:40:30
+
+Systemer Informática Ltd3
+
+-
+
+Horário de Trabalho e
+
+LONDPART TRANSPORTES URBANOS LTDA Data da Operação: 17/06/2019
+Linha: 150
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337-450
+Esc,ala:
+1300
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01550
+Ficha Diária
+3626
+de
+13/11/1991
+Jornada
+de
+Trabalho
+Intervalo Repouso
+n°
+culos de Passageiros(Port.Min.
+
+Ass.
+. otorista: e s'- 1 EZIO RODRIGUES PEREIRA
+Ass.:
+
+N°: 01942
+
+lotorista Substituto:
+Ass.:
+
+N°:
+
+obrador
+
+N°:
+
+Ass.:
+obrador Substituto:
+ini Escala:18,00 Operante:15,00 Ociosa:3,00
+
+N°: —
+
+.1 3 SQ
+
+./.00 I(183)MORR0 DO BOI - BR101 - HOSPITAL
+
+' j ,c-,
+i i ti
+.
+Fim o3r0
+
+Início
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+_O
+
+Fim
+
+.im .
+
+Fim
+
+CATRACA
+N° Pass. Carro
+
+-lora 'Itinerário
+-3 39 I' INICIO JORNADA DE TRABALHO
+3.40 I (157)GARAGEM - MORRO BOI (DE LEVE)
+
+Inicio
+
+Inicial
+
+Final
+
+9-4r; I
+
+S)- S 5 i
+
+ci\-9S I
+
+ez.n
+
+,S)
+
+ô DOMETRO
+Inicial
+
+Final
+
+c-,- g 34g1-1554
+
+"isb ‘ I 1
+
+ti z-1
+
+it 5'4 .SS1;
+
+7.45 i• FIM JORNADA DE TRABALHO
+
+5ét57
+
+iCOÇO
+
+okC
+
+CAIXA
+
+cl, 571TCP4rgardirpartj
+Visto do Fiscal
+Hora de Saída Of
+
+Inerg
+
+1:1
+
+1. Transporte
+
+Hora de Chegada °Sugo Visto do Fisca
+
+'. Adulto
+'. Livre
+'-'. Escolar
+D
+
+Integração
+
+Dinheiro
+
+R$
+
+R$ —'
+
+fatal
+
+R$
+
+R$
+
+R$
+
+L
+
+9
+
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5- Trânsito congestionado 6- Outros
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+088:
+
+:atraca Final
+:atraca Inicial
+
+en,
+
+R
+
+I
+
+Diferença
+17/06/2019 08:08:35
+
+ys amar inrormarsca uaa
+
+LONDPART TRANSPORTES URBANOS LTD4 Data da Operação: 17/06/2019
+F UA BIGUAÇU N° 555 . Linha: 150
+i
+E AL. CAMEIORIU • SC - U..337-450
+E cala: 1310
+,
+CNPJ:02.032.063/0001-55
+Is
+Dia: Uteis
+,Carro: 01650
+1I
+Jornada de Trabalhoi Intervalo Repouso
+Horário de Trabalho em Veiculas de Passageiros(Port.Min. na 3926 de 13/11/1991
+•
+•
+
+,
+
+Ficha otária
+
+..
+
+L. _.4.,
+
+Ass.:
+
+Motorista: RAFAEL
+
+;Inicia j
+
+Mc': 02098
+
+MOES
+
+Ass.:
+
+i Fim
+
+t
+
+i Inicio
+
+Início
+
+er `5
+
+!Fim
+
+\P:
+
+,Motorista Substituto:
+Ass.:
+, Cobrador:
+
+",:s q
+
+: inicio
+
+I
+\r:
+
+,
+
+Ass.:
+;Cobrador Substituto:
+Krn Escala:15,00 Operante:15,00 Ociosa:0,00
+
+. . ..
+
+\la:
+.
+1,1 Fass.I Carro
+
+Hora 'Itinerário
+17:59 I ' INICIO JORNADA DE TRABALI-14•
+I
+18:00 1(1 84)HOSKTAL - BR101 - MORRO DO BOI
+
+Fim
+inido
+t
+'Fim
+t
+i NCI3
+
+I Fim
+
+I Fim
+
+I Inicio
+
+I Iricio
+
+i Fim
+CATRACA
+Inicial
+
+Final
+
+j Fim
+
+1
+
+6DOMETRO
+
+I
+
+Inicial
+
+Final
+
+i
+
+2 (250
+
+1054,1 loictol 10c5ci4/2 Q)C1,'W
+
+_C)
+
+FIM JORNADA DE TRABALHO
+spci ii
+pe, wile atol. : 11//i.
+
+LS 30
+
+ah
+
+Oft-
+
+(
+
+i
+
+•
+
+ReservidebegeaãoçardérerSil 111
+
+CAIXA
+
+, V. Transporte
+
+-7-
+
+i
+
+'P. Adulto
+P. Livre
+1
+. P. Escolar
+
+,
+
+R$
+
+R$
+
+R$
+
+RI;
+..L.
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiculo 3- Ausência de motorista
+4 - Acidente 5 - TffinsIto congestionado 6 - Outros
+
+; P. Integração
+I
+•Dinheiro
+I
+i Total
+
+Hora de Salda
+
+i R$
+
+Hora:
+Hora:
+Hora:
+
+C6d. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+CBS:
+
+I Catraca Final
+I.
+: Catraca Inicial
+! Diferença
+í
+15/06/2019 10:54:51
+
+Systemar Informática Lida
+
+LONDPART TRANSF'CIRTES URBANOS LTDA Data da Operação: 17/06/2019
+Linha: 150
+F.UA BIGUAçU N° 555 EAL. CAMBORIU - SC -136.337-450
+Escala:
+1320
+CNPJ02.032.063/0001-55
+Dia: Uteis
+Carro: 01450
+Ficha Diária
+
+Horário de Trabalho em Veículos de Pas ag ros(Port.Min. n°3626 de 13/11/1991
+
+I
+
+i Jornada de Trabalhol Intervalo Repouso
+lInício
+:Inicio on,pi
+
+Asa.:
+Motorista: LUIZ PEREIRA DA a LV
+
+J
+
+Asa.:
+11.1otorista Substituto:
+
+j
+
+f
+
+V": 01646 .
+
+, Fim
+:
+inicio
+
+\I":
+
+'Fim
+
+¡Inicio
+I
+iFim
+
+I inicio
+
+'Inicio
+
+Fim
+
+;Fim
+1
+;Inicio
+
+Asa.:
+\I":
+
+Cobrador:
+
+iFim
+
+,Inicio
+
+Asa.:
+\R
+
+Cobrador Substituto:
+I
+iKm Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora ¡Itinerário
+09:14 I' INICIO JORNADA DE TRABALHC.
+C915 I (183)MORR0 DD BOI - BR101 - HOSPITAL
+
+ci oo -9
+
+CATRACA
+Inicial
+Final
+
+i
+;
+
+0003METRO
+Final
+Inicial
+
+11
+SSO 79 A 5 /g q3 3.'D3G-'
+
+IS)
+
+10:00 i• FIM JORNADA DE TFtABALHO
+,
+
+csi-t
+
+hl° Pass.[ Carro
+
+!Fim
+
+Fim
+
+'
+
+353 ii- :76-
+
+1
+
+L
+
+'1\0
+
+I
+i
+!
+!
+i
+
+1
+1
+
+- cvadt
+
+CAIXA
+: • V. Transporte
+
+I
+:I
+
+1 -.D. Adulto
+..
+"J. Livre
+
+;
+
+Ii1
+
+I 3. Escolar
+
+! . Integração
+i Dinheiro
+Total
+i
+i atraca Final
+
+Hora de Saída
+
+-R
+;--
+
+i,
+RS
+
+R$
+e
+
+R$
+
+; R$
+i
+i
+
+:R$
+
+encinimi
+Visto do Fiscal
+
+Visto do Fiscal
+Hora de Chegada
+Viagens não Realizadas
+-I Pneu furado 2- Quebra veículo 3- Ausência de motorize,
+4- Acidente 5- Trânsito congestionado 5 - Outros
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora;
+OBS:
+
+le ittil
+
+ir-atraca Inicial
+
+l
+
+'Diferença
+15'0612019 10:54:51
+
+;0„,
+
+is-
+
+ys amar Intormatica
+
+_
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 18/06/2019
+RUA BIGUAÇU N°555 Unha: 150
+BAL. CAMBORIU - SC - 88.337-450
+Escala: 1300
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01850
+Ficha Diária
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Início (0C : ;•Gi
+Início
+Ass.:
+
+022SQ40
+
+1Motorista: GENEZIO RODRIGUES PEREIRA
+
+Fim OR :CS
+
+N°: 01942
+
+Fim
+
+Ass: ._ _.\,t4S
+." .
+(A AO: -,-Sin ti i-t5c t-Éf
+e..4______
+Fim
+[Motorista Substituto: 6./4504-ty.o 0,04,0—~,d
+N°02102
+Inicio
+Ass.:
+Fim
+l Cobrador:
+N°:
+r
+Inicio
+Ass.:
+I
+Fim
+;Cobrador
+Substituto:
+N°:
+,
+' Km Escala:18,00 Operante:15,00 Ociosa:3,00
+CATRACA
+Inicio
+
+i »ora Itinerário
+i 36 39 i' INICIO JORNADA DE TRABALHO
+
+N° Pass.
+
+Carro
+tiTOP
+
+; 06:40 I (157)GARAGEM - MORRO BOI (DE LEVE)
+i--. 07.00 (183)MORRO 00 BOI - BR101 -HOSPITAL
+
+---- 1 —
+
+Inicial
+
+1-113,w
+q 132—
+
+__.
+
+37.45 • FIM JORNADA DE TRABALHO
+L----+
+
+Início
+Fim
+Início
+Fim
+Inicio
+Fim
+
+O DOMETRO
+
+Final
+
+ti! 310
+
+(-//330
+
+Inicial
+
+Final
+
+431.
+3415 g-40 _VIS
+345 3 é /1 3,43
+
+b't i...i
+
+.)
+goo Mc 3s-01/42
+
+...11~airafroO,WilesGerênçia
+
+CAIXA
+
+tir
+
+V. Transporte
+
+Hora de Saída 0373
+
+P. Adulto
+
+Hora de Chegada O g)00 Visto do Fiscal
+
+ir
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+4- Acidente 5- Trânsito congestionado 6- Outros
+
+P. Livre
+
+[P. Escolar
+
+Hora:
+Hora:
+Hora:
+
+P. Integração
+Dinheiro
+
+Visto do Fiscal
+
+R$
+
+R$
+
+R$
+
+R$
+
+R$
+
+Total
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OEIS:
+
+Catraca Final
+
+.
+
+Catraca Inicial
+Diferença
+15/06/2019 11:46:40
+
+.
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 18/06/2019
+Linha: 150
+Escala: 1310
+Dia: Uteis
+Carro: 01650
+Jornada de Trabalho Intervalo Repouso
+
+RUA BIGUACU N° 555 •
+BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.083/0001-55
+
+i
+
+Ficha Diária
+
+.
+
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+Inicio
+
+Ass.:
+O SltA""-+Z
+Motorista: RAFAEL IMOES
+Ass.:
+Motorista Substituto:
+
+Fim
+
+N°: 02098
+No:
+
+Ass.:
+N°:
+
+Cobrador:
+Ass.:
+Cobrador Substituto:
+Km Escala:15,00 0.erante:15,00 Ociosa 0,00
+Hora
+7:59
+
+N°:
+
+' INICIO JORNADA DE TRABALHO
+
+15 00
+
+(184)HOSPITAL - BR101 - MORRO DO BOI
+
+18 45
+
+' FIM JORNADA DE TRABALHO
+
+V
+
+5
+
+Carro
+- 8 riI
+
+Inicio
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+N° Pass.
+
+itinerário
+
+.1ia:
+7
+
+Inicial
+
+• DOMETRO
+
+Final
+
+av Sie Plt,
+
+Inicial
+
+•
+
+,...... II;
+
+Final
+
+4.9,
+
+i"
+
+•
+qao
+
+•
+
+A'd
+
+-
+
+saalik~:to
+"—r
+ao. gão,CO.erència '7.:..-.
+
+CAIXA
+V. Transporte
+
+Hora de Salda
+
+.
+
+Visto do Fiscal
+Hora de Chegada
+Viagens no Realizadas
+
+P. Adulto
+P. Livre
+
+1 - Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+P. Escolar
+P. Integração
+
+Dinheiro
+Total
+Catraca Final
+
+Visto do Fiscal
+
+R$
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+30 g3 gi
+
+Catraca Inicial j)0R35
+Diferença
+1510612019 11:46:40
+
+R
+
+1
+
+Systemar Informática Ltda e
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 18/06/2019
+RUA BIGUAÇU N°555 Linha: 150
+ML. CAMBORIU - SC - 88.337-450
+Escala: 1320
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01950
+Ficha Diária
+Horário de Trabalho em Veículos de ssa iros(Port.Min. n° 3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Início
+Início
+Ass.:
+o 9 f. IL/
+Motorista: LUIZ PEREIRA DA SI
+Ass.:
+G
+Motorista Substituto:
+Ass .:
+Cobrador:
+
+Fim
+
+N°: 01646
+
+Inicio
+
+N°:
+N°:
+
+Ass.:
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora
+03.14
+r_09:15
+
+1000
+
+Itinerário
+- INICIO JORNADA DE TFLABALHO
+(183)MORR0 DO BOI - BR101 - HOSPfTAL
+.FIM JORNADA DE TRABALHO
+
+N°:
+
+00
+
+Carro
+
+/9SÕ
+
+Fim
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+.
+
+CATRACA
+N° Pass.
+
+Inicial
+
+Final
+
+DDOMETRO
+Inicial
+
+Final
+
+7n3ç . R 335 3'33 t-22 353W.3
+
+•
+
+t /
+91 te 01 C 3,1 O
+
+.i
+
+10; ç)7'
+
+.einéigrviao_aos
+orgao,defretéricW -. : -
+
+CAIXA
+V. Transporte
+
+Hora de Salda
+
+P. Adulto
+
+Hora de Chegada
+
+Visto do Fiscal
+Visto do Fiscal
+Viagens não Realizadas
+
+P. Livre
+
+1 Pneu furado 2- Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+P. Escolar
+P. Integração !
+Dinheiro
+
+R$
+
+r)0
+
+!Total
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+
+-ii 3 3 5
+n r) nt)r)
+
+11:46:4
+
+Systemar Informática Ltda
+
+LVIII.Ir-Mrl 1 I moinai-1/4m
+
+e ca uncemneva L I UM uma aa uperaçao: 1WIUbl4U1V
+
+Linha:
+Escala:
+Dia:
+Carro:
+
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+'
+
+Ficha Diária
+Horário de Trabalho eçn Veículos de Passageiros(Port.Min. n° 3626 de 13/11/1991
+Ass.:
+
+150
+1300
+Uteis
+01850
+
+Jornada de Trabalho Intervalo Repouso
+Inicio C,/ é i, tio
+Inicio
+Fim
+Fim
+Início
+Inicio
+
+L;k2 •}-
+
+Motorista: GENEttO RODRIGUES PEREIRA
+Ass.:
+.
+
+N°: 01942
+
+Motorista Substituto:
+
+N°:
+
+Fim
+Inicio
+
+Fim
+Inicio
+
+N°:
+
+Fim
+
+Fim
+
+Início
+
+IMcio
+
+Ass.:
+Cobrador:
+Ass.:
+! Cobrador
+
+Substituto:
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+FlornItinerário
+
+N° Pass. Carro
+
+Oria-1- INICIO JORNADA DE TRABALHO
+
+D5.40 i(157)GARAGEM - MORRO BOI (DE LEVE)
+
+.4
+
+ol'e
+
+Inicial
+
+L Í ii S'7
+,/
+
+07 45 i - FIM JORNADA DE TRABALHO
+
+—190
+
+Fim
+
+CATRACA
+
+ODOMETRO
+
+Final
+
+Inicial
+
+Final
+
+L-,/ Ffiikr-- Li ty 632. L',;•i --1,:,14 .
+c'elst 95;'Ll - ' (-ii, ti
+
+11 i t Li
+
+37 00 "(183)MORR0 DO BOI - BR101 -HOSPITAL
+
+•
+
+Fim
+
+N°:
+
+é'
+
+•
+
+i
+
+CAIXA
+
+Hora de Salda 06:
+
+kP. Adulto
+.
+
+Viagens não Realizadas
+
+P. Integração
+R$
+
+R$
+
+Total
+
+Catraca Inicial
+
+Visto do Fiscal jel;:
+rr
+
+C.,
+
+1 Pneu furado 2 - Quebra veiculo 3 - Ausência de r7orista
+4 - Acidente 5 - Trânsito oongestionado 6- Outros
+
+P. Escolar
+
+Catraca Final
+
+.?ç,
+
+Hora de Cnegada ot jai) Visto do Fiscal/
+
+[P. Livre
+
+Dinheiro
+
+ikete="Vrtijáirèle.Seréntiáiti-4iii.
+
+•
+
+y. Transporte
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+il 1-5-1:5
+
+Diferença
+. ----—
+
+L)
+
+02./ 2....ç
+Systemar Informática Ltda ®
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 19/06/2019
+Linha: 150
+RUA BIGUAÇU N°555 ML. CAMBORIU - SC - 88.337-450
+1310
+Escala:
+GNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01650
+Ficha Diária
+Jornada de Trabalho Intervalo Repouso
+Início 1,
+..5
+Inicio
+
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+Ass.:
+0,4flej Si>„.....tb.,
+62
+iMotorista:
+RAFAEL
+SIMOÉS
+t
+Ass.:
+i
+
+N°:02098
+
+Motorista Substituto:
+.
+
+FiM
+Inicio
+
+Início
+
+N°:
+
+Fim
+Inicio
+
+Fim
+Início
+
+N°:
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Ass .:
+Cobrador:
+Ass.:
+
+,
+
+arc' .120,o
+
+2o
+
+N° Pass.; Carro
+
+•
+
+* alergeservadmororgao,deanciáng:
+Hora de Saída
+Visto do Fiscal
+
+P. Adulto
+P. Livre
+P. Escolar
+P. Integração.
+R$
+
+R$
+
+Fim
+ODOMETRO
+Inicial
+Final
+
+J)] 3 7- ii.136 t9o/J3 606.1`34-1
+
+-1,
+
+Total
+
+CATRACA
+Inicial
+Final
+
+16,510
+
+CAIXA
+V. Transporte
+
+Dinheiro
+
+Fim
+
+N°:
+
+Cobrador Substituto:
+- Km Escala:15,00 Operante:15,00 Ociosa:0,00
+i Hora !Itinerário
+i 17 59 I • INICIO JORNADA DE TRABALHO
+' 18 00 I (184)HOSPITAL - BR101 - MORRO DO BOI
+, 1645 i* FIM JORNADA DE TRABALHO
+
+je:(.15
+
+R$
+
+R$
+
+R$
+
+Hora de Chegada
+Visto do Fiscal
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veiculo 3 - Ausência de motorista
+4- Acidente 5- Trânsito congestionado 6- Outros
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+QBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+15(06/2019 11:52:36
+
+i / 32_,,
+01
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 19/06/2019
+RUA BIGUAÇU N° 555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+Escala:
+1320
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01950
+Ficha Diária
+•
+Horário de Trabalho em Veículos de Pas geiros(Port.Min. n° 3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Inicio Õ 5 :iLi
+Início
+j
+Ass.:
+/
+Fim
+Fim
+:Motorista: LUIZ PEREIRA DA
+A
+N°: 01646
+o5-; VO
+Inicio
+Inicio
+Ass.:
+l
+ar
+Fim
+Motorista Substituto:
+Fim
+N°:
+Inicio
+
+Ass.:
+Cobrador
+
+N°:
+
+:
+Ass.:
+.Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+! Hora
+' 09.14
+
+Itinerário
+• INICIO JORNADA DE TRABALHO
+
+. 09.15
+
+(183)MORRO DO 801- BR101 - HOSPITAL
+
+.
+
+10 00
+
+N°:
+N° Pass.
+
+Carro
+
+Fim
+Início
+
+Fim
+
+Fim
+
+CAIXA
+
+.CATRACA
+
+DDOMETRO
+
+Inicial
+
+Inicial
+
+P Adulto
+-
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P Integração
+
+R$
+
+Total
+
+, Diferença
+
+'353°32y
+
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+, P. Escolar
+
+• Catraca Inicial
+
+72(4 c< ç?
+
+Final
+
+Hera de Salda
+
+: P Livre
+
+i
+i Catraca Final
+
+Final
+
+lia ffnintao
+i
+-ver~détaierercia
+
+-c
+
+V. Transporte
+
+: Dinheiro
+
+-1
+
+.
+
+580 4C.
+' n2 CIO
+
+,
+
+Fim
+Início
+
+/5 50 7'9C11 2'
+
+00
+
+• FIM JORNADA DE TRABALHO
+
+Inicio
+
+R$
+Co
+
+IR cf
+
+yg 1,1 2
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+os:
+
+€.
+
+C) n(ic_X)
+
+4c-4. —^4^ -----
+
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTDA Data da Operação: 20/06/2019
+Linha: 150
+
+RUA BIGUAÇU N"' 555 BAL. CAMBORIU -80-88337-450
+CNPJ:02.032.06310001-55
+
+Escala: 1307
+Dia: Domingos/Feriados
+Chrro: 03001
+Jornada de Trabalho Intervalo Repouso
+Inicio
+Inicio
+ii
+i g
+
+Ficha Diária
+Horário de Trabalho ein Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+Ass.:
+Motorista: VALFRID
+i
+Ass.:
+
+GUSTIN
+
+N°: 01840
+
+Motorista Substituto:
+Ass .:
+
+N°:
+
+'Cobrador:
+
+N°:
+
+Fim
+Início
+
+Ass.:
+N°:
+
+Cobrador Substituto:
+' Km Escala:18,00 Operante:15,00 Ociosa:3,00
+
+, 1,701(157 )GARAGEM - MORRO BOI (DE LEVE)
+
+t , 50
+
+(183)MORRO DO BOI - BR101 - HOSPRAL
+
+12 30
+
+'FIM JORNADA DE TRABALHO
+
+Carro
+
+inicial
+
+?c»-n/
+
+1Q96.
+8
+
+Início
+
+Fim
+
+Fim
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+/10(g
+
+IMX 8
+
+--"
+
+Fim
+
+e
+
+Início
+
+CATRACA
+N° Pass.
+
+Hora , Itinerário
+• 1 29 • ' INICIO JORNADA DE TRABALHO
+
+2
+/2.3
+
+Final
+
+149,8
+/99 (;"&
+
+á DOMETRO
+Inicial
+
+Final
+
+if o a . V
+tfei
+
+k-
+
+• 1/ 4,7 7
+3 1 r "17
+
+•
+
+Quo 0,-V cii‘o
+
+,
+
+,
+
+* Ill~st oW.Li
+
+CAIXA
+' V. Transporte
+P. Adulto
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pneu furado 2 -Quebra veiculo 3 -Ausência de motorista
+4 - Acidente 5- Trânsito congestionado 6- Outros
+
+'P. Livre
+
+: P. Escolar
+
+Hora de Salda
+
+.
+
+P. Integração
+
+Hora:
+
+Cód. Motivo(
+
+Dinheiro
+
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+
+R$
+
+R$
+
+R$
+
+R$
+
+R$
+
+Total
+
+Catraca Final
+
+1,,
+
+Catraca Inicial
+
+./111.8
+
+. Diferença
+
+)
+)
+)
+
+OBS:
+
+-
+
+CttC
+
+16/06/2019 15:17:56
+
+Systemar Informática lida ®
+
+LONDPART TRANSPORTES URBANOS LTDA Data da Operação: 20/06/2019
+RUA BIGUAÇU N°555 BAL CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+1
+I
+
+i
+
+euicie RJ UC 1 IdUalflU CM V
+
+Linha: 150
+Escala: 1317
+Dia: Domingos/Feriados
+Carro: 01650
+
+Ficha Diária
+ut
+
+ae rassageiros(Port.Min. n° 3626 de 13/11/1991
+
+Jornada de Trabalho Intervalo Repouso_,1
+Inicio
+Inicio
+-1
+Fim
+H
+Fim
+
+Ass.:
+
+Motorista: FLAVIO AN ELM DA SILVA ALVES
+SS
+....--I
+!Motorista Substituto
+
+N°:01976
+
+Início
+
+Ass.:
+Cobrador:
+I
+
+N°:
+
+Ass.:
+
+!Cobrador Substituto:
+
+N°:
+
+1rKm Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora Itinerário
+17:59 * INICIO JORNADA DE TRABALHO
+18:00 (184)HOSPITAL - BR101 - MORRO DO 801
+18:95 • FIM JORNADA DE TRABALHO
+
+N° Pass. Carro
+
+Inicio
+
+Fim
+
+Fim
+
+rifa
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+Inicial
+
+Final
+
+DOMETRO
+Inicial
+
+Final
+
+iIV
+
+-1
+
+DO
+
+nre 490
+
+» t
+
+»PJP"?
+
+Cp ft ftc
+
+CAIX A
+V. Transporte
+
+1
+
+12 So
+
+e rvado aoargaosteperéncta
+Hora de Salda
+Visto do Fiscal
+
+P. Adulto
+
+Hora de Chegada
+P. Livre
+P. Escolar
+P. Integração
+Dinheiro
+
+R$
+
+Total
+Catraca Final
+
+R$
+
+Visto do Fiscal
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veiculo 3 - Ausênciade motorista
+4 - Acidente 5 - Trânsito congestionado e - Outros
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( ) ;
+Hora:
+Cód. Motivo( )
+
+OBS:
+
+Catraca inicial
+Diferença
+18/06/2019 15:17:56
+Systemar Informática Ltda
+
+.....
+
+LÓNDPART TRANSPORTES URBANOS LTD
+Data da Operação: 21/06/2019
+RUA BIGUAÇU N° 555.
+Linha: 150
+SAL CAMBOPJU - SC - 68.337-450
+CNPJ:02.032.053/0001-55
+Escala: 1300
+Dia: Uteis
+Ficha Diária
+Carro: 01850
+cui vpsuius ue ressageiroS(Mort.Min. n°3626 de 13/11/1991
+
+.
+
+Ass.:
+
+'r i
+
+Motorista: GEN1
+.5.
+
+Jornada de Trabalho Intervalo Repouso
+
+It '-t
+
+Inicio
+
+RODRIGUES PEREIRA
+
+N°: 01942
+
+Ass.:
+
+N°:
+
+1Cobrador:
+
+Km Escala:18 00 Operante:15 00 Ociosa:3 00
+Hora I Itinerário
+05:39 I - INICIO JORNADA DE TRABALHO
+
+l
+L0640
+(157)GARAGEM - MORRO BOI (DE LEVE)
+
+..
+
+l,
+
+1
+
+Fim
+
+N°:
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+N°: '
+
+Fim
+
+Fim
+
+N° Pass. Carro
+./ i
+O
+
+-
+
+P. Adulto
+
+Catraca Inicial
+Diferença
+18/062019 16:32:02
+
+nav
+
+Hora de Salda
+
+ODOMETRO
+Inicial
+Final
+
+c I? r 6 A
+
+( --
+
+Li6 -so 17:-/ -zz
+
+de
+: 59
+
+a
+
+Wncià
+Visto do Fiscal
+
+Hora de Chegada 02)..5( Visto do Fiscal
+
+t—P. Escolar
+IP. Integração
+1 Catraca Final
+
+((4907.'(-9(.91
+1- is 70g
+L
+—I, a o -4-
+
+7.or- i
+s
+
+P. Livre
+
+Total
+
+CATRACA
+Iniefól
+Final
+
+410
+
+CAIXA
+V. Transporte
+
+Dinheiro
+
+moio
+
+Inicio
+
+1
+
+I 07:00 (183)MORRO DO BOI - BR101 -HOSPITAL
+07:45 "FIM JORNADA DE TRABALHO
+
+Fim
+
+Inicio
+
+IAss.:
+Lgobrador Substituto:
+
+Inicio
+
+Fim
+
+Ass.:
+
+nf-e
+
+ti
+
+Início
+
+Motorista Substituto:
+
+660
+
+o
+
+Fim Õ
+
+R$
+
+R$
+
+R$
+1
+
+Viagens não Realizadas
+I 1 - Pneu furado 2 - Quebra veiculo 3 - Ausência de motonsta :.
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+i
+i
+1 Hora:
+Cód. Motivo(
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+OBS:
+
+Ve Re
+
+Systemar Informática Lida e
+
+r
+
+LONDPART TRANSPORTES URBANOS LTD1,Data da Operação: 21/06/2019
+,
+Linha: 150
+RUA BIGUAÇU N° 555 BAL. CAMBORIU • SC - 88.337-450
+Escala: 1310
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+01650
+Carro:
+Ficha Diária
+Jornada de Trabalho Intervalo Repouso ,
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+Ass.: K. -e.k ; (._: -I../.1 /V) Wu RSC, 4-0- jD
+Motorista: CRISTIANO BOURSCHEID
+I
+Ass.:
+
+N°: 02102
+N°:
+
+Motorista Substituto:
+Ass.:
+Cobrador:
+Ass.:
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora
+17:59
+
+Itinerário
+•INICIO JORNADA DE TRABALHO
+
+18:00
+
+(184)HOSKTAL - 8R101 - MORRO DO BOI
+
+1845
+
+' FIM JORNADA DE TRABALHO
+
+N°:
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+N°:
+
+¡Fim
+
+CATRACA
+N° Pass. Carro
+
+ii 1:50
+
+Inicial
+
+,
+
+Final
+
+,
+
+•
+
+ODOMETRO
+Inicial
+
+Final
+
+4 14 ti c:i 4 .fC
+y9
+
+015. 6tAttai
+IV
+
+•
+
+i
+
+Visto do Fiscal
+
+Hora de Saída
+Hora de Chegada
+
+P. Adulto
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P. Livre
+
+1 Pneu furado 2- Quebra veículo 3- Ausência de motonsta
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+P. Escolar
+P. Integração
+Dinheiro
+
+„Mrd_eSsren_cia
+IketTervT
+,s_dMr
+
+•
+
+CAIXA
+
+V. Transporte
+
+R$
+
+i Total
+
+R$
+
+R$
+
+R$
+
+R$
+
+i
+
+Hora:
+
+Cód. Motivo(
+
+) :
+
+Hora:
+
+Cód. Motivo(
+
+)
+
+Hora:
+
+Cód. Motivo(
+
+)
+
+OBS:
+
+iCatraca Final
+I Catraca Inicial
+
+I Diferença
+
+1
+18106/2019 16:32:02
+
+i
+I
+Systemar Informática Lida C
+
+i
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 21/06/2019
+Linha: 150
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC - 88.337-450
+Escala: 1320
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+01950
+Carro:
+Ficha Diária
+Intervalo Repouso 1E
+Jornada
+de
+Trabalho
+Horário de Trabalho em Velculosied „Pas geiros(Port.Min. n° 3626 de 13/11/1991
+Inicio
+Inicio
+Ocj : 19
+Ass.:
+Fim
+Fim
+N°: 01646
+Motorista: LUIZ PEREIRA DA SI A
+c) 9 t LI O
+Inicio
+inicio
+Ass.:
+H i
+Fim
+Fim
+N°:
+Motorista Substituto:
+Ass.:
+Cobrador:
+Ass.:
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+
+N°:
+N°:
+
+Início
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+N° Pass. Carro
+
+Hora itinerário
+
+Início
+
+Inicial
+
+Final
+
+45DOMETRO
+
+• INICIO JORNADA DE TRABALHO
+
+09:14
+09:15
+
+(183)MORRO DO BOI - BR101 -HOSPITAL
+
+10:00
+
+• FIM JORNADA DE TRABALHO
+
+900 j'é
+
+13 So y ( 00
+
+7g çoo
+
+Final
+
+inicial
+
+304 (3-7
+
+-s,,i 15:,L, ,
+
+6°
+
+I
+i
+I
+
+-rrgitiçá
+Reservado;E
+
+CAIXA
+V. Transporte
+P. Adulto
+
+Hora de Chegada
+
+Visto do Fiscal
+
+i
+
+1 Pneu furado 2 - Quebra veiculo 3- Ausência de motorista
+
+i P. Escolar
+
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+P. Integração
+
+R$
+
+R$
+
+Total
+
+(t) C,
+
+Catraca Final
+
+.-1
+
+Catraca Inicial
+
+-92 6o ti,
+
+Diferença
+
+Visto do Fiscal
+
+. Viagens não Realizadas
+
+P. Livre
+
+I Dinheiro
+
+Hora de Saída
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+'Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+) 1
+) I
+) I
+
+OBS:
+
+•
+
+_7 'S F, On
+
+C ()M ó
+
+18/06/2019 16:32:02
+
+Systemar Informática Ltda e
+
+LONDPART TRANSPORTES URBANOS LTDA Data da Operação: 22/06/2019
+Linha: 150
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC - 88.337-450
+1306
+Escala:
+CNPJ:02.032.063/0001-55
+Dia: Sábados
+Carro: 03001
+Ficha Diária
+Jornada de Trabalho Intervalo Repouso i
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+1
+
+i
+
+Ass.:
+Motorista: VALFRID
+Ass.:
+
+Início
+Fim
+
+N°: 01840
+
+UGUSTIN
+
+Início
+
+N°:
+
+Motorista Substituto:
+Ass.:
+Cobrador:
+Ass.:
+Cobrador Substituto:
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+Hora
+11:29
+
+Itinerário
+• INICIO JORNADA DE TRABALHO
+
+11:30
+
+(157)GARAGEM - MORRO BOI (DE LEVE)
+
+11:50
+
+(183)MORRO DO BOI - BR101 -HOSPITAL
+
+12:30
+
+• FIM JORNADA DE TRABALHO
+
+N°:
+N°:
+
+,
+4,120
+
+11,2
+
+Carro
+lon/
+
+Inicio
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Inicial
+
+96/%3
+2c• P12
+
+I
+
+Fim
+
+Fim
+
+--1
+
+1
+
+ODOMETRO
+
+CATRACA
+N° Pass.
+
+Início
+
+Final
+
+Inicial
+
+Final
+
+2c • 2
+
+k/2
+21
+t. , •
+
+9.e, iZ 9
+
+1c12 2.9
+
+..-,
+- L 99
+le t 2 (-, 2 --1
+i
+I
+
+q(0g(9
+
+de
+
+100
+
+!
+1
+1
+,
+
+1
+• laServaatt:a9Lreaosgperencla
+
+CAIXA
+
+Hora de Saída
+
+V. Transporte
+
+Hora de Chegada
+
+P. Adulto
+P. Escolar
+
+P. Integração
+R$
+
+R$
+
+Total
+Catraca Final
+Catraca Inicial
+
+./.
+
+/
+
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de rnotofl4a
+4- Acidente 5 - Trânsito congestionado 6- OL s
+
+P. Livre
+
+Dinheiro
+
+Visto do Fiscal
+
+3Ã ) c?Visto do Fiscal
+
+/CA
+/
+r
+,/
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+
+Cód. Motivo(
+
+)
+1
+
+OBS:
+
+2 of
+
+2
+
+1
+
+2o17.3
+
+Diferença
+18/06)2019 17:51:21
+
+ys mar ,ntonflatica Lida
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 22/06/2019
+RUA BIGUAÇU N° 555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+Escala: 1316
+CNPJ:02.032.063/0001-55
+Dia: Sábados
+Carro:
+01650
+Ficha Diária
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n° 3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+r
+Inicio
+Inicio
+Ass.: 6-j-p A-0 C.3DU (1._Çe ti C)
+Fim
+Fim
+Motorista: CRISTIANO BOURSCHEID
+N°: 02102
+Ass.:
+Motorista Substituto:
+
+N°:
+
+Ass.:
+Cobrador:
+
+o.
+
+Ass.:
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora
+
+itinerário
+
+1 17.59
+
+.
+
+N°:
+
+Inicio
+
+Inicio
+
+Fim
+Inicio
+
+Fim
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+N° Pass:1 Carro
+
+Inicial
+
+Final
+
+* INICIO JORNADA DE TRABALHO
+
+18:00
+
+ICIW
+
+(184)HOSPITAL BR 01 MORRO DO BOI
+
+r
+18:45
+
+ODOMETRO
+Final
+
+inicial
+
+/%56t1 f-Ü.561/
+
+" FIM JORNADA DE TRABALHO
+
+CAIXA
+
+çt
+
+V. Transporte
+
+Hora de Saída
+
+P. Adulto
+
+Visto do Fiscal
+
+Hora de Chegada
+
+P. Livre
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P. Escolar
+
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motoris
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+P. Integração
+
+Hora:
+Hora:
+Hora:
+
+Dinheiro
+
+R$
+
+Total
+
+R$
+
+R$
+
+Cod. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+
+OBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+18/06/2019 17:51:21
+
+Systemar Informática Lida ®
+
+LONDPART TRANSPORTES URBANOS LTD
+RUA BIGUAÇU N° 555 BAL. CAMBORIU -50- 88.337-450
+
+Data da Operação: 23/06/2019
+Linha: 150
+Escala: 1307
+Dia: Domingos/Feriados
+Carro: 03001
+
+CNIV 02.032.063/0001-55
+
+Ficha Diária
+
+jraw,
+
+......... po .-~dgeiroskrorimin. n" 3626 de 13/11/1991
+
+I
+
+Ass
+
+Inicio
+
+N°:
+
+Fim
+Inicio
+
+Fim
+Início
+
+N°:
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+N°: 02004
+
+Ass.:
+!Motorista Substituto:
+j
+Ass.:
+I
+'Cobrador:
+I.
+i
+Ass.:
+
+Cobrador Substituto:
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+
+N°:
+
+Hora 'Itinerário
+
+CATRACA
+Inicial
+Final
+
+N° Pass. Carro
+
+' INICIO JORNADA DE TRABALHO
+
+11:30
+
+(157)GAFtAGEM - MORRO BOI (DE LEVE)
+
+11:50
+i 12:30
+
+Fim
+
+Infeto
+
+, i --
+
+'Motorista "Me wr
+h'rn OL VEIRA
+
+11:29
+
+Jornada de Trabalho Intervalo Repouso j
+Inicio
+c, -_-)
+
+Inicio 1 /
+Ai_ •
+Fim
+
+2CY3 Á
+
+(183)MORR0 DO BOI- BR101 - HOSPITAL .
+' FIM JORNADA DE TRABALHO
+
+ODOMETRO
+Inicial
+Final
+
+I
+
+'
+
+CAIXA
+V. Transporte
+v.
+
+ellageservflraMtancia
+Hora de Saída
+
+P. Adulto
+
+Visto do Fiscal
+Viagens não Realizadas
+
+P. Escolar
+
+1 Pneu furado 2- Quebra veículo 3 - Ausência de motorista
+4- Acidente 5- Tránsito congestionado 6 - Outros
+
+P. Integração
+
+Total
+
+Diferença
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo( )
+Cód. Motivo( ) '
+Cód. Motivo( )
+
+OBS:
+
+Catraca Final
+Catraca Inicial
+
+Visto do Fiscal
+
+Hora de Chegada
+
+P. Livre
+
+R$ 9/
+
+I
+
+.1
+
+"PR --(3-"M 1 -Z3-70 - À ;ri_'" -3 j
+3 9+3 2 9;4 ci ,34 24o R :1:52 .1 i
+
+.3
+
+levo 1.c)
+
+Dinheiro o
+
+i
+
+Ir
+
+3-1-02
+
+19/06/2019 1450:16
+Systemar Informática Leda C
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 23/06/2019
+RUA BIGUAÇU N°555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+Escala: 1317
+Dia: Domingos/Feriados
+Ficha Diária
+Carro: 01650
+_._. __ ..--....,.... L , ,g•
+daaageirostrortivan. nu 3626 de 13/11/1991
+Jornada de Trabal4io IntervalbRei3puso
+Ass.:
+Início
+Inicio p
+i/ tt, 5
+l
+aia
+hs, _....... ‘
+Motorista: ADRIANO BAC CHARDT
+Fim
+L.,
+I
+Fim
+N°: 02062
+Ass.:
+Início
+InICiO
+
+Motorista Substituto:
+Ass.:
+Cobrador:
+
+N°:
+
+Ass.:
+Cobrador Substituto:
+rKm Escala:15,00 Operante 15,00 Ociosa 0,00
+Hora I Itinerário
+
+N° Pass.
+
+7:59 i• INICIO JORNADA DE TRABALHO
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+N°:
+
+Fim
+
+Fim
+
+ilido
+
+Início
+
+N°:
+
+Fim
+
+Carro
+
+18:00 I (184)HOSPITAL - BR101 - MORRO 00 801
+18:45
+
+Inicial
+
+P. Livre
+
+5baW 5'
+
+Hora de Saída
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+Hora:
+Cód. Motivo(
+
+P. Escolar
+P. Integração
+
+Catraca Final
+
+1
+
+. Rterencia
+
+P. Adulto
+
+Total
+
+1
+
+Final
+
+air
+orgarid
+
+CAIXA
+
+R$
+
+Inicial
+
+-2?3°
+
+V. Transporte
+
+Dinheiro
+
+---ZIDOMETRO
+
+Final
+
+r-VOitl
+i .50 L3,L.
+
+• FIM JORNADA DE TRABALHO
+
+1q
+
+Fim
+
+CATRACA
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+
+Hora:
+
+)
+
+Cód. Motivo(
+
+)
+
+Cód. Motivo(
+
+)
+
+OBS:
+
+Catraca Inicial
+Diferença
+19/0612019 14:50:16
+Systemar Informática Lida
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operaçâo:
+RUA BIGUAÇU N°555 Linha:
+BAL. CAMBORIU - SC - 88.337-950
+Escala:
+CNPJ:02.032.083M001-55
+Dia:
+4 Carro:
+Ficha Diária
+
+•
+
+,.•
+de Trabalho e
+
+et
+
+./ .. ip
+
+de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+Jornada de Trabalho Intervalo Repouso
+Início
+
+W7
+Atorista: GENEZIO ^ tDRIGUES PEREIRA •
+•
+Ass.:
+1
+
+N°: 01942
+
+[Motorista Substituto:
+,
+Ass.:
+
+N°:
+
+'Cobrador:
+
+N°:
+
+Ass.:
+'Cobrador Substituto:
+,
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+. Hora ;Itinerário
+06.39 1* INICIO JORNADA DE TRABALHO
+
+011D
+
+06 40 i (157)GARAGEM - MORRO BOI (DE LEVE)
+i 07:00 1(183)M0RRO DO BOI - Slim - HOSPITAL
+
+N°:
+Na Pass. Carro
+
+4
+
+24/06/2019
+150
+1300
+Uteis
+01850
+Inicio
+
+4,
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+Início
+
+Fim
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Inicio
+
+CATR'Ata
+-Inicial
+Final
+
+ODOMETRO
+Inicial
+Final
+
+1g50 gy Tog 93..c?4,41 Li sfri 71 h,R7
+/
+
+4/2t./ i.,t9,4
+
+l 4 fi 1
+11~1 L1Wi
+
+r 07.45 . • FIM JORNADA DE TRABALHO
+
+m io
+
+•
+
+*IlWadWio..orgãO dó Géi-encia.- •
+-r,.,
+-Hora de Saída 9 i",
+Visto do Fiscal t:.4
+
+CAIXA
+v. Transporte
+
+50
+
+Hora de Chegada
+
+P. Adulto
+
+Visto do Fiscal
+
+•P. Livre
+I.
+t P. Escolar
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiado 3 - Ausência de motorista
+
+; P. Integração
+
+Hora:
+Hora:
+Hora:
+
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+i
+
+Dinheiro
+l
+i Total
+
+R$1,
+G2S--- R$
+
+R$
+
+R$
+
+R$
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+1OBS:
+
+; Catraca Final
+Catraca Inicial
+Diferença
+21/06/2019 16:30:41
+
+.
+
+6q
+
+g g
+
+4
+
+Systemar Informática Lida e
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 24/06/2019
+Linha: 150
+RUA BIGUAÇU N.555 BAL. CAMBORIU - SC - 88.337-450
+Escala: 1310
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro:
+01650
+Ficha Diária
+Jornada de Trabalho Intervalo Repouso
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3628 de 13/11/1991
+Ass:: i..! iz;r t 4A-o ;ou o_sc
+Motorista: CRISTIANO BOURSCHEID
+Ass.:
+Motorista Substituto:
+Ass.:
+
+t-frei D
+N°: 02102
+N°:
+
+Cobrador:
+Ass.:
+
+N°:
+
+Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+
+N°:
+
+Itinerário
+
+17:59
+
+' INICIO JORNADA DE TRABALHO
+
+18:00
+
+(184)HOSPITAL- BR101 -MORRO DO BOI
+
+18:45
+
+• FIM JORNADA DE TRABALHO
+
+)30 O
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+I
+/450 1
+
+Inicial
+
+'14 --(-/ 5
+
+Final
+
+1Fim
+
+áDOMETRO
+Final
+
+Inicial
+
+14 )--ti s
+
+-/85"°
+
+rga~-Gerencia
+aisnliNtiV
+rya
+
+L
+
+CAIXA
+t V. Transporte
+P. Adulto
+
+Hora de Salda
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P. Livre
+
+1 Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+P. Escolar
+P. Integração
+Dinheiro
+
+,
+
+Fim
+
+CATRACA
+N° Pass.' Carro
+
+Hora
+
+Início
+
+R$
+
+Total
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+Catraca Final
+i Catraca Inicial
+Diferença
+21/06/2019 16:30:41
+
+Systemar Informática Ltda 8
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 24/06/2019
+
+Linha: 150
+Escala: 1320
+Dia: Uteis
+Carro: 01950
+Jornada de Trabalho Intervalo Repouso i
+
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC - 88.337-450
+CNFU:02.032.063/0001-55
+
+Ficha Diária
+Horário de Trabalho em Veículos de assadeiros(Port.Min. n°3626 de 13/11/1991
+
+Ass.:
+,... .2
+Motorista: LUIZ PEREIRA DA SILV
+Ass.:
+Il
+Motorista Substituto:
+Ass.:
+Cobrador:
+Ass.:
+.
+
+N°: 01646
+N°:•
+N°:
+N°:
+
+'Cobrador Substituto:
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora
+09:14
+
+Itinerário
+• INICIO JORNADA DE TRABALHO
+
+09:15
+
+(183)MORR0 DO BOI BR101 -HOSPITAL
+
+10:00
+
+• FIM JORNADA DE TRABALHO
+
+Carro
+i9 S
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+g
+
+----ÕIDOMETRO
+
+2722
+
+Final
+
+Iniciai
+
+Final
+
+3
+
+L1 La
+
+i
+
+39
+
+— ,z i
+,
+i
+
+~rdéigicia
+yadogirer"
+geaRntrr
+
+i P. Livre
+P. Escolar
+P. Integração
+
+Catraca Final
+
+Início
+
+Inicial
+
+o -1.9.
+
+V. Transporte
+1IP.
+Adulto
+
+R$
+
+R$
+
+Total
+
+Fim
+
+CATRACA
+N° Pass.
+
+CAIXA
+
+Dinheiro
+
+Inicio
+Inicio (39:.11
+Fim
+
+00
+
+R$
+
+R$
+
+R$
+
+Hora de Saída
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens nao Realizadas
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Tn3nsIto congestionado 6- Outros
+Cód. Motivo( )
+Hora:
+.
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+OBS:
+
+7Ç
+
+Catraca Inicial
+Diferença
+
+no () o ()
+
+21/06/2019 16:30:41
+
+Systemar Informática Ltda
+
+u-Le ri urnn e t rwencrun e ca urcontlin LI Um vara aa uperaçao: 2b/05/2019
+RUA BIGUAÇU N°555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+.
+Escala: 1310
+CNPJ:02.032.063/0001-55
+Dia: Uteis
+Carro: 01650
+Ficha Diária
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Inicio
+Inicio
+ASs.: C__'S\ S-c- iC1 i
+tiO
+.%0 Uç\.Sa. H E 1. k.
+Fim
+Fim
+Motorista: CRISTIANO BOURSCHEID
+N°: 02102
+Inicio
+Inicio
+Ass.
+Motorista Substituto:
+
+N°:
+
+Fim
+Início
+
+Fim
+Inicio
+
+N°:
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Ass.:
+Cobrador:
+Ass.:
+Cobrador Substituto:
+Km Escala:15 00 Operante:15,00 Ociosa:0,00
+Hora Itinerário
+17:59
+
+N°:
+
+CATRACA
+Inicial
+Final
+
+N° Pass. Carro
+
+• INICIO JORNADA DE TRABALHO
+
+18:00
+
+(184)HOSPITAL - BR101 - MORRO DO BOI
+
+18:45
+
+• FIM JORNADA DE TRABALHO
+
+190° -
+
+/C7 .50
+
+'7 ti)-
+
+01-1 .2,
+
+i
+
+ODOMETRO
+Inicial
+Final
+
+11,2-O'-! 2:
+
+-1
+l
+
+36t9
+
+CAIXA
+
+-~eretanWagaiiiiCia-
+
+V. Transporte
+
+Hora de Salda
+
+P. Adulto
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+Viagens não Realizadas
+
+P. Livre
+P. Escolar
+
+1 Pneu furado 2 - Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+P. Integração
+
+Hora:
+Hora:
+Hora:
+
+Dinheiro
+
+R$
+
+!lotai
+I—Catraca Final
+
+R$
+
+R$
+
+R$
+
+R$
+
+Cód. Motivo( )
+Cód. Motivo( )
+Cód. Motivo( )
+
+OBS:
+
+Catraca Inicial
+Diferença
+22/06/2019 10:15:07
+
+-1
+I
+
+Systemar Informática Lida
+
+r
+
+LONDPART TRANSPORTES URBANOS LTDAData da
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337450
+CNPJ:02.032.063/0001-55
+
+Linha: 150
+
+Escala: 1300
+Dia: Uteis
+Carro: 01850
+Jornada de Trabalho Intervalo Repouso
+
+Ficha Diária
+1
+
+Horário de Trabalho em Veiados de Passagelros(Port.Min n°3626 de 13/11/1991
+/
+
+,
+Ass.: Órebte5»0 7,15
+Motorista. GENESIO LITS
+
+N°: 01872
+
+Ass.:
+
+N°:
+
+Motorista Substituto:
+
+Ass.:
+¡Cobrador:
+
+N°:
+
+—
+
+Ass.:
+
+i
+!Cobrador Substituto:
+
+' Km Escala:18,00
+
+N°:
+
+Operante:15,00 Ociosa:3,00
+
+Hora
+06:39
+
+Itinerário
+- INICIO JORNADA DE TRABALHO
+
+06:40
+
+(157)GARAGEM - MORRO BOI (DE LEVE)
+
+07:00
+
+(163)MORRO DO BOI - BR101 - HOSPITAL
+
+07:45
+
+• FIM JORNADA DE TRABALHO
+
+Operação: 25/06/2019
+
+Início
+
+oé #
+
+Fim
+
+ri- i ici
+
+31
+
+„Át7 i
+
+Carro
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+inicio
+
+Inicio
+
+Fim
+
+Fim
+
+15W7
+
+i,U
+
+Inicial
+
+v o it. cro
+
+Fim
+
+Inicio
+
+CATRACA
+1 N° Pass.
+
+Início
+
+ODOMETRO
+
+Final
+
+Inicial
+
+Final
+
+ur1 7 p.932
+1 3-8
+
+'.
+
+./
+16;i4ligyvi.":4
+q3 itYi. /3-)C 'ft,.
+_I
+
+69°- 9-00
+
+'IteraqservaaffinitIardé'GéiênCia,
+
+CAIXA
+V. Transporte
+
+Hora de Salda o ‘)
+
+P. Adulto
+P. Livre
+
+00
+
+1 Pneu furado 2- Quebra velculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+P. Integração
+
+R$
+
+R$
+
+Total
+
+Catraca Final
+Catraca Inicial
+Diferença
+
+Visto do Fiscal/Prfec
+
+Hora de Chegada
+Visto do Fiscal
+Viagens não Realizadas
+
+P Escolar
+Dinheiro 00
+
+39
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+q3g
+
+CNH vence em 29/06/2019
+
+`1"i g3g
+
+22/06/2019 10:15:07
+
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTD
+
+Data da Operação: 25/06/2019
+Linha: 150
+Escala: 1320
+Dia: Uteis
+Carro: 01950
+Jornada de Trabalho Intervalo Repouso ,
+Inicio
+Início
+o :I (.j
+Fim
+05
+Fim
+
+RUA °IGUAÇU N° 555 -
+
+BAL. CAMBORIU - SC - 88.337-450
+
+CNPJ:02.032.063/0001-55
+
+Ficha Diária
+
+Horário de Trabalho em Veículos de P sag Iros(Port.Min. n° 3626 de 13/11/1991
+
+Ass.:
+
+Motorista: LUIZ PEREIRA DA SIL A
+As
+
+N°: 01646
+
+¡Motorista Substituto:
+I
+Ass.:
+Cobrador:
+
+Hora Itinerário
+09:14 LINICIO JORNADA DE
+TRABALHO
+
+I 09:15
+
+o.
+N° Pass. Carro
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Ass.:
+Cobrador Substituto:
+1--Km Escala:15,00 Operante:15,00 Ociosa 0,00
+
+Inicio
+
+CATRACA
+Inicial
+
+Final
+
+• DOMETRO Inicial
+
+Final
+
+( 83)MORRO DO BOI - BR101 -HOSPITAL
+(
+
+10:00 ' FIM JORNADA DE TRABALHO
+
+930
+
+3`)LI
+
+Lif
+
+.-fc;("-'33
+
+153
+
+CAIXA /SSo
+Preservado ao-orgWde perência
+
+V. Transporte
+P. Adulto
+
+Hora de Saída
+
+Visto do Fiscal
+
+P. Livre
+
+Hora de Chegada
+
+Visto do Fiscal
+
+P Escolar
+P. Integração
+Dinheiro
+Total
+
+Viagens não Realizadas
+
+1 - Pneu furado 2 - Quebra veículo
+3 - Ausência de motorista
+4 - Acidente 5-
+
+Trânsito congestionado 6- Outros
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo( )
+Cód. Motivo( )
+
+Catraca Final
+Catraca Inicial
+Diferença
+22/0512019 10:15:07
+Systemar Informática Lida Q0
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 26/06/2019
+RUA 9IGUAÇU N°555 BAL. CAMBORIU - SC - 88.337450
+
+Linha: 150
+Escala: 1300
+
+CNPJ:02.032.063/0001-55
+
+Dia: llteis
+
+........, ,,,l1JV
+
+rícna wana
+
+Horário de
+ja
+T bálho em Veículos de Passageiros(Port.Min. n° 3626 de 13/11/1991
+1
+Ass.:
+./vt,d
+Motorista:
+
+AJJ3lR MORAES CORDEIRO
+
+N°: 02082
+
+Jornada de Trabalho Intervalo Repouso
+Inicio ,:-.1
+, , rv.
+Inicio
+._7 "
+( ./
+Fim
+Fim
+Início
+início
+
+n4i,
+
+,
+
+Ass.:
+Motorista Substituto:
+
+N°:
+
+Ass.:
+Cobrador:
+
+N°:
+
+Ass.:
+Cobrador,Substituto:
+Km Escala:18,00 Operante:15,00 Ociosa:3,00
+Hora Itinerário
+06:39 •INICIO JORNADA DE TRABALHO
+962
+06:40
+07:00
+
+(157)GARAGEM - MORRO BOI (DE LEVE)
+(163)MORRO DO BOI - BR101 - HOSPITAL
+
+07:45
+
+- FIM JORNADA DE TRABALHO
+
+‘34) •
+
+g
+
+No:
+N° Pass.
+
+Carro
+
+i 95P
+1----
+
+;.,-;
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim .
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+Inicial
+Final
+
+I.
+1
+1
+I
+I
+
+-i
+
+ODOMETRO
+Inicial
+Final
+
+979b1, et-7
+. (c1,1 19 1
+5 4 750 cfSLI ?±-, ,--'
+cr -9 9(d, 9-2 ti (", st, 9n..ç--- 4.K.1Li? »3 H
+
+0
+
+I
+I
+
+• ,
+
+CAIXA
+
+Hora de Saída° ,,,,,
+
+V. Transporte
+P .Livre
+P. Integração
+R$
+
+Total
+
+(76
+3- 9
+
+Catraca Final
+
+ci-i
+
+Catraca Inicial
+
+94i G6
+
+1 Diferença
+
+I _g/-
+
+1 Pneu furado 2- Quebra veículo 3 - Ausênda de motorista
+
+P. Escolar
+
+1
+
+--rVisto do Fis
+
+a
+
+(00 Visto do Eis I
+, Hora de Chegada 081
+Viagens não Realizadas
+
+P. Adulto
+
+Dinheiro
+
+Reservadom:acitinã&dé:Gerê
+
+R$
+
+R$
+
+R$
+
+R$
+
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+Cód. Motivo(
+Hora:
+Cód. Motivo(
+Hora:
+Cód. Motivo(
+Hora:
+
+)
+)
+)
+
+OBS:
+
+()Ó /30c)
+
+22/06/2019 10:36:34
+
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 26/06/2019
+RUA BIGUAÇU No 555 BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+Linha: 150
+Escala: 1310
+Dia: Uteis
+Carro: 01650
+
+Ficha Diária
+
+Horanove i reoaino./em-VelcUlos de Passageiros(POrt.Min. n° 3626 de 13/11/1991
+
+41:i
+/4 s . :--,
+-r 74';‘,
+,
+Motorista:~01tNSEINf0 DA SILVA ALVES
+Ass.:
+
+N°: 01976
+
+Motorista Substituto:
+
+N°:
+
+Ass.:
+:Cobrador:
+i
+Ass.:
+
+N°:
+
+Cobrador Substituto:
+Km Escala:15 00 Operante.15 00 Ociosa:0,00
+Hora Itinerário
+17:59 'INICIO JORNADA DE TRABALHO
+18:00
+
+18:45
+
+N°:
+
+N° Pass. Carro
+
+Jornada de Trabalho Intervalo Repouso
+Início
+Inicio
+Fim
+
+de ti 2 l.±:-,
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+jFim
+
+CATRACA
+Inicial
+Final
+
+ODOMETRO
+Inicial
+Final
+
+fira
+
+(184)HOSPITAL - BR101 - MORRO DO BOI
+•FIM JORNADA DE TRABALHO
+
+Fim
+
+/93Q -.2a110
+
+CAIXA
+V. Transporte
+
+•írS tvadircirgn9i-iênC ia
+Hora de Salda
+Visto do Fiscal
+
+P. Adulto
+
+Hora de Chegada
+
+P. Livre
+P. Escolar
+P. Integração
+Dinheiro
+
+R$
+
+Total
+Catraca Final
+Catraca Inicial
+Diferença
+22/06/2019 10:36:34
+
+R$
+
+R$
+
+R$
+
+R$
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pneii furado 2- Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5- Trânsito congestionado 5- Outros
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+OBS: k.
+
+Lr"-
+
+.. •
+
+:
+
+Systemar Informática Lida
+
+_
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 26/06/2019
+RUA BIGUAÇU N°555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02 032.063/0001-55
+•
+Escala: 1320
+Dia: Uteis
+Carro: 01950
+Ficha Diária
+......... uc e iavailiv oiti VCR:U105 ae rassaneiros(Port.Min. n°3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Ass.:
+Inicio c ,;" :/j
+Inicio
+Motorista- LUIZ PEREIRA DA SIL A
+Fim
+o
+.":
+,roj
+Fim
+N°: 01646
+Ass.:
+Inicio
+Inicio
+/7
+,
+i
+Motorista Substituto:
+Fim
+N°:
+Fim
+
+Ass.:
+Cobrador:
+
+r'qo:
+
+Ass.:
+Cobrador Substituto:
+
+N°:
+
+rk-m--Ésca- 15,00 Operante:15,00 Ociosa:0,00
+
+L
+
+N° Pass. Carro
+
+(183)MORR0 DO BOI - BR101 - HOSPITAL
+
+- FIM JORNADA DE TRABALHO
+
+moo
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+
+Hora iItinerário
+09:14 I * INICIO JORNADA DE TRABALHO
+09:15
+
+Início
+
+95o
+
+Inicial
+
+-5(-)o -s'
+
+Final
+
+ODOMETRO
+Inicial
+
+Final
+
+15o0 ), •
+flil 5 a ‘f
+
+7- 1̀‘i cs- FS;
+
+910 -,490
+
+CAIXA
+
+eiéficia
+
+V. Transporte
+
+Hora de Saída
+
+P. Adulto
+
+Visto do Fiscal
+
+Hora de Chegada
+
+P. Livre
+
+Visto do Fiscal
+
+Viagens não Realizadas
+
+P. Escolar
+
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+P. integração
+
+Hora:
+Hora:
+Hora:
+
+I Dinheiro
+
+R$
+
+R$
+
+Total
+
+(.70
+
+' Catraca Final
+
+R$
+
+R$
+
+R$
+
+Cód. Motivo(
+Cód. Motivo(Cód. Motivo(
+
+OBS:
+
+c)c). 3
+Catraca Inicial
+.79 a)]
+
+Diferença
+22/06/2019 10:36:34
+
+OC)
+Systemar Informática Ltda
+
+1
+
+i
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 27/06/2019
+
+1
+
+Linha:
+Escala:
+Dia:
+Carro:
+
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+Ficha Diária
+Horário degir
+
+Motorista:
+
+/
+A
+
+,
+
+Fim
+
+Fim
+
+N°: 02097
+
+O TRIES
+
+Inicio
+
+,
+Ass.:
+i
+1Motorista Substituto:
+1
+Ass.:
+,
+¡Cobrador:
+
+5
+
+N°:
+
+Inicio
+
+.
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+mo-
+
+CATRACA
+
+N° Pass.
+i
+
+Carro .1
+
+, irlicial
+
+Final
+
+I
+
+'Muda
+Hora de Saida
+
+Visto do Fisc
+
+Hora de ChegadafJQVisto do sc
+Viagens não Realiza s
+1 Pneu furado 2 - Quebra veiculo 3 - Ausência de motonsta
+4 - Acidente 5- Transito.congestionado 6- Outros
+
+; P. Adulto
+1--i P. Livre
+1P. Escolar
+I_
+I P. Integração
+
+; Total
+I_
+Catraca Final
+
+Final
+
+.1(3j..iiit
+3rc16 o 39U rig 9,P ;3 _9/9:31/4
+
+CAIXA
+V. Transporte
+
+Dinheiro
+
+ODOMETRO
+Inicial
+
+.
+ff gje
+rf
+// O :
+0W6 e39 . 419
+1/
+£)
+
+i
+
+1
+[
+
+Inicio
+Fim
+
+Início
+
+06:40 j (157)GARAGp/ - MORRO BOI (DE LEVE)
+07:00 1(183)MORRO DO BOI - BR101 - HOSPITAL
+07.45 17
+' 11U JORNADA DE TRABALHO
+
+gs
+
+Fim
+
+N°:
+
+!
+Ass.:
+i
+1
+,
+I!Cobrador Substituto:
+iKen Escala:18,00 Operante:15,00 Ociosa:3,00
+Hora 'itinerário '
+06'39 !', INICIO JORNADA DE TRABALHO
+
+,
+1
+
+Jornada de Trabalho Intervalo Repouso
+Inicio
+Inicio
+
+yulos de Pa ageiros(Port.Min. n°3626 de 13/11/1991
+
+Ass:
+
+150
+1300
+Uteis
+01850
+
+R$
+
+R$
+
+03 y9t,
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+O
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+1
+)
+)
+
+4_,15,,4,v
+
+; Catraca Inicial "-, 't 9 d Ó
+i
+E t ")
+E-----Diferença
+
+(5
+
+25/06/2019 17:36:49
+
+ys emar intormatica Lida
+
+LONDPART TRANSPORTES URBANOS LTD Data da Operação: 27/06/2019
+Linha: 150
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337-450
+Escala: 1310
+CNPJ:02.032.063/0001-55
+
+i
+I
+
+Dia: Uteis
+Carro: 01650
+
+Ficha Diária
+
+Jornada de Trabalho Intervalo Repouso
+Inicio
+Inicio
+
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+
+.
+,
+
+-050.Arkí----C w-e- ;
+ASS-: ----".•CL 5-ti A. t-'0
+,
+:Motorista- CRISTIANO BOURSCHEID
+
+.,.)
+N°: 02102
+
+Ass.:
+N°:
+
+'Motorista Substituto:
+
+Ass.:
+N°:
+
+Cobrador
+
+Asa.:
+! Cobrador Substituto:
+k
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+Hora Itinerário
+17:59 . INICIO JORNADA DE TRABALHO
+18:00
+18:45
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+CATRACA
+Nç'Pass.
+
+Carro
+
+Inicial
+
+4 :) 2 3 .'
+
+(184)HOSPITAL - BR101 - MORRO DO BOI
+* FIM JORNADA DE TRABALHO
+
+i
+1
+
+Fim
+
+Fim
+
+N°:
+
+Final
+
+ODOMETRO
+Inicial
+
+Final
+
+ia •-?
+
+le),6o — AC-g
+
+ot9:014- 13,9ia
+
+CAIXA
+Hora de Salda
+
+r\/ Transporte
+P, Adulto
+P. Livre
+P Escolar
+P. Integração
+Dinheiro
+
+R$
+
+Total
+
+R$
+
+R$
+
+R$
+
+R$
+
+Visto do Fiscal
+
+Visto do Fiscal
+Hora de Chegada
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+Côd. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo(
+Hora:
+OBS:
+
+Catraca Final
+Catraca inicial
+Diferença
+25/06/2019 17:36:49
+
+,
+l
+i
+,i
+
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação:
+
+27/06/2019
+Linha: 150
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 68.337-450
+Escala: 1320
+CNPJ:02.032.063/0001-55
+1Dia:
+Uteis
+01950
+Carro:
+Ficha Diária
+I
+Jornada de Trabalho Intervalo Repouso
+Horário de Trabalho em Veiculo de iD ssageiros(Port.Min. n°3626 de 13/11/1991
+Inicio
+[Inicio 3g.
+Ass.:
+lq
+Fim
+Fim
+N° 01646
+1Motorista: LUIZ PEREIRA DA SIL A
+oc/
+Inicio
+Início
+Ass.:
+I
+Fim
+Fim
+N°:
+1Motorista Substituto:
+Inicio
+Inicio
+Ass.:
+,,
+Fim
+Fim
+N°:
+!Cobrador:
+,
+
+Ass.:
+N°:
+
+i Cobrador Substituto:
+I
+i Km
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+
+Escala:15,00 Operante:15,00 Ociosa:0,00
+N° Pass.
+
+I Hora Itinerário
+i
+1 0914 * INICIO JORNADA DE TRABALHO
+I 09:15 (183)MORR0 DO BOI - BR101 -HOSPITAL
+1 10:00 - FIM JORNADA DE TRABALHO
+
+Inicio
+
+00
+
+Carro
+
+Inicial
+
+Iriso 79062
+
+Final
+
+19O62
+
+ODOMETRO
+Final
+
+Inicial
+
+3'164-13
+
+'.?') ti
+
+cPP- ef
+
+CAIXA
+Hora de saída
+
+V. Transporte
+, P. Adulto
+; P. Livre
+P Escolar
+; P. integração
+Dinheiro
+
+R$
+
+R$
+
+Total
+
+DO
+
+R$
+
+Visto do Fiscal
+
+Visto do Fiscal
+Hora de Chegada
+Viagens não Realizadas
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5- Trânsito congestionado 6 - Outros
+Cód. Motivo(
+Hora:
+Côd. Motivo(
+Hora:
+Cód. Motivo(
+Hora:
+OBS:
+
+Catraca Final
+Catraca Inicial
+Diferença
+
+470C. 2.
+C) 00r) C)
+
+25/06/2019 17:36:49
+
+;
+
+Systemar Informática Ltda
+
+,r
+I
+I
+
+‘,
+
+Luniurian i
+
+I KANSPURTES
+
+RUA BIGUAÇU N° 555 BAL. CAMBORIU - SC -88.337-450
+CNPJ:02.032.083/0001-55
+
+\
+•
+
+Horário de Trabalho em Vel ulos de Pessageiros(Port.Min. n° 3626 de 13/11/1991
+
+Ass.:
+i
+•Motorista: GENtÇRODRIGUES PEREIRA
+.•
+Ass.:
+
+Início
+
+N°: 01942
+
+Motorista Substituto:
+
+N°:
+
+1._
+I
+
+Ass.:
+
+!cobrador:
+
+i
+
+Linha: 150
+' Escala: 1300
+Dia: Uteis
+Carro: 01850
+Jornada de Trabalho Intervalo Repouso
+
+Ficha Diária.
+
+•
+
+•
+
+URBANOS LTDÁData da Operação: 28/06/2019
+
+N°:
+
+Ass.:
+
+:Cobrador Substituto:
+•Km Escala:18,00 Operante:15,00 Ociosa:3,00
+
+i—Hora Titinerárlo
+i-C-US 1' !NICIO JORNADA DE TRABALHO
+•(157)GARAGEM - MORRO BOI (DE LEVE)
+
+N°:
+N° Pass.
+
+15.-K47
+
+, n7 ao !(183)MORRO 00 BOI - BRIM - HOSPITAL
+;
+i
+.;-L31:45 I' FIM JORNADA DE TRABALHO
+
+(.2 (
+
+Início
+
+Fim -.., z c)
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+CATRACA
+Carro
+
+f-(sal
+
+3
+
+Inicial
+
+n i si
+
+ODOMETRO
+
+Final
+
+Inicial
+
+Final
+
+2 _I - (- t- oa- ,_o ik250( f.
+
+1 I- 11
+)1
+-1—
+
+100
+
+)-ÇU tf
+
+t (SW3 i
+
+I
+
+.5-GIPS
+
+,
+i
+,i
+
+35-6-0 - 3‘et'
+
+CAIXA
+
+s ateserve~tittittar
+
+; V. Ti-Bnsporte
+
+._
+
+Hora de Safda04/
+
+P. Adulto
+
+Hora de Chegada
+
+.r.
+P. Livre
+
+2.
+
+; P. Escolar
+i P. Integração
+
+: Dinheiro
+
+R$ tf. 2- 4-
+
+1 Total
+
+1
+
+; Catraca Final 2
+2; 7
+/64,0
+
+R$
+
+R$
+
+R$
+
+R$
+
+3 ci
+
+Gerencial,r4
+
+Visto do Fisca1526
+Visto do Fiscal
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veículo 3 - Ausência de motorista
+4- Acidente 5- Trânsito congestionado 6- Outros
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+OBS:
+
+!Catraca Inicial
+Diferença
+26/0612019 11:28:14
+
+3
+Systemar Informática Ltda
+
+LONDPART TRANSPORTES URBANOS LTDAData
+
+da Operação: 28/06/2019
+Linha: 150
+Escala: 1310
+Dia: Uteis
+Carro: 01650
+Jornada de Trabalho Intervalo Repouso
+
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+Ficha Diária
+
+Horário de Trabalho em Veiados de Passagelros(port.Min. n° 3626 de 13/11/1991
+
+;
+
+Ass.:
+
+C41._( Sr' . ft,A2-3
+
+bokiLt-te(.
+
+IMotorista: CRISTIANO BOURSCHEID
+:
+
+N°: 02102
+
+Ass.:
+
+Motorista Substituto:
+Ass.:
+Cobrador:
+Ass.:
+
+;
+Cobrador Substituto:
+
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+rHora Itinerário
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+N° Pass.1 Çarro
+
+i 17 59 I- INICIO JORNADA DE TRABALHO
+
+14650
+
+18 00 !(184)HOSPI7- AL - BR101 - MORRO DO BOI
+
+18 45 i • FIM JORNADA DE TRABALHO
+
+Inicial
+
+Final
+
+CDOMETRO
+Inicial
+
+Final
+
+19L0-
+
+(496o - 51-90
+
+__ _ CAIXA
+
+ennnerfacrcract orgao-ae-GRfericiet .• ,
+
+V. Transporte
+—
+P. Adulto
+._
+.P. Livre
+
+Hora de Saída
+
+Visto do Fiscal
+Viagens não Realizadas
+
+1 Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado e- Outros
+
+; P. Escolar
+P. Integração
+Dinheiro
+
+Visto do Fiscal
+
+Hora de Chegada
+
+R$
+
+Total
+Catraca Final
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+CBS:
+
+Catraca Inicial
+Diferença
+?5/06a019 11:28:14
+Systemar Informática Lida ®
+
+G-ventai-nu-c t
+
+•
+•
+
+.
+,
+
+e
+
+nrularun I tb UPWANCIS LTDAData da Operação: 28/06/2019
+
+RUA BIGUAÇU N°555.
+BAL. CAMBORIU - SC • 88.337-450
+
+Horário de
+
+Ficha Diária
+
+Trabalho em Veículos d Pas geiros(Port.Min. n°3626 de 1 3/11/1991
+
+n
+
+A
+
+N°:01646
+
+:Motorista Substituto:
+
+N°:
+
+Ass.:
+
+,Cobrador:
+'
+
+N°:
+
+Ass.:
+
+;Cobrador Substituto:
+i Km Escala:15,00 Operante:15,00 Ociosa:0,00
+; Hora Itinerário
+í 09.14 • INICIO JORNADA DE TRABALHO
+0915 l(183)MORR0 DO BOI - BR101 - HOSPITAL
+
+N° Pass.
+
+Carro
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+N°:
+
+dielasni
+rva rorgaoWeiGerênciaty;; ;
+Hora de Salda
+
+Visto do Fiscal
+Viagens não Realizadas
+
+1 Pneu furado 2 - Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Trânsito congestionado 6 - Outros
+
+, P Escolar
+' P. Integração
+R$
+
+, Total
+
+C:atraca Inicial
+
+, Diferença
+. _.
+
+Visto do Fiscal
+
+Hora de Chegada
+
+, P Livre
+
+;
+
+39 9 4.20
+
+•"" 3-t —
+
+P. Adulto
+
+I--i Datraca Final
+
+óDOMETRO
+inicial
+Final
+
+7513 )._359o()
+
+i
+
+•
+CIXA /5 50
+!V Transporte
+
+, Dinheiro
+
+Fim
+
+CATRACA
+inicial
+• Final
+
+ISSL2
+
+r, 10.00 !• FIM JORNADA DE TRABALHO
+
+c),),910
+
+150
+1320
+Uteis
+01950
+
+Jornada de Trabalho Intervalo Repouso
+Inicio
+Início
+9 : / Li
+Fim
+Fim
+
+Ass.:
+
+Motorista: LUIZ PEREIRA DA SI
+•
+Ass.:
+,
+
+Linha:
+Escala:
+Dia:
+Carro:
+
+CNPJ:02.032.063/0001-55
+
+R$
+00
+
+i
+,i
+
+2
+
+R$
+
+R$
+
+R$
+
+Hora:
+Hora:
+Hora:
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+-751 32
+-1nó()
+
+26/06/201g 112R14
+
+O
+Systemar Informática Lida ®
+
+Lunuriux i
+
+1 KANSPORTES
+
+URBANOS LTDA Data da Operação: 29/06/2019
+Linha: 150
+Escala: 1306
+Dia: Sábados
+Ficha Diária
+Carro: 03001
+Veículos de Passageiros(PorlMin. n° 3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+RUA BIGUAÇU N°555 BAL. CAMBORIU • SC - 88.337450
+CNPJ:02.032.063/0001-55
+
+I
+
+I
+
+!
+
+L4
+
+Horário de T - • - - - ••
+
+4
+
+Ass.:
+
+:Motorista: VALFRI • •
+' .
+Ass.:
+;Motorista
+i
+
+AUGUSTIN
+
+Substituto:
+
+Início
+
+17 2 9
+
+Início
+
+N°: 01840
+
+Fim
+
+12,3n
+
+Fim
+
+Início
+
+Inicio
+
+N°:
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Início
+
+Fim
+
+Fim
+
+Ass.:
+
+;Cobrador:
+
+N°:
+
+,
+
+Ass.:
+
+:Cobrador Substituto:
+
+N°:
+
+l km—Escala:18,00 Operante:15,00 Ociosa:3,00
+Hora ¡Itinerário
+
+CATRACA
+N° Pass.
+
+r ! F29 I • INICIO JORNADA DE TRABALHO
+
+Carro
+
+Inicial
+9/r '?
+
+. 11 30
+
+(157)GAFtAGEM - MORRO BOI (DE LEVE)
+,f- 1 1 50 j(1E13)MORRO DO BOI - BR101 -HOSPITAL
+I 1 2301.FIM JORNADA DE TRABALHO
+
+ODOMETRO
+
+Final
+
+Final
+
+fn9fli
+
+3
+
+_.(5-0,1,1
+
+2/039
+
+Inicial
+
+21034
+
+ic 9 it,
+
+1/3 91:19
+
+fo 2 Orl ,r2 (94
+
+l
+
+i
+
+i CAIXA
+i
+' V. Transporte
+
+..
+
+'P. Adulto
+
+egXacriatork,b7lao kte Gerêntia
+raPr
+Hora de Saída -7/ 29
+Visto do Fiscal
+Hora de Chegada
+
+, P.Livre
+
+..
+
+P. integração
+
+Hora:
+
+Dinheiro (
+
+Hora:
+Hora:
+
+R$
+
+- Total
+1r
+
+e
+
+! Catraca Inicial
+
+Visto do Fiscal
+
+1 Pneu furado 2 - Quebra velculo 3 - Ausência de motorista
+4 - Acidente 5 - Tránstto congestionado 6- Outros
+
+P. Escolar
+
+:Catraca Final
+
+1z2o
+
+Viagens não Realizadas
+
+9 fo 3 9
+
+R$
+
+R$
+
+R$
+
+R$
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+
+2,039
+
+Diferença
+------ - - -- --
+
+Systemar Informática Lida
+
+•
+
+LUNUMAK 1
+
+i KANSPORTES URBANOS LTDAData da Operação: 29/06/2019
+Linha: 150
+•
+Escala: 1316
+Dia: Sábados
+Ficha Diária
+Carro: 01650
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 1
+3/11/1991
+Jornada de Trabalho Intervalo Repouso
+ASS.: <—
+Início
+'Sn 4 „4„, 0 '%CA)(\ 5: C II S I
+Início
+. C)
+Fim
+Motorista: CRISTIANO BOURSCHEID
+Fim
+N°: 02102
+Ass.:
+Inicio
+Início
+, Motorista Substituto:
+Fim
+N°:
+Fim
+RUA BIGUAÇU N°555 BAL. CAMBORIU - SC - 88.337-450
+CNPJ:02.032.063/0001-55
+
+ASS .:
+
+Cobrador:
+Ass.:
+
+N°:
+
+Cobrador
+Substituto:
+. _
+Km Escala:15,00 Operante:15,00 Ociosa:0,00
+
+N°:
+
+• Hora ¡Itinerário
+59 :*, INICIO JORNADA DE TRABALHO
+16.45
+
+Início
+
+Fim
+
+Fim
+
+Início
+
+Inicio
+
+Fim
+
+Fim
+
+CATRACA
+11° Pass. Carro
+
+4 6çc
+
+- 1800 í (184)HOSPITAL - BR101 - MORRO DO BOI
+
+.
+
+Início
+
+FIM JORNADA DE TRABALHO
+
+Inicial
+
+Final
+
+8DOMETRO
+Inicial
+
+Final
+
+1)7, ,,2 4.-) .i. ?.
+
+40)J0 --2c ' iCi
+
+I
+1
+
+;
+CAIXA
+, V. Transporte
+
+*ffiell~insnira-Ortsredeiéiatiiji,
+
+- P. Adulto
+. P Livre
+I
+j P. Escolar
+
+: P. integração
+Dinheiro
+
+Rs
+
+Total
+Catraca Final
+
+R$
+
+R$
+
+R$
+
+R$
+
+Hora de Saída
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+Viagens não Realizadas
+1Pneu furado 2 • Quebra veículo 3 - Ausência de motorista
+4 - Acidente 5 - Transito congestionado 6 - Outros
+Hora:
+•
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+OBS:
+
+Catraca inicial
+Diferença
+;Rmnnnio 1 1.1p.10
+Systemar Informática Ltda ®
+
+Horário • -
+
+a
+
+LONDPART TRANSPORTES URBANOS LTDAData da Operação: 30/06/2019
+RUA BIGUAÇU N° 555 Linha: 150
+BAL. CAMBORIU - SC - 88337-450
+CNPJ:02.032.063/0001-55
+Escala: 1307
+Dia: Domingos/Feriados
+Carro: 03001
+Ficha Diária
+aIPØ em Veículos de Passageiros(Port-Min. n° 3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+
+'Ass. dirs,
+
+I
+ll tilP
+M:to 1543: 'im ',E LIZA
+
+DRO ESPINDOLA
+
+N°: 02128
+
+Início
+
+In/
+
+Inicio
+
+Fim
+
+j, 7, -,
+VIL-70
+
+F im
+
+Inicio
+Moto iste Substituto:
+
+N°:
+
+.SS.:
+:dc-r:
+
+•—
+
+N°:
+
+Substituto:
+:scala:18,00
+Operante:15,00 Ociosa:3,00
+Km_
+idor
+
+ora -tt-iirierário
+. it•ICIO JORNADA DE TRABALHO
+
+Fim
+
+Fim
+
+Inicio
+
+Início
+
+____ Fim
+
+NP:
+N° Pass. Carro
+
+Inicio
+
+Fim
+
+Início
+
+inicio
+
+Fim
+
+Fim
+
+CATRACA
+Inicial
+
+Final
+
+6 DOMETRO
+Inicial
+
+1
+
+Final
+
+30C1
+
+, (:57)GARAGEM - MORRO BOI (DE LEVE)
+.: 83)MORRO DO BOI - BRIOI - HOSPITAL
+
+00
+
+, • FIM JORNADA DE TRABALHO
+
+%/ R
+
+)9, 5-.-, 113. SS1
+I
+
+15 6". \i
+{
+
+Yto20- co30
+
+CAIXA
+
+"InelbiannWairgWirdreirêncri
+
+ansporte
+;uno
+
+Hora de Salda
+
+Visto do Fiscal
+
+Hora de Chegada
+
+Visto do Fiscal
+
+•, 1
+
+ile
+' "- izinlar
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiculo 3 - Ausência de motorista
+
+egração
+
+Hora:
+Hora.
+Hora:
+
+: iro
+
+I
+I
+I
+I
+
+4 - Acidente 5 - Trânsito congestionado 6- Outros
+
+R$
+
+R$
+
+R$
+
+R$
+
+R$
+
+Cód. Motivo(
+Cód. Motivo(
+Cód. Motivo(
+
+)
+)
+)
+
+OBS:
+ta Final
+:ca inicial
+iinça
+
+Systemar Informática Ltda ®
+
+LONDPART TRANSPORTES URBANOS LTD4 Data da Operação: 30/06/2019
+RUA BIGUAÇU N°555 Linha: 150
+BAL. CAMBORIU - SC - 88.337-450
+Escala:
+1317
+CNPJ:02.032.063/0001-55
+Dia: Domingos/Feriados
+Carro: 01650
+Ficha Diária
+Horário de Trabalho em Veículos de Passageiros(Port.Min. n°3626 de 13/11/1991
+Jornada de Trabalho Intervalo Repouso
+Ass: CVLIST ) &AJO
+e e) Cl &Se (4# i '‘N
+otcrista: CRISTIANO BOURSCHEID
+N°:
+Ass.:
+otorista
+
+Substituto:
+
+Inicio
+
+02102
+
+N°:
+
+Ass.:
+
+N°:
+
+°orador:
+Ass.:
+obrador Substituto:
+:frt Escala:15,00 Operante:15,00
+icre 'Itinerário
+I
+7 rt I- iNiCi0 JORNADA DE TRABALHO
+
+= cr
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+Fim
+
+Inicio
+
+Inicio
+
+Fim
+
+N°:
+Ociosa:0,00
+
+Fim
+
+CATRACA
+Inicial
+
+N° Pass. I Carro
+
+I abt) I
+I
+ICits
+i Na
+
+184)1-10SPITAL - BR101 - MORRO 00 801
+FIM JORNADA DE TRABALHO
+
+1
+
+(
+
+Final
+
+ODOMETRO
+Inicial
+
+Final
+
+l
+eal q;),1
+
+I
+
+(410— ç) 7°
+
+CAIXA
+
+Gaã
+ibtaáriliset,Ge-rêntii -7- , .-.
+
+Transporte
+
+Hora de Salda .
+
+Visto do Fiscal
+
+2.dulto
+
+Hora de Chegada
+
+Visto do Fiscal
+
+LIvie
+Es
+colar
+integração
+n iro
+De-
+
+R$
+
+!tal
+
+R$
+
+R$
+
+R$
+
+R$
+
+Viagens não Realizadas
+1 Pneu furado 2- Quebra veiculo 3 -Ausência de motorista
+4 -Acidente 5- Trânsito congestionado 6- Outros
+Hora:
+C6d. Motivo( )
+Hora:
+Cód. Motivo( )
+Hora:
+Cód. Motivo( )
+OBS:
+
+!troca Final
+!frar.2 Inicial
+
+leien73.
+..10...7.2019 17 .56:08
+
+Systemar Informática Ltda
+
+

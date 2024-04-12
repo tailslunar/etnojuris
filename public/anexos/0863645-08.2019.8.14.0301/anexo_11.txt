@@ -1,0 +1,2750 @@
+TJPA
+Tribunal de Justiça do Pará
+O documento a seguir foi juntado aos autos do processo de número 0863645-08.2019.8.14.0301
+em 04/05/2022 15:48:42 por HERCULES DA ROCHA PAIXAO
+Documento assinado por:
+- HERCULES DA ROCHA PAIXAO
+
+Consulte este documento em:
+https://pje-consultas.tjpa.jus.br/pje-1g-consultas/Processo/ConsultaDocumento/listView.seam
+usando o código: 22050415483723700000057187495
+ID do documento: 60120611
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+PLANO MUNICIPAL DE GESTÃO INTEGRADA DE
+RESÍDUOS SÓLIDOS (PGIRS) DE MARITUBA, PA
+
+RELATÓRIO DO PLANO DE GESTÃO INTEGRADA DE
+RESÍDUOS SÓLIDOS DE MARITUBA
+Documento consolidado
+
+DE ACORDO COM A POLÍTICA NACIONAL DE RESÍDUOS SÓLIDOS
+
+dezembro de 2019
+
+i
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+ÍNDICE
+
+INTRODUÇÃO ......................................................................................................... 6
+SUMÁRIO EXECUTIVO ........................................................................................... 8
+2.1
+
+Metodologia adotada ...................................................................................... 8
+
+2.2
+
+Metodologia do levantamento de dados secundários ..................................... 9
+
+2.3
+
+Metodologia do levantamento de dados Primários........................................ 10
+
+2.4
+
+Metodologia de caracterização de resíduos sólidos ...................................... 10
+Obtenção da amostra para a gravimetria ............................................... 11
+
+2.5
+
+Linhas de orientação estratégica no Plano ................................................... 13
+
+2.6
+
+Metas e Ações Previstas .............................................................................. 14
+Programas metas e ações ..................................................................... 14
+
+2.7
+
+Modelo Técnico ............................................................................................ 15
+
+2.8
+
+Modelo de Financiamento............................................................................. 16
+
+Objetivos e Diretrizes do PGIRS ............................................................................ 19
+3.1
+
+Objetivos da Política Nacional de Resíduos Sólidos ..................................... 19
+
+3.2
+
+Principais instrumentos legais aplicáveis ao setor dos resíduos ................... 20
+Regime Jurídico de Gestão de Resíduos............................................... 21
+
+3.3
+
+Conteúdo mínimo do Plano de Gestão de Resíduos .................................... 29
+
+3.4
+
+Metodologia adotada na elaboração do PGIRS de MARITUBA .................... 31
+
+3.5
+
+Participação Pública ..................................................................................... 34
+Oficinas Técnicas .................................................................................. 35
+Questionários ........................................................................................ 35
+Seminários ............................................................................................ 36
+
+3.6
+
+Estruturação do Plano .................................................................................. 38
+
+3.7
+
+Intervenientes no processo de planejamento e gestão e responsabilidades . 40
+
+3.8
+
+VISÃO .......................................................................................................... 42
+
+3.9
+
+MISSÃO ....................................................................................................... 42
+
+ii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+3.10
+
+ÂMBITO ........................................................................................................ 42
+
+DIAGNÓSTICO ...................................................................................................... 43
+4.1
+
+Aspectos Gerais ........................................................................................... 43
+Breve contextualização histórica de Marituba ........................................ 43
+Localização ........................................................................................... 45
+População Abrangida ............................................................................ 47
+Ordenamento Territorial ......................................................................... 54
+Áreas Urbanizadas ................................................................................ 58
+Estrutura Fundiária ................................................................................ 65
+Área sob regime especial ...................................................................... 65
+
+4.2
+
+Aspectos Sociais .......................................................................................... 67
+Índice de Desenvolvimento Humano Social ........................................... 67
+Educação .............................................................................................. 69
+Saúde .................................................................................................... 79
+Renda .................................................................................................... 88
+Segurança ............................................................................................. 93
+Habitação .............................................................................................. 96
+
+4.3
+
+Aspectos Socioeconômicos ........................................................................ 108
+Sistema produtivo ................................................................................ 108
+Principais Atividades Econômicas ....................................................... 112
+Finanças Municipais ............................................................................ 123
+
+4.4
+
+Organização Social..................................................................................... 125
+Solo ..................................................................................................... 129
+Geologia e relevo dominantes ............................................................. 129
+Hidrografia ........................................................................................... 130
+Vegetação predominante ..................................................................... 132
+Clima predominante............................................................................. 133
+Situação do Saneamento Básico ......................................................... 135
+
+iii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+4.5
+
+Caracterização do Setor dos Resíduos Sólidos em Marituba ..................... 140
+Classificação dos resíduos segundo a legislação ................................ 140
+Dados gerais do setor dos resíduos sólidos de Marituba ..................... 142
+Caracterização gravimétrica dos resíduos sólidos de Marituba ........... 143
+Passivo ambiental de resíduos a céu aberto........................................ 151
+Coleta e transporte de resíduos ........................................................... 156
+Tratamento de resíduos domiciliares em aterro sanitário ..................... 162
+Coleta Seletiva .................................................................................... 163
+Limpeza Pública .................................................................................. 165
+Resíduos do setor da saúde ................................................................ 166
+Taxas e tarifas ..................................................................................... 168
+Iniciativas Relevantes no setor dos resíduos ....................................... 168
+
+Conclusões sobre o Diagnóstico .......................................................................... 169
+5.1
+
+Análise SWOT do setor dos resíduos ......................................................... 169
+
+6.1
+
+Crescimento aritmético ............................................................................... 174
+
+6.2
+
+Crescimento exponencial (geométrico) ....................................................... 174
+
+6.3
+
+Curva logística ............................................................................................ 175
+
+6.4
+
+Crescimento decrescente ........................................................................... 175
+
+Projeção da geração de Resíduos Sólidos ........................................................... 179
+7.1
+
+Projeção da população ............................................................................... 179
+
+7.2
+
+Geração de resíduos .................................................................................. 179
+
+Tecnologias de tratamento e valorização de resíduos .......................................... 183
+8.1
+
+Aterro Sanitário........................................................................................... 183
+
+8.2
+
+Tecnologia de Separação de resíduos (Triagem) ....................................... 184
+
+8.3
+
+Tratamento Mecânico e Biológico ............................................................... 185
+
+8.4
+
+Compostagem ............................................................................................ 186
+
+8.5
+
+Combustível Derivado de Resíduos (CDR) ................................................. 188
+
+8.6
+
+Pirólise........................................................................................................ 189
+
+iv
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+8.7
+
+Incineração ................................................................................................. 190
+
+Modelos tecnológicos de tratamento de resíduos para Marituba .......................... 193
+9.1
+
+Coleta seletiva de materiais ........................................................................ 193
+
+9.2
+
+O aterro sanitário ........................................................................................ 195
+
+9.3
+
+Modelo Técnico: TMB com compostagem e produção de CDR .................. 197
+
+9.4
+
+Modelo técnico de tratamento por pirólise com pré-tratamento ................... 199
+
+9.5
+
+Solução em consórcio da RMB ................................................................... 202
+Solução aterro sanitário metropolitano................................................. 202
+Solução Pirólise ................................................................................... 203
+
+9.6
+
+Principais condicionantes ........................................................................... 204
+Solução emergencial preconizada ....................................................... 204
+
+9.7
+
+Solução para o consórcio ........................................................................... 205
+
+9.8
+
+Solução Emergencial para Marituba ........................................................... 206
+
+9.9
+
+CARACTERIZAÇÃO GRAVIMÉTRICA DE RESÍDUOS SÓLIDOS ............. 207
+Reportagem Fotográfica e Mapas das rotas de Coleta Seletiva........... 216
+
+METAS E AÇÕES ................................................................................................ 220
+10.1
+
+INTRODUÇÃO ÀS METAS E AÇÕES DO PGIRS ...................................... 220
+
+10.2
+
+Linhas de orientação estratégica no Plano ................................................. 222
+
+10.3
+
+Metas e Ações Previstas ............................................................................ 222
+Programas metas e ações ................................................................... 223
+
+10.4
+
+Objetivos da Política Nacional de Resíduos Sólidos ................................... 224
+
+10.5
+
+Conteúdo mínimo do Plano de Gestão de Resíduos .................................. 225
+
+10.6
+
+Metodologia adotada na elaboração do PGIRS de MARITUBA .................. 226
+
+10.7
+
+Participação Pública ................................................................................... 229
+Oficinas Técnicas ................................................................................ 229
+Questionários ...................................................................................... 230
+Seminários .......................................................................................... 230
+
+10.8
+
+Diretrizes e Estratégias do PGIRS .............................................................. 231
+
+v
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+10.9
+
+Metas, Programas, Projetos e Ações do PGIRS ......................................... 235
+Metas a atingir na gestão de resíduos ................................................. 235
+Programas a implementar e calendarização ........................................ 236
+Programa de Coleta Seletiva ............................................................... 237
+Programa de Incremento da Coleta Indiferenciada .............................. 241
+Programa de Educação Ambiental ...................................................... 243
+Programa Compostagem Comunitária ................................................. 245
+Programa Escolas Verdes ................................................................... 248
+Programa de Coleta e Disposição Adequada dos Resíduos Sólidos ... 253
+Programa de Limpeza Pública ............................................................. 257
+Programa Logística Reversa ............................................................ 259
+
+10.10
+
+Investimentos necessários e fontes de recursos financeiros ................... 261
+
+10.11
+
+Monitoramento, acompanhamento, controle e avaliação do Plano de Gestão
+
+de Resíduos Sólidos ............................................................................................. 269
+Indicadores de monitoramento ......................................................... 269
+Indicadores ...................................................................................... 270
+Mecanismos de divulgação .............................................................. 278
+10.12
+
+Tarifa de gestão de resíduos a implementar ........................................... 278
+Grandes geradores de resíduos ....................................................... 280
+Formas de pagamento ..................................................................... 281
+
+10.13
+
+Intervenientes no processo de planejamento e gestão e responsabilidades
+281
+
+10.14
+
+Orientações para a Revisão do Plano ..................................................... 283
+
+10.15
+
+Programa de coleta seletiva e compostagem .......................................... 285
+Implementação ................................................................................ 285
+Ações de implementação do Projeto ................................................ 286
+Compostagem.................................................................................. 287
+
+Referências bibliográficas .................................................................................... 308
+
+vi
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+vii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+ÌNDICE DE TABELAS
+Tabela 4.1 – Distribuição da População por Bairros em Marituba (IBGE, 2010) ......... 48
+Tabela 4.2 - Área territorial, população, densidade demográfica e grau de urbanização
+dos municípios da ACP de Belém e do Estado do Pará - 2010................................... 50
+Tabela 4.3 – Taxa de crescimento da população, total e por situação do domicílio, dos
+municípios da ACP de Belém e do estado do Pará - 2000/2010, 2010/2018. ............. 52
+Tabela 4.4 – Características dos estabelecimentos da rede pública de Educação Básica
+do município de Marituba - 2018. ................................................................................ 75
+Tabela 4.5 – Média dos coeficientes de morbidade e mortalidade dos municípios da ACP
+de Belém e do estado do Pará - 2012/2016. ............................................................... 80
+Tabela 4.6 – Características dos estabelecimentos da rede pública de saúde do
+município de Marituba - 2019...................................................................................... 85
+Tabela 4.7 – Perfil do PIB na Região Metropolitana de Belém (2012) ......................... 88
+Tabela 4.8 – Características dos estabelecimentos da rede pública socioassistencial do
+município de Marituba – 2019. .................................................................................... 92
+Tabela 4.9 – Indicadores da situação socioeconômica de Marituba e municípios da RMB
+(2012) ......................................................................................................................... 92
+Tabela 4.10 – Quantidade de domicílios em aglomerados subnormais, por aglomerado,
+do município de Marituba – 2010. ............................................................................. 100
+Tabela 4.11 – Produto Interno Bruto (PIB) dos municípios da ACP de Belém e do estado
+do Pará - 2014 a 2016. ............................................................................................. 108
+Tabela 4.12 – Composição do valor adicionado bruto (VAB), por setor, dos municípios
+da ACP de Belém e do estado do Pará - 2014 a 2016. ............................................. 109
+Tabela 4.13 – Valor e composição das receitas e despesas correntes do município de
+Marituba - 2017......................................................................................................... 124
+Tabela 4.14 – Valor das despesas executadas, por função, do município de Marituba 2017. ........................................................................................................................ 125
+Tabela 4.15 – Organizações da sociedade civil presentes no município de Marituba.
+................................................................................................................................. 127
+Tabela 4.16 – Materiais constituintes da segregação para caracterização gravimétrica
+................................................................................................................................. 144
+
+viii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Tabela 4.17 – Códigos utilizados internacionalmente para identificação de plásticos148
+Tabela 4.18 – Resultados médios da caracterização em cada local identificado e média
+geral (Marituba, 2019)............................................................................................... 150
+Tabela 4.19 – Circuitos de coleta de resíduos sólidos em Marituba (2019) ............... 156
+Tabela 4.20 – Viaturas de coleta de resíduos sólidos e respetivos circuitos ............. 157
+Tabela 4.21 – Lista de Viatura e máquinas a serviço da Prefeitura na coleta de resíduos
+sólidos ...................................................................................................................... 158
+Tabela 4.22 – Número de carradas de resíduos depositados no lixão Risa Faca em 2018
+................................................................................................................................. 159
+Tabela 4.23 – Quantidade de resíduos domiciliares coletados no 1º semestre de 2018
+................................................................................................................................. 160
+Tabela 4.24 – Quantidade de resíduos domiciliares coletados no 2º semestre de 2018
+................................................................................................................................. 160
+Tabela 4.25 – Custo total anual com o gerenciamento de resíduos sólidos urbanos 161
+Tabela 5.1 – Evolução da população em municípios da RMB................................... 176
+Tabela 5.2 - Taxas de crescimento anual da população ........................................... 177
+Tabela 7.1 – Projeção da população de Marituba para o período do Plano .............. 179
+Tabela 7.2 – Projeção da geração de resíduos total e por categoria (2019-2024) .... 180
+Tabela 7.3 – Projeção da geração de resíduos total e por categoria (2025-2030) .... 181
+Tabela 7.4 – Projeção da geração de resíduos total e por categoria (2031-2034) .... 181
+Tabela 7.5 – Projeção da geração de resíduos total e por categoria (2034-2038) .... 182
+Tabela 9.1- Geração de resíduos dispostos de 2019 a 2038 em aterro sanitário ...... 196
+Tabela 9.2 – Resumo financeiro dos investimentos e operação da solução TMB
+(autor:Russo, M.) ...................................................................................................... 198
+Tabela 9.3 – Resumo financeiro da solução de tratamento por Pirólise .................... 201
+Tabela 9.4 - Resumo das soluções individualizadas para Marituba (fonte: Russo, M.)
+................................................................................................................................. 202
+Tabela 9.5 Resumo da estimativa de custos envolvidos na solução ......................... 203
+Tabela 9.6 – Resumo financeiro da solução de emergência ..................................... 205
+
+ix
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Tabela 9.7- Resumo financeiro da solução de envelopamento de resíduos para Marituba
+................................................................................................................................. 206
+Tabela 10.1- Metas para a coleta seletiva e coleta regular de resíduos indiferenciados
+................................................................................................................................. 236
+Tabela 10.2 – Investimentos no Programa de coleta seletiva (Preços atuais) ........... 239
+Tabela 10.3 – Programa de coleta seletiva (quantidades e custo) ........................... 240
+Tabela 10.4 - Programa 2: Incremento da coleta regular indiferenciada. Investimentos
+calendarizados a preços atuais ................................................................................. 242
+Tabela 10.5- Programa 2, quantidades, preços unitários e totais .............................. 242
+Tabela 10.6 – Programa de Educação Ambiental: custos, a preços atuais ............... 244
+Tabela 10.7 – Programa de educação Ambiental: quantidades e custos a preços atuais
+................................................................................................................................. 244
+Tabela 10.8 – Programa Compostagem Comunitária – calendarização e custos, a
+preços atuais ............................................................................................................ 246
+Tabela 10.9 – Programa Compostagem Comunitária - atividades: quantidades e custos
+a preços atuais ......................................................................................................... 247
+Tabela 10.10 – Escolas integrantes do projeto Escolas Verdes ................................ 249
+Tabela 10.11 – Programa Escolas Verdes: atividades e custos de investimento, a preços
+atuais ........................................................................................................................ 251
+Tabela 10.12 – Programa Escolas verdes: quantidades de Ações / Atividades e custos,
+a preços atuais ......................................................................................................... 252
+Tabela 10.13 – Programa Coleta e Disposição adequada dos resíduos sólidos de
+Marituba: investimentos ............................................................................................ 255
+Tabela 10.14 – Programa Coleta e Disposição adequada dos resíduos sólidos de
+Marituba: Quantidades e custos a preços atuais....................................................... 256
+Tabela 10.15 - Programa Limpeza Pública Urbana: investimentos calendarizados, a
+preços atuais para 20 anos ....................................................................................... 258
+Tabela 10.16 - Programa Limpeza Pública Urbana: quantidades e custos das atividades
+e ações, a preços atuais, para 20 anos .................................................................... 258
+Tabela 10.17 – Programa Logística Reversa: calendarização e custos das ações a
+preços atuais ............................................................................................................ 260
+
+x
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Tabela 10.18 – Programa de Logística Reversa: ações a desenvolver e custos ....... 260
+Tabela 10.19 – Estimativa Orçamental dos Programas ............................................ 261
+Tabela 10.20 – Resumo financeiro dos Programas .................................................. 262
+Tabela 10.21 – Fontes de financiamento para o Programa de Coleta seletiva .......... 263
+Tabela 10.22 – Fontes de financiamento para a Coleta indiferenciada ..................... 263
+Tabela 10.23 – Fontes de financiamento para o Programa de Educação Ambiental 264
+Tabela 10.24 – Fontes de financiamento para o Programa compostagem comunitária
+................................................................................................................................. 264
+Tabela 10.25 – Fontes de financiamento para o Programa Escolas Verdes ............. 265
+Tabela 10.26 - Fontes de financiamento para o Programa Disposição Final ............. 266
+Tabela 10.27 - Fontes de financiamento para o Programa Limpeza Pública ............. 267
+Tabela 10.28 - Fontes de financiamento para o Programa de Logística Reversa .... 268
+Tabela 10.29 – Indicadores de desempenho para monitoramento do PGIRS Marituba
+................................................................................................................................. 271
+Tabela 10.30 – Variáveis de cálculo dos indicadores de desempenho do PGIRS..... 272
+Tabela 10.31 – Indicadores de desempenho de gestão de resíduos ........................ 273
+Tabela 10.32 – Indicadores de desempenho de gestão de resíduos ........................ 274
+Tabela 10.33 – Indicadores de desempenho de gestão de resíduos ........................ 275
+Tabela 10.34 – Indicadores de desempenho de gestão de resíduos ........................ 276
+Tabela 10.35 – Indicadores de desempenho de gestão de resíduos ........................ 277
+
+xi
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+ÍNDICE DE FIGURAS
+Figura 2.1 – Exemplo de trajetória tarifária a ser adotada para que haja sustentabilidade
+social e econômica (Russo, 2012) .............................................................................. 17
+Figura 3.1 - Hierarquia de gestão dos resíduos segundo a PNRS ............................. 22
+Figura 3.2 – Folha de rosto do prospeto de divulgação e convite à participação da
+população da Oficina sobre questões climáticas e o papel dos resíduos sólidos ........ 37
+Figura 3.3 – Rosto do folheto de divulgação do Fórum de debate dos resíduos sólidos
+em Marituba ................................................................................................................ 38
+Figura 4.1 – Mapa administrativo da Região Metropolitana de Belém e o município de
+Marituba...................................................................................................................... 46
+Figura 4.2 – Mapa viário geral e mancha urbana da RMB com Marituba
+(Fonte:FAPESPA 2015) .............................................................................................. 47
+Figura 4.3 – Evolução da população, total e por situação de domicílio, do município de
+Marituba - 2000, 2010, 2018. ...................................................................................... 51
+Figura 4.4 – Evolução da razão de sexo dos municípios da ACP de Belém e do estado
+do Pará - 2000, 2010. ................................................................................................. 52
+Figura 4.5 – Evolução da razão de dependência dos municípios da ACP de Belém e do
+estado do Pará - 2000, 2010....................................................................................... 53
+Figura 4.6 – Pirâmides etárias, por sexo, do município de Marituba - 2000, 2010. ..... 54
+Figura 4.7 – Planta de Marituba com a divisão administrativa dos bairros atualizada
+(2019) ......................................................................................................................... 55
+Figura 4.8 – Divisão Administrativa do município de Marituba, definida no Plano Diretor
+Participativo de 2007. ................................................................................................. 56
+Figura 4.9 – Área de Zoneamento Urbano (AZU) do município de Marituba, definida no
+Plano Diretor Participativo de 2007. ............................................................................ 57
+Figura 4.10 – Mapa de uso e ocupação do solo do município de Marituba - 2016. ..... 59
+Figura 4.11 – Bairros de Marituba ............................................................................... 61
+Figura 4.12 – Mapa dos bairros do município de Marituba, definidos no Projeto de Lei
+Municipal Nº 67/2018. (Fonte: SEMMA/PMM (2017). ................................................. 62
+Figura 4.13 – Limite municipal de Marituba e delimitação dos bairros Bela Vista e Canaã,
+definidos no Projeto de Lei Municipal Nº 67/2018. ...................................................... 64
+
+xii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.14 – Limites do Refúgio da Vida Silvestre (REVIS) Metrópole da Amazônia. 66
+Figura 4.15 – Evolução do Índice de Desenvolvimento Humano Municipal (IDHM) dos
+municípios da ACP de Belém e do estado do Pará – 1991, 2000, 2010. .................... 68
+Figura 4.16 – Evolução do Índice de Desenvolvimento Humano Municipal (IDHM), geral
+e por componente, do município de Marituba - 2000, 2010......................................... 69
+Figura 4.17 – Fluxo escolar comparativo de Marituba, com o Estado do Pará e Brasil,
+por faixa etária (2010) ................................................................................................. 70
+Figura 4.18 – Evolução do nível de instrução da população adulta (>25 anos) em
+Marituba – 1991 a 2010. ............................................................................................. 71
+Figura 4.19 – Taxa de atendimento escolar, por faixa etária, dos municípios da ACP de
+Belém e do estado do Pará – 2010. ............................................................................ 72
+Figura 4.20 – Localização das escolhas em Marituba (fonte: SEMMA) ....................... 74
+Figura 4.21 – Proporção de casos de morbidade e mortalidade, por principais causas,
+do município de Marituba - 2012/2016. ....................................................................... 81
+Figura 4.22 – Taxa de cobertura da população por Equipes de Saúde da Família e
+Agentes Comunitários de Saúde, dos municípios da ACP de Belém e do estado do Pará
+- 2018. ........................................................................................................................ 82
+Figura 4.23 – Razão de leitos e de médicos do Sistema Único de Saúde (SUS), por mil
+habitantes, dos municípios da ACP de Belém e do estado do Pará - Dezembro/2018.
+................................................................................................................................... 83
+Figura 4.24 – Evolução da distribuição da renda da população de Marituba de 1991 a
+2010. .......................................................................................................................... 89
+Figura 4.25 – Renda domiciliar per capita e Índice de Gini dos municípios da ACP de
+Belém e do estado do Pará - 2010.............................................................................. 90
+Figura 4.26 – Taxa de atividade da população acima de 10 anos (economicamente ativa)
+e de desocupação da população economicamente ativa, dos municípios da ACP de
+Belém e do estado do Pará - 2010.............................................................................. 90
+Figura 4.27 – Coeficiente de ocorrências policiais, por tipo de ocorrência, dos municípios
+da ACP de Belém e do estado do Pará - 2013............................................................ 94
+Figura 4.28 – Média dos coeficientes de homicídios da população total e da população
+jovem (15 a 29 anos) dos municípios da ACP de Belém e do estado do Pará - 2012/2016.
+................................................................................................................................... 94
+
+xiii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.29 – Proporção de domicílios, por condição de ocupação, do município de
+Marituba, da ACP de Belém e do estado do Pará - 2010. ........................................... 96
+Figura 4.30 – Proporção de domicílios, por tipo de material das paredes externas, do
+município de Marituba, da ACP de Belém e do estado do Pará - 2010. ...................... 97
+Figura 4.31 – Proporção de domicílios, por tipo de abastecimento de água, do município
+de Marituba, da ACP de Belém e do estado do Pará - 2010. ...................................... 97
+Figura 4.32 – Proporção de domicílios, por tipo de esgotamento sanitário, do município
+de Marituba, da ACP de Belém e do estado do Pará - 2010. ...................................... 98
+Figura 4.33 – Proporção de domicílios, por existência de banheiro ou sanitário, do
+município de Marituba, da ACP de Belém e do estado do Pará - 2010. ...................... 98
+Figura 4.34 – Percentagem de domicílios com coleta de resíduos sólidos no município
+de Marituba, na ACP de Belém e no Estado do Pará - 2010....................................... 98
+Figura 4.35 – Percentagem de domicílios com rede de energia elétrica no município de
+Marituba, na ACP de Belém e no Estado do Pará - 2010. .......................................... 99
+Figura 4.36 – Bairro Almir Gabriel (Google) .............................................................. 102
+Figura 4.37 – Panorama aéreo do Bairro Viver Melhor ............................................. 103
+Figura 4.38 – Vista aérea da zona Norte do Bairro Viver Melhor .............................. 104
+Figura 4.39 – Planta de localização dos condomínios fechados Salinas, Algodoal e
+Soure, na Direcional. ................................................................................................ 105
+Figura 4.40 – Vista aérea do bairro Uriboca .............................................................. 106
+Figura 4.41 – Condomínio Cita Maris com 47 torres de 4 pisos ................................ 107
+Figura 4.42 – Evolução do Produto Interno Bruto (PIB) e da composição do valor
+adicionado bruto (VAB), por setor, do município de Marituba - 2014 a 2016. ............ 110
+Figura 4.43 – Ocupação da população, por setor da economia e posição da ocupação,
+do município de Marituba - 2010. .............................................................................. 111
+Figura 4.44 – Mapa dos estabelecimentos de comércio e pequena indústria de Marituba
+................................................................................................................................. 116
+Figura 4.45 – Mapa de atividades comerciais e pequena indústria em Marituba e
+respetivos bairros ..................................................................................................... 117
+Figura 4.46 – Atividades comerciais e pequena indústria no Bairro Novo, Marituba (fonte:
+SEMMA) ................................................................................................................... 118
+
+xiv
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.47 – Atividades comerciais e pequena indústria nos bairros Mirizal e Boa Vista,
+Marituba (SEMMA, 2019) ......................................................................................... 119
+Figura 4.48 – Mapa das atividades comerciais e pequena indústria no bairro Centro,
+Marituba (SEMMA, 2019) ......................................................................................... 120
+Figura 4.49 – Mapa de atividades comerciais e pequena indústria no bairro Decouvile,
+Marituba.................................................................................................................... 121
+Figura 4.50 – Mapa de atividades comerciais e pequena indústria nos bairros S. João e
+Cittá Maris, Marituba (SEMMA, 2019) ....................................................................... 122
+Figura 4.51 – Bacia do rio Benfica, que parte está no território de Marituba ............. 130
+Figura 4.52 - Mapa de localização do Projeto Estudos Hidrogeológicos da Região
+Metropolitana de Belém e Adjacências (CPRM) ....................................................... 131
+Figura 4.53 –Mapa hipsométrico e hidrográfico de Marituba no contexto da RMB .... 132
+Figura 4.54 – Mapa da classificação climática de Koopen (Inmet) ............................ 133
+Figura 4.55 – Média da pluviosidade em Marituba (dados Inmet) ............................. 134
+Figura 4.56 – Médias das temperaturas médias e máximas e mínimas na RMB (dados
+Inmet) ....................................................................................................................... 135
+Figura 4.57 – Mapa de localização dos pontos de captação e abastecimento de água
+................................................................................................................................. 136
+Figura 4.58 – Rua com vala drenante de águas pluviais e esgotos provenientes das
+casas (dreno sumidouro de fossas sépticas) ............................................................ 137
+Figura 4.59 – Vala de esgoto a céu aberto no Bairro Almir Gabriel (PMSB Marituba,
+2019) ........................................................................................................................ 138
+Figura 4.60 – Mapa de localização das áreas do município com sistema de esgotamento
+sanitário .................................................................................................................... 139
+Figura 4.61 – Esquema de classificação dos resíduos sólidos de acordo com a sua
+origem ...................................................................................................................... 142
+Figura 4.62 – Gráfico da composição estimada dos RSU de Marituba (2016) .......... 143
+Figura 4.63 – Obtenção da amostra no Bairro Viver Melhor e segregação de resíduos
+no galpão (agosto 2019) ........................................................................................... 146
+Figura 4.64 – Reportagem fotográfica de uma das sessões de caracterização dos
+resíduos (agosto 2019) ............................................................................................. 147
+
+xv
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.65 – Caracterização gravimétrica dos resíduos sólidos domiciliares de Marituba
+(2019) ....................................................................................................................... 151
+Figura 4.66 – Ponto de “cabeça de lixo” na Estrada da Pirelli, Marituba (2019) ........ 153
+Figura 4.67 – Lixão Risca Faca (recebe resíduos de limpezas públicas e entulhos de
+construção civil) ........................................................................................................ 153
+Figura 4.68 – Localização do aterro sanitário de Marituba (Guamá) e o lixão Risca Faca
+a norte ...................................................................................................................... 154
+Figura 4.69 – Mapa das cabeças de lixo identificadas no municipio objeto de
+saneamento (2019) ................................................................................................... 155
+Figura 4.70 – Planta de implantação do aterro sanitário da Guamá (Guamá, 2019) . 162
+Figura 4.71 – Deposição do caroço de açaí na frente do respetivo estabelecimento em
+sacolas e em big bags .............................................................................................. 165
+Figura 4.72 – Classificação dos resíduos de serviços de saúde no Brasil (autor) ..... 167
+Figura 5.1 - Curvas de crescimento demográfico segundo 4 modelos diferentes. ..... 174
+Figura 5.2 – Evolução da taxa de crescimento no Estado do Pará ........................... 176
+Figura 5.3 – Evolução exponencial da população de Marituba ................................. 177
+Figura 8.1 – Panorama de um aterro sanitário, parte encerado e parte em operação
+................................................................................................................................. 183
+Figura 8.2 – Lay-out da Estação de Triagem da Lipor, Portugal ............................... 184
+Figura 8.3- Fluxograma de tratamento com unidade de Tratamento Mecânico e biológico
+por compostagem (fonte: Russo, M. 2020) ............................................................... 185
+Figura 8.4 – Imagem de uma unidade de separação mecânica de resíduos (fonte:
+Russo, M. 2020) ....................................................................................................... 185
+Figura 8.5 – Tipo de volteadora de composto que revolve a leira e deixa o material na
+mesma posição......................................................................................................... 186
+Figura 8.6 – Exemplo de pilha estática arejada (o ar é insuflado por sopradores) (Russo,
+M., 2012) .................................................................................................................. 187
+Figura 8.7 – Fluxo dos resíduos urbanos numa unidade de tratamento mecânico de
+separação (fonte: Russo, M. 2020) ........................................................................... 188
+
+xvi
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 8.8 – Fluxograma de uma unidade de valorização energética por pirólise, incluído
+o pré-tratamento e preparação do CDR para alimentação dos reatores pirolíticos (fonte:
+Russo, M. 2020) ....................................................................................................... 190
+Figura 8.9 – corte de uma incineradora evidenciando a área de combustão e área de
+tratamento de gases ................................................................................................. 190
+Figura 9.1 – PEV instalado no bairro Viver Melhor, Marituba .................................... 194
+Figura 9.2 – Carrinho para os catadores d Marituba, no Bairro Viver Melhor, fornecidos
+pela Prefeitura de Marituba (fonte: Russo, M.) .......................................................... 194
+Figura 9.3 – Planta do Ecocentro projetado para Marituba (autor: Russo, M.) .......... 195
+Figura 9.4 – Perspectiva 3D do ecocentro de Marituba............................................. 195
+Figura 9.5- fluxograma de tratamento de resíduos com TMB, compostagem e CDR 198
+Figura 9.6 – Esquema de unidade de pirólise (fonte: BG) ......................................... 200
+Figura 9.7 – Perspectiva 3D de unidade de tratamento Mecânico (segregação de
+resíduos). Fonte: Ghofle ........................................................................................... 201
+Figura 9.8 – Fluxograma do modelo técnico proposto com solução pirolítica (fonte:
+Russo, M.) ................................................................................................................ 203
+Figura 9.9 – Planta de implantação de 4 enfardadeiras e esquema do fluxo dos resíduos
+até à célula do aterro (um dos exemplos estudados para solução de emergência). Fonte:
+Russo, M.2020.......................................................................................................... 204
+Figura 9.10- Reportagem das campanhas de caracterização. Coleta da amostra e
+gravimetria ................................................................................................................ 216
+Figura 9.11 – Mapa do circuito de coleta seletiva nos Bairros Viver Melhor e Bairro Novo
+de Marituba............................................................................................................... 217
+Figura 9.12 – Mapa rota de coleta seletiva Bairro União de Marituba ....................... 218
+Figura 9.13 – Rota de coleta seletiva no Bairro Nova Marituba ................................. 219
+Figura 10.1 – Modelo de ecoponto de 3 frações e respetivas cores.......................... 235
+Figura 10.2 – Tipo de caminhão com grua telescópica tipo Munck para cargas verticais
+................................................................................................................................. 236
+Figura 10.3 – Fluxo da formação de um indicador de desempenho (autor)............... 270
+Figura 10.4 – Trajetória tarifária para recuperação de custos em 6 anos .................. 279
+Figura 10.5 – Trajetória tarifária para recuperação de custos em 4 anos .................. 280
+
+xvii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 10.6- Ciclo de melhoria contínua PECA (autor).............................................. 283
+
+xviii
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+LISTA DE ABREVIATURAS E SIGLAS
+APP – Área de Preservação Permanente
+ABNT – Associação Brasileira de Normas Técnicas
+ANA – Agência Nacional de Águas
+ASPP – Aterro Sanitário de Pequeno Porte
+ATT – Área de Triagem e Transbordo
+A3P – Agenda Ambiental na Administração Pública
+BDI – Benefícios e Despesas Indiretas
+CAT – Comunicação de Acidente de Trabalho
+CONAMA – Conselho Nacional do Meio Ambiente
+CF – Constituição Federal
+DAU – Departamento de Ambiente Urbano
+ETE – Estação de Tratamento de Esgoto
+GT – Grupo de Trabalho
+LEV – Locais de Entrega Voluntária
+MMA – Ministério do Meio Ambiente
+MP – Ministério Público
+NBR – Norma Brasileira Registrada
+ONG – Organização Não Governamental
+PACS – Programa de Agentes Comunitários da Saúde
+PEAMSS – Programa de Educação Ambiental e Mobilização Social em
+Saneamento
+PERS – Plano Estadual de Resíduos Sólidos
+PEV – Ponto de Entrega Voluntária
+PMS – Projeto de Mobilização Social e Divulgação
+PNAD – Pesquisa Nacional por Amostra de Domicílios
+PNM – Plano Nacional de Mineração
+PNMC- Plano Nacional sobre Mudança do Clima
+PNSB – Pesquisa Nacional de Saneamento Básico
+PNRS – Política Nacional de Resíduos Sólidos
+PPA – Plano Plurianual
+PSF – Programa Saúde da Família
+RCD – Resíduos da Construção e de Demolição
+
+xix
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+RSS – Resíduos de Serviços de Saúde
+RSU – Resíduos Sólidos Urbanos
+SNIRH – Sistema Nacional de Informação de Recursos Hídricos
+SIAB – Sistema de Informação da Atenção Básica
+SICONV – Sistema de Convênios e Contratos de Repasse
+SINIR – Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos
+SNIS – Sistema Nacional de Informações sobre Saneamento
+SISAGUA – Sistema Nacional de Informação de Vigilância da Qualidade da Água
+para Consumo Humano
+SISNAMA – Sistema Nacional do Meio Ambiente
+SINISA – Sistema Nacional de Informações em Saneamento Básico
+SNUC – Sistema Nacional de Unidades de Conservação
+SNVS – Sistema Nacional de Vigilância Sanitária
+SRHU – Secretaria de Recursos Hídricos e Ambiente Urbano
+SUASA – Sistema Unificado de Atenção à Sanidade Agropecuária
+TR – Termo de Referência
+UF – Unidade Federativa
+ZEE – Zoneamento Ecológico-Econômico
+
+xx
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+PREFEITURA MUNICIPAL DE MARITUBA
+Prefeito Municipal: Engº Mário Henrique de Lima Bíscaro Filho
+Secretário Municipal de Meio Ambiente: Dr. Ismaily Bastos Delfino
+Secretário Municipal de Planejamento: Engº Antônio Coutinho
+Secretário da Infraestruturas e Desenvolvimento Urbano: Sr. Napoleão
+Oliveira
+Através do Decreto Nº 95 de 26 de fevereiro de 2018, o Prefeito Municipal de
+Marituba, usando das atribuições que lhe são conferidas por lei, decretou a
+constituição dos Comitês Diretor e de Sustentação, com a composição que a
+seguir se apresenta:
+
+Comitê Diretor para a Elaboração do Plano Municipal de Gestão Integrada de
+Resíduos Sólidos, nomeado por ato oficial:
+1) Representante do Gabinete do Prefeito: Fábio Fiel
+2) Representante da Secretaria Municipal do Meio Ambiente: Ismaily Bastos
+Delfino
+3) Representante da Secretaria Municipal de Educação: Raimunda Cunha
+4) Representante da Secretaria Municipal de Saúde: Mercês Sovano
+5) Representante da Secretaria Municipal de Infraestrutura e Desenvolvimento
+Urbano: Napoleão Oliveira
+6) Representante da Secretaria Municipal de Orçamento e Finanças: Leila do
+Socorro Rocha dos Santos.
+7) Representante da Secretaria Municipal Planejamento e Gestão: Antônio
+Lobato Coutinho.
+8) Representante da Secretaria Municipal de Desenvolvimento da Agricultura,
+Aquicultura, Abastecimento e Pescas: Ronaldo Santiago Falcão.
+
+1
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Grupo de Sustentação, organismo político de participação social formado por
+representantes do setor público e da sociedade organizada; instituições de
+âmbito local (municipal), buscando abarcar toda a gama de agentes envolvidos
+no tema.
+Constituído pelos seguintes representantes:
+1) Membro do Conselho Municipal de Meio Ambiente: Lizete Figueiredo
+2) Membro do Conselho Municipal de Saúde: Joacirema Guimarães Moura
+3) Membro do Conselho Municipal de Assistência Social: Francyane Miranda
+4) Membro do Conselho Municipal de Educação: Antônia Socorro Aleixo
+Barbosa;
+5) Representante das Cooperativas de Catadores de Marituba: Otoniel Trindade
+Moraes
+6) Representante de ONG: Igreja Plenitude da Benção de Deus: Carlos Alberto
+de Castro
+
+Equipe Técnica de elaboração do PGIRS de Marituba
+Foi nomeado pelo Prefeito Municipal de Marituba, através da Portaria nº
+244/2018 de 19 de abril de 2018, o Prof. Doutor Mário Russo, Coordenador da
+equipe técnica para o desenvolvimento do presente plano e para apoio aos
+coletivos constituídos (Comitê Diretor e Grupo de Sustentação), cuja equipe tem
+a seguinte composição:
+
+2
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Posição
+
+Formação
+
+Coordenador
+
+Mário A T Russo, Engº Civil, Mestre em Hidráulica, Doutor em
+Engenharia Civil, diploma de Gestor Internacional de Resíduos
+pela
+
+International
+
+Solid
+
+Waste
+
+Association
+
+(ISWA).
+
+Especialista em processos de tratamento de resíduos sólidos
+e
+
+aproveitamento
+
+energético
+
+dos
+
+resíduos.
+
+Título
+
+de
+
+Especialista em Engenharia Sanitária. Registro no CREA-SP
+sob o nº 060098560, Brasil.
+Especialista em
+
+Ismaily Bastos Delfino, Licenciado em Oceanografia, Mestre
+
+Gestão Ambiental
+
+em Geologia e Geoquímica, Especialista em Gestão Ambiental
+
+Municipal
+
+Municipal, Pós-graduado em Geologia e Geoquímica
+
+Especialista em
+
+Antónia Socorro Barbosa, professora do ensino secundário
+
+Engenharia
+
+municipal,
+
+Agronómica e
+
+compostagem.
+
+engenheira
+
+agrônoma,
+
+especialista
+
+em
+
+compostagem
+Especialista em
+geoprocessamento
+
+Gabrielle Almeida, Licenciada em Engenharia Ambiental.
+Ney Soares, licenciado em Engenharia Ambiental
+
+Coleta seletiva
+
+Frank Galvão, Gestor Ambiental
+
+Divulgação e
+
+Naza
+
+organização social
+
+ambiental e Paulo Ferreira de Lima, designer gráfico.
+
+Área Jurídica
+
+Thaiara Géssica Bastos Monteiro, Advogada e Gestora
+
+Cleiss
+
+Nascimento,
+
+coordenadora
+
+de
+
+educação
+
+Ambiental.
+Comunicação
+
+Nilda S. Brígida, SEPLAN
+
+Educação
+
+Wagner Pinho, Professor do ensino público municipal
+
+Ambiental nas
+escolas
+
+3
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+PREÂMBULO
+
+O presente volume constitui a compilação dos 3 volumes do Plano de Gestão
+Integrada de Resíduos Sólidos (PGIRS) do município de Marituba (diagnóstico
+da situação; prognóstico; e metas, projetos, programas e ações), elaborado por
+iniciativa e impulso do Prefeito Municipal de Marituba, Prefeito Engº Mário
+Henrique de Lima Bíscaro Filho, que incumbiu a Secretaria Municipal de Meio
+Ambiente e o seu Secretário, Dr. Ismaily Bastos Delfino, desenvolver com
+recursos internos, em consonância com a Lei Nacional nº 12.305/2010, a qual
+institui a Política Nacional de Resíduos Sólidos (PNRS).
+Esta tarefa foi realizada com recursos internos da Secretaria Municipal de Meio
+Ambiente, com o apoio efetivo do seu Secretário e da equipe de técnicos da
+Secretaria, coordenados pelo Prof. Doutor Mário Russo, consultor, especialista
+internacional na área do Saneamento Ambiental e Resíduos Sólidos. O PGIRS
+foi elaborado na mesma altura em que a SEPLAN conduzia a elaboração do
+Plano Municipal de Saneamento Básico, contratado à empresa EnVex
+Consultoria, tendo a SEMMA sido convocada a dar apoio, sobretudo na
+disponibilização de dados relativos ao setor dos resíduos sólidos e do município.
+O coordenador técnico do presente PGIRS também é membro de comitê do
+PMSB, sendo responsável pela ligação dos 2 planos e tendo realizado a revisão
+de todos os produtos apresentados pela empresa EnVex, para aprovação.
+A lei magna dos resíduos sólidos se refere a todo tipo de resíduo e estabelece
+normas e diretrizes nacionais para a organização e gestão pública do setor,
+observando uma hierarquia na gestão de resíduos que impõe a seleção de
+tecnologias, em que o aterro sanitário deve servir para a disposição final de
+rejeitos provenientes de outras operações tendentes à valorização dos resíduos,
+com ênfase na reciclagem.
+O presente volume é a compilação do trabalho realizado e apresentado em 3
+volumes, e constitui o documento técnico estruturado do Plano Municipal de
+Gestão Integrada de Resíduos Sólidos (PGIRS) do município de Marituba
+elaborado de acordo com o estabelecido legalmente, na esteira da aprovação da
+Lei 12.305/2010, dando a devida resposta ao ali estabelecido.
+4
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Na elaboração do PGIRS do município, seguiram-se as diretrizes sugeridas na
+legislação nacional aprovada, com a mobilização da sociedade e sua
+participação, após a realização de um diagnóstico da situação atual em termos
+de gestão de resíduos sólidos e saneamento básico, tendo-se debatido soluções
+isoladas e consorciadas ao nível metropolitano.
+O Plano Municipal de Gestão de Resíduos Sólidos constitui um pilar estratégico
+operacional e de gestão para o município de Marituba, neste domínio.
+Ao mesmo tempo que se foi construindo passo a passo o presente Plano, com
+reuniões, discussões, levantamentos de campo, elaboração de inquéritos à
+população, sensibilização das populações, caracterização gravimétrica dos
+resíduos que durou 2 meses e a representatividade estatística do município
+como nunca foi realizado, envolvendo a caracterização dos resíduos gerados por
+uma população de cerca de 49 mil habitantes. Durante a elaboração do plano,
+diversas ações foram adoptadas em simultâneo, sendo implementas medidas do
+próprio plano, que é uma inovação na elaboração de Planos deste tipo, graças
+à vontade política dos gestores políticos do município.
+Os capítulos são apresentados na mesma sequência do desenvolvimento do
+PGIRS, primeiro o diagnóstico, seguido do prognóstico, estudo da população e
+projeções da geração de resíduos, terminando com as metas do Plano, os
+projetos, programas e ações para materializar o mesmo, com estimativas de
+custos ao longo dos 20 anos do Plano. Seque-se a apresentação dos indicadores
+de qualidade dos serviços e respetivos índices e variáveis tendo em vista o
+monitoramento do PGIRS.
+Marituba, dezembro de 2019
+O Coordenador Técnico do PGIRS de Marituba
+
+Mário Russo, PhD
+(Prof. Coordenador)
+
+5
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+INTRODUÇÃO
+O Plano de Gestão Integrada de Resíduos Sólidos - PGIRS - é um dos mais importantes
+instrumentos da Política Nacional de Resíduos Sólidos, definida pela lei 12.305/2010,
+que o município tem o dever de elaborar, inclusive para poder ter acesso a fundos e
+financiamentos de entidades do sistema bancário federal.
+É no Plano que são estabelecidos os deveres a que as partes interessadas estarão
+vinculados, envolvendo produtores de resíduos seja qual for a sua natureza.
+Nesse sentido, o presente PGIRS de Marituba define objetivos específicos e metas a
+serem alcançadas, bem como os meios necessários para se alcançarem tais metas
+calendarizadas no tempo, através de medidas e ações imediatas, de curto prazo, médio
+prazo e longo prazo, uma vez que o plano tem uma vigência de 20 anos, com revisão
+obrigatória a cada 4 anos, onde se faz o balanço da realização das metas definidas e
+se reformula em função do grau de atingimento.
+O PGIRS de Marituba, trabalho integralmente realizado com recursos internos da
+SEMMA, sob coordenação do Prof. Doutor Mário Russo, nomeado para o efeito pelo
+Prefeito Municipal, foi realizado temporalmente com o Plano Municipal de Saneamento
+Básico, contratado a empresa de consultoria de Curitiba, atende também às exigências
+da Lei Federal de Saneamento Básico, no tocante à prestação dos serviços públicos de
+manejo de resíduos sólidos e limpeza urbana. Observa princípios, diretrizes e
+exigências da Política Nacional sobre Mudanças do Clima, principalmente as relativas
+à redução das emissões de gases de efeito estufa com origem antrópica.
+O Plano segue a hierarquia de gestão de resíduos: não geração, redução, reutilização,
+reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente
+adequada apenas dos rejeitos, eixo central da Política Nacional de Resíduos Sólidos.
+No PGIRS da Cidade de Marituba dá-se realce à coleta seletiva de materiais com vista
+à reciclagem (resíduos secos) e de orgânicos biodegradáveis, com vista à
+compostagem, reduzindo ao máximo a deposição de resíduos em aterro. Para tanto dáse ênfase à educação ambiental para a segregação de resíduos na fonte e a ampla
+participação popular.
+É dada a atenção devida e específica aos resíduos do setor da saúde e os resíduos do
+setor da construção civil, resíduos de construção e demolição (RCD), para o seu correto
+manejo, nomeadamente a perfeita segregação na fonte dos resíduos dos serviços de
+saúde, de modo a separar os resíduos infectantes, obrigatoriamente de tratamento
+térmico. Foi elaborado um Programa de coleta seletiva, iniciado no Bairro Viver Melhor
+6
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+e condomínios Soure, Algodoal e Salinas, cuja população é superior a 20 mil habitantes,
+com envolvimento de uma associação de catadores de materiais recicláveis que
+procedem à coleta porta-a-porta.
+Foi feito um levantamento de campo das empresas comerciais e industriais do
+município, georreferenciada a localização de cada uma delas, bem como demais dados
+de titularidade, tendo em vista a aplicação do Programa de Logística reversa, sendo a
+do caroço de açaí com 120 batedores registrados.
+A elaboração deste plano contou com participação popular, mobilizada também para
+participar na elaboração do PMSB, por ocasião da III Semana Municipal do Ambiente e
+II Fórum de Sustentabilidade e através dos meios de difusão usuais, como carro de som,
+site da Prefeitura, grupos de whatsapp, etc., tendo-se realizado diversas oficinas e
+reuniões que trouxeram subsídios e recomendações para a elaboração de metas do
+plano.
+
+7
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+SUMÁRIO EXECUTIVO
+O PGIRS de Marituba é um instrumento de sumária importância para a
+prossecução dos objetivos emanados pela PNRS 2010, que instituiu a política
+nacional de resíduos sólidos.
+Enquadramento
+
+A gestão de resíduos sólidos é hoje um tema de grande atualidade e faz parte
+da agenda política de todos os países dada a emergência da sua resolução. Com
+efeito, os resíduos são responsáveis por cerca de 13% das emissões de gases
+com efeito de estufa, mas por outro lado, o sector dos resíduos é potencialmente
+responsável por sequestrar até 20% desses mesmos gases com a
+implementação de soluções ambientalmente adequadas.
+Ao nível municipal, Marituba pretende contribuir para o combate às alterações
+climáticas adotando um programa de gestão dos resíduos amigo do ambiente.
+A produção per capita média de resíduos domiciliares em Marituba é de cerca
+de 0,46 kg/habitante por dia, gerando cerca de 60 toneladas de Resíduos
+Domiciliares (RDO) por dia, correspondendo a cerca de 19.800 toneladas por
+ano. Se considerarmos a totalidade dos resíduos gerados, que inclui os RDO, os
+entulhos de pequenas construções, podas e resíduos de limpezas públicas, o
+total diário é de cerca 75 toneladas, correspondente a 24.750 toneladas por ano.
+A coleta seletiva ainda é insipiente no município, sendo realizada por 2
+cooperativas de catadores de materiais recicláveis, sendo uma delas ainda
+associação, em formação, pelo que a maioria dos resíduos coletados são
+dispostos no aterro sanitário metropolitano de Belém, localizado no município de
+Marituba e explorado por uma empresa privada, a Guamá Tratamento de
+Resíduos, que também recebe os resíduos de Belém e Ananindeua.
+Encontra-se em fase de implementação o programa de Coleta Seletiva do município,
+com base no PGIRS em formulação.
+
+2.1
+
+Metodologia adotada
+Adoptou-se a metodologia de pesquisa de dados secundários e dados primários
+
+referentes ao município e ao setor dos resíduos em particular, tendo em conta que o
+
+8
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+diagnóstico é de suma importância para se poder projetar soluções à problemática que
+a crescente geração de resíduos causa em qualquer comunidade.
+No caso de Marituba não é diferente. O diagnóstico é a fotografia instantânea do
+setor dos resíduos no município, desde a coleta ao sistema de acondicionamento. Dos
+quantitativos gerados, à característica física desses resíduos. Desde as fontes de
+geração às quantidades geradas e respectivo tratamento. Meios disponíveis para a
+gestão e custos. Receitas e sustentabilidade financeira do setor, passando pelas
+consequências ambientais e sociais (saúde pública) que os resíduos representam nesse
+município. Os dados passam a ser o combustível necessário para projetar as soluções
+para a gestão sustentável dos resíduos nos próximos 20 anos.
+Em primeiro lugar deve identificar-se quais são os dados necessários à
+elaboração de um bom diagnóstico para o setor dos resíduos sólidos. Depois identificar
+quem dispõe esses dados, ou seja, quais as fontes detentoras desses dados e/ou como
+se podem obter. Há fontes oficiais detentoras de dados imprescindíveis, como o IBGE,
+ministérios do Governo Federal, organismos federais, governo do Estado, Prefeitura,
+Fundações, Universidades, entre outros. São os dados secundários disponíveis,
+muitos deles coletados com periodicidades conhecidas, outros frutos de estudos
+continuados ou pontuais. Estes dados secundários datados da sua realização ou
+obtenção, que podem ou não estar atualizados.
+Depois, identificar que dados têm de ser coletados no momento e no local, a sua
+metodologia de obtenção e programação para a sua coleta, que são os dados
+primários, indisponíveis ao estabelecimento de uma solução, designadamente dados
+mais específicos coletados in loco, como sendo a característica de resíduos, do solo, de
+águas subterrâneas para determinar a extensão do grau de poluição devido a uma
+descarga sobre o solo, qualidade do ar ou o ruído, entre outros.
+
+2.2
+
+Metodologia do levantamento de dados secundários
+A equipe responsável pela elaboração do PGIRS de Marituba procedeu a
+
+pesquisas dos dados secundários para o diagnóstico junto de órgãos oficiais das
+diversas esferas do poder e organizações da sociedade civil, nacionais e internacionais
+para a obtenção de informação sobre:
+•
+
+Perfil socioeconômico e demográfico;
+
+•
+
+Aspectos climáticos;
+
+•
+
+Relevo;
+
+•
+
+Solo;
+
+•
+
+Hidrologia;
+9
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+•
+
+Vegetação.
+
+O principal órgão oficial que congrega muita informação fundamental sobre a
+população, habitação, perfil socioeconômico de população, entre outros, é o IBGE; para
+o clima os dados são do INMET; dados da geologia, hidrografia, vegetação etc. foram
+pesquisados nos arquivos da CPRM, relativamente aos recursos hídricos os dados
+foram obtidos de pesquisas em arquivos da Agência Nacional da Água (ANA), dispõe
+de dados e de estudos sobre os recursos hídricos, o abastecimento de água, tratamento
+de esgotos. O Atlas de Desenvolvimento Humano do PNUD edita estudos sobre a
+qualidade de vida das populações coincidindo com os censos à população do IBGE. A
+SEMAS do Governo do Estado do Pará tem informação diversa. A FAPESPA congrega
+um conjunto de informação que foi consultada e sistematizada. Também se lançou mão
+à informação contida no Plano Municipal de Saneamento Básico – PMSB, que foi
+elaborado na mesma janela temporal que o presente PGIRS, bem como o Plano Diretor
+Municipal, beneficiando dos mesmos dados secundários.
+
+2.3
+
+Metodologia do levantamento de dados Primários
+Os dados primários referem-se a levantamentos locais de dados efetuados nas
+
+visitas técnicas e reuniões nas diversas Secretarias Municipais de Marituba, que incluiu
+reuniões e entrevistas com os titulares de secretarias municipais da Prefeitura e com
+técnicos da Prefeitura, complementadas com o acompanhamento da coleta regular,
+visitas aos pontos de descarte irregular, às ações de remediação sistemática dessas
+cabeças de lixo, visitas aos bairros, reuniões com síndicos dos condomínios, visitas
+técnicas ao aterro sanitário de Marituba, levantamentos de campo e georeferenciação
+de pontos de entrega voluntária de resíduos nos bairros, georeferenciação dos passivos
+ambientais do município, reunião com os responsáveis pela coleta, pela organização da
+coleta e pela gestão, nas oficinas da Prefeitura Municipal. Também foram realizadas
+visitas à cidade para verificar o modo de deposição dos resíduos nas ruas, seu
+acondicionamento e modalidade de coleta e respetivos equipamentos.
+
+2.4
+
+Metodologia de caracterização de resíduos sólidos
+A caracterização dos resíduos foi desenvolvida em 2 meses de trabalho,
+
+envolvendo cerca de 20 pessoas, com obtenção de amostras diárias, realizadas
+segundo a metodologia de obtenção de amostras, recolhendo uma determinada
+quantidade de sacos de lixo descartados pelos moradores relativo ao circuito em
+
+10
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+amostragem e levados a um galpão para a segregação por componentes, pesando-os
+e determinando o correspondente volume.
+Em cada dia realizou-se a preparação de uma amostra para determinação
+laboratorial do teor de umidade da fração orgânica dos resíduos. A amostra é obtida a
+partir da separação de 20 sacos de lixo recolhidos na rota de coleta, retirados dos sacos
+de plásticos que os contêm, separada a fração orgânica e tentar uma homogeneização.
+Depois forma-se uma torta para se proceder a sucessivas homogeneizações com
+descarte de 50% dos resíduos orgânicos até obter de 2 a 5 kg de material que se leva
+para trituração em processador de alimentos de modo a uniformizar da melhor forma a
+amostra, que é utilizada em laboratório para determinação do teor de umidade, pelo
+método rápido do microondas.
+
+Obtenção da amostra para a gravimetria
+Para evitar a destruição dos materiais a serem caracterizados como acontece
+pelo método do quarteamento, foi utilizada a metodologia de obtenção da amostra
+percorrendo a rota da coleta e removendo uma percentagem dos sacos de lixo
+descartados pelos moradores para a viatura da caracterização.
+Metodologia: a viatura de coleta com caixa aberta percorre o mesmo circuito da
+viatura “papa-lixo”, para coletar em cada ponto de coleta uma fração dos resíduos ali
+dispostos, em consonância com as instruções do coordenador geral da companha. Para
+a realização das atividades da campanha foram necessários os seguintes meios:
+•
+
+Equipes de coleta (motorista, o coordenador da campanha e 2 garis):
+
+•
+
+Preparação das amostras para caracterização física no galpão:
+
+•
+
+Local pavimentado e amplo de modo a permitir a fácil segregação dos resíduos
+recolhidos (galpão do município);
+
+•
+
+Uma mesa de rede 2x2cm para segregar resíduos de menor dimensão;
+
+•
+
+2 Pás;
+
+•
+
+2 Forquilhas;
+
+•
+
+EPI para todos os intervenientes.
+
+•
+
+Execução da caracterização física:
+
+•
+
+3 bombonas de 200 litros para determinação da massa específica;
+
+•
+
+Crivo de 2 m x 1 m, em rede metálica, com malha de 20 mm x 20 mm para a
+triagem primária;
+
+•
+
+Local e mesas de apoio para a triagem secundária (galpão);
+
+•
+
+Lona grossa de 5 m x 5 m;
+
+•
+
+3 Recipientes de 60 litros para colocação dos vários componentes;
+
+11
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+•
+
+Balança para pesagens entre 5 e 150 kg, com precisão de 50 g;
+
+•
+
+Íman;
+
+•
+
+Material de proteção individual (uniforme, máscaras, luvas, botas de borracha)
+
+•
+
+Meios humanos:
+
+•
+
+1 coordenador geral das campanhas de caracterização de campo e de preparação
+e acompanhamento das tarefas.
+
+•
+
+1 técnico para a balança, para assegurar o controle das pesagens e o registro dos
+resultados;
+
+•
+
+ajudantes e um supervisor de campo para a segregação dos resíduos por
+componente;
+
+•
+
+Acondicionamento de amostras para determinações laboratoriais:
+
+•
+
+Sacos de plástico resistentes e etiquetas identificadoras;
+
+•
+
+Caixa térmica.
+
+O número de amostras necessárias para que a análise seja válida é proporcional
+ao universo da pesquisa. Dessa forma, recomendou-se a coleta de 300 a 350
+sacos de lixo.
+A elaboração do presente trabalho decorreu em simultâneo com o
+desenvolvimento do Plano Municipal de Saneamento Básico, contratado à
+empresa consultora de engenharia EnVex, de Curitiba, pelo que muitos dos
+dados e informação de base é comum aos dois planos, sobretudo os capítulos
+de caracterização socioeconômica do município de Marituba, dado o uso de
+fontes oficiais serem as mesmas.
+Situação de Referência
+A principal carência do município no setor dos resíduos sólidos é de recursos
+materiais e humanos para se proceder à coleta regular em todas as ruas do
+município com a frequência desejada, bem como de meios de contentorização
+dos resíduos, que permita a cidade manter-se mais limpa.
+A coleta seletiva no município ainda é insipiente. No entanto, conjuntamente com
+a elaboração do PGIRS do município, tem sido dinamizado a implementação de
+ações em simultâneo com a elaboração do Plano, com iniciativas de coleta
+seletiva relevantes, assim como com a caracterização gravimétrica com validade
+estatística, englobando diversos bairros, com coleta de dados em momentos
+distintos do mês.
+
+12
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Os resíduos do setor da saúde são geridos sob responsabilidade da Secretaria
+Municipal da Saúde, que tem contrato de coleta com empresa especializada que
+recolhe os resíduos e os encaminha para tratamento na cidade de Ananindeua.
+Os resíduos de podas, restos de jardins, resíduos verdes e limpezas de ruas,
+arruamentos e logradouros, são coletados pela Prefeitura e dispostos em local
+inapropriado, no lixão Risca Faca, que é gerida pela Prefeitura, que dispõe de
+máquina para espalhamento e cobertura com terras.
+Os resíduos de construção e demolição são dispostos pelos seus detentores nas
+ruas ou em caçambas, sendo a sua coleta feita pela Prefeitura e dispostos no
+lixão Risca Faca, que se constitui um dos principais passivos ambientais do
+município, a ser objeto de encerramento.
+Não está ainda consolidado o sistema de informação municipais neste domínio,
+o que dificulta ter conhecimento de RU gerados, nem tão pouco são
+contabilizados os custos que o atual serviço prestado aos munícipes consome
+ao erário público.
+Sob o ponto de vista da recuperação de custos com este serviço, o município
+não cobra aos seus munícipes, comerciantes ou industriais pela gestão dos
+resíduos produzidos, arcando com a totalidade dos custos, que hoje se cifram
+em torno de R$ 3.120.000,00 por ano, contabilizando apenas a coleta dos
+resíduos.
+O financiamento do sector é assegurado pelo OPMM, através de dotações
+específicas.
+
+2.5
+
+Linhas de orientação estratégica no Plano
+
+O Plano seguiu as linhas mestras definidas pela PNRS. Com efeito, o grande
+objetivo e importância, é a implementação de um programa de coleta seletiva no
+município com vista à reciclagem dos materiais separados na origem ou em
+unidades de triagem, com a participação e inclusão dos catadores. Nesse
+sentido preconiza-se a gradativa implementação de medidas e ações tendentes
+ao incremento da coleta seletiva de modo a potenciar a reciclagem multimaterial
+no município.
+13
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+No que toca ao tratamento, o aterro sanitário é a estrutura sanitária que responde
+pela maior parte dos RU produzidos.
+A compostagem de material orgânico biodegradável será realizada a partir de
+coletas em feiras, mercados, supermercados, restaurantes, hotéis, cantinas de
+escolas e fábricas e outros grandes produtores, desviando-se assim uma parcela
+de resíduos orgânicos biodegradáveis do aterro sanitário.
+2.6
+
+Metas e Ações Previstas
+
+Foram previstas ações e metas estabelecidas através dos seguintes eixos:
+•
+
+Formação e sensibilização para a Educação Ambiental;
+
+•
+
+Coleta indiferenciada;
+
+•
+
+Coleta seletiva e reciclagem;
+
+•
+
+Acondicionamento de resíduos;
+
+•
+
+Coleta de Resíduos de Construção e Demolição e correspondente
+tratamento adequado;
+
+•
+
+Coleta dos resíduos dos Serviços de Saúde e seu encaminhamento para
+unidade licenciada de tratamento;
+
+•
+
+Logística Reversa;
+
+•
+
+Tratamento e Valorização de RU;
+
+•
+
+Eliminação dos passivos ambientais causados por resíduos sólidos.
+Programas metas e ações
+
+Para a consecução dos objetivos do PGIRS, estão previstas metas, programas e ações:
+1. Coleta Seletiva de resíduos recicláveis (Secos).
+A ser implantada em todo o território do município até 2021. Iniciando-se no
+Bairro Viver Melhor, incluindo os condomínios fechados, Bairro Centro,
+Pedreirinha e Nova Marituba. buscando adesão crescente da população através
+das campanhas de sensibilização e educação ambiental.
+2. Coleta Seletiva de Resíduos Orgânicos Biodegradáveis (restos de comidas,
+alimentos e preparo de refeições, verdes dos jardins).
+14
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Será implantada em todo o município até 2024, iniciando-se nos bairros
+integrantes do projeto coleta seletiva do projeto FDD e em feiras e mercados
+municipais, com vista à compostagem.
+3. Programa Horta e Compostagem na Escola
+Para uma gestão ambientalmente adequado dos resíduos sólidos nas Unidades
+Educacionais da Rede Municipal de Ensino. Serão implantados nos
+estabelecimentos de ensino municipal onde há espaço suficiente, hortas e pátios
+de compostagem dos resíduos orgânicos da cantina e da comunidade do
+entorno da escola que encaminhe resíduos biodegradáveis coletados
+seletivamente.
+4. Programa de Coletas Seletivas Solidárias nos Edifícios Públicos
+A ser estruturado em todos os edifícios municipais e públicos em geral, para doação
+a cooperativas de catadores de materiais recicláveis do município.
+5. Coleta de RCD e resíduos Volumosos (monstros)
+Implantação de ecocentros para a deposição de resíduos de construção e
+demolição de pequenos geradores e Programa de deposição para grandes
+geradores, mediante contratação para a sua remoção e transporte a local
+adequado.
+6. Limpeza Urbana
+Incremento da limpeza urbana de ruas, praças e logradouros, limpeza de valas
+de drenagem, capina e roçagem.
+7. Coleta Seletiva de RSS
+A ser adotada em todas as unidades de saúde do município de modo a diminuir
+os resíduos infectantes a serem encaminhados para tratamento diferenciado em
+unidade externa e diminuir assim os custos de tratamento dos RSS.
+
+2.7
+
+Modelo Técnico
+
+O presente PGIRS propõe que Marituba assente o seu modelo técnico a nível municipal
+no incremento da coleta seletiva, na contentorização em todo o município, reforço da
+ação de coleta indiferenciada estendida a todo o território municipal, na reciclagem de
+
+15
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+materiais provenientes da coleta seletiva e na valorização orgânica dos resíduos
+biodegradáveis através da compostagem coletiva e caseira.
+Sob o ponto de vista de escala econômica, o Modelo Técnico proposto para Marituba
+passa pelo consórcio no âmbito da Região Metropolitana de Belém.
+
+2.8
+
+Modelo de Financiamento
+
+Pelo novo marco legal a cobrança tem que ser feita pelo lançamento de taxa, tarifa
+ou preço público. É nesta direção (Lei 11.445/2010, Art. 29) que o PGIRS deve
+apontar caminho.
+O financiamento do sector dos resíduos tem sido assegurado por transferências de
+dotações específicas do Orçamento Municipal de Marituba. No entanto, preconiza-se o
+princípio poluidor – pagador com a implementação de um sistema de tarifas assente em
+consumos de água ou de eletricidade com uma trajetória tarifária que permita a
+recuperação de custos e garantia de serviços públicos de qualidade.
+
+Trajetória da tarifa de equilíbrio
+A Constituição Federal (CF), atribui aos municípios a competência para legislar sobre
+assuntos de interesse local - entre os quais a gestão dos resíduos sólidos - e para
+organizar e prestar, diretamente ou sob regime de concessão ou permissão, os
+respectivos serviços públicos (artigo 30 da CF).
+Cabe ao município instituir e arrecadar tributos de sua competência. A possibilidade
+de cobrança pela prestação do serviço público de gestão dos resíduos sólidos está
+contemplada na CF.
+A Política Nacional de Saneamento Básico e a Política Nacional de Resíduos
+Sólidos permitem a instituição de taxa ou a cobrança de tarifa pela prestação de
+serviço da gestão de resíduos sólidos. Os artigos 29 e seguintes da Política Nacional de
+Saneamento estabelecem os critérios para a sua cobrança.
+A Prefeitura Municipal deve ter uma gestão que permita equilibrar as receitas com os
+custos e investimentos para gestão de resíduos sólidos, recuperação de passivos
+ambientais e inovações tecnológicas do modelo de prestação de serviço definido para
+atendimento à PNRS.
+
+16
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+O estabelecimento de uma tarifa deve ser progressivo para que a população se
+habitue mais facilmente à mudança de paradigma. Durante este processo os serviços
+devem estar implementados para que os mesmos correspondam às expectativas da
+população de maneira a que esta se sinta comprometida com o seu pagamento como
+uma mais-valia para todos (Figura 2.1).
+
+Figura 2.1 – Exemplo de trajetória tarifária a ser adotada para que haja sustentabilidade social e
+econômica (Russo, 2012)
+
+As taxas ou tarifas empregadas para custear a gestão dos resíduos sólidos em
+conformidade com o estatuído na PNRS devem considerar diversos fatores para
+garantia de sustentabilidade social, tais como:
+•
+
+Nível de rendimentos das famílias na área atendida;
+
+•
+
+Características do tecido económico (comércio e indústria);
+
+•
+
+Características dos lotes urbanos e das edificações (tipologia, área de
+construção, localização, vetustez);
+
+•
+
+Histórico de geração e a característica dos resíduos de cada bairro do
+município.
+
+Resumo:
+1) Podem ser instituídas taxas em razão dos serviços públicos de coleta,
+remoção, tratamento ou destinação de resíduos sólidos provenientes de
+imóveis.
+2) Pode-se adotar no cálculo do valor de taxa um ou mais elementos da base de
+cálculo de determinado imposto, como o IPTU, desde que não se vislumbre
+integral identidade entre uma base e outra.
+
+17
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+3) Pode-se cobrar a taxa de remoção de resíduos sólidos pelo metro quadrado ou
+de acordo com a quantidade de resíduos produzidos no imóvel, tendo em vista
+sua localização e a destinação do material recolhido.
+4) É vedada a fixação de taxa que tenha por escopo remunerar o Poder Público
+por serviço genérico e indivisível disponibilizado aos contribuintes.
+
+Pelo novo marco legal a cobrança tem que ser feita pelo lançamento de taxa, tarifa
+ou preço público. É nesta direção (Lei 11.445/2010, Art.º. 29) que o PGIRS deve
+apontar solução.
+Após estudo e discussão técnica, a proposta a apresentar para debate em audiência
+pública é a da adoção de uma tarifa pelo serviço prestado que conduza à
+recuperação de custos por parte da Prefeitura, num horizonte de 5 anos, a ser
+cobrado através da conta de eletricidade, em função do consumo de energia pelos
+agregados familiares e pelos estabelecimentos comerciais e industriais sedeados
+em Marituba.
+
+18
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Objetivos e Diretrizes do PGIRS
+É objetivo do Plano de Gestão Integrada de Resíduos Sólidos de Marituba ser um
+verdadeiro instrumento de apoio à gestão municipal, estruturando a sua política para os
+resíduos sólidos e constituir-se, no quadro da Região Metropolitano de Belém e do
+Estado do Pará, uma referência na valorização de resíduos e na limpeza urbana.
+
+3.1
+
+Objetivos da Política Nacional de Resíduos Sólidos
+
+A PNRS (Lei 12.305/2010), estabelece princípios, objetivos, instrumentos –
+inclusive instrumentos econômicos aplicáveis - e diretrizes para a gestão
+integrada e gerenciamento dos resíduos sólidos, indicando as responsabilidades
+dos geradores, do poder público, e dos consumidores.
+Define ainda, princípios importantes como o da prevenção e precaução, do
+poluidor-pagador, da ecoeficiência, da responsabilidade compartilhada pelo ciclo
+de vida dos produtos, do reconhecimento do resíduo como bem econômico e de
+valor social, do direito à informação e ao controle social, entre outros (BRASIL,
+2010b).
+A PNRS, regulamentada pelo Decreto nº 7.404 de 2010, criou como um dos seus
+principais instrumentos o Plano Nacional de Resíduos Sólidos e as orientações
+para a sua elaboração, a nível estadual e municipal.
+De modo resumido, os objetivos da PNRS são os seguintes:
+•
+
+Proteção da saúde pública e da qualidade ambiental;
+
+•
+
+Não geração, redução, reutilização, reciclagem e tratamento dos
+resíduos sólidos, bem como disposição final ambientalmente adequada
+dos rejeitos;
+
+•
+
+Estímulo à adoção de padrões sustentáveis de produção e consumo de
+bens e serviços;
+
+•
+
+Desenvolvimento e adoção de tecnologias limpas como forma de
+minimizar impactos ambientais;
+
+•
+
+Redução do volume e da periculosidade dos resíduos perigosos;
+
+•
+
+Incentivo à indústria da reciclagem, tendo em vista fomentar o uso de
+matérias-primas e insumos derivados de materiais recicláveis e
+reciclados;
+
+•
+
+Gestão integrada de resíduos sólidos;
+19
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+•
+
+Articulação entre as diferentes esferas do poder público e destas com o
+setor empresarial com vistas à cooperação técnica e financeira para a
+gestão integrada de resíduos sólidos;
+
+•
+
+Capacitação técnica continuada na área de resíduos sólidos.
+
+Por ser de competência dos Municípios a gestão local dos resíduos sólidos, a
+PNRS determinou que os Municípios devem estabelecer seus próprios planos
+de gestão de resíduos sólidos, que é denominado PMGIRS - Plano Municipal de
+Gestão Integrada de Resíduos Sólidos, nos quais será contemplado o conteúdo
+mínimo descrito na PNRS, a seguir enunciados.
+3.2
+
+Principais instrumentos legais aplicáveis ao setor dos resíduos
+
+A Lei Federal de Saneamento Básico (Lei nº 11.445/2007), estabelece as
+diretrizes nacionais para o saneamento básico e para a política federal de
+saneamento básico, sendo objeto da lei o conjunto de serviços de abastecimento
+público de água potável; coleta, tratamento e disposição final adequada dos
+esgotos sanitários; drenagem e manejo das águas pluviais urbanas, a limpeza
+urbana e o manejo dos resíduos sólidos.
+A Lei institui como diretrizes para a prestação dos serviços públicos de limpeza
+urbana e manejo de resíduos sólidos:
+•
+
+O planejamento, a regulação e fiscalização;
+
+•
+
+A prestação de serviços com regras;
+
+•
+
+A exigência de contratos precedidos de estudo de viabilidade técnica e
+financeira;
+
+•
+
+Definição de regulamento por lei, definição de entidade de regulação, e
+controle social assegurado.
+
+Inclui ainda como princípios a universalidade e integralidade na prestação dos
+serviços, além da interação com outras áreas como recursos hídricos, saúde,
+meio ambiente e desenvolvimento urbano.
+Define ainda que a sustentabilidade econômica e financeira dos serviços de
+limpeza urbana e manejo de resíduos sólidos urbanos seja assegurada, sempre
+que possível, mediante remuneração pela cobrança destes serviços, por meio
+
+20
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+de taxas ou tarifas e outros preços públicos, em conformidade com o regime de
+prestação do serviço ou de suas atividades.
+Outro ponto importante é a inclusão de uma alteração na Lei nº 8.666/1993,
+permitindo a dispensa de licitação para a contratação e remuneração de
+associações ou cooperativas de catadores de materiais recicláveis.
+O Decreto 7.390/2010, regulamenta a política estabelecida no Plano Nacional
+sobre Mudanças do Clima (PNMC), definiu metas para a recuperação do metano
+em instalações de tratamento de resíduos urbanos e para ampliação da
+reciclagem de resíduos sólidos para 20% até o ano de 2015.
+A Lei nº 11.107/2005 dos Consórcios Públicos, estabelece as normas gerais de
+contratação de consórcios públicos, de acordo com o estabelecido no artº 241
+da Constituição Federal. Os consórcios públicos possibilitam a prestação
+regionalizada dos serviços públicos instituídos pela Lei Federal de Saneamento
+Básico, e é incentivada e priorizada pela PNRS.
+A elaboração dos Planos Municipais de Gestão Integrada de Resíduos Sólidos
+é condição necessária para os municípios terem acesso aos recursos da União,
+destinados à limpeza urbana e ao manejo de resíduos sólidos, conforme
+estabelecido no Decreto nº 7.404 de 2010, que regulamenta a PNRS.
+Regime Jurídico de Gestão de Resíduos
+O Brasil instituiu a sua política nacional de gestão de resíduos, doravante
+denominada de PNRS através da promulgação da Lei Nº 12.305/2010.
+Com efeito, com a aprovação da Lei nacional nº 12.305/2010, que institui a
+Política Nacional de Resíduos Sólidos, o país passou a ter um marco regulatório
+consolidado para a gestão de resíduos sólidos. A lei aplica-se a todo o tipo de
+resíduo produzido pelas atividades antropogênicas e estabelece normas e
+diretrizes nacionais para a organização e gestão pública do setor. Apresenta-se
+na Figura a seguir um esquema que resume a hierarquia de prioridades na
+gestão dos resíduos definidos na PNRS no Brasil.
+
+21
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 3.1 - Hierarquia de gestão dos resíduos segundo a PNRS
+
+A primeira mudança e relevante no que toca aos conceitos, consta no Capítulo
+II, em Definições, no Art. 3º, quando fica estabelecida a diferença entre o
+conceito de rejeitos e resíduos:
+XV - rejeitos: resíduos sólidos que, depois de esgotadas todas as possibilidades
+de tratamento e recuperação por processos tecnológicos disponíveis e
+economicamente viáveis, não apresentem outra possibilidade que não a
+disposição final ambientalmente adequada;
+XVI - resíduos sólidos: material, substância, objeto ou bem descartado resultante
+de atividades humanas em sociedade, a cuja destinação final se procede, se
+propõe proceder ou se está obrigado a proceder, nos estados sólidos ou
+semissólido, bem como gases contidos em recipientes e líquidos cujas
+particularidades tornem inviável o seu lançamento na rede pública de esgotos ou
+em corpos d’água, ou exijam para isso soluções técnica ou economicamente
+inviável em face da melhor tecnologia disponível;
+Elaboração dos Planos Municipais, Estaduais
+Outra determinação clara na PNRS é sobre a elaboração dos Planos de Gestão
+Integrada de Resíduos que devem ter alcance de 20 anos, revisados a cada 4
+anos e serem desenvolvidos pelas administrações municipais, no prazo máximo
+de 2 (dois) anos. É precisamente neste ponto que Marituba pretende dispor de
+um Plano para cumprimento do previsto legalmente.
+O conteúdo mínimo previsto contempla um diagnóstico, a proposição de
+cenários, metas para redução de rejeitos, programas, projetos e ações. A
+elaboração do plano é, por sua vez, condição para aceder aos recursos
+22
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+financeiros de fontes federais, destinadas ao gerenciamento de resíduos,
+inclusive empréstimos (CEF, BNDES, etc.).
+Fica ainda determinado que os municípios tenham de implantar um sistema de
+coleta seletiva e as cooperativas de catadores terão prioridade nessa atividade,
+sendo dispensada a licitação. No entanto, terão e estar legalizadas e cumprir o
+estabelecido pela lei.
+Para a elaboração, implementação, operacionalização e monitoramento de
+todas as etapas do plano de gerenciamento de resíduos sólidos, nelas incluído
+o controle da disposição final ambientalmente adequada dos rejeitos, terá de ser
+designado um responsável técnico devidamente habilitado.
+No Capítulo III, Das responsabilidades dos geradores e do poder público,
+Seção
+
+I,
+
+Disposições
+
+Gerais e
+
+na
+
+Seção
+
+II,
+
+Da
+
+Responsabilidade
+
+Compartilhada, fica disposto que a responsabilidade pelos resíduos passa a ser
+compartilhada, com obrigações que envolvem os cidadãos, as empresas, as
+Prefeituras e os Governos Estaduais e Federal.
+Art. 25. O poder público, o setor empresarial e a coletividade são responsáveis
+pela efetividade das ações voltadas para assegurar a observância da Política
+Nacional de Resíduos Sólidos e das diretrizes e demais determinações
+estabelecidas nesta Lei e em seu regulamento.
+Art. 26. O titular dos serviços públicos de limpeza urbana e de manejo de
+resíduos sólidos é responsável pela organização e prestação direta ou indireta
+desses serviços, observados o respectivo plano municipal de gestão integrada
+de resíduos sólidos, a Lei nº 11.445, de 2007, e as disposições desta Lei e seu
+regulamento.
+Art. 27. As pessoas físicas ou jurídicas referidas no art. 20 são responsáveis
+pela implementação e operacionalização integral do plano de gerenciamento de
+resíduos sólidos, aprovado pelo órgão competente na forma do art. 24.
+Para a efetivação concreta das responsabilidades previstas na Lei, é necessário
+haver também as ações de controle e fiscalização. É preciso que a política
+pública preveja a Educação, como instrumento contínuo de comunicação e
+informação, capacitando os diversos atores responsáveis. Assim como, os
+
+23
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+necessários dispositivos eficazes de fiscalização e controle, prevendo as devidas
+medidas de punição e multa, caso não sejam respeitadas as determinações.
+Logística Reversa
+A logística reversa é a forma como um resíduo do pós-venda e pós-consumo
+retorna ao mercado como valor/produto. Este instrumento de gestão integrada
+tem na Europa forte implantação (sistemas “dot green”) que a PNRS também
+releva, podendo ser estendido aos produtos comercializados em embalagens de
+plástico, metal, vidro, ou produtos e embalagens cuja logística seja viável técnica
+e economicamente.
+Na região e no município de Marituba, uma atividade que gera bastante resíduos
+é o comércio do açaí, devido ao número de comerciantes com extração da
+polpa, gerando o caroço, que tem diversas propriedades que podem ser
+aproveitadas, em vez do seu simples descarte como resíduos problemático em
+aterro.
+Para que esta gestão possa ser efetivada, os fabricantes, importadores,
+distribuidores e comerciantes, devem organizar-se em acordos setoriais, ficando
+obrigados a recolher e destinar para a reciclagem as embalagens de plástico,
+papel, papelão, de vidro e as metálicas usadas, entre outros produtos.
+As embalagens de agrotóxicos, pilhas e baterias, pneus, óleos lubrificantes e
+suas embalagens, todos os tipos de lâmpadas e de equipamentos elétricos e
+eletroeletrônicos descartados pelos consumidores, fazem parte da “logística
+reversa”, que deverá também retornar estes resíduos à sua cadeia de origem
+para reciclagem.
+No Capítulo III, Das responsabilidades dos geradores e do poder público, Seção
+II, Da Responsabilidade Compartilhada, fica disposto que a Lei obriga à logística
+reversa:
+Art. 33. São obrigados a estruturar e implementar sistemas de logística reversa,
+mediante retorno dos produtos após o uso pelo consumidor, de forma
+independente do serviço público de limpeza urbana e de manejo dos resíduos
+sólidos, os fabricantes, importadores, distribuidores e comerciantes de:
+
+24
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+I - agrotóxicos, seus resíduos e embalagens, assim como outros produtos cuja
+embalagem, após o uso, constitua resíduo perigoso, observadas as regras de
+gerenciamento de resíduos perigosos previstas em lei ou regulamento, em
+normas estabelecidas pelos órgãos do SISNAMA, do SNVS e do SUASA, ou em
+normas técnicas;
+II - pilhas e baterias;
+III - pneus;
+IV - óleos lubrificantes, seus resíduos e embalagens;
+V - lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista;
+VI - produtos eletroeletrônicos e seus componentes.
+§ 1º Na forma do disposto em regulamento ou em acordos setoriais e termos de
+compromisso firmados entre o poder público e o setor empresarial, os sistemas
+previstos no caput serão estendidos a produtos comercializados em embalagens
+plásticas, metálicas ou de vidro, e aos demais produtos e embalagens,
+considerando, prioritariamente, o grau e a extensão do impacto à saúde pública
+e ao meio ambiente dos resíduos gerados.
+Pode inferir-se que a obrigatoriedade da logística reversa exigirá, para seu
+efetivo sucesso, a estruturação de um complexo sistema de rotas de retoma dos
+produtos e de profundas readequações nas cadeias produtivas de vários
+segmentos industriais, que demandarão em curto e médio prazo: capacidade de
+articulação entre indústrias, distribuidores, comércio operadores logísticos,
+associação de catadores e prefeituras; Por outro lado, é crucial a existência de
+indústrias de reciclagem, a jusante da cadeia produtiva, com capacidade
+instalada para absorver o grande volume de entrada de matéria-prima,
+proveniente dos fluxos de retoma (logística reversa) estabelecidos. Também se
+torna importante haver disponibilidade de tecnologias adequadas para o
+processamento
+
+de
+
+materiais
+
+recicláveis,
+
+sobretudo
+
+os
+
+constantes da
+
+obrigatoriedade de logística reversa.
+Responsabilidade da coleta
+Em princípio, a responsabilidade sobre os serviços de manejo de resíduos
+sólidos é da administração municipal, porém somente no que concerne aos
+25
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+resíduos domiciliares e os provenientes da limpeza urbana. No que tange às
+atividades industriais, comerciais e de serviços privados, esta responsabilidade
+é do próprio gerador do resíduo, como estabelece o artigo 27 da lei.
+Os materiais recicláveis descartados deverão ser coletados e encaminhados
+pelos municípios, com o apoio das associações e/ou cooperativas de catadores,
+para o reaproveitamento. Para implementar esta ação, cada município deve
+estabelecer a coleta seletiva, implantar sistema de compostagem e dar destino
+ambientalmente adequado aos resíduos.
+Fica disposto sobre a responsabilidade da coleta no Capítulo III, Das
+responsabilidades dos geradores e do poder público, Seção II, Da
+Responsabilidade Compartilhada.
+Art. 27.
+§ 1º. A contratação de serviços de coleta, armazenamento, transporte,
+transbordo, tratamento ou destinação final de resíduos sólidos, ou de disposição
+final de rejeitos, não isenta as pessoas físicas ou jurídicas referidas no art. 20 da
+responsabilidade por danos que vierem a ser provocados pelo gerenciamento
+inadequado dos respectivos resíduos ou rejeitos.
+Quando à coleta dos resíduos de produtores industriais ou comerciais (inclusive
+os equiparados aos resíduos domiciliares) for executado pelo serviço municipal
+de limpeza urbana, deve observar-se o disposto na Lei 12.305/2010, que obriga
+que deve ser objeto de contrato com remuneração do serviço, conforme dispõe
+o § 7º do Art.33:
+
+§ 7º. Se o titular do serviço público de limpeza urbana e de manejo de resíduos
+sólidos, por acordo setorial ou termo de compromisso firmado com o setor
+empresarial, encarregar-se de atividades de responsabilidade dos fabricantes,
+importadores, distribuidores e comerciantes nos sistemas de logística reversa
+dos produtos e embalagens a que se refere este artigo, as ações do poder
+público serão devidamente remuneradas, na forma previamente acordada entre
+as partes.
+Esse dispositivo da Lei tem reforço no Inciso IV do Art. 36º.
+
+26
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Art. 36. No âmbito da responsabilidade compartilhada pelo ciclo de vida dos
+produtos, cabe ao titular dos serviços públicos de limpeza urbana e de manejo
+de resíduos sólidos, observado, se houver, o plano municipal de gestão
+integrada de resíduos sólidos:
+IV - Realizar as atividades definidas por acordo setorial ou termo de
+compromisso na forma do § 7o do art. 33, mediante a devida remuneração pelo
+setor empresarial;
+E mais ainda, quando a Lei trata dos Planos de Gerenciamento de Resíduos:
+Art. 27.
+§ 2º. Nos casos abrangidos pelo art. 20, as etapas sob responsabilidade do
+gerador que forem realizadas pelo poder público serão devidamente
+remuneradas pelas pessoas físicas ou jurídicas responsáveis, observado o
+disposto no § 5º. do art. 19.
+Art. 19. § 5o “Na definição de responsabilidades na forma do inciso VIII do caput
+deste artigo, é vedado atribuir ao serviço público de limpeza urbana e de manejo
+de resíduos sólidos a realização de etapas do gerenciamento dos resíduos a que
+se refere o art. 20 em desacordo com a respectiva licença ambiental ou com
+normas estabelecidas pelos órgãos do SISNAMA e, se couber, do SNVS”.
+
+A responsabilidade dos atores envolvidos e a obediência à nova Lei
+Conforme foi observado no Capítulo III, Da Responsabilidade Compartilhada,
+os diversos segmentos e atores envolvidos têm as suas responsabilidades. E,
+portanto, em princípio, todas as empresas, as administrações públicas (federais,
+estaduais e municipais) e os cidadãos estão sujeitos a obediência e observância
+das determinações, conforme o Art. 1º. § 1º.
+Art. 1º. § 1º “Estão sujeitas à observância desta Lei as pessoas físicas ou jurídicas, de
+direito público ou privado, responsáveis, direta ou indiretamente, pela geração de
+resíduos sólidos e as que desenvolvam ações relacionadas à gestão integrada ou ao
+gerenciamento de resíduos sólidos”.
+
+27
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Essa obrigação é ainda especificada com maior detalhe no Capítulo III da lei,
+onde se estabelecem as responsabilidades dos geradores de resíduos e do
+poder público:
+
+Art. 25. O poder público, o setor empresarial e a coletividade são responsáveis pela
+efetividade das ações voltadas para assegurar a observância da Política Nacional de
+Resíduos Sólidos e das diretrizes e demais determinações estabelecidas nesta Lei e
+em seu regulamento.
+
+Por força desse princípio da Lei, as empresas envolvidas na produção,
+importação, distribuição e comercialização de determinados produtos, estão
+obrigadas também a estruturarem e implementarem sistemas de logística
+reversa, mediante retorno dos produtos e embalagens após o uso, de forma
+independente do serviço público de limpeza urbana.
+
+A responsabilidade do Poder municipal na cobrança e fiscalização para o total
+cumprimento do que determina a Lei.
+a) Caso os resíduos estejam acondicionados, armazenados ou destinados em
+condições não condizentes com a Lei e com as normas Conama/Anvisa, significando
+dano ou ameaça ao meio ambiente e à saúde pública, a prefeitura deve proceder ao
+seu recolhimento, acondicionamento, armazenagem e destinação, respeitando as
+normas de saúde e segurança ocupacional e com licença ambiental específica,
+cobrando dos responsáveis todas os custos e despesas envolvidas:
+Art. 29. Cabe ao poder público atuar, subsidiariamente, com vistas a minimizar ou
+cessar o dano, logo que tome conhecimento de evento lesivo ao meio ambiente ou à
+saúde pública relacionado ao gerenciamento de resíduos sólidos.
+Parágrafo único. Os responsáveis pelo dano ressarcirão integralmente o poder público
+pelos gastos decorrentes das ações empreendidas na forma do caput.
+a) Em casos extremos, o órgão de fiscalização ambiental pode até valer-se de medidas
+mais drásticas:
+Como decorre dos seguintes artigos da lei com penalizações e condições de aplicação:
+Art. 51. Sem prejuízo da obrigação de, independentemente da existência de culpa,
+reparar os danos causados, a ação ou omissão das pessoas físicas ou jurídicas que
+importe inobservância aos preceitos desta Lei ou de seu regulamento sujeita os
+infratores às sanções previstas em lei, em especial às fixadas na Lei no 9.605, de 12
+de fevereiro de 1998, que “dispõe sobre as sanções penais e administrativas derivadas
+de condutas e atividades lesivas ao meio ambiente, e dá outras providências”, e em
+seu regulamento.
+Lei no 9.605 Art. 56. Produzir, processar, embalar, importar, exportar, comercializar,
+fornecer, transportar, armazenar, guardar, ter em depósito ou usar produto ou
+
+28
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente, em
+desacordo com as exigências estabelecidas em leis ou nos seus regulamentos:
+Pena - reclusão, de um a quatro anos, e multa.
+§ 1º Nas mesmas penas incorre quem
+I - abandona os produtos ou substâncias referidos no caput ou os utiliza em desacordo
+com as normas ambientais ou de segurança;
+II - manipula, acondiciona, armazena, coleta, transporta, reutiliza, recicla ou dá
+destinação final a resíduos perigosos de forma diversa da estabelecida em lei ou
+regulamento.
+§ 2º Se o produto ou a substância for nuclear ou radioativa, a pena é aumentada de um
+sexto a um terço.
+§ 3º Se o crime é culposo:
+Pena - detenção, de seis meses a um ano, e multa.
+
+3.3
+
+Conteúdo mínimo do Plano de Gestão de Resíduos
+
+Os planos municipais de gestão de resíduos sólidos deverão conter o que se encontra
+descrito no artº. 19º da Lei Nacional, cujo conteúdo mínimo é o seguinte:
+I. Diagnóstico da situação dos resíduos sólidos gerados no respetivo território,
+contendo a origem, o volume, a caracterização dos resíduos e as formas de destinação
+e disposição final adotadas;
+II. Identificação de áreas favoráveis para disposição final ambientalmente adequada
+de rejeitos, observado o plano diretor de que trata o § 1º do artº. 182 da Constituição
+Federal e o zoneamento ambiental, se houver;
+III. Identificação das possibilidades de implantação de soluções consorciadas ou
+compartilhadas com outros Municípios, considerando, nos critérios de economia de
+escala, a proximidade dos locais estabelecidos e as formas de prevenção dos riscos
+ambientais;
+IV. Identificação dos resíduos sólidos e dos geradores sujeitos a plano de
+gerenciamento específico nos termos do artº. 20 ou a sistema de logística reversa na
+forma do artº. 33, observadas as disposições desta Lei e de seu regulamento, bem como
+as normas estabelecidas pelos órgãos do SISNAMA e do SNVS;
+V. Procedimentos operacionais e especificações mínimas a serem adotados nos
+serviços públicos de limpeza urbana e de manejo de resíduos sólidos, incluída a
+disposição final ambientalmente adequada dos rejeitos e observada a Lei nº 11.445, de
+2007;
+
+29
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+VI. Indicadores de desempenho operacional e ambiental dos serviços públicos de
+limpeza urbana e de manejo de resíduos sólidos;
+VII. Regras para o transporte e outras etapas do gerenciamento de resíduos sólidos
+de que trata o artº. 20, observadas as normas estabelecidas pelos órgãos do SISNAMA
+e do SNVS e demais disposições pertinentes da legislação federal e estadual;
+VIII.
+
+Definição
+
+das
+
+responsabilidades
+
+quanto
+
+à
+
+sua
+
+implementação
+
+e
+
+operacionalização, incluídas as etapas do plano de gerenciamento de resíduos sólidos
+a que se refere o artº. 20 a cargo do poder público;
+IX. Programas e ações de capacitação técnica voltados para sua implementação e
+operacionalização;
+X. Programas e ações de educação ambiental que promovam a não geração, a
+redução, a reutilização e a reciclagem de resíduos sólidos;
+XI. Programas e ações para a participação dos grupos interessados, em especial
+das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis
+e recicláveis formadas por pessoas físicas de baixa renda, se houver;
+XII. Mecanismos para a criação de fontes de negócios, emprego e renda, mediante a
+valorização dos resíduos sólidos;
+XIII. Sistema de cálculo dos custos da prestação dos serviços públicos de limpeza
+urbana e de manejo de resíduos sólidos, bem como a forma de cobrança desses
+serviços, observada a Lei nº 11.445, de 2007;
+XIV. Metas de redução, reutilização, coleta seletiva e reciclagem, entre outras, com
+vistas a reduzir a quantidade de rejeitos encaminhados para disposição final
+ambientalmente adequada;
+XV. Descrição das formas e dos limites da participação do poder público local na
+coleta seletiva e na logística reversa, respeitado o disposto no artº. 33, e de outras ações
+relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos;
+XVI. Meios a serem utilizados para o controle e a fiscalização, no âmbito local, da
+implementação e operacionalização dos planos de gerenciamento de resíduos sólidos
+de que trata o artº. 20 e dos sistemas de logística reversa previstos no artº. 33;
+XVII. Ações preventivas e corretivas a serem praticadas, incluindo programa de
+monitoramento;
+XVIII. Identificação dos passivos ambientais relacionados aos resíduos sólidos,
+incluindo áreas contaminadas, e respetivas medidas saneadoras;
+30
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+XIX. Periodicidade de sua revisão, observado prioritariamente o período de vigência do
+plano plurianual municipal.
+
+3.4
+
+Metodologia adotada na elaboração do PGIRS de MARITUBA
+
+O PGIRS de Marituba foi elaborado de acordo com as Normas Orientadoras para
+Elaboração dos Planos municipais de Gestão de Resíduos Sólidos aprovadas pelo
+Decreto nº 7.404/2010, em particular o disposto no artº 19.
+No âmbito dos trabalhos adotou-se uma criteriosa metodologia de análise de informação
+e, com base nestes elementos e em cumprimento das demais normas legais, foi
+elaborado o Plano Municipal de Gestão de Resíduos Sólidos do município de
+
+Marituba com participação da sociedade civil, poder público, agentes interessados e
+intervenientes no setor dos resíduos sólidos.
+
+Comitê Diretor foi formado por representantes dos principais órgãos municipais
+envolvidos no tema, com caráter técnico e a atribuição de formular os temas para
+debate. Exerce também papel executivo nas tarefas de organização e viabilização
+da infraestrutura (convocatória de reuniões, locais apropriados, cópias de
+documentos etc.), com a responsabilidade de garantir, inclusive com recursos, o
+bom andamento do processo.
+O Grupo de Sustentação é um organismo político de participação social formado
+por representantes do setor público e da sociedade organizada; instituições de
+âmbito municipal, buscando abarcar toda a gama de agentes envolvidos no tema.
+O Grupo de Sustentação será responsável por garantir o debate e o engajamento
+de todos os segmentos ao longo do processo participativo.
+Nesse sentido, através do Decreto nº 95/2018 do Prefeito Municipal de Marituba e da
+Portaria nº 244/2018 do Prefeito Municipal de Marituba foram nomeados (i) - Comitê
+Diretor; (ii) Grupo de Sustentação e (iii) Coordenador e Responsável pelo Comitê
+Técnico do PGIRS de Marituba.
+A composição do Comitê Diretor é a seguinte:
+1) Representante do Gabinete do Prefeito
+2) Representante da Secretaria Municipal do Meio Ambiente
+3) Representante da Secretaria Municipal de Educação
+4) Representante da Secretaria Municipal de Saúde
+31
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+5) Representante da Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano
+6) Representante da Secretaria Municipal de Orçamento e Finanças.
+7) Representante da Secretaria Municipal Planejamento e Gestão.
+8) Representante da Secretaria Municipal de Desenvolvimento da Agricultura,
+Aquicultura, Abastecimento e Pescas.
+
+O Grupo de Sustentação é constituído por representantes das seguintes entidades:
+1) Membro do Conselho Municipal de Meio Ambiente
+2) Membro do Conselho Municipal de Saúde
+3) Membro do Conselho Municipal de Assistência Social
+4) Membro do Conselho Municipal de Educação
+5) Representante das Cooperativas de Catadores de Marituba
+6) Representante de ONG: Igreja Plenitude da Bênção de Deus
+Constituída a Equipe Técnica de desenvolvimento do Plano, cujo Coordenador e
+Responsável, Prof. Mário Russo, foi nomeado através da Portaria nº 244/2018 do
+Prefeito Municipal de Marituba, para conduzir todas as atividades técnicas do PGIRS e
+subsidiar com informação sustentada as ações dos Comitê Diretor e Grupo de
+Sustentação.
+O elenco de ações foi o seguinte:
+•
+
+Estabelecimento das estratégias de mobilização dos agentes, inclusive para o
+envolvimento dos meios de comunicação (jornais, rádios e outros);
+
+•
+
+Levantamento de dados provenientes principalmente de instituições
+governamentais e institutos de pesquisa, tais como: Instituto Brasileiro de
+Geografia e Estatística (IBGE), Programa das Nações Unidas para o
+Desenvolvimento (PNUD), Instituto de Pesquisa Econômica Aplicada (IPEA),
+Fundação João Pinheiro (FJP), Fundação Amazônia de Amparo a Estudos e
+Pesquisas (FAPESPA), Instituto Nacional de Estudos e Pesquisas
+Educacionais Anísio Teixeira (INEP) e Ministérios da Educação, da Saúde, do
+Desenvolvimento Social e Agrário e da Cidadania.
+
+•
+
+Elaboração do diagnóstico com apoio nos documentos elaborados por
+instituições públicas federais, estaduais e levantamentos in loco;
+
+32
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+•
+
+Apresentação pública dos resultados e validação do diagnóstico com os órgãos
+públicos do município e com o conjunto dos agentes envolvidos no Grupo de
+Sustentação;
+
+•
+
+Envolvimento dos Conselhos Municipais de Saúde, Meio Ambiente e outros na
+validação do diagnóstico;
+
+•
+
+Incorporação das contribuições e preparo de diagnóstico consolidado;
+
+•
+
+Definição das perspectivas iniciais do PGIRS;
+
+•
+
+Identificação das ações necessárias para a superação de cada um dos
+problemas de resíduos no município;
+
+•
+
+Definição dos agentes públicos e privados responsáveis por cada ação a ser
+definida no PGIRS (implementação e operacionalização do Plano);
+
+•
+
+Definição das metas a serem perseguidas num cenário de 20 anos (resultados
+necessários e possíveis, iniciativas e instalações a serem implementadas e
+outras);
+
+•
+
+Elaboração da primeira versão do PGIRS (com apoio em manuais produzidos
+pelo Governo Federal e outras instituições) identificando as possibilidades de
+compartilhar ações, instalações e custos por meio de consórcio regional
+(Região Metropolitana de Belém);
+
+•
+
+Estabelecer um plano de divulgação da primeira versão junto aos meios de
+comunicação (jornais, rádios e outros);
+
+•
+
+Apresentação pública dos resultados e validação do plano com os órgãos
+públicos do município e com o conjunto dos agentes envolvidos no Grupo de
+Sustentação;
+
+•
+
+Incorporação das contribuições e preparo do PGIRS consolidado;
+
+•
+
+Divulgação ampla do PGIRS consolidado;
+
+•
+
+Preparação da lei municipal contemplando o PGIRS aprovado;
+
+•
+
+Definição da agenda de continuidade do processo, de cada iniciativa e
+programa, contemplando inclusive a organização de consórcio regional e a
+revisão obrigatória do PGIRS a cada 4 anos;
+
+•
+
+Monitoramento do PGIRS e avaliação de resultados
+
+33
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Foram realizadas visitas de campo, aplicados inquéritos de opinião à população de
+bairros consolidados de Marituba, designadamente:
+
+nº Edifícios
+
+Unidades
+Habitacionais
+
+Residencial Parque dos
+Eucaliptos
+Parque dos Pardais
+Parque Residencial Umari
+Jardim Albatroz
+Residencial Bem Viver
+Condomínio Cita Maris
+
+277
+420
+736
+140
+768
+47
+
+277
+420
+736
+140
+768
+940
+
+1 108
+1 650
+2 950
+560
+3 072
+3 290
+
+Condomínio Salinas, Soure e
+Algodoal
+Condomínio Viver Melhor
+
+66
+149
+
+1548
+4256
+
+5 418
+14 896
+
+Empreendimentos
+
+População
+
+Entrevistas com os responsáveis departamentais e das diversas Secretarias Municipais
+que deram informações sobre o estado da gestão dos resíduos, representantes das
+duas instituições que congregam os catadores de materiais recicláveis de Marituba, uma
+cooperativa (ACAREMA) e uma associação, que pretende evoluir para cooperativa.
+
+3.5
+
+Participação Pública
+
+A participação da sociedade civil no processo de elaboração e implementação
+do PGIRS é incentivada e recomendada na legislação nacional através da PNRS
+12.305/210, sendo essencial na elaboração dos Planos de Saneamento e de
+Resíduos, que estão a ser desenvolvidos em simultâneo, sendo o de
+Saneamento desenvolvido por uma empresa, Envex Engenharia, e o de
+Resíduos por uma equipe Técnica da Secretaria Municipal de Meio Ambiente da
+Prefeitura municipal de Marituba.
+As formas de participação adotadas permitiram incorporar a percepção e os
+contributos que a sociedade civil concitada a participar, trouxe para os planos ao
+refletir a opinião pública, sendo uma forma da população ter um sentimento de
+pertença das soluções que vierem a ser adotadas, reduzindo potenciais conflitos
+decorrentes das reações clássicas de aversão à mudança de comportamentos.
+
+34
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Esta participação foi concretizada através de reuniões participadas e de oficinas
+dinâmicas, aplicação de questionários e seminários, reunindo os interesses dos
+dois Planos em elaboração.
+Oficinas Técnicas
+Conforme descrito, as ações de participação pública foram feitas para
+cumprimento dos objetivos dos dois planos em elaboração, o PMSB e o PGIRS.
+
+Fase de Divulgação
+Na fase inicial foram realizadas duas reuniões, nos dias 08 e 10 de maio de 2018,
+com o objetivo de divulgar o Plano, alinhar o planejamento e mobilizar atoreschave para as próximas fases. O público-alvo dos eventos foram os integrantes
+das instâncias envolvidas na execução, acompanhamento e avaliação do PMSB
+e os representantes da sociedade civil. As informações sobre a divulgação inicial
+são apresentadas no APÊNDICE I – Relatório das Reuniões – Fase Divulgação.
+
+Diagnóstico
+Na fase de Diagnóstico foram realizadas duas Oficinas Participativas, nos dias
+08 e 09 de agosto de 2018, com objetivo de apresentar o PMSB e o PGIRS, bem
+como compreender as percepções da população sobre a atual situação do
+saneamento básico do município, esclarecendo dúvidas e acolhendo críticas e
+sugestões. O público-alvo dos eventos foi a população maritubense, lideranças
+locais foram convidadas a participar. As informações sobre as Oficinas
+Participativas são apresentadas em APÊNDICE – Relatório das Oficinas
+Participativas – Fase Diagnóstico.
+Questionários
+Foram realizados diversos questionários que serviram a ambos Planos, durante
+as oficinas, com representatividade mediana em função dos participantes das
+diversas ações realizadas no auditório da EMATER em Marituba e salão
+paroquial da Igreja católica da Praça central da cidade.
+
+35
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Também foram feitos inquéritos porta-a-porta para aferição dos conhecimentos
+sobre o tecido social e o que a população sabe acerca da gestão de resíduos ao
+nível domiciliar, sobre segregação e acondicionamento, entre outras questões
+afloradas.
+Os dados resultantes dos questionários estão nos Anexos.
+Seminários
+No dia 06 de setembro de 2018, foi realizado pela SEMMA, o Seminário sobre
+Mudanças Climáticas do município de Marituba. Este seminário discorreu sobre
+as questões climáticas ocorridas no município, a emissão dos gases de efeito de
+estufa gerada pelo aterro sanitário, além de exposições sobre possíveis
+problemas ambientais que afetam Marituba decorrentes de eventos extremos
+passíveis de ocorrência devido aos efeitos da mudança climática.
+Foram apresentadas comunicações sobre a gestão de resíduos, sobre a
+situação da gestão de resíduos em Marituba, entre outros.
+
+36
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 3.2 – Folha de rosto do prospeto de divulgação e convite à participação da população da Oficina
+sobre questões climáticas e o papel dos resíduos sólidos
+
+Após as explanações, proferidas por especialistas e pelo coordenador do
+PGIRS, foram realizadas oficinas práticas com dinâmica de grupo e discussão
+participada, a que se seguiu o período de respostas ao inquérito fornecido a título
+individual para coleta de informações sobre os problemas visualizados no
+entorno de suas habitações. Foram obtidas 36 respostas relacionadas aos
+serviços básicos, incluindo as vertentes de abastecimento de água, esgotamento
+sanitário, resíduos sólidos e drenagem de águas pluviais.
+Em junho de 2019, dia 07, integrando a Semana do Meio Ambiente, realizou-se
+o III Fórum Municipal de Meio Ambiente sob a tônica dos “Desafios para a Gestão
+
+37
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Sustentável dos Resíduos”, onde se debateram temas relacionados aos
+resíduos sólidos e soluções para Marituba, numa organização da SEMMA.
+
+Figura 3.3 – Rosto do folheto de divulgação do Fórum de debate dos resíduos sólidos em Marituba
+
+Os dados resultantes destes questionários são apresentados em ANEXO.
+3.6
+
+Estruturação do Plano
+
+O PEGIRS da cidade de Marituba será organizado, resumidamente, nos seguintes
+capítulos:
+1 - Antecedentes
+Introdução e justificativa do Plano
+2 - Âmbito e Objetivos do Plano
+Metodologia adotada
+Estrutura do Plano
+3 - Enquadramento Técnico e Legal
+Estratégia do plano
+Enfoque legal
+Princípios de gestão de resíduos
+
+38
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+4 - Caracterização e Diagnóstico da situação atual
+Caracterização da Cidade de Marituba
+Aspectos espaciais
+Aspectos físico naturais
+Temperaturas máxima, mínima e médias.
+Topografia
+Ventos
+Precipitação e humidade relativa.
+Componentes bióticos (vida selvagem).
+Aspectos socioeconômicos e culturais
+Demografia Histórica e Dados da População
+Saúde
+Educação
+Rodovias
+Telecomunicações
+Energia elétrica
+Aspectos relativos à Economia
+Situação do Saneamento Básico
+Situação dos resíduos sólidos
+Caracterização e quantidades dos resíduos sólidos produzidos (domiciliares, feiras e
+mercados, serviços de saúde, industriais, construção civil e especiais);
+Coleta e transporte de resíduos;
+Custos com limpeza urbana, coleta e tratamento de resíduos;
+Receitas do setor dos resíduos. Tarifas e meios de cobrança;
+Deposição final de resíduos (localização, dimensão, quantidades depositadas e tipo de
+resíduos);
+Reciclagem e valorização de resíduos;
+Análise SWOT
+5 - Metas Programas e Ações para o período 2019-2022
+39
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Metas a atingir na gestão de resíduos;
+Ações a implementar e calendarização;
+Programação financeira;
+Tarifas a implementar ao nível municipal;
+Articulação com outros instrumentos financeiros;
+Responsabilidades dos intervenientes no setor dos resíduos;
+Legislação Complementar a adotar para cumprimento das metas.
+6 - Monitorização, acompanhamento e revisão do Plano
+7 - Conclusões
+8 - Referências bibliográficas.
+
+3.7
+
+Intervenientes no processo de planejamento e gestão e
+responsabilidades
+
+A Administração Municipal é responsável por garantir a coleta e o tratamento dos
+Resíduos Urbanos nas suas áreas de influência. Em Marituba a Prefeitura assegura a
+coleta de resíduos sólidos domiciliares e equiparados a urbanos provenientes de outras
+atividades.
+A atividade de gestão de resíduos está aberta a privados que podem fazer a prestação
+de serviços de coleta e/ou tratamento de resíduos, bem como limpeza pública sendo
+para isso subcontratados ou concessionado estes serviços pelo Município. Em Marituba
+a coleta é assegurada pela Prefeitura que contratou empresa privada com meios
+materiais, equipamentos e recursos humanos, para o efeito.
+Os principais atores e responsáveis com intervenção qualificada no processo são:
+O Prefeito e sua estrutura (executiva) têm um papel fundamental no processo de
+promover a mudança da realidade atual, tendo capacidade de envolver todas as partes
+interessadas no processo. As secretarias devem desenvolver programas de
+conscientização, valorização e envolvimento da sociedade civil organizada em torno do
+tema a fim de consolidar a vontade social em um movimento forte e coeso, criando o
+cenário propício aos ajustes legislativos necessários.
+Cabe à Câmara Municipal estar consciente da responsabilidade ambiental do
+município e da necessidade de promoção de um cenário com sustentabilidade financeira
+40
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+de longo prazo para a gestão de resíduos sólidos, devendo efetuar a adequação da
+legislação municipal para cumprimento pelo município da Política Nacional de Resíduos
+Sólidos.
+O Ministério do Meio Ambiente, responsável pela elaboração de políticas, estratégias,
+planos e programas nacionais para o controle ambiental, de acordo com a PNRS, é
+também responsável pela elaboração do Plano Nacional de Resíduos Sólidos. Compete
+a este o apoio aos municípios que aplicarão a PNRS, bem como possibilitar políticas
+positivas sobre ações dos munícipes.
+A União, por meio de seus órgãos competentes, organizará e manterá de forma
+conjunta o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos
+(SINIR), articulado com o Sistema Nacional de Informações em Saneamento Básico
+(SINISA) e o Sistema Nacional de Informação sobre Meio Ambiente (SINIMA).
+Os Municípios têm a obrigação de enviar periodicamente suas informações.
+O Ministério das Cidades tem papel preponderante, principalmente em relação ao
+aproveitamento e desenvolvimento das áreas urbanas.
+Em relação à PNRS, o Ministério das Cidades é um dos grandes responsáveis não só
+pela implementação das políticas relativas aos resíduos sólidos como também pela
+manutenção e pelo controle das informações relativas aos PMGIRS, já que o órgão
+receberá os planos municipais de gestão integrada elaborado pelos municípios e
+definirá critérios e prioridades para a distribuição de recursos.
+No âmbito do Ministério das Cidades, pode-se citar também como um possível
+personagem atuante no que diz respeito ao saneamento básico e consequentemente
+ao manejo dos resíduos sólidos a Secretaria Nacional de Saneamento Ambiental –
+SNSA, que visa promover a universalização do abastecimento de água potável, do
+esgotamento sanitário (coleta, tratamento e destinação final), da gestão de resíduos
+sólidos urbanos (coleta, tratamento e disposição final), além do adequado manejo de
+águas pluviais urbanas.
+O Ministério da Saúde, como instituição dirigente do setor de saúde, tem poderes
+normativos que incluem os aspectos sanitários relacionados ao manejo dos resíduos
+sólidos, no qual intervém por meio de atividades de regulamentação e controle sanitário.
+
+41
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+3.8
+
+VISÃO
+
+O Plano de Gestão Integrada de Resíduos Sólidos de Marituba estabelece uma visão
+integrada dos resíduos urbanos e fluxos específicos de resíduos ou logística reversa,
+orientada para a maximização da valorização dos resíduos via reciclagem, precedida de
+coleta seletiva de resíduos segregados na fonte, na diminuição da deposição de
+resíduos sólidos em aterro sanitário, tendo presente um enquadramento sustentável da
+sua gestão, contexto tecnológico e metas nacionais.
+
+3.9
+
+MISSÃO
+
+A missão do Plano de Gestão Integrada de Resíduos Sólidos é dotar a Prefeitura de
+Marituba de um instrumento de planejamento, que suporte e dê forma coerente às
+opções futuras de investimento e gestão dos resíduos no município, sem deixar de
+equacionar as formas de destino final e valorização, tendo em conta o seu contexto
+metropolitano.
+
+3.10 ÂMBITO
+O âmbito do Plano de Gestão Integrada de Resíduos Sólidos é o município de Marituba
+no que respeita a resíduos urbanos e fluxos específicos (recicláveis, setor da saúde e
+construção civil) gerados em ambiente urbano, designadamente nos diversos bairros do
+município pelos diversos setores de atividade e pela população em geral, ao nível
+domiciliar, comercial, industrial e serviços de saúde.
+
+42
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+DIAGNÓSTICO
+4.1
+
+Aspectos Gerais
+Breve contextualização histórica de Marituba
+
+A ocupação da área onde mais tarde seria fundado o município de Marituba
+decorreu das medidas políticas do governo provinciano, traçadas na segunda
+metade do Século XIX, cujos objetivos eram a colonização da região Bragantina
+e a implantação de uma estrada de ferro que deveria fazer a ligação entre os
+diversos núcleos coloniais que iriam ser fundados. Com isso, Marituba nasceu
+em função da Estrada de Ferro Belém-Bragança, ferrovia com 293 quilômetros
+de extensão, cujas obras duraram 25 anos para se completarem.
+Neste período, os limites de Belém estendiam-se por quase todo território das
+atuais zonas Bragantina, Guajarina e Salgado. Entre aquele centro urbano e
+Belém existia uma vasta área completamente despovoada e que precisava
+urgentemente ser ocupada. Os primeiros imigrantes eram de origem francesa,
+italiana e espanhola e chegaram a Belém por volta de 25 de abril de 1875.
+O plano do Governo Imperial consistia em colonizar aquela região, considera
+como rica e fértil, adequada para a prática agrícola, cuja produção de alimentos
+supriria as demandas da capital da província que se encontrava em plena
+expansão.
+Vale ressaltar que sempre houve uma relação positiva entre a ferrovia, a
+colonização e a exploração da Zona Bragantina. Na medida em que a
+implantação dos trilhos ia avançando, novas colônias ou simples povoados
+surgiam nas imediações das paradas da Estrada de Ferro.
+No ano de 1905, quando a via-férrea já se aproximava da cidade de Capanema,
+o Governador Augusto Montenegro iniciou a construção das oficinas dos trens,
+e com ela percebeu-se a necessidade da construção de uma vila para abrigar os
+operários de manutenção e demais funcionários da Estrada. Nesse período já
+havia sido erguida as estações do Entroncamento e de Ananindeua.
+Por volta de 1907, com os trabalhos de construção da Vila concluídos, o diretor
+da companhia construtora, o doutor Swindeler, autoridades locais e os futuros
+
+43
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+moradores inauguraram a Vila Operária, dando origem ao povoado de Marituba.
+Suas terras pertenciam ao município de Belém.
+A etimologia de Marituba vem da língua indígena nhengatu e tem o significado
+de “Lugar abundante de Maris (ou Umaris)”. Maris ou Umaris é uma árvore da
+família das Icacináceas que dá frutos comestíveis.
+No fim de 1909, os moradores do vilarejo de Marituba, realizaram uma missa
+campal em frente à antiga escola primária. Nos anos seguintes, essa missa
+passou a ser celebrada no interior da escola, depois disso, adotou-se as missas
+dominicais na vila. Em 1917, uma das casas da vila foi adaptada para servir de
+capela, fazendo parte da Paróquia de Santa Isabel. Neste local, encontra-se
+construída atualmente a Igreja Matriz de Marituba. Em 1919 fundava-se o
+cemitério da vila.
+Naquela época os primeiros moradores eram quase todos empregados da
+Estrada de Ferro, entretanto, uma pequena parcela vivia da roça e da produção
+de carvão que ia pra Belém no trem de carga. Produziam também lenha que
+tinha destinação à Estada de Ferro e para algumas empresas, como a Pará
+Elétrica, a primeira empresa que explorou a energia elétrica em Belém. A
+atividade de extrativismo predominou durante muito tempo e até hoje ainda
+existe vestígio dela em Marituba.
+Até meados dos anos 40, a economia da Vila girava em torno das atividades
+comerciais de apoio à ferrovia e de uma incipiente agricultura de subsistência
+composta de mandioca, arroz e milho, produzidos geralmente para consumo
+próprio.
+Com a criação do município de Ananindeua em 1943, Marituba passou a fazer
+parte daquele território e em 1961 foi integralizada ao território do município de
+Benevides.
+A elevação de Marituba a categoria de município refletiu um antigo anseio de
+seu povo. Desde 1983 a população vinha se organizando no sentido de buscar
+a autonomia política e administrativa para a vila. Foram três movimentos
+populares para a sua emancipação; o primeiro foi realizado em 1983, o segundo
+em 1991 e o terceiro, finalmente, em 1993.
+
+44
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+O município de Marituba foi criado pela Lei Estadual n° 5.857 de 22 de setembro
+de 1994, estatuída pela Assembleia Legislativa do estado e sancionada pelo
+Governador Carlos José Oliveira Santos. Seu território veio do desmembramento
+do município de Benevides e tem como sede sua antiga localidade de Marituba
+que passou à categoria de cidade com a mesma denominação.
+No dia 3 de outubro de 1996, realizou-se a primeira eleição municipal, sendo
+eleito para a prefeitura, Fernando Correa. Foi instalado do dia 1° de janeiro de
+1997, com a posse do prefeito, vice-prefeito e vereadores (eleitos no pleito
+municipal de 3 de outubro de 1996), cuja solenidade foi presidida pelo juiz da
+Comarca Judiciária de Ananindeua.
+Localização
+Marituba está localizado na Mesorregião Metropolitana de Belém, integrando a
+Microrregião de Belém. Possui a menor extensão territorial do Estado com
+109,10 Km2. Trata-se de um município com uma das maiores concentrações
+populacionais por quilômetros quadrado do Estado.
+Marituba fica distante 5 Km do município de Ananindeua, 7 Km do município de
+Benevides e 13 Km do Município de Belém. Suas coordenadas geográficas são
+01° 21’ 15” de latitude Sul e 48° 20’ 40” de longitude Oeste de Greenwich.
+A cidade faz limite:
+•
+
+Ao Norte. Município de Benevides;
+
+•
+
+Ao Sul. Municípios de Acará e Belém;
+
+•
+
+A Leste. Município de Benevides;
+
+•
+
+A Oeste. Município de Ananindeua.
+
+45
+
+PLANO DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MARITUBA 2019 –Diagnóstico
+
+Figura 4.1 – Mapa administrativo da Região Metropolitana de Belém e o município de Marituba
+
+O município de Marituba, ao longo dos dois últimos censos, exibiu altos índices
+de urbanização e uma tendência de conurbação mais evidente em relação ao
+município de Ananindeua, o que deve intensificar o processo de conurbação da
+malha urbana entre os municípios de Belém, Ananindeua e Marituba (mapa 1 e
+tabela 3). Cabe ainda destacar que a área territorial da RM de Belém sofreu
+alterações, uma vez que houve uma revisão dos limites municipais entre Belém
+e Ananindeua durante a década de 1990, bem como a progressiva inclusão de
+novos municípios, o que influenciou os resultados do cálculo de densidade para
+os municípios da RM.
+
+46
+
+

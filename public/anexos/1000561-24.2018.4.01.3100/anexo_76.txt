@@ -1,0 +1,2489 @@
+Justiça Federal da 1ª Região
+Varas e Juizados (1º grau)
+O documento a seguir foi juntado aos autos do processo de número 1000561-24.2018.4.01.3100
+em 25/07/2019 16:18:54 por JOAO VICENTE NUNES REGO
+Documento assinado por:
+- JOAO VICENTE NUNES REGO
+
+Consulte este documento em:
+http://pje1g.trf1.jus.br:80/pje/Processo/ConsultaDocumento/listView.seam
+usando o código: 19072516185450000000071485738
+ID do documento: 72171655
+
+CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA
+INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA
+SUPERINTENDÊNCIA REGIONAL DO AMAPÁ
+Mateus Francisco Pagliarini1
+Marcos José do Espirito Santo Quadros2
+
+ESTUDO FUNDIÁRIO DO TERRITÓRIO QUILOMBOLA
+DA COMUNIDADE DO AMBÉ
+Estudo apresentado ao INCRA, para composição do Relatório
+Técnico de Identificação e Delimitação (RTID) das terras
+ocupadas pela comunidade quilombola Ambé
+
+1
+1
+
+Engenheiro Agrônomo/ Perito Federal Agrário do INCRA – Email: mateus.pagliarini@mpa.incra.gov.br
+Engenheiro Agrônomo/ Perito Federal Agrário do INCRA – Email: marcos.quadros@mpa.incra.gov.br
+
+MACAPÁ – AP
+Julho de 2017
+
+2
+
+SUMÁRIO
+1. APRESENTAÇÃO .............................................................................................................. 3
+2. METODOLOGIA................................................................................................................ 4
+3. A COMUNIDADE DO AMBÉ ......................................................................................... 5
+3.1. Informações geográficas..................................................................................................... 6
+3.2. Caracterização ambiental e edafoclimática.........................................................................7
+3.2.1. Clima................................................................................................................................7
+3.2.2. Relevo.............................................................................................................................. 8
+3.2.3. Tipologia Vegetal............................................................................................................8
+3.2.4. Recursos Hídricos...........................................................................................................14
+3.2.5. Solos .............................................................................................................................. 18
+3.3. Ambiente Produtivo......................................................................................................... 19
+4. O TERRITÓRIO QUILOBOLA DO AMBÉ..................................................................25
+4.1. Identificação e delimitação do território …......................................................................25
+4.2. A Situação fundiária do território identificado................................................................. 26
+4.2.1. Da sobreposição com áreas de domínio público............................................................ 28
+4.2.2. Das áreas de domínio privado incidentes no território.................................................. 29
+4.2.3. Das posses em terras públicas no território.................................................................... 32
+4.2.4. Da sobreposição do território quilombola com unidades de conservação.....................46
+4.2.5. Da incidência de terrenos de marinha no território quilombola..................................... 46
+4.2.6Da inserção do território quilombola em faixa de fronteira........................................... 47
+4.2.7 Sobreposição com terras indígenas, áreas de segurança nacional, áreas do Estado e dos
+Municípios .............................................................................................................................. 47
+4.2.8 Da indicação da reserva legal......................................................................................... 48
+4.2.9 Da sobreposição com a comunidade Quilombola São Pedro dos Bois.......................... 49
+5. IDENTIFICAÇÃO DOS OCUPANTES DO TERRITÓRIO QUILOMBOLA.......... 55
+5.1- Ocupantes quilombolas cadastrados................................................................................. 55
+5.2- Ocupantes não quilombolas.............................................................................................. 58
+6. PLANTA E MEMORIAL DESCRITIVO....................................................................... 59
+7. CONCLUSÕES.................................................................................................................. 59
+8. REFERÊNCIAS BIBLIOGRÁFICAS............................................................................. 60
+
+3
+
+1. APRESENTAÇÃO
+A constituição federal de 1988 estabeleceu no art. 68 do Ato das Disposições
+Constitucionais Transitórias que “aos remanescentes das comunidades dos quilombos que
+estejam ocupando suas terras é reconhecida a propriedade definitiva, devendo o Estado
+emitir-lhes os títulos respectivos”.
+O Decreto nº 4.887, de 20 de novembro de 2003, regulamenta o procedimento
+para identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas
+por remanescentes das comunidades dos quilombos e atribui ao Instituto Nacional de
+Colonização e Reforma Agrária – INCRA a competência administrativa para realização dos
+estudos técnicos estabelecidos no referido decreto.
+“Art.3° - Compete ao Ministério do Desenvolvimento Agrário, por meio do Instituto Nacional de
+Colonização e Reforma Agrária - INCRA, a identificação, reconhecimento, delimitação,
+demarcação e titulação das terras ocupadas pelos remanescentes das comunidades dos
+quilombos, sem prejuízo da competência concorrente dos Estados, do Distrito Federal e dos
+Municípios '
+
+O INCRA, por sua vez editou a Instrução Normativa n° 57, de 20 de outubro de
+2009, a qual estabelece o procedimento operacional para identificação, reconhecimento,
+delimitação, demarcação, desintrusão, titulação e registro das terras ocupadas por
+remanescentes das comunidades dos quilombos de que trata o mencionado art. 68, do ADCT
+da Constituição Federal e o Decreto n° 4.887/2003.
+O art. 10 da Instrução Normativa n° 57 estabelece os procedimentos necessários
+para elaboração do Relatório Técnico de Identificação e Delimitação (RTID), que é
+constituído por estudos Antropológicos e Fundiários da área reivindicada pela comunidade
+quilombola.
+Assim sendo, o presente estudo é parte integrante do Relatório Técnico de
+Identificação e Delimitação das terras reivindicadas pela comunidade quilombola do Ambé, e
+tem como objetivo geral caracterizar a situação fundiária das terras reivindicadas pela
+comunidade e como objetivos específicos fazer a descrição e delimitação da terra reivindicada
+pelos remanescentes de quilombo; elaborar planta e memorial descritivo do imóvel rural com
+mapeamento e indicação dos imóveis lindeiros; fazer a identificação e censo de eventuais
+ocupantes não-quilombolas, com descrição e natureza jurídica de suas ocupações; a
+identificação e descrição de áreas pertencentes a quilombolas que têm títulos de propriedade;
+
+4
+
+a identificação e cadastramento das famílias quilombolas; o levantamento e especificação
+detalhada de situações em que a área pleiteada pela comunidade esteja sobreposta a unidades
+de conservação, áreas de segurança nacional, área de faixa de fronteira, terras indígenas e/ou
+situadas em terrenos de marinha, terras públicas federais, estaduais e municipais.
+Neste contexto, o presente estudo conjuntamente com o relatório antropológico
+elaborado sob a responsabilidade da antropóloga Maria do Socorro dos Santos Oliveira,
+constitui o RTID da Comunidade Remanescente de Quilombos de Ambé, peça integrante e
+necessária ao procedimento de regularização fundiária do território da comunidade.
+
+2. METODOLOGIA
+O Estudo Fundiário da Comunidade Quilombola de Ambé foi realizado por uma
+equipe técnica constituída por dois Engenheiros Agrônomos (Peritos Federais Agrários), um
+Analista em Reforma e Desenvolvimento Agrário e um Assistente Administrativo, servidores
+do quadro de pessoal do Instituto Nacional de Colonização e Reforma Agrária - INCRA,
+lotados na Superintendência Regional do Amapá. A equipe foi constituída através da Ordem
+de Serviço INCRA SR(21)/AP/Nº31 de 25 junho de 2015
+Os trabalhos de campo e de escritório seguiram estritamente o que disciplina a
+instrução normativa INCRA n° 57 de 2009, especialmente o que está elencado no seu art. 10.
+A delimitação do território pleiteado pela comunidade quilombola tomou como
+base a descrição do perímetro constante no capítulo V do Relatório Antropológico de
+caracterização histórica, econômica, ambiental e sócio-cultural da comunidade, que se
+encontra encartado nos autos do processo administrativo 54350.001368/2005-67 (INCRA).
+Para localização dos pontos limítrofes do imóvel, bem como para elaboração da
+planta e memorial descritivo, utilizou-se imagens de satélite RapidEyey adquiridas em
+16/11/2011 e ortoimagens SAR (Radar de Abertura Sintética) fornecidas pela Secretaria
+Estadual de Meio Ambiente (SEMA), bem como efetivou-se coleta de coordenadas
+geográficas com GPS de navegação, além de informações e depoimentos dos moradores da
+comunidade de remanescentes de quilombo e da região.
+Para o cadastramento das famílias foram realizadas entrevistas individuais, sendo
+os dados transcritos para formulários próprios modelo padrão do INCRA.
+O levantamento fundiário do território reivindicado pela comunidade foi realizado
+mediante localização e delimitação das áreas de terra pública, posses ou propriedades de
+
+5
+
+ocupantes quilombolas e não quilombolas incidentes no território. Além disso, foram
+realizadas vistorias rurais com intuito de caracterizar as áreas e imóveis em relação a sua
+extensão, data de ocupação e benfeitorias existentes.
+Após a confecção da planta e memorial descritivo os dados foram plotados com
+auxílio do software QGIS 2.14 e em seguida foi realizada uma avaliação espacial para
+verificar possíveis sobreposições do território com Unidades de Conservação, Terrenos de
+Marinha, Assentamentos de Reforma Agrária, Faixa de Fronteira, Terras Indígenas ou a terras
+públicas da União dos Estados ou Municípios.
+Os trabalhos foram executados entre os meses de setembro de 2015 a novembro
+de 2016, envolvendo todas as fases de pesquisa bibliográfica e análise de documentos, bem
+como de coleta de dados e execução dos trabalhos de campo. Os dados obtidos estão
+apresentados no presente estudo que, em conjunto com o relatório antropológico,compõe o
+Relatório Técnico de Identificação e Delimitação do território dos remanescentes quilombolas
+doAmbé.
+Todas as etapas de trabalho, especialmente as atividades em campo, foram
+precedidas de reuniões e contatos com a comunidade para apresentação e discussão dos
+procedimentos adotados. Os trabalhos de campo sempre contaram com o acompanhamento
+de, pelo menos um, membro da comunidade.
+
+3. A COMUNIDADE DE AMBÉ
+O decreto 4.887 de 20 de novembro de 2003 considera como remanescente de
+quilombos os grupos étnico-raciais, segundo critérios de autoatribuição, com trajetória
+histórica própria, dotados de relações territoriais específicas, com presunção de ancestralidade
+negra relacionada com a resistência à opressão histórica sofrida, sendo que esta caracterização
+será atestada mediante autodefinição da própria comunidade (art. 2º e seu §1º do Decreto nº
+4.887/2003).
+A autodefinição ou auto-atribuirão é critério fundamental para o reconhecimento
+da comunidade como remanescente de quilombos. A comunidade de Ambé se autodefine
+como remanescente quilombola e assim requereu ao INCRA em 2005, a regularização
+fundiária das terras que ocupam, tendo o pedido sido autuado no processo administrativo n°
+54350.001368/2005-67. Por sua vez, a Fundação Cultural Palmares – FCP expediu em 19 de
+
+6
+
+maio de 2006 a Certidão de Auto-Reconhecimento da Comunidade como remanescente de
+quilombo.
+
+3.1- Informações geográficas
+A comunidade quilombola de Ambé está localizada no município de Macapá, no
+Estado do Amapá a aproximadamente 80 km da sede da capital. A principal via de acesso é a
+BR-210, no entanto, o rio Pedreira e a rodovia AP-070 podem ser utilizados como vias
+secundarias. Para se chegar a sede da comunidade percorre-se aproximadamente 50 km pela
+BR-210 no sentido Macapá – Porto Grande, de onde se segue pela rodovia AP-340 por
+aproximadamente 3 km até encontrarmos o ramal do Ambé. Segue-se por este ramal por mais
+27 Km e chega-se a vila do Ambé onde residem a maioria dos moradores da comunidade. A
+localização e as principais vias de acesso à comunidade estão ilustradas na figura 1.
+
+Figura 1: Localização geográfica da Comunidade Ambé.
+
+7
+
+3.2- Caracterização ambiental e edafoclimática
+3.2.1- Clima
+A região da comunidade apresenta um clima equatorial úmido e superúmido, com
+médias térmicas anuais oscilando entre 26º e 28ºC (INMET) e precipitações pluviométricas
+superiores a 2000 mm ao ano (CPTEC, 2012). A região apresenta duas estações muito
+distintas: uma muito chuvosa, de dezembro a julho, com vários dias seguidos de chuva, e
+outra menos chuvosa, no período de agosto a novembro, onde podem ocorrer períodos muito
+longos de estiagem (TAVARES, 2014).
+As figuras 2 e 3 demonstram a normais climatológicas de precipitação média e
+temperatura média para o município de Macapá, os dados foram apurados durante o período
+de 1961 a 1990.
+
+Figura 2: Normal climatológica de precipitação para o município de
+Macapá fonte: INMET.
+
+Figura 3: Normal climatológica de temperatura (°C) média para o
+município de Macapá. Fonte:INMET.
+
+8
+
+3.2.2- Relevo
+O território Quilombola do Ambé está localizado parcialmente na Planície
+Costeira do Sul do Amapá, onde ocorrem predominantemente áreas parcial ou totalmente
+inundadas e Planícies Fluviais, e parcialmente nos tabuleiros costeiros, com predomínio
+deáreas dissecadas resultantes da erosão por processos pluviais (GERCO, 2011)
+Neste trecho o relevo é plano, pouco acidentado e as cotas altimétricas são
+geralmente inferiores a 100 metros.
+A figura 4 representa a declividade da região onde se localiza o território
+quilombola do Ambé.
+
+Figura 4. Mapa de declividade da região onde se encontra o território quilombola do Ambé.
+
+3.2.3- Tipologia vegetal
+Foram identificadas 4 tipologias vegetais no território quilombola, campo
+herbáceo periodicamente inundado, floresta de várzea, floresta de galeria, e cerrado (Figura
+5).
+
+9
+
+Figura 5. Tipologias vegetais encontradas na comunidade.
+
+Campo Herbáceo Periodicamente Inundado
+Ocorrem principalmente nas proximidades dos rios lagos e igarapés da área da
+comunidade. São caracterizados pela presença de diversas espécies de macrófitas aquáticas,
+como Poaceae, Cyperaceae, Nymphaceae, sem a presença de arbustos ou árvores, representa
+um total de aproximadamente 14% do território, de suma importância para comunidade, pois
+suas atividades e seu modo de vida estão muito ligados a este ambiente.
+A pecuária bubalina é intensa nessas áreas, causando alterações na paisagem dos
+campos, gerando canais de drenagem que provocam o escoamento da água, principalmente
+durante os meses de estiagem (Figura 6), além disso, esses campos geram pastagens naturais
+que também são utilizadas para o pastejo do gado bovino e equídeo criado na região.
+
+10
+
+Figura 6. Região conhecida como Lago do Ambé representando os campos inundáveis existentes no território da
+comunidade.
+
+Cerrado
+É uma classe de formação predominante dos climas quentes e úmidos, com
+chuvas torrenciais, bem demarcada pelo período seco e caracterizada por árvores tortuosas, de
+folhas raramente deciduais, como também por formas biológicas adaptadas aos solos
+deficientes, profundos e aluminizados (RADAMBRASIL, 1974). Situada principalmente na
+parte central, norte e oeste da comunidade recobre uma área de aproximadamente 55% do
+território. As atividades desenvolvidas pela comunidade no cerrado estão ligadas à coleta de
+espécies frutíferas, como mangaba (Hancorniaspeciosa), murici (Byrsonimacrassifolia),caju
+(Anacardiumoccidentale) e às medicinais, como o barbatimão (Ourateahexasperma),
+sucuúba(Himathanthusarticulata). Além disso, o cerrado também é utilizado para a criação de
+gado e plantio de mandioca.
+Entre as espécies arbórea/arbustivas podemos citar: caimbé(Curatella americana),
+muruci rasteiro (Byrsonimaverbascifolia) e bate-caixa (Salvertiaconvallariaeodora).
+
+11
+
+Figura 7. Vegetação de cerrado na área da comunidade.
+
+Parte do cerrado presente na comunidade vem sendo utilizado para o plantio de
+soja (Glycynemax), arroz (Oryza sativa) e milho (ZeaMaes). A área cultivada ou preparada
+para o cultivo desses grãos é de cerca de 1.500 ha. A figura 8 demonstra uma parte do
+território que já vem sendo utilizada em para o essa finalidade.
+Moradores antigos da comunidade relatam que o cerrado é essencial para
+manutenção do modo de vida dos moradores. É nesta região que o gado costuma pastar na
+época do inverno, quando as fortes chuvas inundam o campo e as áreas de cerrado servem de
+alternativa para alimentação do gado bovino e caprino dos moradores da comunidade.
+Os moradores da comunidade se dizem preocupados com a expansão da atividade
+agrícola empresarial dentro do território da comunidade, segundo eles a contaminação por
+agrotóxicos é o principal problema, além disso, eles relatam que os ramais são constantemente
+danificados pelo intenso trafego de máquinas agrícolas e caminhões.
+
+12
+
+Ademais, áreas cultivadas com grãos vêm aumentando cada vez mais, o que
+diminuí o estoque de pastagem natural disponível para o gado e isso pode afetar o modo de
+vida tradicional da comunidade.
+
+Figura 8. Supressão de áreas de cerrado do território para o cultivo de grãos.
+
+Floresta de Várzea
+As florestas de várzea ocupam cerca de 16% da cobertura vegetal da Comunidade.
+São ecossistemas energeticamente abertos, associados às planícies de inundações dos rios e
+igarapés do estuário amazônico (GERCO, 2002).
+Apresentam uma estrutura exuberante com grande diversidade de espécies.
+Devido ao ciclo das enchentes e vazantes são carreados para essas áreas uma grande
+quantidade de material sedimentar, o que confere alta fertilidade aos solos dessa região.
+Assim, a floresta de várzea representa para a comunidade um grande potencial econômico na
+exploração da madeira e essências florestais.
+
+13
+
+As espécies características das florestas de várzea da região são marcadas pelo
+domínio de palmeiras, destacando-se o açaí (Euterpe oleracea), buriti (Mauritia flexuosa) e
+em menor escala também encontramos a bacaba. Além das palmeiras podem ser encontradas
+espécies arbóreas como pau-mulato (Callycophyllumspruceanum), assacu (Huracrepitans),
+anani (Symphoniaglobulifera), jenipapo (Genipa americana), seringueira (Heveaguianensis),
+taperebá (Spondiasmonbim), mamorana (Pachiraaquatica), ucuúba (Virola surinamensis),
+andiroba (Carapaguianensis), samaúma (Ceiba pentandra), pracuúba (Mora paraensis),
+mututi
+
+(Pterocarpusamazonicus),
+
+pracaxi
+
+(Pentaclethramacroloba),
+
+acapurana
+
+(Campsiandralaurifolia), entre outras.
+
+Figura 9. Vegetação típica das Florestas de Várzea na área da comunidade.
+
+Floresta de Galeria
+A mata de galeria é uma tipologia de transição entre o cerrado e os campos
+inundáveis (campos herbáceo e arbustivo) (GERCO, 2011). Representa aproximadamente
+14% da área do território quilombola e é caraterizada pelas espécies de palmeiras como o
+buriti (Mauritia flexuosa.), açaí (Euterpe oleracea), caranã (Mauritiellaaculeata) e jacitara
+(Desmoncussp); e também pelo araticum (Annona paludosa ), anani (Symphoniaglobulifera) e
+ucuúba ou virola (Virola sp.) (Figura 10).
+
+14
+
+Figura 10. Floresta de Galeria, predominante na transição entre o cerrado e os campos inundáveis
+
+3.2.4- Recursos Hídricos
+A rede hidrográfica da área da comunidade é representada principalmente pelo
+Rio Pedreira e seus afluentes, que constituem a bacia hidrográfica do rio Pedreira.
+Na parte leste da comunidade fica o Rio Pedreira, de suma importância não só
+para comunidade quanto para toda a região. É o principal curso d´água da bacia hidrográfica
+onde está localizado o território. O Rio Pedreira, por sua exuberância, apresenta grande
+potencial turístico que pode vir a ser explorado pela comunidade, além disso, é rico em
+recursos pesqueiros, apresenta boa navegabilidade e é usado pela comunidade como via de
+transporte alternativo. Em suas margens encontramos uma floresta com grande diversidade de
+espécies como o açaí,cujo os frutos são coletados pela comunidade, tanto para o consumo
+como para comercialização do excedente.
+
+15
+
+Figura 11. Vista parcial do Rio Pedreira, limite leste do território Quilombola do Ambé
+
+Ao norte do território está localizado o Igarapé Peixe-Boi (figura 12). Esse igarapé
+é o formador de uma região conhecida como “Lago do Peixe-Boi”, que devido à exuberante
+beleza natural apresenta alto potencial turístico e já vem sendo utilizada para essa finalidade,
+no entanto, por pessoas que não pertencem à comunidade quilombola. Aliás, essa é uma das
+regiões em que a comunidade perdeu quase que completamente o controle de seu território.
+Segundo relatos dos moradores essa região era muito rica apresentando grande diversidade
+biológica. Os antigos usavam a área para realizar suas atividades de caça e pesca. Segundo o
+senhor Pereira, um dos moradores mais antigos da região, o nome Igarapé do Peixe-Boi teve
+sua origem relacionada à grande quantidade da espécie Peixe-Boi da Amazônia
+(Trichechusinunguis) que existia no local.
+
+16
+
+Figura 12. Vista parcial do Lago do Peixe-Boi, limite norte do território Quilombola do Ambé
+
+Na parte sul da comunidade está localizado o Lago do Ambé (figura 6), uma
+região campestre que fica totalmente inundada durante a estação chuvosa. Essa região é de
+suma importância para comunidade e é onde os moradores desenvolvem suas principais
+atividades econômicas, como a criação de gado bubalino e bovino. Devido ao ciclo de cheias
+e vazantes essa região apresenta solos férteis que originam pastagens de qualidade capazes de
+suprir a necessidade do gado durante vários meses do ano.
+Devido a sua importância para a comunidade a Vila do Ambé foi edificada às
+margens do lago.
+A Figura 13 apresenta um mapa contendo os principais rios, lagos e igarapés que
+compõe a rede hidrográfica da comunidade do Ambé.
+
+17
+
+Figura 13. Rede Hidrográfica da região da comunidade Ambé.
+
+O modo de vida da comunidade quilombola do Ambé está intimamente
+relacionado com a rede hidrográfica de seu território, os rios lagos e igarapés são usados para
+atividades de pesca, de criação de animais, lazer, transporte e, em suas margens, o
+extrativismo vegetal. Assim, a preservação destes mananciais é essencial para o
+desenvolvimento econômico e social da comunidade. Os moradores percebem essa
+importância e buscam conciliar suas atividades com práticas menos agressivas ao meio
+ambiente.
+
+18
+
+3.2.5- Solos
+Foram identificadas três principais classes de solos no território quilombola de
+Ambé: Latossolos, Argissolos e Gleissolos(Figura 14).
+
+Figura 14. Descrição das principais classes de solos no território de Ambé.
+
+Latossolos
+Associados às áreas comumente chamadas de “terra firme” pelos moradores da
+comunidade. Os latossolos estão localizados nas regiões de cerrado, geralmente apresentam
+textura argilosa ou arenoargilosa, associados a um relevo suave ou suave ondulado, e em
+algumas áreas apresentam fase pedregosa bastante aparente. Por serem solos muito profundos
+e de fácil mecanização a região dos cerrados da comunidade está parcialmente antropizada
+utilizada para agricultura mecanizada ou pecuária.
+
+19
+
+Por suas características físicas bastante favoráveis à agricultura mecanizada
+atualmente cerca de 1.500 hectares destes solos estão sendo utilizados por não quilombolas no
+cultivo de grãos, como a soja, milho e arroz.
+
+Argissolos
+Essa classe de solos está presente no território associada às regiões onde se
+localizam as florestas de galeria. São solos geralmente argilosos a muito argilosos,
+principalmente nas camadas subsuperficiais, podendo em algumas regiões, apresentar fase
+pedregosa.
+
+Gleissolos
+Os solos dessa classe estão associados aos campos inundáveis e as florestas de
+várzea presentes no território. São solos argilosos a muito argilosos, com argila de alta
+atividade e com alta saturação por bases (Eutróficos), devido à influência do ciclo das
+enchentes e vazantes estes solos recebem grande quantidade de sedimentos, o que lhes
+confere alta fertilidade.
+
+3.3- Ambiente produtivo
+
+As principais atividades produtivas desenvolvidas pela comunidade são a
+agricultura, a pecuária, a pesca, a criação de animais de pequeno porte e o extrativismo. A
+subsistência é característica marcante em todas as atividades, sendo que a tecnicização da
+produção para geração de maiores excedentes ainda é incipiente. Segundo relatos dos
+moradores as dificuldades de comercialização e a falta de assistência técnica são os principais
+fatores que limitam a produção.
+Os recursos naturais disponíveis no território quilombola são amplamente
+utilizados pelos moradores da comunidade, suas ações são desenvolvidas seguindo uma lógica
+tradicional de uso comunitário, onde todos os moradores podem se valer dos lagos, igarapés e
+matas da região para desenvolverem suas atividades.
+Além da cultura da mandioca, planta-se também banana, coco, milho, macaxeira e
+algumas plantas medicinais. Não há excedente de produção pronunciado na área da
+
+20
+
+comunidade, sendo assim, a agricultura desenvolvida pode ser categorizada como de
+subsistência, ou seja, apenas para o consumo dos próprios moradores.
+A mandioca é beneficiada em uma casa de farinha localizada na vila da
+comunidade, ou então na comunidade vizinha de São Pedro dos Bois. Cada grupo familiar
+produz sua própria farinha separadamente, contando com a ajuda de vizinhos e parentes no
+momento da produção.
+
+Figura 15. Equipamento (caititu) usado na produção artesanal de farinha de mandioca pelos moradores da
+comunidade quilombola do Ambé.
+
+21
+
+Figura 16. Equipamento (forno) usado na produção artesanal de farinha de mandioca pelos moradores da
+comunidade quilombola do Ambé.
+
+A pesca tem importância fundamental para sustento da comunidade, a atividade é
+desenvolvida no lago do Ambé, no Rio Pedreira e em praticamente todos os igarapés que
+banham a região, são pescadas diversas espécies de peixes, dentre as quais merecem destaque:
+a traíra, o trairão, o mafurá, o tamuatá, o jeju, acará, apaiari, jandiá, tucunaré, aracu, jacundá,
+piranha, pirarucu, bagre, piramutaba, pescada branca, pescada preta, mandií. A pescaria é
+realizada com auxílio de rede malhadeira, tarrafa e anzol, em pequenas embarcações
+chamadas de montarias. Os peixes são consumidos pelos próprios moradores da comunidade
+sem excedente de comercialização. Além da pesca existe a atividade de cultivo de peixes
+(piscicultura) em tanques, onde a principal espécie cultivada é o tambaqui. A criação de
+peixes é uma importante fonte de renda para alguns moradores da comunidade. A figura 17
+representa o principal tipo de tanque de piscicultura existente no território.
+O extrativismo vegetal também se apresenta como atividade importante. Os
+moradores da comunidade coletam diversas espécies de frutos silvestres, além de algumas
+plantas medicinais. O principal produto do extrativismo vegetal é o açaí, utilizado tanto para
+consumo próprio como para comercialização do excedente de produção que é vendido nas
+“batedeiras” de açaí de Macapá.
+
+22
+
+Figura 17. Tanque utilizado para criação de peixes por um dos moradores da comunidade do Ambé.
+
+Os moradores praticam a caça para autoconsumo, como complementação
+alimentar. Relatam que antigamente o número de espécies e a quantidade de animais eram
+bem maiores, segundo os moradores essa diminuição vem ocorrendo pela caça descontrolada
+realizada por pessoas de fora da comunidade.
+As atividades pecuárias predominantes são a criação de gado bovino e gado
+bubalino, que são criados soltos por toda extensão do território, no verão são levados para as
+partes alagadas da comunidade onde o gado se vale do pastejo natural. Já no período chuvoso
+o gado vai para terra firme (cerrado). Como marca da vida coletiva, a criação do gado é feita
+de forma comunal, onde todo rebanho se vale dos recursos naturais presentes no território, no
+entanto, apesar do uso coletivo das áreas de campos naturais ser uma marca da comunidade,
+cada família possui seu lote de terras individualizado e é dona do seuspróprios animais, cuja
+diferenciação ocorre por marcação a ferro quente e/ou por cortes específicos na orelha dos
+animais.
+Além do gado bovino e bubalino destaca-se ainda a criação de caprídeos,
+equídeos, aves e suínos que também são criados soltos se valendo tanto dos recursos naturais
+existentes, quanto da suplementação da alimentação com ração ou restos de alimentos.
+
+23
+
+Figura 18. Criação de gado bubalino existente na comunidade do Ambé, nesta época do ano o gado se vale da
+terra firme (cerrado) como alternativa aos campos eu se encontram inundados.
+
+Figura 19. Criação de caprinos na área da vila da comunidade.
+
+O modo de vida da comunidade do Ambé está intimamente relacionado com as
+atividades agropecuárias e extrativistas que desenvolvem. O uso racional dos recursos
+
+24
+
+naturais é um traço de sua cultura, assim, a regularização do território quilombola do Ambé
+sem dúvida proporcionará não só a preservação ambiental de toda região como garantirá a
+manutenção dos seus principais traços culturais.
+A figura 20nos proporciona a visualização espacial do uso econômico e social do
+território reivindicado pela Comunidade de Remanescentes de Quilombo do Ambé.
+
+Figura 20: Mapa demonstrativo da distribuição espacial do uso do solo. Fonte: Informações de campo.
+
+25
+
+4- O TERRITÓRIO QUILOMBOLA DO AMBÉ
+4.1- Identificação e Delimitação do território
+Ao tratar da definição dos limites da terra quilombola, seguindo os critérios de
+autodefinição ou auto-reconhecimento estabelecidos no Decreto nº 4.887/2003, o INCRA
+dispôs no art. 9° da IN n° 57/2009 que:
+“A identificação dos limites das terras das comunidades remanescentes de
+quilombos a que se refere o art. 4°, a ser feita a partir de indicações da própria
+comunidade, bem como a partir de estudos técnicos e científicos, inclusive
+relatórios antropológicos, consistirá na caracterização espacial, econômica,
+ambiental e sócio-cultural da terra ocupada pela comunidade, mediante Relatório
+Técnico de Identificação e Delimitação – RTDI, com elaboração a cargo da
+Superintendência Regional do INCRA, que o remeterá, após concluído, ao Comitê
+de Decisão Regional, para decisão e encaminhamentos subseqüentes”.
+
+Assim, a delimitação do território quilombola foi feita com base nas indicações do
+Relatório Antropológico de caracterização histórica, econômica, ambiental e sócio-cultural da
+comunidade,
+
+que
+
+se
+
+encontra
+
+encartado
+
+nos
+
+autos
+
+do
+
+processo
+
+administrativo
+
+54350.001368/2005-67 (INCRA), que assim descreveu a área identificada:
+
+“Considerando todas as informações acima resultantes de mais de um ano de
+estudo e leituras tanto sobre a questão quilombola e sobre a comunidade do Ambé e seu
+entorno, concluímos que este Quilombo é seguramente um dos mais antigos do Amapá e
+com certeza do Norte do Brasil. Sua proposta de delimitação corresponde ao antigo
+território que era dividido em Ambé de Cima e Ambé de Baixo, o que comprova pelo menos
+dois momentos daquela ocupação. Para os quilombolas dali, que respeitam muito a
+memória de seus ancestrais e dos mais velhos, sua terra é tudo que herdaram.
+Após várias reuniões com a comunidade e com os seus vizinhos mais próximos
+conhecidos como Comunidade quilombola de São Pedro dos Bois, chegaram ao
+entendimento de que o território a ser delimitado como Quilombo do Ambé é o mesmo que
+consta no mais antigo dos títulos que identificamos datado de 28 de outubro de 1891 o qual
+trata dos limites ao sul, do lado de baixo com o Igarapé do Jacaré, ao norte, do lado de
+cima com o Igarapé do Peixe Boi que divisa com a Fazenda São Joaquim, pelos fundos
+está um lugar conhecido como Passagem do Lopes e limita-se com a Fazenda dos Bois
+(Quilombo de São Pedro dos Bois) através do Estirão do Jacaré.
+Segundo os depoimentos das atuais lideranças comunitárias os limites acima que
+datam da última década do século XVIIII ainda são os que consideram nos dias atuais e os
+que são considerados como o território do Quilombo, segundo eles este território foi
+sempre mantido por seus avós e pais vários ainda vivos e com pouca capacidade de resumo
+das informações, mas mesmo de maneira lacunar, fazem questão de testemunhar a respeito
+daquele território que conhecem muito bem há quase cem anos.”
+
+Portanto, foi com base nesta descrição e em documentos históricos que
+fundamentam a posse dos remanescentes quilombos sobre a área reivindicada e a indicação de
+
+26
+
+moradores locais, que identificou-se os limites de todo território reivindicado, o que
+possibilitou a elaboração da planta e memorial descritivo (anexo 1).
+4.2- A situação fundiária do território identificado
+O território delimitado corresponde a uma área de aproximadamente 14.105,8970
+(quatorze mil e cento e cinco hectares oitenta e nove ares e setenta centiares) e perímetro
+aproximado de 64.229,5299 metros.
+Limita-se a Norte com o Igarapé Peixe-Boi e com a Fazenda São José; à Leste
+com o Rio Pedreira; ao Sul com o Igarapé Jacaré e Igarapé do Lago da Pedreira; e a Oeste
+com o Quilombo São Pedro dos Bois.
+Segundo relatos dos moradores a história da comunidade teve seu início com a
+chegada na região do Sr. Manoel Souza. Os primeiros habitantes chegaram por volta de 1840,
+vindos, principalmente, de Macapá e Mazagão em busca de terras férteis e um lugar para
+morar. Dentre as primeiras famílias que chegaram estava a de Joaquim Manoel de Jesus
+Picanço, que foi um dos primeiros habitantes daquela comunidade a qual a denominou de São
+Roque do Ambé por existir grande quantidade de cipó Ambé.
+Em 28 de outubro de 1891 foi emitido pela Divisão de Terras e Colonização do
+Território Federal do Amapá Título de Posse em favor de Pedro da Silva Cecílio e sua esposa
+que assim descreveu o território da comunidade:
+“localizava-se na margem direita do Rio Pedreira, município de Macapá Estado
+do Pará. A área do terreno abrangia duas (2) léguas de frente, duas (2) léguas de fundo.
+O mesmo era composto de campos, lagos, matas, ilhas baixas próprias para a criação de
+gado. Havia na localidade Ambé casas construídas de madeira de lei, cobertas de palha,
+fazenda de criação de gado, curral para acomodação dos mesmos; roça de mandioca e
+plantações de árvores frutíferas.”
+
+O documento histórico foi emitido em nome de alguns moradores antigos da
+comunidade: Joaquim Manoel de Jesus Picanço, Estevão Gonçalves, Benedito Gonçalves
+Picanço, Manoel Francisco da Silva. Os três primeiros tinham posse através de herança e o
+último através de título de compra.
+A formação da comunidade ocorreu paulatinamente ao longo dos anos. Parentes dos
+moradores chegavam até a comunidade e pediam um lugar para instalar-se na vila, cultivar
+uma porção de terras e criar alguns animais, logo outros parentes chegavam e também se
+instalavam. O relato de um dos moradores demonstra bem como se deu a formação e a
+evolução do território do Ambé.
+
+27
+“A comunidade foi se formando aos poucos, as pessoas iam chegando e tomavam
+para si uma parte de terras para morar. Como Seu Cirilo, Seu Geraldo, Seu
+Ladico, eram todos parentes os primeiros moradores da comunidade. Chegavam
+às primeiras pessoas na comunidade iam chegando parente de parente morar na
+comunidade. Não tem estranho na vila, são todos conhecidos, posteriormente é
+que vieram outras pessoas que não tiveram a mesma relação com os moradores da
+vila. E algumas pessoas foram vendendo suas terras para outras pessoas, para
+empresários”. (Souza, informação verbal).
+
+A comunidade usava a terra de forma comunal, o gado era criado solto e os espaços de
+pastejo eram compartilhados entre os animais, que eram marcados por família para sua
+diferenciação. Apesar do uso coletivo já existiam alguns espaços individualizados no interior
+da comunidade, cada um escolhia uma área e os outros respeitavam os espaços escolhidos.
+Não havia necessidade de estabelecimento de cercas, pois os animais eram criados soltos e
+podiam pastar por toda a extensão do território.
+A maior parte dos moradores, cerca de 37 famílias, reside na Vila do Ambé,
+atualmente a vila conta com certa infraestrutura, como sistema de abastecimento de água e
+energia elétrica. Os moradores se alojaram nesta localidade devido à proximidade com o
+“Lago do Ambé”, que é onde eles desenvolvem parte de suas atividades econômicas como a
+criação de animais, o extrativismo e a pesca. Algumas Famílias residem em seus sítios fora da
+área da vila, principalmente às margens do Rio Pedreira ou no Igarapé Peixe-Boi.
+
+Figura 21: Vista do ramal de acesso na chegada à comunidade.
+
+28
+
+A vila do Ambé conta ainda com duas Igrejas, uma católica e outra evangélica, posto
+de saúde, campo de futebol, centro comunitário e uma escola estadual.
+
+Figura 22: A direita caixa d´água do sistema de abastecimento, ao centro Igreja Católica do padroeiro da
+comunidade e a esquerda escola estadual.
+
+Em 1990 houve a primeira tentativa de regularização fundiária coletiva da área da
+comunidade, onde os herdeiros diretos de Joaquina Borges de Souza Pereira solicitaram o
+reconhecimento de domínio de suas terras, demonstrando o sentimento de coletividade
+existente entre os moradores que tentavam agrupar suas terras para formar um único território.
+O pedido foi autuado no INCRA no procedimento administrativo 54350.000236/90-61, que
+não chegou a uma decisão final e encontra-se nos arquivos desta Autarquia.
+Cópia dos principais documentos do processo encontra-se no anexo 2.
+
+4.2.1 Da sobreposição com áreas de domínio público
+A partir da década de 70 o poder público iniciou procedimento administrativo
+discriminatório com o objetivo de incorporar ao patrimônio da União as terras devolutas
+existentes no então Território Federal do Amapá, assim, que as terras ocupadas pela
+comunidade São Roque do Ambé foram incorporadas ao patrimônio da União Federal. O
+território encontra-se totalmente inserido na gleba pública federal Matapi – Curiaú – Vila
+Nova (AD-04), com área de 422.809 ha (quatrocentos e vinte e dois mil oitocentos e nove
+
+29
+
+hectares), que é um imóvel de domínio público obtido pelo INCRA com fundamento nas
+disposições da Lei n° 6.383/76, matriculado e registrado como propriedade da União,
+matricula 22, fls. 22, Cartório de Registro de Registro de Imóveis da Comarca de Macapá, em
+05/07/1976. A certidão de registro imobiliário da Gleba AD04 encontra-se no anexo 3.
+A figura 23 demonstra a inserção do território na Gleba Matapi Curiaú Vila Nova.
+
+Figura 23: Comunidade Quilombola do Ambé inserida na Gleba Pública Federal Matapi Curiaú Vila Nova
+
+4.2.2 Das áreas de domínio privado incidentes no território
+Após a realização do procedimento administrativo discriminatório que culminou
+com a arrecadação e posterior registro de toda a área da comunidade em nome da União
+Federal, o INCRA deu início aos procedimentos de regularização fundiária em conformidade
+
+30
+
+com o que preconiza o art. 97 da lei 4.504 de 1964 (estatuto da terra). Assim, diversos títulos
+de domínio foram expedidos para os moradores da comunidade do Ambé através dos
+programas oficiais de regularização fundiária da Autarquia.
+Importante destacar que a maior parte dos títulos de domínio existentes na área do
+território pleiteado foram expedidos para moradores da própria comunidade, no entanto, em
+ações de regularização fundiária mais recentes, houve também a expedição de títulos para
+pessoas que não eram membros da comunidade quilombola, mas que exerciam posse sobre
+áreas adquiridas de pessoas da comunidade.
+Outro fato que também merece destaque é que algumas das famílias quilombolas
+que foram agraciadas com o Título de Domínio pelo INCRA venderam suas terras para
+terceiros que hoje habitam a região, ou seja, algumas destas propriedades não se encontram
+mais sob o domínio de pessoas da comunidade quilombola originalmente tituladas.
+A tabela 1 apresenta todos os títulos de domínio expedidos pelo NCRA no
+território pleiteado pela comunidade do Ambé.
+
+Tabela 1. Títulos de domínio expedidos no território pleiteado pela comunidade quilombola
+do Ambé.
+ID
+
+Imóvel
+
+Proprietário
+
+Área (ha)
+
+N° do Título
+
+1
+
+Lote 50J
+
+Ana Julia Nascimento Silva
+
+59,8318
+
+00250
+
+2
+
+Lote 95
+
+Jose Odair da Fonceca Benjamin
+
+244,4843
+
+4.01.82.7/0364
+
+3
+
+Lote 93
+
+Adauto de Queiroz Santana
+
+110,6300
+
+4.01.82.7/00206
+
+4
+
+Lote 96
+
+Benedito Picanco de Lima
+
+300,5079
+
+4.01.82.7/00204
+
+5
+
+Lote 98
+
+Raimundo de Souza Picanço
+
+167,0004
+
+4.01.82.7/00274
+
+6
+
+Lote 97
+
+Benedita Gonsalves de Souza Picanço
+
+167,8985
+
+096812
+
+7
+
+Lote 21 W
+
+Marinalda Cardoso Maciel
+
+95,8264
+
+215003/0120
+
+8
+
+Lote 20W
+
+Raimundo Ferreira Maciel
+
+98,4907
+
+215003/0118
+
+9
+
+Lote 117
+
+Raimundo dos Prazeres Pereira
+
+94,4693
+
+401827/00318
+
+10
+
+Lote 41
+
+Maria da Conceição Souza dos Prazeres
+
+64,4438
+
+AP060700000119
+
+11
+
+Lote 128
+
+Adams Patrick Santos de Lima
+
+71,8461
+
+060700000047
+
+12
+
+Lote 129
+
+Michael Santos de Lima
+
+34,6562
+
+060700000048
+
+13
+
+Lote 26
+
+Joaquim Roque Ferreira Picanço
+
+54,5349
+
+401827/01078
+
+14
+
+Lote 130
+
+Maria Aparecida Costa dos Santos
+
+72,6561
+
+060700000046
+
+15
+
+Lote 129
+
+PrebenElkjaerLarsen Nascimento Picanþo
+
+86,7804
+
+60700000045
+
+16
+
+Lote 132
+
+Sergio ForlanPicanþo Damasceno
+
+70,8680
+
+60700000050
+
+17
+
+Lote 99
+
+Jose Abdon dos Praseres Pereira
+
+383,3696
+
+4.01.82.7/00199
+
+18
+
+Lote 100
+
+Raimundo Cecilio de Souza
+
+200,4360
+
+4.01.82.27/00272
+
+19
+
+Lote 103
+
+Mariana Souza Pereira de Barros
+
+98.1796
+
+4.01.82.7/00203
+
+20
+
+Lote 102
+
+Eliezer Souza Pereira
+
+176,3630
+
+4.01.82.7/00200
+
+31
+21
+
+Lote 104
+
+Pedro Paulo de Souza Pereira
+
+99,9917
+
+4.01.82.7/00497
+
+22
+
+Lote 116
+
+Zolima Pereira Ramos Picanþo
+
+127,8391
+
+401827/00201
+
+23
+
+Lote 115
+
+Miguel Arcanjo de Souza Pereira
+
+99,7023
+
+401827/00205
+
+24
+
+Lote146
+
+João dos Prazeres Pereira
+
+248,9262
+
+401827/00269
+
+25
+
+Lote 106
+
+Olavo Pereira Picanço
+
+41,2987
+
+4.01.82.7/0370
+
+A figura 24 apresenta um mapa contendo a localização dos Títulos de domínio
+expedidos pelo INCRA inseridos no território reivindicado pela comunidade quilombola do
+Ambé. A cópia dos títulos de domínio, planta e memorial descritivo de cada propriedade
+encontram-se no anexo 4.
+
+Figura 24. Títulos de Domínio expedidos no território quilombola do Ambé. A numeração apresentada no mapa
+condiz com os dados da Tabela 1
+
+32
+
+4.2.3 Das posses em terras públicas no território
+Entendem-se como posses em terra pública as ocupações sobre áreas onde ainda
+não houve transferência definitiva do domínio público para o privado, ou seja, áreas que
+apesar de estarem ocupadas ou exploradas por algum posseiro ainda encontram-se sob
+propriedade do poder público, no caso, da União Federal.
+Foram identificados 51 imóveis rurais (posses) existentes na área requerida pela
+comunidade. No intuito de facilitar a análise os imóveis foram caracterizados por grupos em
+regiões específicas, ou até mesmo separadamente, dependendo da complexidade fundiária da
+região ou da extensão dos imóveis. Cabe ressaltar que parte dessas áreas encontra-se nas mãos
+dos moradores quilombolas da região e outras de pessoas alheias a comunidade. Foram
+identificados separadamente, ainda, imóveis cujos detentores são moradores da comunidade
+quilombola, mas que não aceitam a política de regularização fundiária coletiva e manifestam
+interesse de que suas posses sejam excluídas do território que a comunidade reivindica ser
+regularizado como remanescente de quilombo.
+a) Posses da Região do Igarapé/lago Peixe-Boi
+Essa região está localizada na parte norte do território (fig. 25) e é caracterizada
+pela existência de diversas ocupações (imóveis) com características não agrícolas. Os imóveis
+localizados nesta área são utilizados como balneários particulares ou estabelecimentos
+comerciais voltados a atividades turísticas, a exemplo do Balneário denominado Portal do Sol.
+Os imóveis dessa região têm pequena dimensão e em sua grande maioria não se
+encontram demarcados ou georreferenciados, isso dificultou os trabalhos de delimitação e
+identificação, assim, os limites destes imóveis descritos neste trabalho servem apenas para
+localizar espacialmente os imóveis no território pleiteado, sem a pretensão de medi-los ou
+demarcá-los topograficamente (figuras 25 e 26).
+Outro aspecto relevante que deve ser levado em conta é que esta região está
+praticamente toda ocupada por posseiros não quilombolas, ou seja, pessoas alheias a
+comunidade. Segundo relatos de moradores antigos da comunidade a região do “Peixe-Boi”
+era tida como área de preservação, uma espécie de reserva pesqueira, onde eles iam, pegavam
+o peixe e voltavam pra casa. Assim, como não residiam no local, o processo expropriatório
+ocorreu quase que naturalmente.
+
+33
+
+Figura 25 Ocupações ao longo do Igarapé/Lago do Peixe-Boi, presença marcante de balneários e ocupantes não
+quilombolas.
+
+Figura 26 Vista aérea da região do Igarapé/Lago do Peixe Boi, imagem obtida através da utilização do software
+Google Earth
+
+34
+
+b) Posses Existentes à Margem direita do Rio Pedreira
+
+Nesta região foram encontrados quatro imóveis rurais (posses) em nome de
+Francisco Carvalho Barbosa, Maria Brito dos Santos, Mizael Pereira Santana e Laudegário G.
+Picanço Neto.
+A delimitação prévia e a localização destes imóveis podem ser observadas na
+figura 27
+A tabela 2 apresenta os dados dos imóveis e seus respectivos posseiros.
+Tabela 2. Imóveis rurais (posses) localizados na margem direita do Rio Pedreira.
+Ocupante
+Francisco Carvalho Barbosa
+Maria Brito dos Santos
+
+Processo
+54350.000592/89-32
+
+CPF
+05112575204
+
+Imóvel
+Retiro Santa Luzia
+
+54350.000228/85-76
+
+-
+
+Retiro Nossa Senhora de Nazaré
+
+Mizael Pereira Santana
+
+-
+
+-
+
+-
+
+Cirilo de Souza Picanço
+
+54350.000258/98-51
+
+-
+
+Retiro Abio
+
+O Sr. Francisco Carvalho Barbosa declarou que a data inicial de sua posse sob o
+imóvel Retiro Santa Luzia é de 13/01/1989 com área aproximada de 100 ha (cem hectares),
+em 14/10/1999 houve vistoria no imóvel onde ficou constada sua exploração efetiva e morada
+habitual, no entanto, o imóvel nunca foi demarcado topograficamente nem tampouco alienado
+em definitivo ao requerente. Atualmente o processo de regularização tramita em nome da
+filha do Sr. Francisco Carvalho Barbosa, a Sra. Jordania Serrão Barbosa.
+A senhora Maria Brito dos Santos é detentora de um imóvel rural denominado
+Retiro Nossa Senhora de Nazaré, o processo de regularização fundiária referente ao imóvel
+foi arquivado em 13/02/1989, no entanto, segundo informações dos moradores ela ainda é a
+ocupante da área. Nas visitas realizadas a comunidade, a Senhora Maria Brito nunca foi
+encontrada, motivo pelo qual não foi possível caracterizar detalhadamente o imóvel.
+O Sr Mizael Pereira Santana é detentor de um imóvel rural situado na região, no
+entanto, nas visitas realizadas verificamos que existem duas residências no interior do imóvel,
+mas que aparentemente não estavam habitadas. Não foram encontrados dados cadastrais
+relacionados ao imóvel nem tampouco procedimentos de regularização fundiária, o imóvel
+não foi demarcado topograficamente e não há benfeitorias expressivas ou indícios de
+exploração econômica.
+O senhor Cirilo de Souza Picanço (falecido) era detentor de um imóvel rural
+denominado Retiro Abio. A declaração de posse constante nas primeiras folhas de seu
+
+35
+
+processo de regularização fundiária cita que o imóvel possui área de 145 ha (cento e quarenta
+e cinco hectares) e que a posse teve início em 04/03/1983. Atualmente, o imóvel não vem
+sendo efetivamente explorado, seu uso se restringe a complementação da alimentação do gado
+através do consumo das pastagens naturais existentes na área.
+Cópia dos processos de regularização fundiária citados e demais documentos
+referentes a estes imóveis encontram-se encartados no anexo V.
+
+Figura 27. Posses existentes à margem esquerda do Rio Pedreira.
+
+c) Posses Existentes entre a vila do Santo Antônio e a Vila do Lontra
+
+Esta região está compreendida entre a ponte sobre o Rio Pedreira, que dá acesso
+à comunidade de Santo Antônio da Pedreira, até a foz do Igarapé Jacaré, nas proximidades da
+Vila do Lontra do Pedreira (Figura 28). Os imóveis presentes nesta região foram demarcados
+topograficamente pela Empresa Terra Engenharia que estava a serviço da Superintendência de
+Regularização Fundiária da Amazônia Legal, também conhecida como MDA-Terra Legal. Os
+dados desta demarcação não chegaram a ser processados ou inseridos no Sistema de Gestão
+
+36
+
+Fundiária – SIGEF devido à sobreposição dos imóveis com a área reivindicada como
+território quilombola. As principais informações sobre estes imóveis encontramos na tabela 3.
+
+Tabela 3. Informações sobre as posses localizadas à margem do Rio Pedreira, na região entre
+a Vila do Santo Antônio e a Vila do Lontra da Pedreira
+Área Processo de
+ID Proprietário
+Imóvel
+(ha) Regularização
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+João Picanço dos Santos
+Jonas Picanço dos Santos
+Tereza Vales dos Prazeres
+Ivo Vale dos Prazeres
+José Luis Prazeres da Costa
+Domingos Vales dos Prazeres
+José Vales dos Prazeres
+Joenes Silva da Costa
+Terra da União
+José Maria Batista dos Santos
+Maria Zulmira Santos Rodrigues
+Ivanilde Santana Campos
+
+Retiro São João
+Retiro São Pedro
+Retiro São Rock
+Retiro São Rock
+Retiro Vale dos Prazeres
+Retiro Santo Expedito
+Sitio São José
+Sem denominação
+Sem denominação
+Sem denominação
+Sem denominação
+Sem denominação
+
+Vale ressaltar que em visita realizada na região no mês de agosto de 2016
+verificamos que estes imóveis foram fracionados em diversos outros de menor dimensão, isso
+ocorreu devido ao fato de que eles estão localizados às margens do Rio Pedreira, região
+procurada como opção de lazer para constituição de balneários particulares. Em alguns casos
+este fracionamento ocorreu de tal forma que se formaram verdadeiros aglomerados
+residenciais (espécie de vila de casas), como pode ser observado na figura 28.
+
+37
+
+Figura 28. Posses existentes à margem do Rio Pedreira, na região entre a Vila do Santo Antônio e a Vila do
+Lontra da Pedreira, os pontos em vermelho demonstram o fracionamento em imóveis de menor dimensão
+ocorrido na região.
+
+d) Posse do Sr. Hilton Teixeira Santos
+O Sr. Hilton Teixeira é detentor de vários imóveis no interior do território
+pleiteado pela comunidade quilombola do Ambé, suas áreas são um misto entre posses e
+propriedades adquiridas de terceiros ou dos próprios moradores da comunidade. Nos últimos
+anos ele vem utilizando estas áreas para o plantio de grãos, principalmente a soja. A figura 29
+demonstra as áreas de posse ocupadas pelo Sr Hilton.
+
+38
+
+Figura 29. Posses do Sr. Hilton dos Santos Teixeira Localizadas no território pleiteado pela comunidade
+quilombola do Ambé. A numeração constante no mapa condiz com os dados da tabela 4
+
+Cabe ressaltar que na época da pesquisa de campo (outubro de 2015) a gerente
+da propriedade, a Sra. Dayane Lustosa Mororo, nos informou que Sr. Hilton seria o único
+detentor destas áreas, no entanto, quando pesquisamos o Sistema de Gestão Fundiária –
+SIGEF, os imóveis foram georreferenciadas em nome de outras pessoas, conforme descrito na
+tabela 4.
+Tabela 4. Lista de imóveis (posses) encontradas no Sistema de Gestão Fundiária – SIGEF
+coincidentes com as áreas ocupadas pelo Sr. Hilton Santos Teixeira
+Id1 Ocupante
+1 Wagner Wanzeler Bessa da Luz
+
+Processo
+-
+
+CPF
+-
+
+Imóvel
+Fazenda Santana I
+
+2 Ritangela de Brito Ribeiro
+
+-
+
+-
+
+Lote 94
+
+3 Ana Caroline Gomes de Farias
+
+-
+
+-
+
+Sítio Princesa Caroline
+
+39
+4 Ana Luiza do Couto Texeira
+
+-
+
+-
+
+Fazenda Esperança
+
+5 Escenilda Natividade Machado
+
+-
+
+-
+
+Fazenda Santana II
+
+6 Romário da Silva Gomes
+
+56423.000018/2013-18
+
+01911396293
+
+Fazenda Vista Alegre
+
+7 Edson Alves de Almeida
+
+56423.001072/2012-08
+
+43207693253
+
+Fazenda bacaba
+
+8 Geraldo Picanço de Lima
+
+54350.001128/2003-09
+
+04215800200
+
+Retiro Poços do Abil
+
+9 Ronaldo Pacheco Ramos
+
+-
+
+10 AntonioIgo de Matos Pereira
+Valores condizentes com a numeração apresentada na figura 29.
+
+-
+
+Lote 27
+
+-
+
+Retiro Manancial Olha D'água
+
+1
+
+Os imóveis rurais em questão possuem diversas benfeitorias necessárias ao
+cultivo de grãos, dentre as quais merecem destaque três galpões para armazenamento de
+insumos e implementos agrícolas, dois encontram-se em perfeito estado de conservação e em
+plena atividade, já o terceiro galpão está deteriorado e não vêm sendo utilizado, conforme
+pode ser observado na figura 30. As áreas usadas para plantio foram preparadas recebendo
+diversos tipos de tratamentos edáficos como aração, nivelamento, correção do solo, entre
+outros.
+
+Figura 30. Do lado esquerdo galpão em perfeito estado e em pleno uso, do lado direito galpão abandonado em
+estado deteriorado.
+
+40
+
+Merece destaque ainda os imóveis residenciais existentes no interior das
+propriedades, alguns mais simples com a finalidade de moradia dos empregados e dois deles
+bastante luxuosos, como pode ser observado nas figura 31
+
+Figura 31. Do lado esquerdo residência em uma das propriedades do Sr Hilton Teixeira, do lado direito área de
+lazer (maloca) da mesma residência localizada às margens do Lago do Peixe Boi.
+
+e) Posse do Sr. Joel Coutinho Picanço
+O Sr Joel Coutinho Picanço é detentor de um imóvel rural denominado Retiro
+São João localizado na parte central da comunidade (Figura 32), à época da pesquisa de
+campo o imóvel rural do Sr. Joel detinha área de aproximadamente 230 hectares.
+Em pesquisa junto Sistema de Informação e Protocolo do INCRA encontramos
+referência de um processo de regularização fundiária me nome do Sr. Joel onde era pleiteada
+a regularização fundiária de um imóvel rural denominado Retiro Margosa, no entanto, o
+processo foi arquivado em 02 de março de 2004.
+A pesquisa de campo revelou que o Retiro Margosa e o Retiro São João são o
+mesmo imóvel ocorrendo apenas mudança na sua denominação.
+Atualmente o imóvel vem sendo explorado diretamente pelo Sr Joel Coutinho e
+sua família, que mantêm um empreendimento turístico denominado Balneário do Joel. Além
+da atividade comercial do balneário desenvolvem criação de peixes, cultivo de espécies
+frutíferas e criação de pequenos animais.
+Apesar de ser descendente direto das famílias que compõe a comunidade
+quilombola, ele não concorda com a regularização fundiária da área como quilombo e
+pretende que suas terras sejam excluídas dos limites do território a ser regularizado.
+
+41
+
+A figura 32 demonstra a localização do lote e os documentos referentes ao
+imóvel encontram-se no anexo V.
+
+Figura 32. Localização da posse do Sr Joel Coutinho Picanço
+
+f) Posse do Sr Manoel da Silva Pereira (Fiu)
+O Sr. Manoel da Silva Pereira é detentor de uma pequena área de posse localizada
+na parte central da comunidade (fig. 33), não há informações sobre georreferenciamento ou
+mesmo demarcação topográfica do imóvel, o que não nos permite precisar a área do imóvel.
+No interior do imóvel há uma residência edificada, no entanto, não foi possível
+caracterizá-la detalhadamente, pois a porteira sempre se encontrava fechada.
+Em pesquisas nos bancos de dados cadastrais da Autarquia não foram encontradas
+referências de imóveis rurais em nome do Sr. Manoel.
+
+42
+
+Apesar de ser descendente direto das famílias que compõe a comunidade
+quilombola, as informações dos moradores da comunidade é de que ele não concorda com a
+regularização fundiária da área como quilombo e pretende que suas terras sejam excluídas dos
+limites do território.
+
+Figura 33. Localização da posse do Sr Manoel da Silva Pereira (Fiu)
+
+g) Posses do Sr. Laudegário G. Picanço Neto (Cirilo de Souza Picanço)
+Localizado na parte sul do território pleiteado pela comunidade do Ambé
+encontramos o imóvel rural lote 101 (Retiro Morossoquinha) em nome de Cirilo de Souza
+Picanço (falecido) sucedido por Laudegário G. Picanço Neto, o lote em questão é oriundo de
+um contrato de promessa de compra e venda – CPCV outorgado pelo INCRA ao Sr. Cirilo
+Souza Picanço nos autos do procedimento administrativo 54350.000288/76-15. Apesar de ser
+
+43
+
+um dos imóveis mais antigos da região não houve a transferência definitiva do domínio
+continuando a área matriculada em nome da União Federal.
+A área do imóvel é de 340 hectares e a principal atividade desenvolvida é a
+pecuária extensiva de gado bovino e bubalino.
+O Sr. Cirilo era um dos membros mais antigos da comunidade, mas não
+concordava com a regularização de sua posse como área quilombola, era seu desejo que os
+imóveis rurais sob sua posse fossem excluídos do território e regularizados em separado, esse
+desejo é compartilhado por seu sucessor o Sr. Laudegário G. Picanço Neto.
+A figura 34 demonstra a localização do lote e os documentos referentes ao
+imóvel encontram-se no anexo V.
+
+Figura 34. Localização da posse do Sr. Laudegário G. Picanço Neto
+
+44
+
+h) Posse Santa Bárbara
+Na parte sul do território quilombola foi constatado sobreposição com imóvel
+rural denominado Retiro Santa Barbara, conforme pode ser observado na figura 35.
+
+Figura 35. Localização da posse Santa Barbara, parcialmente sobreposta ao território reivindicado pela
+comunidade do Ambé
+
+O pedido de regularização fundiária relacionado ao imóvel em questão tramita
+junto a Superintendência de Regularização Fundiária na Amazônia Legal – SRFA sob nº
+21400.002163/95-00, em nome do Sr João Melo Picanço. Aberto em 29 de janeiro de 1976
+nas fls. 01 do processo encontramos declaração de posse onde o Sr João Melo Picanço declara
+ser possuidor de um imóvel rural medindo 6.000m X 6.000m (seis mil metro de frente por
+seis mil metros de fundo) perfazendo um total de 3.600 ha (três mil e seiscentos hectares),
+declara ainda ser posseiro por simples ocupação e que a data inicial de sua posse é de
+
+45
+
+29/05/1972. A declaração de posse em questão encontra-se no anexo V (documentos
+referentes a posse Santa Bárbara).
+Em 28/01/1976 foi realizada vistoria rural no imóvel, conforme laudo n° 00453,
+(anexo V), onde ficou constatado que a área a ser alienada ao Sr. João Melo Picanço seria de
+2.457 ha (dois mil quatrocentos e cinquenta e sete hectares). No entanto, como o imóvel não
+havia sido demarcado topograficamente, houve apenas a expedição da Licença de Ocupação
+n°4.01.82.7/00572
+
+(anexo
+
+V).
+
+Atualmente
+
+o
+
+imóvel
+
+encontra-se
+
+demarcado
+
+e
+
+georreferenciado com área total de 1.934,2416 ha (mil novecentos e trinta e quatro hectares,
+vinte e quatro ares e dezesseis centiares) conforme memorial descritivo constante no anexo
+Vdo presente relatório.
+Por volta de 1.980 quando da ação demarcatória do Retiro Santa Barbara, houve
+diversos conflitos por parte de alguns agricultores da região do Ambé que alegaram que já
+ocupavam parte do imóvel sob pretensão do Sr. João Melo Picanço, diante dessas alegações o
+INCRA deslocou equipe técnica até o imóvel para verificar a situação narrada pelos
+agricultores, onde ficou constatado que 25 agricultores (posseiros) mantinham algum tipo de
+atividade na área, principalmente às margens do rio Pedreira nas proximidades do Igarapé
+Jacaré, e na margem do Igarapé do Ambé, conforme pode ser observado emalguns
+documentos existentes no processo 21400.002163/95-00 constantes no anexo V do presente
+estudo.
+Chama atenção o croqui apresentado nos autos processo 21400.002163/95-00
+(anexo V) o qualdescreve os limites entre o Ambé e o Retiro Santa Barbara. Os limites
+descritos neste documento coincidem com o limite reconhecido pela comunidade, ou seja, o
+Retiro Santa Barbara estaria localizado ao sul do Igarapé Jacaré, do Lago da Mutuca e do
+Canal da Santa Barbara, informação corroborada pelo documento histórico apresentado pela
+comunidade que menciona justamente o Igarapé Jacaré como limite Sul do território do
+Ambé. Ressaltamos o fato de que o documento histórico da comunidade data de outubro de
+1891, ou seja, documento bem mais antigo que a data de início da posse declarada pelo Sr.
+João Melo Picanço que data de 1972.
+Conveniente esclarecer que a demarcação topográfica/georreferenciamento da
+Fazenda Santa Bárbara difere do croqui constante nos autos do processo 21400.002163/95-00.
+
+46
+
+4.2.4- Da sobreposição do território quilombola com Unidades de Conservação
+
+O Decreto n° 4887/2003 traz à baila a questão da sobreposição com unidades de
+conservação e estabelece em seu art. 11 o seguinte:
+“Art. 11. Quando as terras ocupadas por remanescentes das comunidades dos quilombos
+estiverem sobrepostas às unidades de conservação constituídas, às áreas de segurança nacional, à
+faixa de fronteira e às terras indígenas, o INCRA, o IBAMA, a Secretaria- Executiva do Conselho
+de Defesa Nacional, a FUNAI e a Fundação Cultural Palmares tomarão as medidas cabíveis
+visando garantir a sustentabilidade destas comunidades, conciliando o interesse do Estado.”
+
+No entanto, para a Comunidade Quilombola em estudo, após análise cartográfica
+do perímetro do imóvel delimitado foi possível verificar que a área identificada NÃO está
+sobreposta a Unidades de Conservação da Natureza.
+
+4.2.5- Da incidência de terrenos de marinha no território quilombola
+As terras que margeiam o Rio Pedreira e seus afluentes, e parte das áreas de
+várzea do território Quilombola sofrem influência do fenômeno das marés, donde se infere
+estarem situadas sobre terrenos de marinha (Decreto-Lei n° 9.760, de 05/09/1946).
+Apesar de não termos delimitado os terrenos de marinha que incidem sobre a
+comunidade quilombola, realizamos consulta à Superintendência do Patrimônio da União que
+nos encaminhou um mapa demonstrando os limites do território quilombola e as áreas
+presumidamente inundáveis por marés presentes no território, entretanto, somente após os
+procedimentos demarcatórios poderemos delimitar, com o rigor técnico-científico necessário,
+a proporção do território incidente sobre terrenos de marinha.
+Neste aspecto, o art. 18 da IN/INCRA n° 57/2009, bem como o art. 10 do Decreto
+nº 4.887/2003 estabelecem a competência para titulação das comunidades quilombolas
+quando incidirem em terrenos de marinha:
+“Art. 10. Quando as terras ocupadas por remanescentes das comunidades dos quilombos
+incidirem em terrenos de marinha, marginais de rios, ilhas e lagos, o INCRA e a Secretaria do
+Patrimônio da União tomarão as medidas cabíveis para a expedição do título.”
+
+47
+
+O mapa encaminhado pela SPU encontra-se representado na figura 36
+
+Figura 36: Mapa ilustrativo encaminhado pela SPU das áreas inundáveis no território do Ambé.
+
+4.2.6 Da inserção do território quilombola na Faixa de Fronteira
+Após análise cartográfica do perímetro do imóvel delimitado foi possível verificar
+que a área identificada não está inserida na Faixa de Fronteira, delimitada pela Constituição
+Federal a 150 km, definida como a linha imaginária constituída por uma faixa interna de
+terras que se estende de 0 a 150 Km paralelamente à linha divisória terrestre do território
+nacional com outros países e desde 1955 (Lei 2.597/55)
+
+4.2.7 Sobreposição com terras indígenas, áreas de segurança nacional, áreas do Estado e
+dos Municípios
+A análise cartográfica não identificou sobreposição do território quilombola com
+áreas de segurança nacional, terras indígenas ou pertencentes ao patrimônio estadual e
+municipal.
+
+48
+
+4.2.8 Da indicação da Reserva Legal
+A lei Nº 12.651, de 25 de maio de 2012 define reserva legal como área localizada
+no interior de uma propriedade ou posse rural, delimitada nos termos do art. 12, com a função
+de assegurar o uso econômico de modo sustentável dos recursos naturais do imóvel rural,
+auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da
+biodiversidade, bem como o abrigo e a proteção de fauna silvestre e da flora nativa.
+Para imóveis situados na Amazônia Legal, salvo algumas exceções previstas em
+lei, todo imóvel deve manter área com cobertura de vegetação nativa, a título de a reserva
+legal, seguindo os percentuais mínimos em relação à área do imóvel:
+“... 80% (oitenta por cento), no imóvel situado em área de florestas; 35% (trinta e cinco por
+cento), no imóvel situado em área de cerrado; 20% (vinte por cento), no imóvel situado em área
+de campos gerais.”
+
+O art. 14 da mencionada lei estabelece ainda os critérios para localização da área
+de reserva legal:
+A localização da área de Reserva Legal no imóvel rural deverá levar em consideração os seguintes
+estudos e critérios:
+I - o plano de bacia hidrográfica;
+II - o Zoneamento Ecológico-Econômico
+III - a formação de corredores ecológicos com outra Reserva Legal, com Área de Preservação
+Permanente, com Unidade de Conservação ou com outra área legalmente protegida;
+IV - as áreas de maior importância para a conservação da biodiversidade; e
+V - as áreas de maior fragilidade ambiental.
+
+Assim sendo, com base nos critérios para localização e consulta aos moradores da
+comunidade, indicamos a áreas mais ao sul do território que são áreas de campos e várzeas
+inundáveis próximas ao lago do Ambé e do Rio Pedreira, além disso, essas áreas apresentam
+maior fragilidade ambiental quando comparadas às áreas de “terra firme”.
+Enfatizamos para o fato de que a delimitação da área de reserva legal deverá ser
+realizada conjuntamente com o procedimento de demarcação topográfica da comunidade,
+levando em consideração as informações contidas no presente relatório, principalmente em
+relação à indicação das áreas ora apresentadas.
+
+49
+
+4.2.9 Da Sobreposição com a Comunidade São Pedro dos Bois
+Tramita também na Superintendência Regional do INCRA/AP o procedimento
+administrativo de regularização fundiária da Comunidade Quilombola de São Pedro dos Bois
+54350.000174/2006-25, cujo estudo Antropológico foi elaborado pela Antropóloga Maria do
+Socorro dos Santos Oliveira e encontra-se encartado entre às fls. 27 a 69 dos autos do referido
+processo. O capitulo “f” trata da proposta de delimitação territorial que indica, verbis:
+“A leste encontra-se o igarapé do Inferno que nasce no Igarapé do Lago que vem do rio Pedreira.
+Neste limite encontra-se a área que denominam campo destinado para agricultura familiar e o lago
+para criação de búfalo e peixes; A Norte é a entrada do ramal 50 na bifurcação com o ramal do
+Ambé; A sul encontra-se ressaca da Mangaba, do Campineiro e ressaca do Alegre, Mel da Pedreira,
+Santana dos Cavalos, todas estão do outro lado do Lago e do igarapé; A oeste localiza-se o
+Mururema, a Passagem do Lopes, começa no ramal do 50 e passa pelo Ambé, Ilha Grande, Pedreira
+e Mangaba.”
+
+Para a comunidade do Ambé a delimitação do território foi feita com base nas
+indicações do capítulo “V” do Relatório Antropológico que se encontra encartado nos autos
+do processo administrativo 54350.001368/2005-67 (INCRA) entre às fls. 484 e 488, que
+assim descreveu a área identificada, verbis:
+“Considerando todas as informações acima resultantes de mais de um ano de estudo e leituras tanto
+sobre a questão quilombola e sobre a comunidade do Ambé e seu entorno, concluímos que este
+Quilombo é seguramente um dos mais antigos do Amapá e com certeza do Norte do Brasil. Sua
+proposta de delimitação corresponde ao antigo território que era dividido em Ambé de Cima e Ambé
+de Baixo, o que comprova pelo menos dois momentos daquela ocupação. Para os quilombolas dali,
+que respeitam muito a memória de seus ancestrais e dos mais velhos, sua terra é tudo que herdaram.
+Após várias reuniões com a comunidade e com os seus vizinhos mais próximos conhecidos como
+Comunidade quilombola de São Pedro dos Bois, chegaram ao entendimento de que o território a ser
+delimitado como Quilombo do Ambé é o mesmo que consta no mais antigo dos títulos que
+identificamos datado de 28 de outubro de 1891 o qual trata dos limites ao sul, do lado de baixo com o
+Igarapé do Jacaré, ao norte, do lado de cima com o Igarapé do Peixe Boi que divisa com a Fazenda
+São Joaquim, pelos fundos está um lugar conhecido como Passagem do Lopes e limita-se com a
+Fazenda dos Bois (Quilombo de São Pedro dos Bois) através do Estirão do Jacaré.”
+
+Com base nas informações contidas em ambos os relatórios antropológicos, bem
+como nas informações de membros da comunidade do Ambé e São Pedro dos Bois e
+levantamentos de campo realizados foi possível elaborar a delimitação das duas comunidades
+quilombolas, ficando evidente que ambas pleiteiam algumas áreas em comum, ou seja, parte
+
+50
+
+do território reivindicado pela comunidade do Ambé (aproximadamente 2.450 ha) encontra-se
+sobreposto ao território reivindicado pela comunidade de São Pedro dos Bois, conforme pode
+ser observado na figura 37.
+
+Figura 37: Sobreposição entre as comunidades de São Pedro dos Bois e Ambé.
+
+Das ocupações existentes na região sobreposta
+Na região onde ocorre o conflito foram encontrados moradores tanto da
+comunidade do Ambé quanto moradores da comunidade São Pedro dos Bois, além de
+posseiros e proprietários não quilombolas. Os dados das ocupações são apresentados a seguir
+e resumidos na figura 38.
+
+51
+
+Figura 38. Mapa que representa a situação fundiária atual da região sobreposta entre as comunidades de Ambé e
+São Pedro dos Bois.
+
+a) Lote 147
+O lote 147 foi originalmente titulado em nome de João dos Prazeres Pereira
+através do Titulo de Domínio 401827/0361, o imóvel conta com área demarcada de 248,9262
+ha. Atualmente quem ocupa o imóvel é o Sr José Maria da Silva Neris, conhecido na região
+como “Zé Maria”. O Sr Zé Maria se declara como quilombola da comunidade São Pedro dos
+Bois.
+b) Lote 115
+O lote 15 foi originalmente titulado em nome do Sr Miguel Arcanjo de Souza
+Pereira através do Título de Domínio 401827/00205 com área demarcada de 99,7023 ha. O
+ocupante original vendeu o imóvel que atualmente é ocupado pelo Sr. Luis, representado pelo
+
+52
+
+seu preposto o Sr Raimundo dos Prazeres de Souza, que nos informou que ele vem
+esporadicamente ao imóvel. Não conseguimos contato com o Sr. Luis, mas verificamos que
+ele não é membro de nenhuma das comunidades quilombolas.
+c) Lote 116
+O lote 116 foi originalmente titulado em nome do Sra. Zolima Pereira Ramos
+Picanço (falecida) através do Título de Domínio 401827/00201 com área demarcada de
+127,8391 ha. Atualmente a área é ocupada por Bernardo CorneliusMartialJosaphat conhecido
+na região como Seu Iócio. O Sr. Bernardo se declara como membro da comunidade
+Quilombola do Ambé.
+d) Lote 63
+O lote 63 com área demarcada de 29,1950 hectares ainda não foi alienado em
+definitivo e atualmente se encontra sob posse do Sr. Feliciano Pereira Ramos Picanço, que se
+declara como membro da Comunidade Quilombola do Ambé.
+e) Lote 52
+O lote 52 com área demarcada de 47,7539 hectares ainda não foi alienado em
+definitivo e atualmente se encontra sob posse do Sr Manoel Conceição de Souza, conhecido
+na região como Seu Duca, ele se declara como membro da comunidade do Ambé, no entanto,
+não concorda com a titulação coletiva da área e pretende que seu imóvel seja regularizado em
+separado do restante da comunidade.
+f) Lote 51
+O lote 51 com área demarcada de 49,9947 hectares ainda não foi alienado em
+definitivo e encontra-se sob a posse do Sr. Benedito da Silva Picanço. O Sr Benedito não é
+membro de nenhuma das comunidades quilombolas.
+g) Lote 45
+O lote 45 com área demarcada de 96,0973 ha ainda não foi alienado em definitivo
+e encontra-se sob a posse do Sr João Correa Machado, o qual se declara como membro da
+comunidade do Ambé.
+h) Recanto dos Lagos
+O imóvel rural Recanto dos Lagos com área demarcada de 285,9586 ha é
+composto pelo remembramento de quatro imóveis rurais existentes na região, os lotes 42, 43 e
+
+53
+
+44 que não foram alienados em definitivo (posse em terra pública), e o lote 117 que foi
+originalmente titulado em nome de Raimundo de Souza dos Prazeres Pereira, o atual ocupante
+da área é a Sra. Sandra Aranha da Silva Pereira que não é membro de nenhuma das
+comunidades. Existem duas residências no imóvel, no entanto, em visitas realizadas no local
+não conseguimos encontrar o proprietário, ou mesmo alguém que o representasse.
+i) Lote 41
+O lote 41 foi originalmente titulado em nome do Sra. Maria da Conceição Souza
+dos Prazeres através dos Títulos de Domínio AP060700000119 com área de 64,4438 há.O
+ocupante atual é conhecido na região como Seu Didé, no entanto, não conseguimos encontrálo uma vez que o imóvel sempre estava fechado. Segundo informações de moradores da
+Comunidade do Ambé o Sr. Didé se declara como membro da comunidade de São Pedro dos
+Bois.
+j) Lote 20W e 21W
+Os imóveis em questão foram originalmente titulados em nome de Raimundo
+Ferreira Maciel e Marinalda Cardoso Maciel através dos Títulos de Domínio 215003/0118 e
+215003/0120 respectivamente (anexo V) com área de 87,4893 ha e 95,8264 ha
+respectivamente. Atualmente as áreas estão ocupadas pelo Sr. Max Weiser, que desenvolve
+atividades agrícolas no imóvel, notadamente no cultivo de grãos. O Sr Max Weiser não é
+membro de nenhuma das comunidades quilombolas.
+k) Fazenda Santana I e Fazenda Santana II (parte)
+Originalmente os dois imóveis haviam sido prometidos em venda ao Sr Mizael
+Pereira Santana através dos Contratos de Promessa de Compra e Venda N° 085383 e N°
+085382 de ambos de 05/05/1992, aparentemente tais contratos não chegaram a ser resolvidos
+uma vez que o Sr. Mizael Pereira Santana não é mais o ocupante dos imóveis. Atualmente
+estes imóveis estão sendo ocupados pelo Sr. Hilton dos Santos Teixeira que não é membro de
+nenhuma das comunidades. Apenas uma parte dos imóveis estão situados na região
+sobreposta.
+l) Posses não demarcadas
+Foram identificadas ainda algumas áreas de posse que não se encontravam
+demarcadas topograficamente (figura 38). Ocupam estas áreas o Sr. Antonio Pereira Barbosa,
+
+54
+
+que se declara como membro da comunidade do Ambé, o Sr Raimundo dos Prazeres de
+Souza, que se declara como membro da comunidade São Pedro dos Bois.
+
+Da tentativa de conciliação
+O conflito relacionado ao limite entre as duas comunidades é bastante antigo e até
+a conclusão deste relatório não foi possível um entendimento entre elas. Os moradores da
+comunidade São Pedro dos Bois entendem que o limite entre os territórios é o Igarapé do
+Inferno, já os moradores da comunidade do Ambé entendem que o limite é uma linha seca
+entre a localidade denominada Passagem do Lopes até o local conhecido como Estirão do
+Jacaré. Assim realizamos reuniões com as duas comunidades para verificar a possibilidade de
+conciliação para o estabelecimento de comum acordo de um limite entre os territórios.
+A comunidade do Ambé apresentou sua proposta para conciliação em reunião
+realizada em 14 de março de 2017, descrevendo os limites detalhadamente conforme consta
+na ata da reunião constante no anexo VI.
+A equipe desta Autarquia levou a proposta de conciliação ao conhecimento da
+comunidade de São Pedro dos Bois em 24 de abril 2017, a qual discordou em parte da
+descrição territorial apresentada pela comunidade do Ambé, apenas aceitando excluir de seu
+território as áreas atualmente ocupadas por moradores que se declaram da comunidade do
+Ambé, ou seja, o lote 45 ocupado por João Correa Machado, lote 52 sob a posse do Sr Manoel
+Conceição de Souza, lote 116 sob a propriedade de Cornelius Martial Josaphat e o lote 63 sob
+a posse de Feliciano Pereira Ramos Picanço. A descrição detalhada da proposta de
+conciliação apresentada pelos moradores da comunidade São Pedro dos Bois pode ser
+observada na Ata da reunião constante no anexo VI.
+A figura 39 apresenta a comparação entre as duas propostas e demonstra que
+mesmo após as tentativas de solução para o caso ainda permanece sobreposição dos territórios
+reivindicados pelas duas comunidades quilombolas.
+
+55
+
+Figura 39. Mapa que representa a situação fundiária atual da região sobreposta entre as comunidades de Ambé e
+São Pedro dos Bois.
+
+5. IDENTIFICAÇÃO DOS OCUPANTES DO TERRITÓRIO QUILOMBOLA
+5.1- Ocupantes quilombolas cadastrados
+No território foram identificadas e cadastradas 53 famílias quilombolas (Tabela
+5). Os moradores da Comunidade relatam que diversas famílias migraram para a sede do
+município de Macapá, alguns para acompanhar seus filhos que atingiram idade escolar e
+outros buscando alternativas para uma melhor condição de vida devido às dificuldades,
+principalmente relacionadas à geração de emprego e renda. Atualmente, com a regularização
+do território como comunidade quilombola, a comunidade vive uma expectativa de retorno de
+várias famílias para o território.
+
+56
+
+Devido ao movimento migratório das famílias para o município de Macapá
+algumas famílias quilombolas não foram encontradas e deixaram de ser cadastradas, essas
+famílias poderão ser cadastradas posteriormente desde que com consentimento da
+Comunidade representada pela Associação de Moradores.
+As fichas cadastrais devidamente preenchidas encontram-se encartadas nos autos
+doprocesso administrativo INCRA 54350.001368/2005-67entre as fls. 528 a 578.
+
+Tabela 1. Relação dos ocupantes quilombolas cadastrados
+NOME
+
+NOME DA MÃE
+
+ESTADO CIVIL
+
+CPF
+
+D.N
+
+Zenaide Camozzi Sanches
+
+Casado
+
+022.247.999-00
+
+09/02/1974
+
+Eulália dos Santos Vale
+
+Casado
+
+415.861.582-87
+
+11/10/1972
+
+01
+
+Celiane Aparecida
+NabarroWeiser
+
+02
+
+Domingos Vale
+dos Prazeres
+
+03
+
+Maria Lina Pereira
+Macedo
+
+Hilário Macedo
+
+Casado
+
+092.631.012-72
+
+20/02/1945
+
+04
+
+Maria de Loudes
+Pereira dos Santos
+
+Marcos Freitas dos Santos
+
+Casado
+
+226.313.992-34
+
+05/05/1948
+
+05
+
+Ivo Vale dos
+Prazeres
+
+Marinalva dos Anjos Trindade
+
+Casado
+
+594.904.622-68
+
+12/03/1976
+
+06
+
+Raimundo Hilario
+Ferreira
+
+Geana do Socorro Machado
+Navegante
+
+Casado
+
+163.772.572-87
+
+19/10/1962
+
+07
+
+Ana Maria
+Picanço Pereira
+
+Josefa Picanço Pereira
+
+Solteiro
+
+061.586.412-00
+
+03/04/1956
+
+08
+
+Oniscia Claudino
+Picanço
+
+Nazaré dos Santos e Silva
+
+Viúvo
+
+132.893.732-15
+
+14/07/1937
+
+09
+
+Hercilia Picanço
+Josaphát
+
+Joaquina Picanço Josaphát
+
+Casado
+
+432.375.412-49
+
+04/01/1973
+
+10
+
+Gertrudes Pereira
+de Barros da Costa
+
+Mariana Souza Pereira de
+Barros
+
+Casado
+
+060.044.822-34
+
+30/10/1953
+
+11
+
+Mariana Souza
+Pereira de Barros
+
+Joaquina Borges de Souza
+Pereira
+
+Viúvo
+
+059.098.052-15
+
+03/11/1925
+
+12
+
+Antonio José
+Coutinho Pereira
+
+Maria Lima Coutinho Pereira
+
+Solteiro
+
+207.274.102-53
+
+13/02/1967
+
+13
+
+Uaci Rômulo
+Picanço da Silva
+
+Elzarima Picanço da Silva
+
+Solteiro
+
+264.045.322-04
+
+28/12/1969
+
+14
+
+Antonio Pereira
+Barbosa
+
+Castorina Monteiro
+
+Casado
+
+014.016.022-15
+
+13/07/1945
+
+Raimunda Corrêa Machado
+
+Casado
+
+650.718.162-53
+
+20/10/1961
+
+Januária Soares
+
+Casado
+
+RG.132895
+
+10/04/1965
+
+Maria de Nazaré
+15 Correa Machado
+Pereira
+16
+
+Maria Anisia
+Soares dos Santos
+
+57
+Carlos Henrique
+17 dos Prazeres dos
+Santos
+
+Maria Edite dos Prazeres
+
+Casado
+
+--------------
+
+------------
+
+18
+
+Enedino Picanço
+Pereira
+
+Lucinda Ferreira Picanço
+
+Separado
+
+433.141.552-04
+
+02/12/1955
+
+19
+
+Francisco Ramos
+Picanço
+
+Zolima Pereira Ramos
+Picanço
+
+Casado
+
+067.616.312-20
+
+03/12/1942
+
+20
+
+Feliciano Pereira
+Ramos Picanço
+
+Zolima Pereira Ramos
+
+Casado
+
+226.017.082-04
+
+05/10/1952
+
+21
+
+José Paulo de
+Souza Pereira
+
+Maria Sabina Pereira de Souza
+
+Solteiro
+
+432.258.452-72
+
+18/08/1973
+
+Jorgete Navegante
+
+Solteira
+
+868.420.052-72
+
+17/07/1986
+
+Raimunda Corrêa Machado
+
+Viúvo
+
+433.141.472-87
+
+24/07/1959
+
+Maria Conceição da Silva
+Picanço
+
+Solteiro
+
+967.169.752-68
+
+14/05/1985
+
+Raully Frank
+22 Navegante
+Picanço
+23
+
+João Correa
+Machado
+
+24
+
+Marlucio da Silva
+Picanço
+
+25
+
+Francisco Silva
+dos Santos
+
+Maria de Nazaré Silva
+
+Casado
+
+606.134.402-34
+
+22/10/1958
+
+26
+
+Raimundo dos
+Prazeres Pereira
+
+Raimunda dos Prazeres da
+Silva
+
+Casado
+
+060.026.252-91
+
+26/04/1945
+
+27
+
+José Roberto
+Cirilo de Souza
+
+Ainda de Souza Cirilo
+
+Casado
+
+627.670.462-87
+
+03/11/1969
+
+28
+
+Raimundo Nonato
+Pereira Costa
+
+Maria Iomésia Pereira
+
+Separado
+
+------------------
+
+14/10/1950
+
+29
+
+Abimael Teixeira
+Maciel
+
+Maria Francisca Teixeira
+
+Casado
+
+606.415.922-72
+
+05/09/1971
+
+30
+
+Henrique dos
+Santos
+
+Terezinha dos Santos
+
+Casado
+
+342.128.842-91
+
+14/07/1954
+
+31
+
+Raimunda da Silva
+Picanço
+
+Ambrozia Ferreira da Silva
+
+Viúvo
+
+RG.49581
+
+31/08/1949
+
+32
+
+Felipe José
+Picanço Josaphát
+
+Joaquina Picanço Josaphát
+
+Solteiro
+
+599.659.082-49
+
+04/12/1976
+
+33
+
+José de Souza
+Pereira
+
+Raimunda Lima de Souza
+Pereira
+
+Casado
+
+015.632.202-10
+
+17/03/1940
+
+34
+
+Joice Cirilo
+Machado
+
+Maria do Socorro de Souza
+Cirilo Machado
+
+Solteiro
+
+779.944.502-53
+
+22/04/1982
+
+Maria GaldinaNeris
+
+Separado
+
+433.141.202-49
+
+12/07/1945
+
+36 Eulalia dos Vale
+
+Maria Caridade dos Santos
+
+Viúvo
+
+615.810.382-91
+
+10/12/1973
+
+37
+
+Waldeni da Silva
+Pereira
+
+Raimunda dos Prazeres da
+Silva
+
+Solteiro
+
+179.835.842-53
+
+14/09/1960
+
+38
+
+Ednelson José
+Cardoso Pereira
+
+Izabel Nogueira Cardoso
+
+Solteiro
+
+182.321.752-49
+
+17/01/1964
+
+35 João Neris
+
+58
+
+39
+
+José Abdon dos
+Prazeres Pereira
+
+Maria Madalena
+40 Picanço
+Damasceno
+
+Raimunda dos Prazeres
+
+Casado
+
+044.302.202-04
+
+15/09/1947
+
+Balbina de Souza Picanço
+
+Separado
+
+112.817.822-20
+
+23/10/1948
+
+41
+
+Francisco Flavio
+da Silva Pereira
+
+---------------------------
+
+-----------------
+
+----------------
+
+-------------
+
+42
+
+João dos Prazeres
+Pereira
+
+--------------------------
+
+-----------------
+
+----------------
+
+------------
+
+43
+
+Manoel Lucas
+Picanço Pereira
+
+Lucinda Ferreira Picanço
+
+Solteiro
+
+715.050.402-72
+
+10/07/1961
+
+44
+
+Maria Andreia dos
+Santos Vale
+
+Elalia dos Santos
+
+Solteiro
+
+963.157.332-04
+
+10/11/1981
+
+45
+
+Geraldo Claudino
+Picanço
+
+Oniscia Claudino
+
+Solteiro
+
+209.901.462-00
+
+28/01/1965
+
+Joaquina Borges de Souza
+Pereira
+
+Viúvo
+
+059.098.132-34
+
+19/09/1917
+
+Domingas de
+46 Souza Pereira
+Picanço
+47
+
+Pedro Coutinho
+Pereira
+
+Josefa Coutinho Pereira
+
+Casado
+
+023.341.512-20
+
+11/05/1947
+
+48
+
+Joaquina Picanço
+Josaphat
+
+Izolina Pereira Picanço
+
+Casado
+
+098.457.392-53
+
+28/03/1947
+
+49
+
+Maria de Nazaré
+Picanço Ramos
+
+Izolina Pereira Picanço
+
+Viúvo
+
+433.612.002-10
+
+08/09/1948
+
+50
+
+José Vale dos
+Prazeres
+
+Eulália dos Santos Vale
+
+Solteiro
+
+324.752.842-34
+
+30/05/1970
+
+51
+
+América Vale dos
+Prazeres
+
+Eulália dos Santos Vale
+
+Solteiro
+
+432.101.632-00
+
+06/08/1974
+
+52
+
+Joel Coutinho
+Picanço
+
+Maria Coutinho Picanço
+
+Casado
+
+209.755.462-87
+
+01/03/1966
+
+Maria Antonia da Silva
+Picanço
+
+Casado
+
+674.124.162-00
+
+18/10/1953
+
+Laudegário
+53 Gonçalves
+Picanço
+
+5.2- Ocupantes não quilombolas
+Os ocupantes não quilombolas, bem como àqueles que sendo quilombolas
+manifestaram discordância com o processo estão devidamente caracterizado no estudo
+fundiário, em especial no item “4.2.2. Das áreas de domínio privado incidentes no territórioe
+o item 4.2.3 Das posses em terra pública existentes no território”.
+
+59
+
+6. PLANTA E MEMORIAL DESCRITIVO DO TERRITÓRIO IDENTIFICADO
+A planta e memorial descritivo foram elaboradas pelo técnico em estradas Geraldo
+Picanço de Lima com base na delimitação contida no Relatório Antropológico e no
+Levantamento Fundiário, as peças técnicas encontram-se no anexo I.
+
+7. CONCLUSÕES
+O território identificado e delimitado para reconhecimento do domínio como terras da
+comunidade quilombola do Ambé, do ponto de vista fundiário compreende a uma área de
+
+14.105,8970 (quatorze mil e cento e cinco hectares oitenta e nove ares e setenta centiares) e
+perímetro aproximado de 64.229,5299 metros.
+Não foi identificada a incidência do território sobre terras indígenas, áreas de
+segurança nacional, terras municipais, estaduais ou unidades de conservação, encontrando-se o
+território, na sua integralidade, inserido dentro da Gleba AD-04 arrecadada e matriculada em
+nome da União Federal, no entanto, parte da área identificada já foi alienada a terceiros através de
+títulos de domínio expedidos pelo poder público em ações de regularização fundiária promovidas
+especialmente pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA. Sendo ainda
+identificado incidência no território de terrenos de marinha.
+Quanto aos ocupantes do território foram identificadas 53 famílias quilombolas, cujos
+cadastros encontram-se nos autos do processo54350.000236/90-61.
+Foram encontrados 78 ocupantes não quilombolas que possuem imóveis no território
+pleiteado pela comunidade do Ambé, destes 53 são posses em terra pública e 25 são propriedades
+particulares com títulos de domínio expedidos pelo poder público.
+Parte do território reivindicado pela comunidade do Ambé (aproximadamente 2.500
+ha) encontra-se sobreposto ao território reivindicado pela comunidade de São Pedro dos Bois,
+forma realizadas reuniões com as duas comunidades como tentativas de conciliação, no entanto,
+as comunidades ainda não chegaram a um acordo em relação a área sobreposta.
+No curso do procedimento com vistas ao reconhecimento do domínio quilombola
+deve-se buscar entendimentos com o Serviço de Patrimônio da União – SPU, em razão da
+incidência no território de terrenos de marinha.
+
+60
+
+8- REFERÊNCIAS BIBLIOGRÁFICAS
+3. BEZERRA, P. E. L.; OLIVEIRA, W.; REGIS, W. D. E.; BRAZÃO, J. E. M.; GAVINHO,
+I.; COUTINHO, R. C. P. Amazônia Legal: zoneamento das potencialidades e dos recursos
+naturais. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA & SUDAM.
+Projeto zoneamento das potencialidades dos recursos naturais da Amazônia Legal:
+geologia, solos e vegetação. Rio de Janeiro, [s.n.] p. 9-89, 1990.
+4. BRASIL. Constituição da República Federativa do Brasil. Brasília, Senado, 1988.
+5. _______. Decreto nº 4.887 de 20 de novembro de 2.003. Regulamenta o procedimento
+para identificação, reconhecimento, delimitação, demarcação e titulação das terras ocupadas
+por remanescentes das comunidades dos quilombos de que trata o art. 68 do Ato das
+Disposições Constitucionais Transitórias. 2003.
+6. _______. Lei 10.406, de 10 de Janeiro de 2002. Código Civil.
+7._______. Lei nº 9.985 de 18 de julho de 2000. Institui o Sistema Nacional de Unidades
+de Conservação da Natureza – SNUC. Brasília. http://www.planalto.gov.br/ccivil_03/leis/l9985.htm.
+Acesso em 28.02.2013.
+8. CPTEC - Centro de Previsão do Tempo e Estudos Climáticos. 2012. Dados
+observacionais. Disponível em: <http://www.cptec.inpe.br/dados_observados>. Acesso em: 25 jan.
+2013.
+9. Fundação Marco Zero – Fundação Universidade Federal do Amapá. Relatório
+Antropológico
+
+de
+
+Caracterização
+
+Histórica,
+
+Econômica
+
+e
+
+Sócio-Cultural
+
+da
+
+Comunidade Ambé: Macapá, 2012.
+10. GODOY, L. S. “Os Pressupostos Jurídicos para Regularização Fundiária das Áreas
+Remanescentes de Comunidades Quilombolas”. Quilombos em São Paulo – tradições,
+direitos e lutas, São Paulo: ITESP, 1997: p. 63-68.
+11. GOMES, F. S. Fronteiras e Mocambos: o protesto negro na Guiana Brasileira. In: Gomes,
+Flávio dos Santos (org.). Nas Terras do cabo Norte: fronteiras, colonização e escravidão
+na Guiana Brasileira (séculos XVIII/XIX). Belém: Editora Universitária/UFPA, 1999. 225407p.
+12. IBGE - Instituto Brasileiro de Geografia e Estatística. Censo Demográfico 2010. Rio de
+Janeiro, 2010. Disponível em: <http://censo2010.ibge.gov.br>. Acesso em: 25 mar. 2013.
+13. INCRA. Instrução Normativa nº 57 de 20 de outubro de 2009. Regulamenta os
+procedimentos para identificação, reconhecimento, delimitação, demarcação, desintrusão,
+
+61
+
+titulação e registro de terras ocupadas por remanescentes das comunidades dos quilombos de
+que tratam o Art. 68 do Ato das Disposições Transitórias da Constituição Federal de 1.988 e o
+Decreto nº 4.887, de 20 de novembro de 2003.
+14. _______. Processo administrativo n°.21400.002163/95-00, 1995
+16. LEITE, P. F.; VELOSO, H. P.; GÓES-FILHO, L. Vegetação: as regiões fitoecológicas,
+sua natureza e seus recursos econômicos. Estudo fitogeográfico. In: FOLHA NA/NB.22
+Macapá. Rio de Janeiro: Projeto RADAM, 1974. (Levantamento de Recursos Naturais, 6).
+Paginação irregular.
+
+62
+
+ANEXOS
+
+

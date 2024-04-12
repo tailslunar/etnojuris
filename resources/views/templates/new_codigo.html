@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuperação de Senha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #BA5A36;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #FFFFFF;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+        .code-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .code-box {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background-color: #BA5A36;
+            font-size: 24px;
+            color: #FFFFFF;
+            text-align: center;
+            line-height: 40px;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Recuperação de Senha</h1>
+        <p>Olá, ###NAME_POINTER###</p>
+        <p>Você solicitou a recuperação de senha para a sua conta na EtnoJuris. Abaixo está o código de recuperação de 6 dígitos:</p>
+
+        <div class="code-container">
+            <div class="code-box">###CODE_POINTER_1###</div>
+            <div class="code-box">###CODE_POINTER_2###</div>
+            <div class="code-box">###CODE_POINTER_3###</div>
+            <div class="code-box">###CODE_POINTER_4###</div>
+            <div class="code-box">###CODE_POINTER_5###</div>
+            <div class="code-box">###CODE_POINTER_6###</div>
+        </div>
+
+        <p>Utilize este código para redefinir a sua senha. Se você não solicitou esta recuperação, ignore este e-mail.</p>
+
+        <p>Atenciosamente,</p>
+        <p class="signature">Equipe da EtnoJuris</p>
+
+        <img src='https://docs.google.com/uc?id=1mwghEwQIVxul0ZRuKdzGrcoVYz2tQ7YQ'>
+    </div>
+</body>
+</html>

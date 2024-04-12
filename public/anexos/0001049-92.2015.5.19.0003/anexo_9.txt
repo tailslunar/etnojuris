@@ -1,0 +1,1403 @@
+Poder Judiciário
+Justiça do Trabalho da 19ª Região
+
+Período do Calculo: 04/02/2015
+
+Processo 0001049-92.2015.5.19.0003
+Cálculo
+0561.2016.0003
+
+JurisCalc - Demonstrativo de Cálculo
+JOSE ERNESTO BEZERRA SANTOS x COOPERATIVA MIXTA DA AGRICULTURA
+Data Ajuizamento: 30/07/2015
+28/07/2015
+
+Data Liquidação:
+
+30/06/2016
+
+Período de 04/02/2015 a 28/07/2015
+
+SALÁRIO RETIDO
+
+Incide sobre INSS IRRF
+
+( ( Base 1 / 1,00 ) x 1,00 ) x Quantidade
+Período Mensal
+
+1 a 31/05/2015
+1 a 30/06/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+1.085,50
+
+1,00
+1,00
+
+1,00
+1,00
+
+1,00
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+Calculado
+
+Pago
+
+(30/30)
+
+Não
+
+30/30
+
+(30/30)
+
+Não
+
+30/30
+
+1.085,50
+1.085,50
+
+0,00
+0,00
+
+Índice
+
+Valor Corr.
+
+1.085,50 1,022802
+1.085,50 1,020951
+
+Diferença
+
+1.110,25
+1.108,24
+2,218.49
+
+Período de 04/02/2015 a 28/07/2015
+
+DIFERENÇA SALARIAL
+
+Incide sobre INSS IRRF
+
+( ( Base 1 / 1,00 ) x 1,00 ) x Quantidade
+Período Mensal
+
+4
+1
+1
+1
+
+a
+a
+a
+a
+
+28/02/2015
+31/03/2015
+30/04/2015
+28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+185,50
+185,50
+185,50
+185,50
+
+1,00
+1,00
+1,00
+1,00
+
+1,00
+1,00
+1,00
+1,00
+
+1,00
+1,00
+1,00
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+185,50
+185,50
+185,50
+185,50
+
+Pago
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+0,00
+0,00
+0,00
+0,00
+
+185,50
+185,50
+185,50
+185,50
+
+1,026410
+1,025082
+1,023982
+1,018604
+
+190,40
+190,15
+189,95
+188,95
+759.45
+
+Período de 04/02/2015 a 28/07/2015
+
+HORAS EXTRAS 50%
+
+Incide sobre INSS IRRF
+
+( ( Base 1 / Carga Horária ) x Percentual de Horas Extras ) x Quantidade
+Período Mensal
+
+4
+1
+1
+1
+1
+1
+
+a
+a
+a
+a
+a
+a
+
+28/02/2015
+31/03/2015
+30/04/2015
+31/05/2015
+30/06/2015
+28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+
+220,00
+220,00
+220,00
+220,00
+220,00
+220,00
+
+1,50
+1,50
+1,50
+1,50
+1,50
+1,50
+
+23,00
+40,00
+33,00
+39,00
+34,00
+37,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+170,23
+296,05
+244,24
+288,64
+251,64
+273,84
+
+Pago
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+170,23
+296,05
+244,24
+288,64
+251,64
+273,84
+
+1,026410
+1,025082
+1,023982
+1,022802
+1,020951
+1,018604
+
+174,72
+303,47
+250,09
+295,23
+256,91
+278,94
+1,559.36
+
+Período de 04/02/2015 a 28/07/2015
+
+REFLEXO HORAS EXTRAS 50% NO AVISO PRÉVIO
+
+Não há incidências
+
+( ( Reflexos / 30,00 ) x 30,00 ) x Quantidade
+Mult
+
+Qtde
+
+254,11
+30,00
+1 a 28/07/2015
+Assinado eletronicamente.
+A Certificação Digital pertence a: ROUSE
+VILAR OLIVEIRA
+DE LIMA 30,00
+
+Período Mensal
+
+Base
+
+Div
+
+1,00
+
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16070414183152500000004353114
+Número
+processo: RTOrd-0001049-92.2015.5.19.0003
+Relatóriodo
+Demonstrativo
+- Ultima Atualização 31/JAN/2014 - Formatado para papel A4
+Número do documento: 16070414183152500000004353114
+Data de Juntada: 04/07/2016 14:18
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+254,11
+
+Folha 01 de 03
+
+Pago
+
+0,00
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+254,11 1,018604
+
+258,84
+
+6.0 R12 C12 (04/07/2016 10:10:04) JOSE.OLIVEIRA
+
+ID. e93db1f - Pág. 1
+
+Período do Calculo: 04/02/2015
+
+JOSE ERNESTO BEZERRA SANTOS x COOPERATIVA MIXTA DA AGRICULTURA
+Data Ajuizamento: 30/07/2015
+28/07/2015
+
+Data Liquidação:
+
+30/06/2016
+
+Período de 04/02/2015 a 28/07/2015
+
+REFLEXO HORAS EXTRAS 50% NO 13º SALÁRIO
+
+Incide sobre INSS IRRF
+
+( ( Reflexos / 12,00 ) x 1,00 ) x Quantidade
+Período Mensal
+
+1 a 28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+254,11
+
+12,00
+
+1,00
+
+7,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+148,23
+
+Pago
+
+0,00
+
+Diferença
+
+Índice
+
+148,23 1,018604
+
+Valor Corr.
+
+150,99
+150.99
+
+Período de 04/02/2015 a 28/07/2015
+
+REFLEXO HORAS EXTRAS 50% NAS FÉRIAS + 1/3
+
+Incide sobre INSS IRRF
+
+( ( Reflexos / 12,00 ) x 1,33 ) x Quantidade
+Período Mensal
+
+1 a 28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+254,11
+
+12,00
+
+1,33
+
+7,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+197,64
+
+Pago
+
+0,00
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+197,64 1,018604
+
+201,32
+201.32
+
+Período de 04/02/2015 a 28/07/2015
+
+REFLEXO HORAS EXTRAS 50% NO R.S.R.
+
+Incide sobre INSS IRRF
+
+( ( Reflexos / Dias Úteis ) x Repousos e Feriados ) x Quantidade
+Período Mensal
+
+4
+1
+1
+1
+1
+1
+
+a
+a
+a
+a
+a
+a
+
+28/02/2015
+31/03/2015
+30/04/2015
+31/05/2015
+30/06/2015
+28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+170,23
+296,05
+244,24
+288,64
+251,64
+273,84
+
+21,00
+26,00
+24,00
+25,00
+25,00
+24,00
+
+4,00
+5,00
+6,00
+6,00
+5,00
+4,00
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+32,42
+56,93
+61,06
+69,27
+50,33
+45,64
+
+Pago
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+32,42
+56,93
+61,06
+69,27
+50,33
+45,64
+
+1,026410
+1,025082
+1,023982
+1,022802
+1,020951
+1,018604
+
+33,28
+58,36
+62,52
+70,85
+51,38
+46,49
+322.88
+
+Período de 04/02/2015 a 28/07/2015
+
+REFLEXO HORAS EXTRAS 50% NO FGTS
+
+Não há incidências
+
+( ( Reflexos / 1,00 ) x Percentual do FGTS ) x Quantidade
+Período Mensal
+
+4
+1
+1
+1
+1
+1
+
+a
+a
+a
+a
+a
+a
+
+28/02/2015
+31/03/2015
+30/04/2015
+31/05/2015
+30/06/2015
+28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+170,23
+296,05
+244,24
+288,64
+251,64
+273,84
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+0,08
+0,08
+0,08
+0,08
+0,08
+0,08
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+13,62
+23,68
+19,54
+23,09
+20,13
+21,91
+
+Pago
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+13,62
+23,68
+19,54
+23,09
+20,13
+21,91
+
+1,026410
+1,025082
+1,023982
+1,022802
+1,020951
+1,018604
+
+13,98
+24,28
+20,01
+23,62
+20,55
+22,31
+124.75
+
+Assinado eletronicamente. A Certificação Digital pertence a: ROUSE VILAR OLIVEIRA DE LIMA
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16070414183152500000004353114
+Número
+processo: RTOrd-0001049-92.2015.5.19.0003
+Relatóriodo
+Demonstrativo
+- Ultima Atualização 31/JAN/2014 - Formatado para papel A4
+Número do documento: 16070414183152500000004353114
+Data de Juntada: 04/07/2016 14:18
+
+Folha 02 de 03
+
+6.0 R12 C12 (04/07/2016 10:10:04) JOSE.OLIVEIRA
+
+ID. e93db1f - Pág. 2
+
+Período do Calculo: 04/02/2015
+
+JOSE ERNESTO BEZERRA SANTOS x COOPERATIVA MIXTA DA AGRICULTURA
+Data Ajuizamento: 30/07/2015
+28/07/2015
+
+Data Liquidação:
+
+30/06/2016
+
+Período de 04/02/2015 a 28/07/2015
+
+AVISO PRÉVIO
+
+Não há incidências
+
+( ( Maior Remuneração / 30,00 ) x 30,00 ) x Quantidade
+Período Mensal
+
+1 a 28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+
+30,00
+
+30,00
+
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+Calculado
+
+Pago
+
+Não
+
+Não
+
+30/30
+
+1.085,50
+
+0,00
+
+Índice
+
+Valor Corr.
+
+1.085,50 1,018604
+
+Diferença
+
+1.105,69
+1,105.69
+
+Período de 04/02/2015 a 28/07/2015
+
+13º SALÁRIO
+
+Incide sobre INSS IRRF
+
+( ( Base 1 / 12,00 ) x 1,00 ) x Quantidade
+Período Mensal
+
+1 a 28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+
+12,00
+
+1,00
+
+7,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+633,21
+
+Pago
+
+0,00
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+633,21 1,018604
+
+644,99
+644.99
+
+Período de 04/02/2015 a 28/07/2015
+
+FÉRIAS + 1/3
+
+Não há incidências
+
+( ( Base 1 / 12,00 ) x 1,33 ) x Quantidade
+Período Mensal
+
+1 a 28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+
+12,00
+
+1,33
+
+7,00
+
+Prop
+
+Dobra
+
+Dias
+
+Não
+
+Não
+
+30/30
+
+Calculado
+
+844,28
+
+Pago
+
+0,00
+
+Diferença
+
+Índice
+
+844,28 1,018604
+
+Valor Corr.
+
+859,98
+859.98
+
+Período de 04/02/2015 a 28/07/2015
+
+FGTS
+
+Não há incidências
+
+( ( Base 1 / 1,00 ) x Percentual do FGTS ) x Quantidade
+Período Mensal
+
+4
+1
+1
+1
+1
+1
+
+a
+a
+a
+a
+a
+a
+
+28/02/2015
+31/03/2015
+30/04/2015
+31/05/2015
+30/06/2015
+28/07/2015
+
+Base
+
+Div
+
+Mult
+
+Qtde
+
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+1.085,50
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+0,08
+0,08
+0,08
+0,08
+0,08
+0,08
+
+1,00
+1,00
+1,00
+1,00
+1,00
+1,00
+
+Prop
+
+Dobra
+
+Dias
+
+(25/30)
+
+Não
+
+30/30
+
+(30/30)
+
+Não
+
+30/30
+
+(30/30)
+
+Não
+
+30/30
+
+(30/30)
+
+Não
+
+30/30
+
+(30/30)
+
+Não
+
+30/30
+
+(28/30)
+
+Não
+
+30/30
+
+Calculado
+
+72,37
+86,84
+86,84
+86,84
+86,84
+81,05
+
+Pago
+
+Diferença
+
+Índice
+
+Valor Corr.
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+72,37
+86,84
+86,84
+86,84
+86,84
+81,05
+
+1,026410
+1,025082
+1,023982
+1,022802
+1,020951
+1,018604
+
+74,28
+89,02
+88,92
+88,82
+88,66
+82,56
+512.26
+
+Assinado eletronicamente. A Certificação Digital pertence a: ROUSE VILAR OLIVEIRA DE LIMA
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16070414183152500000004353114
+Número
+processo: RTOrd-0001049-92.2015.5.19.0003
+Relatóriodo
+Demonstrativo
+- Ultima Atualização 31/JAN/2014 - Formatado para papel A4
+Número do documento: 16070414183152500000004353114
+Data de Juntada: 04/07/2016 14:18
+
+Folha 03 de 03
+
+6.0 R12 C12 (04/07/2016 10:10:04) JOSE.OLIVEIRA
+
+ID. e93db1f - Pág. 3
+
+Poder Judiciário
+Justiça do Trabalho da 19ª Região
+
+Processo 0001049-92.2015.5.19.0003
+Cálculo
+0561.2016.0003
+
+JurisCalc - Resumo do Demonstrativo do Cálculo
+JOSE ERNESTO BEZERRA SANTOS x COOPERATIVA MIXTA DA AGRICULTURA
+
+SALÁRIO RETIDO
+DIFERENÇA SALARIAL
+HORAS EXTRAS 50%
+REFLEXO HORAS EXTRAS
+REFLEXO HORAS EXTRAS
+REFLEXO HORAS EXTRAS
+REFLEXO HORAS EXTRAS
+REFLEXO HORAS EXTRAS
+AVISO PRÉVIO
+13º SALÁRIO
+FÉRIAS + 1/3
+FGTS
+MULTA SOBRE FGTS
+
+50%
+50%
+50%
+50%
+50%
+
+2.218,49
+759,45
+1.559,36
+258,84
+150,99
+201,32
+322,88
+124,75
+1.105,69
+644,99
+859,98
+512,26
+254,80
+
+NO AVISO PRÉVIO
+NO 13º SALÁRIO
+NAS FÉRIAS + 1/3
+NO R.S.R.
+NO FGTS
+
+Principal Corrigido
+FGTS (8%) + Reflexos - Pago
+Multa FGTS + Reflexos
+40,00
+Juros de Mora sobre Principal
+Juros de Mora sobre FGTS
+Bruto devido ao Reclamante (1)
+
+8.081,99
+637,01
+254,80
+891,72
+98,40
+9.963,92
+
+INSS devido pelo Reclamado
+Contribuição Social (Multa FGTS 10%)
+Contribuição Social 0,5%
+Outros débitos do reclamado (3)
+
+1.300,91
+0,00
+0,00
+1.300,91
+
+Total Parcial
+
+9.963,92
+0,00
+0,00
+467,26
+0,00
+9.496,66
+
+INSS Segurado
+INSS Empresa
+
+467,26
+1.300,91
+
+23,00
+
+Total devido ao INSS
+
+1.768,17
+
+Base de cálculo IRRF
+IRRF do Reclamante
+
+5.188,90
+0,00
+
+11.264,83
+
+Custas de Conhecimento
+Custas de Liquidação
+Custas pelo Reclamado (4)
+Total devido pelo Reclamado (1+2+3+4)
+
+Bruto devido ao Reclamante
+Depósito FGTS + Juros de Mora
+Honorários devidos a terceiros
+INSS devido pelo Reclamante
+IRRF do Reclamante
+Líquido devido ao Reclamante (5)
+
+199,28
+0,00
+199,28
+11.464,11
+
+Assinado eletronicamente. A Certificação Digital pertence a: ROUSE VILAR OLIVEIRA DE LIMA
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16070414183152500000004353114
+Número do processo: RTOrd-0001049-92.2015.5.19.0003
+Número do documento: 16070414183152500000004353114
+Data de Juntada: 04/07/2016 14:18
+
+6.0 R12 C12 (04/07/2016 10:10:04) JOSE.OLIVEIRA
+
+Relatório Resumo - Ultima Atualização em 21/SET/2015 - Formatado para papel A4
+
+ID. e93db1f - Pág. 4
+
+Poder Judiciário
+Justiça do Trabalho da 19ª Região
+
+Processo 0001049-92.2015.5.19.0003
+Cálculo
+0561.2016.0003
+
+JurisCalc - Resumo do Demonstrativo do Cálculo
+JOSE ERNESTO BEZERRA SANTOS x COOPERATIVA MIXTA DA AGRICULTURA
+Valores corrigidos pelo índice TR Mensal
+Base das custas processuais = Bruto devido ao reclamante
+Percentual de Parcelas Remuneratórias: 63,03 %
+
+Assinado eletronicamente. A Certificação Digital pertence a: ROUSE VILAR OLIVEIRA DE LIMA
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16070414183152500000004353114
+Número do processo: RTOrd-0001049-92.2015.5.19.0003
+Número do documento: 16070414183152500000004353114
+Data de Juntada: 04/07/2016 14:18
+
+Emitido em 04/07/2016
+Valores atualizados até 30/06/2016
+Percentual de Parcelas Tributáveis
+: 63,03 %
+
+6.0 R12 C12 (04/07/2016 10:10:04) JOSE.OLIVEIRA
+
+Relatório Resumo - Ultima Atualização em 21/SET/2015 - Formatado para papel A4
+
+ID. e93db1f - Pág. 5
+
+

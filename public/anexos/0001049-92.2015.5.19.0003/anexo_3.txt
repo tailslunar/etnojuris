@@ -1,0 +1,93 @@
+BacenJud 2.0
+
+https://www3.bcb.gov.br/bacenjud2/protocolarMinutaBV.do?method=p...
+
+BacenJud 2.0 - Sistema de Atendimento ao Poder
+
+ejuay.francisco
+quinta-feira, 29/09/2016
+
+Judiciário
+
+Minutas | Protocolamento | Ordens judiciais | Delegações | Não Respostas | Contatos de I. Financeira | Relatórios
+Gerenciais | Ajuda | Sair
+
+Recibo de Protocolamento de Bloqueio de Valores
+
+Clique aqui para obter ajuda na configuração da impressão, e clique aqui para imprimir.
+Dados do bloqueio
+Situação da Solicitação:
+
+Ordem Judicial ainda não disponibilizada para as Instituições
+Financeiras
+As ordens judiciais protocoladas até às 19h00min dos dias úteis serão
+consolidadas, transformadas em arquivos de remessa e disponibilizadas
+simultaneamente para todas as Instituições Financeiras até às 23h00min do
+mesmo dia. As ordens judiciais protocoladas após às 19h00min ou em dias não
+úteis serão tratadas e disponibilizadas às Instituições Financeiras no arquivo
+de remessa do dia útil imediatamente posterior.
+
+Número do Protocolo:
+
+20160003863768
+
+Data/Horário de protocolamento:
+
+29/09/2016 14h23
+
+Número do Processo:
+
+0001049-92.2015.5.19.0003
+
+Tribunal:
+
+TRIB REG TRABALHO -19A. REGIAO
+
+Vara/Juízo:
+
+1040 - 3ª VT DE MACEIÓ
+
+Juiz Solicitante do Bloqueio:
+
+FRANCISCO TAVARES NORONHA NETO
+
+Tipo/Natureza da Ação:
+
+Ação Trabalhista
+
+CPF/CNPJ do Autor/Exeqüente da Ação:
+Nome do Autor/Exeqüente da Ação:
+
+JOSE ERNESTO BEZERRA SANTOS
+
+Relação dos Réus/Executados
+Réu/Executado
+09.131.025/0001-07 : COOPERATIVA MIXTA DA AGRICULTURA
+FAMILIAR, DA PESCA, DA COM INDIGINA, DOS TRAB RURAIS,
+DOS QUILOMBOLAS E DAS COMUNIDADES SOCIALMENTE
+VULNERAVEIS
+
+Valor a
+Bloquear
+11.464,11
+
+Assinado eletronicamente. A Certificação Digital pertence a: DELAIDE SCOLNI DE SOUZA
+http://pje.trt19.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=16092914242521000000004815946
+Número do processo: RTOrd-0001049-92.2015.5.19.0003
+Número do documento: 16092914242521000000004815946
+Data de Juntada: 29/09/2016 14:24
+
+1 de 1
+
+Contas e Aplicações Financeiras
+Atingidas
+
+Instituições financeiras com
+relacionamentos com o CPF/CNPJ
+no momento da protocolização.
+
+ID. b4e3334 - Pág. 1
+
+29/09/2016 14:23
+
+

@@ -1,0 +1,165 @@
+Esta versão permite atualizar até:
+
+Programa MULTA CRIME, desenvolvido pelo Núcleo de Cálculos Judiciais-JFRS v.3.2
+
+mar/2022
+
+CÁLCULO PARA AÇÕES CRIMINAIS
+MULTA, PRESTAÇÃO PECUNIÁRIA, HONORÁRIOS E CUSTAS
+1) DADOS PROCESSUAIS
+Processo:
+
+0000162-26.2019.8.24.0053
+
+Vara:
+
+Vara Única da Comarca de Quilombo-SC
+
+Autor:
+
+MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA
+
+FABIANO ADORMELINDO JANTSCH
+
+Réu:
+
+2) LOCALIZAÇÃO DOS CRITÉRIOS DA CONDENAÇÃO (FLS.)
+Despacho:
+
+Atualizar valores até (mm/aaaa):
+
+Sentença:
+Acórdão:
+
+3) MULTA
+3.1) CÁLCULO DO VALOR ORIGINAL
+Quantidade de dias-multa:
+
+11
+
+Quantidade/Fração do salário mínimo:
+
+1/30
+
+01/mar
+
+Fração a aumentar (se houver):
+Data do salário mínimo (mm/aaaa):
+
+dez/19
+
+Valor do salário mínimo em dez/19:
+
+998,00
+
+Valor original do dia-multa:
+
+33,27
+
+Valor original da multa (em dez/19):
+
+365,97
+
+3.2) CÁLCULO DA CORREÇÃO MONETÁRIA
+Indexadores: ORTN (10/64...) OTN (03/86...) BTN (01/89...) INPC (03/91) UFIR (01/92-12/00) IPCA-E (de 2000 em 12/00) IPCA-E/IBGE (01/2001...)
+
+Data de atualização do cálculo:
+
+mar/22
+
+Fator de multiplicação do valor original:
+Valor atualizado do dia-multa:
+
+1,1813282
+
+R$
+
+39,30
+
+R$
+
+Valor da Multa (atualizado até mar/22)
+
+432,33
+
+4) PRESTAÇÃO PECUNIÁRIA
+4.1) CÁLCULO DO VALOR ORIGINAL
+Quantidade de salários mínimos:
+
+01/mar
+
+Data original do salário mínimo (mm/aaaa):
+Valor do salário mínimo à época:
+Valor original da prestação pecuniária:
+4.2) CÁLCULO DA CORREÇÃO MONETÁRIA
+Indexadores: ORTN (10/64...) OTN (03/86...) BTN (01/89...) INPC (03/91) UFIR (01/92-12/00) IPCA-E (de 2000 em 12/00) IPCA-E/IBGE (01/2001...)
+
+Data de atualização do cálculo:
+Fator de multiplicação do valor original:
+Valor atualizado da prestação pecuniária:
+4.3) OPÇÃO DE PRESTAÇÃO PECUNIÁRIA COM VALOR FIXO
+Valor fixado pelo juízo (já atualizado):
+
+R$ 0,00
+
+Valor da Prestação Pecuniária
+5) HONORÁRIOS
+5.1) CÁLCULO DO VALOR ORIGINAL
+Valor original dos honorários:
+Data original dos honorários (mm/aaaa):
+5.2) CÁLCULO DA CORREÇÃO MONETÁRIA
+
+Indexadores: ORTN (10/64...) OTN (03/86...) BTN (01/89...) INPC (03/91) UFIR (01/92-12/00) IPCA-E (de 2000 em 12/00) IPCA-E/IBGE (01/2001...)
+
+Data de atualização do cálculo:
+Fator de multiplicação do valor original:
+
+R$ 0,00
+
+Valor dos Honorários
+
+6) CUSTAS PROCESSUAIS
+Valor das Custas para Ações Penais em geral:
+
+297,95
+
+Embasamento Legal:
+-
+
+Fração das Custas para o réu:
+
+- Lei nº 9.289, de 4 de julho de 1996.
+
+Valor Parcial das Custas:
+
+500
+
+- Portaria nº 001/CJF, de 30/05/2000.
+
+Outras despesas (ARs, Cartas Precatórias, etc.)
+
+R$ 0,00
+
+Valor das Custas Processuais
+
+TOTAL DEVIDO
+
+R$
+
+432,33
+
+Valor atualizado até mar/22
+Observações:
+
+Correção monetária com base no critério para as
+"Ações Condenatórias em Geral" (...UFIR - IPCAE/IBGE de 01/2001 em diante), previsto no Cap. 4,
+item 4.2.1 do Manual de Orientação de
+Procedimentos Para os Cálculos na Justiça Federal -
+
+(DIGITE A CIDADE) , 21 de março de 2022.
+(DIGITE O NOME DO USUÁRIO)
+(DIGITE O NOME DA INSTITUIÇÃO)
+
+mar/22
+
+
