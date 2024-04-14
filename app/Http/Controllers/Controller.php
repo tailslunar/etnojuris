@@ -76,6 +76,19 @@ class Controller extends BaseController
         'TB_Usuario' => ['usuario', 'usuarios'],
     ];
 
+    protected $tabelas_que_exigem_admin = [
+        'TB_Usuario',
+        'users',
+    ];
+
+    protected $tabelas_nao_acessiveis = [
+        'failed_jobs',
+        'migrations',
+        'password_reset_tokens',
+        'personal_access_tokens',
+        'users_verify'
+    ];
+
     public function __construct()
     {
         $request = Route::current()->parameter('request');
@@ -106,6 +119,14 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         if (!class_exists($this->classname)) {
             $retorno = [
                 'status' => 'error',
@@ -120,7 +141,7 @@ class Controller extends BaseController
 
         if (!$retorno['data']->count()) {
             $retorno['status'] = 'success';
-            return response()->json($retorno, 204);
+            return response()->json($retorno, 200);
         }
         $retoro['status'] = 'success';
         return response()->json($retorno);
@@ -132,6 +153,14 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
             ];
             return response()->json($retorno, 403);
         }
@@ -150,7 +179,7 @@ class Controller extends BaseController
 
         if (!$retorno['data']->count()) {
             $retorno['status'] = 'success';
-            return response()->json($retorno, 204);
+            return response()->json($retorno, 200);
         }
         $retorno['status'] = 'success';
         return response()->json($retorno);
@@ -162,6 +191,14 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
             ];
             return response()->json($retorno, 403);
         }
@@ -206,6 +243,14 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
             ];
             return response()->json($retorno, 403);
         }
@@ -266,6 +311,14 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         if (!class_exists($this->classname)) {
             $retorno = [
                 'status' => 'error',
@@ -314,6 +367,14 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         if (!class_exists($this->classname)) {
             $retorno = [
                 'status' => 'error',
@@ -337,7 +398,7 @@ class Controller extends BaseController
 
         if (!$retorno['data']->count()) {
             $retorno['status'] = 'success';
-            return response()->json($retorno, 204);
+            return response()->json($retorno, 200);
         }
         $retorno['status'] = 'success';
         return response()->json($retorno);
@@ -349,6 +410,14 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
             ];
             return response()->json($retorno, 403);
         }
@@ -413,6 +482,14 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
             ];
             return response()->json($retorno, 403);
         }
@@ -491,6 +568,61 @@ class Controller extends BaseController
         return response()->json($retorno, 405);
     }
 
+    private function checar_token_bearer($request)
+    {
+        $bearer = $request->input('Bearer');
+        if (!$bearer) {
+            $bearer = $request->input('bearer');
+        }
+
+        $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
+
+        if (!$user_bearer) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    private function checar_acesso_tabela($request, $tabela)
+    {
+        $bearer = $request->input('Bearer');
+        if (!$bearer) {
+            $bearer = $request->input('bearer');
+        }
+
+        $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
+
+        $tabela_eh_protegida = false;
+        foreach ($this->tabelas_nao_acessiveis as $tabela_protegida) {
+            if (strtolower($tabela) == strtolower($tabela_protegida)) {
+                $tabela_eh_protegida = true;
+            }
+        }
+
+        $tabela_exige_admin = false;
+        foreach ($this->tabelas_que_exigem_admin as $tabela_protegida) {
+            if (strtolower($tabela) == strtolower($tabela_protegida)) {
+                $tabela_exige_admin = true;
+            }
+        }
+
+        if ($tabela_eh_protegida) {
+            return false;
+        }
+
+        if (!$tabela_exige_admin) {
+            return true;
+        }
+
+        if ($tabela_exige_admin && $user_bearer->admin) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+
     //essa função existe para compatibilidade com legado
     private function traduzirNomeTabela(string $tabela)
     {
@@ -509,22 +641,6 @@ class Controller extends BaseController
         }
 
         return $nome_tabela;
-    }
-
-    private function checar_token_bearer($request)
-    {
-        $bearer = $request->input('Bearer');
-        if (!$bearer) {
-            $bearer = $request->input('bearer');
-        }
-
-        $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
-
-        if (!$user_bearer) {
-            return false;
-        } else {
-            return true;
-        }
     }
 
     //apenas para debug: apagar esta função depois
