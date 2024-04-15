@@ -73,12 +73,22 @@ class Controller extends BaseController
         'TB_Procurador' => ['procurador', 'procuradores'],
         'TB_Quilombo' => ['quilombo', 'quilombos'],
         'TB_Repositorio' => ['repositorio', 'repositorios'],
-        'TB_Usuario' => ['usuario', 'usuarios'],
+        'TB_Usuario' => ['tb_usuario', 'tb_usuarios', 'tb_user', 'tb_users'],
+        'User' => ['usuario', 'usuarios', 'user', 'users'],
+        'Acessos' => ['acesso', 'acesso'],
+        'Anexos' => ['anexos', 'anexo'],
+        'Audiencias' => ['audiencias',  'audiencia'],
+        'Classes' => ['classes',  'classe'],
+        'Customs' => ['customs',  'custom'],
+        'Movs' => ['movimentos',  'movimento', 'movs', 'mov'],
+        'Partes' => ['partes_jubsrasil', 'parte_jusbrasil'],
+        'Processo' => ['processos_jubsrasil', 'processos_jusbrasil'],
+        'Tribunais' => ['tribunais', 'tribunal'],
     ];
 
     protected $tabelas_que_exigem_admin = [
         'TB_Usuario',
-        'users',
+        'User',
     ];
 
     protected $tabelas_nao_acessiveis = [
