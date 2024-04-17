@@ -425,18 +425,6 @@ class VerificationController extends Controller
 
     public function get_change_password(Request $request)
     {
-        /*
-        $token = $request->input('token');
-
-        $verification = $this->change_password($request, $token);
-        if ($verification['password_changed']) {
-            return response()->json($verification);
-        }
-        else {
-            return response()->json($verification, $verification['code']);
-        }
-        */
-
         $retorno = [
             'code' => 405,
             'method' => 'GET',
