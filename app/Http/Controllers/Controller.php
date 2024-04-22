@@ -60,6 +60,7 @@ class Controller extends BaseController
 
     private $nome_tabela = '';
     private $classname = '';
+    private $banco = 'etno_mysql';
 
     //para compatibilidade com legado
     protected $nomes_tabelas = [
@@ -99,6 +100,35 @@ class Controller extends BaseController
         'users_verify'
     ];
 
+    protected $tabelas_banco = [
+        'TB_Advogado' => 'etno_mysql',
+        'TB_Defensoria' => 'etno_mysql',
+        'TB_Glossario' => 'etno_mysql',
+        'TB_Localidade' => 'etno_mysql',
+        'TB_Parte' => 'etno_mysql',
+        'TB_Participante' => 'etno_mysql',
+        'TB_Processo' => 'etno_mysql',
+        'TB_Procurador' => 'etno_mysql',
+        'TB_Quilombo' => 'etno_mysql',
+        'TB_Repositorio' => 'etno_mysql',
+        'TB_Usuario' => 'etno_mysql',
+        'User' => 'mysql',
+        'Acessos' => 'mysql',
+        'Anexos' => 'mysql',
+        'Audiencias' => 'mysql',
+        'Classes' => 'mysql',
+        'Customs' => 'mysql',
+        'Movs' => 'mysql',
+        'Partes' => 'mysql',
+        'Processo' => 'mysql',
+        'Tribunais' => 'mysql',
+        'failed_jobs' => 'mysql',
+        'migrations' => 'mysql',
+        'password_reset_tokens' => 'mysql',
+        'personal_access_tokens' => 'mysql',
+        'users_verify' => 'mysql'
+    ];
+
     public function __construct()
     {
         $request = Route::current()->parameter('request');
@@ -112,8 +142,10 @@ class Controller extends BaseController
 
         if ($tabela != null) {
             $this->nome_tabela = $this->traduzirNomeTabela($tabela);
+            $this->banco = $this->qualBanco($this->nome_tabela);
         } else {
             $this->nome_tabela = 'Tabela';
+            $this->banco = 'etno_mysql';
         }
 
         $this->classname = 'App\\Models\\' . $this->nome_tabela;
@@ -143,6 +175,14 @@ class Controller extends BaseController
                 'message' => 'Tabela '. $this->nome_tabela .' solicitada não existe.'
             ];
             return response()->json($retorno, 404);
+        }
+
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
         }
 
         $model = new $this->classname;
@@ -183,6 +223,14 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         $model = new $this->classname;
         $retorno = [];
         $retorno['data'] = $model::where('id', $id)->first();
@@ -221,7 +269,15 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
-        $colunas = DB::connection('etno_mysql')->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
         $model = new $this->classname;
 
         foreach ($colunas as $coluna) {
@@ -273,7 +329,15 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
-        $colunas = DB::connection('etno_mysql')->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
         $model = new $this->classname;
         $item = $model::where('id', $id)->first();
         $before = $item;
@@ -337,6 +401,14 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         $model = new $this->classname;
         $item = $model::where('id', $id)->first();
 
@@ -393,6 +465,14 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         $id = $request->input('id');
         if (!$id) {
             $retorno = [
@@ -440,6 +520,14 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
         $id = $request->input('id');
         if (!$id) {
             $retorno = [
@@ -449,7 +537,7 @@ class Controller extends BaseController
             return response()->json($retorno, 500);
         }
 
-        $colunas = DB::connection('etno_mysql')->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
         $model = new $this->classname;
         $item = $model::where('id', $id)->first();
         $before = $item;
@@ -510,6 +598,14 @@ class Controller extends BaseController
                 'message' => 'Tabela '. $this->nome_tabela .' solicitada não existe.'
             ];
             return response()->json($retorno, 404);
+        }
+
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
         }
 
         $id = $request->input('id');
@@ -633,6 +729,21 @@ class Controller extends BaseController
         }
     }
 
+    private function checar_usuario_ativo($request, $tabela)
+    {
+        $bearer = $request->input('Bearer');
+        if (!$bearer) {
+            $bearer = $request->input('bearer');
+        }
+
+        $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
+
+        if ($user_bearer->ativo) {
+            return true;
+        }
+        return false;
+    }
+
     //essa função existe para compatibilidade com legado
     private function traduzirNomeTabela(string $tabela)
     {
@@ -651,6 +762,12 @@ class Controller extends BaseController
         }
 
         return $nome_tabela;
+    }
+
+    //essa função existe para compatibilidade com legado
+    private function qualBanco(string $nome_tabela)
+    {
+        return $this->tabelas_banco[$nome_tabela];
     }
 
     //apenas para debug: apagar esta função depois
