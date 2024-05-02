@@ -25,10 +25,10 @@ use Illuminate\Foundation\Auth\EmailVerificationRequest;
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/login', [AuthController::class, 'login']);
 Route::post('/logout', [AuthController::class, 'logout']);
-
 Route::post('/forgot_password', [VerificationController::class, 'forgot_password']);
-
 Route::post('/email/resend', 'App\Http\Controllers\VerificationController@resend')->name('verification.resend');
+
+Route::get('/dashboard', [Controller::class, 'dashboard']);
 
 Route::get('/{tabela}/list', [Controller::class, 'list']); // para manter compatibilidade com legado
 Route::get('/{tabela}/view', [Controller::class, 'get_legado']);  // para manter compatibilidade com legado

@@ -54,6 +54,8 @@ use App\Models\TB_Repositorio;
 use App\Models\TB_Usuario;
 use Illuminate\Support\Facades\Route;
 
+use function Ramsey\Uuid\v1;
+
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
@@ -126,7 +128,125 @@ class Controller extends BaseController
         'migrations' => 'mysql',
         'password_reset_tokens' => 'mysql',
         'personal_access_tokens' => 'mysql',
-        'users_verify' => 'mysql'
+        'users_verify' => 'mysql',
+        'mysql' => 'mysql',
+        'etno_mysql' => 'etno_mysql'
+    ];
+
+    protected $estados = [
+        "0" => [
+            "nome" => "Acre",
+            "sigla" => "AC"
+        ],
+        "1" => [
+            "nome" => "Alagoas",
+            "sigla" => "AL"
+        ],
+        "2" => [
+            "nome" => "Amapá",
+            "sigla" => "AP"
+        ],
+        "3" => [
+            "nome" => "Amazonas",
+            "sigla" => "AM"
+        ],
+        "4" => [
+            "nome" => "Bahia",
+            "sigla" => "BA"
+        ],
+        "5" => [
+            "nome" => "Ceará",
+            "sigla" => "CE"
+        ],
+        "6" => [
+            "nome" => "Distrito Federal",
+            "sigla" => "DF"
+        ],
+        "7" => [
+            "nome" => "Espírito Santo",
+            "sigla" => "ES"
+        ],
+        "8" => [
+            "nome" => "Goiás",
+            "sigla" => "GO"
+        ],
+        "9" => [
+            "nome" => "Maranhão",
+            "sigla" => "MA"
+        ],
+        "10" => [
+            "nome" => "Mato Grosso",
+            "sigla" => "MT"
+        ],
+        "11" => [
+            "nome" => "Mato Grosso do Sul",
+            "sigla" => "MS"
+        ],
+        "12" => [
+            "nome" => "Minas Gerais",
+            "sigla" => "MG"
+        ],
+        "13" => [
+            "nome" => "Pará",
+            "sigla" => "PA"
+        ],
+        "14" => [
+            "nome" => "Paraíba",
+            "sigla" => "PB"
+        ],
+        "15" => [
+            "nome" => "Paraná",
+            "sigla" => "PR"
+        ],
+        "16" => [
+            "nome" => "Pernambuco",
+            "sigla" => "PE"
+        ],
+        "17" => [
+            "nome" => "Piauí",
+            "sigla" => "PI"
+        ],
+        "18" => [
+            "nome" => "Rio de Janeiro",
+            "sigla" => "RJ"
+        ],
+        "19" => [
+            "nome" => "Rio Grande do Norte",
+            "sigla" => "RN"
+        ],
+        "20" => [
+            "nome" => "Rio Grande do Sul",
+            "sigla" => "RS"
+        ],
+        "21" => [
+            "nome" => "Rondônia",
+            "sigla" => "RO"
+        ],
+        "22" => [
+            "nome" => "Roraima",
+            "sigla" => "RR"
+        ],
+        "23" => [
+            "nome" => "Santa Catarina",
+            "sigla" => "SC"
+        ],
+        "24" => [
+            "nome" => "São Paulo",
+            "sigla" => "SP"
+        ],
+        "25" => [
+            "nome" => "Sergipe",
+            "sigla" => "SE"
+        ],
+        "26" => [
+            "nome" => "Tocantins",
+            "sigla" => "TO"
+        ],
+    ];
+
+    protected $rotasAPI = [
+        'debug' => 'debug',
+        'dashboard' => 'dashboard',
     ];
 
     public function __construct()
@@ -136,19 +256,25 @@ class Controller extends BaseController
         $id = Route::current()->parameter('id');
         $debug = Route::current()->parameter('debug');
 
-        if ($debug == 'debug') {
-            $tabela = 'debug';
-        }
+        $tabela = $this->verificarRotasDeAPI($tabela);
 
         if ($tabela != null) {
             $this->nome_tabela = $this->traduzirNomeTabela($tabela);
             $this->banco = $this->qualBanco($this->nome_tabela);
         } else {
             $this->nome_tabela = 'Tabela';
-            $this->banco = 'etno_mysql';
+            $this->banco = 'etno_mysql'; //default?
         }
 
         $this->classname = 'App\\Models\\' . $this->nome_tabela;
+    }
+
+    private function verificarRotasDeAPI($tabela)
+    {
+        if (in_array($tabela, array_keys($this->rotasAPI))) {
+            return null;
+        }
+        return $tabela;
     }
 
     public function list(Request $request, string $tabela)
@@ -672,6 +798,122 @@ class Controller extends BaseController
             'message' => 'Método não implementado.',
         ];
         return response()->json($retorno, 405);
+    }
+
+    public function dashboard(Request $request)
+    {
+        if (!$request || !$this->checar_token_bearer($request)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        /*
+        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!class_exists($this->classname)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Tabela '. $this->nome_tabela .' solicitada não existe.'
+            ];
+            return response()->json($retorno, 404);
+        }
+        */
+
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        //todo: retornando um placeholder, por enquanto
+        $dados = [];
+
+        foreach ($this->estados as $estado) {
+            $dado = [];
+            $dado['estado'] = $estado['sigla'];
+
+            $dado['total'] = [];
+            $dado['total']['processo'] = 0;
+            $dado['total']['quilombo'] = 0;
+            $dado['total']['tempo_meio'] = 504;
+            $dado['total']['unidade_tempo_medio'] = "dias";
+
+            $dado['processo'] = [];
+            $dado['processo']['trf1'] = 0;
+            $dado['processo']['trf2'] = 0;
+            $dado['processo']['trf3'] = 0;
+            $dado['processo']['trf4'] = 0;
+
+            $dado['quilombo'] = [];
+            $dado['quilombo']['trf1'] = 0;
+            $dado['quilombo']['trf2'] = 0;
+            $dado['quilombo']['trf3'] = 0;
+            $dado['quilombo']['trf4'] = 0;
+
+            $dado['polo'] = [];
+            $dado['polo']['passivo'] = 0;
+            $dado['polo']['ativo'] = 0;
+
+            $dado['sentenca'] = [];
+            $dado['sentenca']['procedente'] = 0;
+            $dado['sentenca']['acordo'] = 0;
+            $dado['sentenca']['improcedente'] = 0;
+            $dado['sentenca']['parcialmente_procedente'] = 0;
+            $dado['sentenca']['embargos_acolhidos'] = 0;
+            $dado['sentenca']['sem_merito'] = 0;
+            $dado['sentenca']['sem_informacao'] = 0;
+
+            $dados[] = $dado;
+        }
+
+        $dado = [];
+        $dado['estado'] = "todos";
+
+        $dado['total'] = [];
+        $dado['total']['processo'] = 0;
+        $dado['total']['quilombo'] = 0;
+        $dado['total']['tempo_meio'] = 504;
+        $dado['total']['unidade_tempo_medio'] = "dias";
+
+        $dado['processo'] = [];
+        $dado['processo']['trf1'] = 0;
+        $dado['processo']['trf2'] = 0;
+        $dado['processo']['trf3'] = 0;
+        $dado['processo']['trf4'] = 0;
+
+        $dado['quilombo'] = [];
+        $dado['quilombo']['trf1'] = 0;
+        $dado['quilombo']['trf2'] = 0;
+        $dado['quilombo']['trf3'] = 0;
+        $dado['quilombo']['trf4'] = 0;
+
+        $dado['polo'] = [];
+        $dado['polo']['passivo'] = 0;
+        $dado['polo']['ativo'] = 0;
+
+        $dado['sentenca'] = [];
+        $dado['sentenca']['procedente'] = 0;
+        $dado['sentenca']['acordo'] = 0;
+        $dado['sentenca']['improcedente'] = 0;
+        $dado['sentenca']['parcialmente_procedente'] = 0;
+        $dado['sentenca']['embargos_acolhidos'] = 0;
+        $dado['sentenca']['sem_merito'] = 0;
+        $dado['sentenca']['sem_informacao'] = 0;
+
+        $dados[] = $dado;
+
+        return response()->json($dados);
     }
 
     private function checar_token_bearer($request)
