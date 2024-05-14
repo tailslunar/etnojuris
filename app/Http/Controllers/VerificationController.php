@@ -112,12 +112,12 @@ class VerificationController extends Controller
     public function show(Request $request)
     {
         $user = null;
-        if ($request->input('email')) {
-            $user = \App\Models\User::where('email', $request->input('email'));
+        if ($request->post('email')) {
+            $user = \App\Models\User::where('email', $request->post('email'));
         }
         if (!$user) {
-            if ($request->input('id')) {
-                $user = \App\Models\User::find($request->input('id'));
+            if ($request->post('id')) {
+                $user = \App\Models\User::find($request->post('id'));
             }
         }
 
@@ -151,7 +151,7 @@ class VerificationController extends Controller
 
     public function post_verify(Request $request)
     {
-        $token = $request->input('token');
+        $token = $request->post('token');
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {
@@ -164,7 +164,7 @@ class VerificationController extends Controller
 
     public function get_verify(Request $request)
     {
-        $token = $request->input('token');
+        $token = $request->post('token');
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {
@@ -196,13 +196,13 @@ class VerificationController extends Controller
         $user = \App\Models\User::find($user_token->user_id);
 
         if (!$user) {
-            if ($request->input('email')) {
-                $user = \App\Models\User::where('email', $request->input('email'));
+            if ($request->post('email')) {
+                $user = \App\Models\User::where('email', $request->post('email'));
             }
         }
         if (!$user) {
-            if ($request->input('id')) {
-                $user = \App\Models\User::find($request->input('id'));
+            if ($request->post('id')) {
+                $user = \App\Models\User::find($request->post('id'));
             }
         }
 
@@ -269,12 +269,12 @@ class VerificationController extends Controller
     public function resend(Request $request)
     {
         $user = null;
-        if ($request->input('email')) {
-            $user = \App\Models\User::where('email', $request->input('email'));
+        if ($request->post('email')) {
+            $user = \App\Models\User::where('email', $request->post('email'));
         }
         if (!$user) {
-            if ($request->input('id')) {
-                $user = \App\Models\User::find($request->input('id'));
+            if ($request->post('id')) {
+                $user = \App\Models\User::find($request->post('id'));
             }
         }
 
@@ -355,12 +355,12 @@ class VerificationController extends Controller
     public function forgot_password(Request $request)
     {
         $user = null;
-        if ($request->input('email')) {
-            $user = \App\Models\User::where('email', $request->input('email'))->first();
+        if ($request->post('email')) {
+            $user = \App\Models\User::where('email', $request->post('email'))->first();
         }
         if (!$user) {
-            if ($request->input('id')) {
-                $user = \App\Models\User::find($request->input('id'));
+            if ($request->post('id')) {
+                $user = \App\Models\User::find($request->post('id'));
             }
         }
 
@@ -412,7 +412,7 @@ class VerificationController extends Controller
 
     public function post_change_password(Request $request)
     {
-        $token = $request->input('token');
+        $token = $request->post('token');
 
         $verification = $this->change_password($request, $token);
         if ($verification['password_changed']) {
@@ -437,7 +437,7 @@ class VerificationController extends Controller
 
     public function change_password(Request $request, string $token)
     {
-        if (!$request->input('password')) {
+        if (!$request->post('password')) {
             $retorno = [
                 'code' => 404,
                 'status' => 'error',
@@ -453,12 +453,12 @@ class VerificationController extends Controller
         }
 
         $user = null;
-        if ($request->input('email')) {
-            $user = \App\Models\User::where('email', $request->input('email'))->first();
+        if ($request->post('email')) {
+            $user = \App\Models\User::where('email', $request->post('email'))->first();
         }
         if (!$user) {
-            if ($request->input('id')) {
-                $user = \App\Models\User::find($request->input('id'));
+            if ($request->post('id')) {
+                $user = \App\Models\User::find($request->post('id'));
             }
         }
 
@@ -476,7 +476,7 @@ class VerificationController extends Controller
 
         if ($user->remember_token == $token) {
             $user->remember_token = null;
-            $user->password = Hash::make($request->input('password'));
+            $user->password = Hash::make($request->post('password'));
 
             try {
                 $user->save();

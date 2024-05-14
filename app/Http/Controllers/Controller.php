@@ -407,7 +407,7 @@ class Controller extends BaseController
         $model = new $this->classname;
 
         foreach ($colunas as $coluna) {
-            $model->{$coluna} = $request->input($coluna);
+            $model->{$coluna} = $request->post($coluna);
         }
 
         try {
@@ -477,7 +477,7 @@ class Controller extends BaseController
         }
 
         foreach ($colunas as $coluna) {
-            $item->{$coluna} = $request->input($coluna);
+            $item->{$coluna} = $request->post($coluna);
         }
         $item->id = $id;
 
@@ -599,7 +599,7 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        $id = $request->input('id');
+        $id = $request->post('id');
         if (!$id) {
             $retorno = [
                 'status' => 'error',
@@ -654,7 +654,7 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        $id = $request->input('id');
+        $id = $request->post('id');
         if (!$id) {
             $retorno = [
                 'status' => 'error',
@@ -677,7 +677,7 @@ class Controller extends BaseController
         }
 
         foreach ($colunas as $coluna) {
-            $item->{$coluna} = $request->input($coluna);
+            $item->{$coluna} = $request->post($coluna);
         }
 
         try {
@@ -734,7 +734,7 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        $id = $request->input('id');
+        $id = $request->post('id');
         if (!$id) {
             $retorno = [
                 'status' => 'error',
@@ -800,6 +800,15 @@ class Controller extends BaseController
         return response()->json($retorno, 405);
     }
 
+    public function dashboard_index(Request $request)
+    {
+        $retorno = [
+            'status' => 'error',
+            'message' => 'Método não implementado. Use o método POST.',
+        ];
+        return response()->json($retorno, 405);
+    }
+
     public function dashboard(Request $request)
     {
         if (!$request || !$this->checar_token_bearer($request)) {
@@ -809,24 +818,6 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
-
-        /*
-        if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
-            $retorno = [
-                'status' => 'error',
-                'message' => 'Apenas administradores tem acesso a esta tabela ou esta tabela é protegida.',
-            ];
-            return response()->json($retorno, 403);
-        }
-
-        if (!class_exists($this->classname)) {
-            $retorno = [
-                'status' => 'error',
-                'message' => 'Tabela '. $this->nome_tabela .' solicitada não existe.'
-            ];
-            return response()->json($retorno, 404);
-        }
-        */
 
         if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
             $retorno = [
@@ -918,9 +909,9 @@ class Controller extends BaseController
 
     private function checar_token_bearer($request)
     {
-        $bearer = $request->input('Bearer');
+        $bearer = $request->post('Bearer');
         if (!$bearer) {
-            $bearer = $request->input('bearer');
+            $bearer = $request->post('bearer');
         }
 
         $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
@@ -934,9 +925,9 @@ class Controller extends BaseController
 
     private function checar_acesso_tabela($request, $tabela)
     {
-        $bearer = $request->input('Bearer');
+        $bearer = $request->post('Bearer');
         if (!$bearer) {
-            $bearer = $request->input('bearer');
+            $bearer = $request->post('bearer');
         }
 
         $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
@@ -973,9 +964,9 @@ class Controller extends BaseController
 
     private function checar_usuario_ativo($request, $tabela)
     {
-        $bearer = $request->input('Bearer');
+        $bearer = $request->post('Bearer');
         if (!$bearer) {
-            $bearer = $request->input('bearer');
+            $bearer = $request->post('bearer');
         }
 
         $user_bearer = \App\Models\User::where('api_token', $bearer)->first();

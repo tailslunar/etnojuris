@@ -73,21 +73,21 @@ class AuthController extends Controller
 
     public function register(Request $request)
     {
-        if (!$request->input('name')) {
+        if (!$request->post('name')) {
             $retorno = [
                 'status' => 'error',
                 'message' => 'O campo "name" é obrigatório!'
             ];
             return response()->json($retorno, 500);
         }
-        if (!$request->input('email')) {
+        if (!$request->post('email')) {
             $retorno = [
                 'status' => 'error',
                 'message' => 'O campo "email" é obrigatório!'
             ];
             return response()->json($retorno, 500);
         }
-        if (!$request->input('password')) {
+        if (!$request->post('password')) {
             $retorno = [
                 'status' => 'error',
                 'message' => 'O campo "password" é obrigatório!'
@@ -105,9 +105,9 @@ class AuthController extends Controller
 
         try {
             $user = \App\Models\User::create([
-                'name' => $request->input('name'),
-                'email' => $request->input('email'),
-                'password' => Hash::make($request->input('password')),
+                'name' => $request->post('name'),
+                'email' => $request->post('email'),
+                'password' => Hash::make($request->post('password')),
                 'admin' => '0',
                 'ativo' => '1',
             ]);
