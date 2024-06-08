@@ -164,7 +164,7 @@ class VerificationController extends Controller
 
     public function get_verify(Request $request)
     {
-        $token = $request->post('token');
+        $token = $request->query('token');
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {

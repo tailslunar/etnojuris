@@ -279,6 +279,7 @@ class Controller extends BaseController
 
     public function list(Request $request, string $tabela)
     {
+        /*
         if (!$request || !$this->checar_token_bearer($request)) {
             $retorno = [
                 'status' => 'error',
@@ -286,6 +287,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
             $retorno = [
@@ -303,6 +305,7 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        /*
         if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
             $retorno = [
                 'status' => 'error',
@@ -310,6 +313,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         $model = new $this->classname;
         $retorno = [];
@@ -325,6 +329,7 @@ class Controller extends BaseController
 
     public function get(Request $request, string $tabela, string $id)
     {
+        /*
         if (!$request || !$this->checar_token_bearer($request)) {
             $retorno = [
                 'status' => 'error',
@@ -332,6 +337,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
             $retorno = [
@@ -349,6 +355,7 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        /*
         if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
             $retorno = [
                 'status' => 'error',
@@ -356,6 +363,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         $model = new $this->classname;
         $retorno = [];
@@ -567,6 +575,7 @@ class Controller extends BaseController
 
     public function get_legado(Request $request, string $tabela)
     {
+        /*
         if (!$request || !$this->checar_token_bearer($request)) {
             $retorno = [
                 'status' => 'error',
@@ -574,6 +583,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         if (!$this->checar_acesso_tabela($request, $this->nome_tabela)) {
             $retorno = [
@@ -591,6 +601,7 @@ class Controller extends BaseController
             return response()->json($retorno, 404);
         }
 
+        /*
         if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
             $retorno = [
                 'status' => 'error',
@@ -598,6 +609,7 @@ class Controller extends BaseController
             ];
             return response()->json($retorno, 403);
         }
+        */
 
         $id = $request->post('id');
         if (!$id) {
