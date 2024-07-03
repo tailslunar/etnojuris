@@ -420,13 +420,9 @@ class Controller extends BaseController
             $model->{$coluna} = $request->post($coluna);
         }
 
-        return response()->json([
-            'tabela' => $tabela,
-            'nome_tabela' => $this->nome_tabela,
-            'banco' => $this->banco,
-            'colunas' => $colunas,
-            'model' => $model
-        ], 500);
+        if (in_array('usuario_id', $colunas)) {
+            $model->usuario_id = $this->get_usuario_por_token($request)->id;
+        }
 
         try {
             $model->save();
@@ -481,7 +477,7 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela_);
         $model = new $this->classname;
         $item = $model::where('id', $id)->first();
         $before = $item;
@@ -498,6 +494,10 @@ class Controller extends BaseController
             $item->{$coluna} = $request->post($coluna);
         }
         $item->id = $id;
+
+        if (in_array('usuario_id', $colunas)) {
+            $model->usuario_id = $this->get_usuario_por_token($request)->id;
+        }
 
         try {
             $item->save();
@@ -685,7 +685,7 @@ class Controller extends BaseController
             return response()->json($retorno, 500);
         }
 
-        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela_);
         $model = new $this->classname;
         $item = $model::where('id', $id)->first();
         $before = $item;
@@ -700,6 +700,10 @@ class Controller extends BaseController
 
         foreach ($colunas as $coluna) {
             $item->{$coluna} = $request->post($coluna);
+        }
+
+        if (in_array('usuario_id', $colunas)) {
+            $model->usuario_id = $this->get_usuario_por_token($request)->id;
         }
 
         try {
@@ -981,6 +985,22 @@ class Controller extends BaseController
         }
         else {
             return false;
+        }
+    }
+
+    private function get_usuario_por_token($request)
+    {
+        $bearer = $request->post('Bearer');
+        if (!$bearer) {
+            $bearer = $request->post('bearer');
+        }
+
+        $user_bearer = \App\Models\User::where('api_token', $bearer)->first();
+
+        if (!$user_bearer) {
+            return null;
+        } else {
+            return $user_bearer;
         }
     }
 
