@@ -419,6 +419,9 @@ class Controller extends BaseController
         }
 
         return response()->json([
+            'tabela' => $tabela,
+            'nome_tabela' => $this->nome_tabela,
+            'banco' => $this->banco,
             'colunas' => $colunas,
             'model' => $model
         ], 500);
