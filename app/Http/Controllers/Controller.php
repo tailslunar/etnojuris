@@ -413,7 +413,7 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela);
+        $colunas = DB::connection($this->banco)->getSchemaBuilder()->getColumnListing($this->nome_tabela_);
         $model = new $this->classname;
 
         foreach ($colunas as $coluna) {
