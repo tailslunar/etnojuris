@@ -259,7 +259,7 @@ class Controller extends BaseController
         $tabela = $this->verificarRotasDeAPI($tabela);
 
         if ($tabela != null) {
-            $this->nome_tabela = $this->traduzirNomeTabela($tabela);
+            $this->nome_tabela = strtolower($this->traduzirNomeTabela($tabela));
             $this->banco = $this->qualBanco($this->nome_tabela);
         } else {
             $this->nome_tabela = 'Tabela';
