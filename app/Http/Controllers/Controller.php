@@ -61,6 +61,7 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     private $nome_tabela = '';
+    private $nome_tabela_ = '';
     private $classname = '';
     private $banco = 'etno_mysql';
 
@@ -261,7 +262,7 @@ class Controller extends BaseController
         if ($tabela != null) {
             $this->nome_tabela = $this->traduzirNomeTabela($tabela);
             $this->banco = $this->qualBanco($this->nome_tabela);
-            $this->nome_tabela = strtolower($this->nome_tabela);
+            $this->nome_tabela_ = strtolower($this->nome_tabela);
         } else {
             $this->nome_tabela = 'Tabela';
             $this->banco = 'etno_mysql'; //default?
