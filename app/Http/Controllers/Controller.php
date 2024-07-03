@@ -418,6 +418,11 @@ class Controller extends BaseController
             $model->{$coluna} = $request->post($coluna);
         }
 
+        return response()->json([
+            'colunas' => $colunas,
+            'model' => $model
+        ], 500);
+
         try {
             $model->save();
         } catch (\Exception $e) {
