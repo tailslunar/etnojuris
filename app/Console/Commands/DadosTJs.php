@@ -6,8 +6,8 @@ use Illuminate\Console\Command;
 use File;
 use Rap2hpoutre\FastExcel\FastExcel;
 use Smalot\PdfParser\Parser;
-//use Spatie\PdfToText\Pdf;
 use Gufy\PdfToHtml\Pdf;
+//use Spatie\PdfToText\Pdf;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 use App\Models\Tribunais;
@@ -174,7 +174,9 @@ class DadosTJs extends Command
         ini_set('memory_limit', '20384M');
         $recriar = $this->argument('recriar');
         $importar_ = $this->argument('importar');
-        $files = File::files(public_path() . "\\input_planilhas\\tjs\\");
+
+        $files = File::files(public_path() . "\\input_planilhas\\tjs\\"); //windows
+        //$files = File::files(public_path() . "/input_planilhas/tjs/"); //linux
 
         if ($recriar == "recriar") {
             $this->DroparTabelas();
@@ -197,7 +199,8 @@ class DadosTJs extends Command
                 $this->info("Carregando dados do estado: " . $estado);
                 $estado = strtolower($estado);
                 $estado_sigla = strtoupper($dados_estado[2]);
-                $file = public_path() . "\\input_planilhas\\tjs\\" . strtolower($arquivo);
+                $file = public_path() . "\\input_planilhas\\tjs\\" . strtolower($arquivo); //windows
+                //$file = public_path() . "/input_planilhas/tjs/" . strtolower($arquivo); //linux
 
                 $fileName = explode(".", str_replace(public_path(), "", $file))[0] ?? "";
                 $fileShortName = $arquivo;
@@ -317,6 +320,24 @@ class DadosTJs extends Command
 
         dd($rows);
         $this->ImportarPorEstado($input, $rows);
+    }
+
+    private function ImportarPDFV2($input)
+    {
+        $this->info("Importando arquivo '" . $input['fileName'] ."' de formato ". $input['fileExtension'] ."...");
+
+        /*
+        $pdfParser = new Parser();
+        $pdf_ = $pdfParser->parseFile($input['file']);
+        $content = $pdf_->getText();
+        */
+
+        $pdf = (new Pdf())->setPdf($input['file']);
+        $pdf->setOptions(['layout']);
+        $content = $pdf->text();
+
+        dd($content);
+        $this->ImportarPorEstado($input, $content);
     }
 
     private function ImportarPDF($input)
