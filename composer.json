@@ -16,7 +16,7 @@
         "maatwebsite/excel": "^1.1",
         "phpoffice/phpword": "^1.2",
         "rap2hpoutre/fast-excel": "^5.2",
-        "smalot/pdfparser": "^2.7",
+        "smalot/pdfparser": "^2.11",
         "spatie/pdf-to-text": "^1.52"
     },
     "require-dev": {

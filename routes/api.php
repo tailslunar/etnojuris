@@ -31,6 +31,9 @@ Route::post('/email/resend', 'App\Http\Controllers\VerificationController@resend
 Route::get('/dashboard', [Controller::class, 'dashboard_index']);
 Route::post('/dashboard', [Controller::class, 'dashboard']);
 
+Route::get('/codigo_ibge', [Controller::class, 'codigo_ibge']);
+Route::post('/codigo_ibge', [Controller::class, 'codigo_ibge']);
+
 Route::get('/{tabela}/list', [Controller::class, 'list']); // para manter compatibilidade com legado
 Route::get('/{tabela}/view', [Controller::class, 'get_legado']);  // para manter compatibilidade com legado
 Route::get('/{tabela}/{id}', [Controller::class, 'get']);

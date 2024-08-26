@@ -373,7 +373,8 @@ class AjustarPlanilha extends Command
         return $filtrados['resultado'];
     }
 
-    function semAcentos($string) {
+
+function semAcentos($string) {
         if ( !preg_match('/[\x80-\xff]/', $string) )
             return $string;
 
@@ -478,7 +479,6 @@ class AjustarPlanilha extends Command
 
         return $string;
     }
-
     private function removerColunaPorNome($processos, $coluna_selecionada)
     {
         $processos_ = $processos;
