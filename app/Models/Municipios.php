@@ -9,7 +9,11 @@ class Municipios extends Model
 {
     use HasFactory;
 
-
+    /**
+     * The table associated with the model.
+     *
+     * @var string
+     */
     protected $connection = 'mysql';
     protected $table = 'municipios';
 }
