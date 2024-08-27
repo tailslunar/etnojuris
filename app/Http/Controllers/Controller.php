@@ -51,6 +51,7 @@ use App\Models\TB_Processo;
 use App\Models\TB_Procurador;
 use App\Models\TB_Quilombo;
 use App\Models\TB_Repositorio;
+use App\Models\TB_Sentenca;
 use App\Models\TB_Usuario;
 use App\Models\Estados;
 use App\Models\Municipios;
