@@ -11,4 +11,5 @@ class TB_Sentenca extends Model
 
     protected $connection = 'etno_mysql';
     protected $table = 'tb_sentenca';
+    public $timestamps = false;
 }
