@@ -257,7 +257,8 @@ class Controller extends BaseController
     protected $rotasAPI = [
         'debug' => 'debug',
         'dashboard' => 'dashboard',
-        'condigo_ibge' => 'codigo_ibge'
+        'codigo_ibge' => 'codigo_ibge',
+        'importar_processo' => 'importar_processo'
     ];
 
     public function __construct()
@@ -1026,12 +1027,16 @@ class Controller extends BaseController
         $dado['processo']['trf2'] = 0;
         $dado['processo']['trf3'] = 0;
         $dado['processo']['trf4'] = 0;
+        $dado['processo']['trf5'] = 0;
+        $dado['processo']['trf6'] = 0;
 
         $dado['quilombo'] = [];
         $dado['quilombo']['trf1'] = 0;
         $dado['quilombo']['trf2'] = 0;
         $dado['quilombo']['trf3'] = 0;
         $dado['quilombo']['trf4'] = 0;
+        $dado['quilombo']['trf5'] = 0;
+        $dado['quilombo']['trf6'] = 0;
 
         $dado['polo'] = [];
         $dado['polo']['passivo'] = 0;
@@ -1049,6 +1054,507 @@ class Controller extends BaseController
         $dados[] = $dado;
 
         return response()->json($dados);
+    }
+
+    public function importar_processo_index(Request $request)
+    {
+        $retorno = [
+            'status' => 'error',
+            'message' => 'Método não implementado.',
+        ];
+        return response()->json($retorno, 405);
+    }
+
+    public function importar_processo(Request $request)
+    {
+        if (!$request || !$this->checar_token_bearer($request)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Token inválido ou não enviado.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        if (!$this->checar_usuario_ativo($request, $this->nome_tabela)) {
+            $retorno = [
+                'status' => 'error',
+                'message' => 'Usuário logado está inativo.',
+            ];
+            return response()->json($retorno, 403);
+        }
+
+        $todos_quilombos = TB_Quilombo::all();
+        $todos_processos = TB_Processo::all();
+        $todas_partes = TB_Parte::all();
+        $todos_advogados = TB_Advogado::all();
+        $todos_procuradores = TB_Procurador::all();
+        $todos_defensores = TB_Defensoria::all();
+        $todos_participantes = TB_Participante::all();
+
+        $retorno = [];
+        $obj = json_decode($request->post('obj'), true);
+
+        if (in_array("objQuilombo", array_keys($obj))) {
+            if (is_array(reset($obj['objQuilombo']))) {
+                foreach ($obj['objQuilombo'] as $input_quilombo) {
+                    //cria novo quilombo e salva, mesmo processo abaixo (podia ser uma função)
+                    $salvar_quilombo = true;
+                    if (isset($input_quilombo['id'])) {
+                        if (!isset($id_quilombo)) {
+                            $id_quilombo = $input_quilombo['id'];
+                        }
+                        $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                        if (!$quilombo) {
+                            $quilombo = new TB_Quilombo();
+                        } else {
+                            $salvar_quilombo = false;
+                        }
+                    } else {
+                        $quilombo = new TB_Quilombo();
+                    }
+                    foreach ($input_quilombo as $key_quilombo => $value_quilombo) {
+                        $quilombo->{$key_quilombo} = $value_quilombo;
+                    }
+                    if ($salvar_quilombo) {
+                        $quilombo->save();
+                    }
+                    if (!isset($id_quilombo)) {
+                        $id_quilombo = $quilombo->id;
+                    }
+                    $retorno['objQuilombo'][] = $quilombo;
+                }
+            } else {
+                $input_quilombo = $obj['objQuilombo'];
+
+                //cria novo quilombo e salva, mesmo processo acima (podia ser uma função)
+                $salvar_quilombo = true;
+                if (isset($input_quilombo['id'])) {
+                    if (!isset($id_quilombo)) {
+                        $id_quilombo = $input_quilombo['id'];
+                    }
+                    $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                    if (!$quilombo) {
+                        $quilombo = new TB_Quilombo();
+                    } else {
+                        $salvar_quilombo = false;
+                    }
+                } else {
+                    $quilombo = new TB_Quilombo();
+                }
+                foreach ($input_quilombo as $key_quilombo => $value_quilombo) {
+                    $quilombo->{$key_quilombo} = $value_quilombo;
+                }
+                if ($salvar_quilombo) {
+                    $quilombo->save();
+                }
+                if (!isset($id_quilombo)) {
+                    $id_quilombo = $quilombo->id;
+                }
+                $retorno['objQuilombo'][] = $quilombo;
+            }
+        }
+
+        if (in_array('objProcesso', array_keys($obj))) {
+            if (is_array(reset($obj['objProcesso']))) {
+                foreach ($obj['objProcesso'] as $input_processo) {
+                    //cria novo processo e salva, mesmo processo abaixo (podia ser uma função)
+                    $salvar_processo = true;
+                    if (isset($input_processo['id'])) {
+                        if (!isset($id_processo)) {
+                            $id_processo = $input_processo['id'];
+                        }
+                        $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                        if (!$processo) {
+                            $processo = new TB_Processo();
+                        } else {
+                            $salvar_processo = false;
+                        }
+                    } else {
+                        $processo = new TB_Processo();
+                    }
+                    foreach ($input_processo as $key_processo => $value_processo) {
+                        $processo->{$key_processo} = $value_processo;
+                    }
+                    $processo->quilombo_id = $id_quilombo;
+                    if ($salvar_processo) {
+                        $processo->save();
+                    }
+                    if (!isset($id_processo)) {
+                        $id_processo = $processo->id;
+                    }
+                    $retorno['objProcesso'][] = $processo;
+                }
+            } else {
+                $input_processo = $obj['objProcesso'];
+
+                //cria novo processo e salva, mesmo processo acima (podia ser uma função)
+                $salvar_processo = true;
+                if (isset($input_processo['id'])) {
+                    if (!isset($id_processo)) {
+                        $id_processo = $input_processo['id'];
+                    }
+                    $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                    if (!$processo) {
+                        $processo = new TB_Processo();
+                    } else {
+                        $salvar_processo = false;
+                    }
+                } else {
+                    $processo = new TB_Processo();
+                }
+                foreach ($input_processo as $key_processo => $value_processo) {
+                    $processo->{$key_processo} = $value_processo;
+                }
+                $processo->quilombo_id = $id_quilombo;
+                if ($salvar_processo) {
+                    $processo->save();
+                }
+                if (!isset($id_processo)) {
+                    $id_processo = $processo->id;
+                }
+                $retorno['objProcesso'][] = $processo;
+            }
+        }
+
+        if (in_array('objParte', array_keys($obj))) {
+            if (is_array(reset($obj['objParte']))) {
+                foreach ($obj['objParte'] as $input_parte) {
+                    //cria nova parte e salva, mesmo processo abaixo (podia ser uma função)
+                    $salvar_parte = true;
+                    if (isset($input_parte['id'])) {
+                        if (!isset($id_parte)) {
+                            $id_parte = $input_parte['id'];
+                        }
+                        $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                        if (!$parte) {
+                            $parte = new TB_Parte();
+                        } else {
+                            $salvar_parte = false;
+                        }
+                    } else {
+                        $parte = new TB_Parte();
+                    }
+                    $advogado = null;
+                    $procurador = null;
+                    $defensor = null;
+                    foreach ($input_parte as $key_parte => $value_parte) {
+                        $salvar_advogado = true;
+                        if ($key_parte == 'advogado') {
+                            $input_advogado = $input_parte['advogado'];
+                            if (isset($input_advogado['id'])) {
+                                if (!isset($id_advogado)) {
+                                    $id_advogado = $input_advogado['id'];
+                                }
+                                $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                                if (!$advogado) {
+                                    $advogado = new TB_Advogado();
+                                } else {
+                                    $salvar_advogado = false;
+                                }
+                            } else {
+                                $advogado = new TB_Advogado();
+                            }
+                            foreach ($input_advogado as $key_advogado => $value_advogado) {
+                                $advogado->{$key_advogado} = $value_advogado;
+                            }
+                            if ($salvar_advogado) {
+                                $advogado->save();
+                            }
+                            if (!isset($id_advogado)) {
+                                $id_advogado = $advogado->id;
+                            }
+                        }
+                        else if ($key_parte == 'defensor') {
+                            $salvar_defensor = true;
+                            $input_defensor = $input_parte['defensor'];
+                            if (isset($input_defensor['id'])) {
+                                if (!isset($id_defensor)) {
+                                    $id_defensor = $input_defensor['id'];
+                                }
+                                $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                                if (!$defensor) {
+                                    $defensor = new TB_Defensoria();
+                                } else {
+                                    $salvar_defensor = false;
+                                }
+                            } else {
+                                $defensor = new TB_Defensoria();
+                            }
+                            foreach ($input_defensor as $key_defensor => $value_defensor) {
+                                $defensor->{$key_defensor} = $value_defensor;
+                            }
+                            if ($salvar_defensor) {
+                                //por enquanto nao salvar defensor
+                                //$defensor->save();
+                            }
+                            if (!isset($id_defensor)) {
+                                $id_defensor = $defensor->id;
+                            }
+                        }
+                        else if ($key_parte == 'procurador') {
+                            $salvar_procurador = true;
+                            $input_procurador = $input_parte['procurador'];
+                            if (isset($input_procurador['id'])) {
+                                if (!isset($id_procurador)) {
+                                    $id_procurador = $input_procurador['id'];
+                                }
+                                $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                                if (!$procurador) {
+                                    $procurador = new TB_Procurador();
+                                } else {
+                                    $salvar_procurador = false;
+                                }
+                            } else {
+                                $procurador = new TB_Procurador();
+                            }
+                            foreach ($input_procurador as $key_procurador => $value_procurador) {
+                                $procurador->{$key_procurador} = $value_procurador;
+                            }
+                            if ($salvar_procurador) {
+                                //por enquanto nao salvar procurador
+                                //$procurador->save();
+                            }
+                            if (!isset($id_procurador)) {
+                                $id_procurador = $procurador->id;
+                            }
+                        } else {
+                            $parte->{$key_parte} = $value_parte;
+                        }
+                    }
+                    if ($salvar_parte) {
+                        $parte->save();
+                    }
+                    if (!isset($id_parte)) {
+                        $id_parte = $parte->id;
+                    }
+                    $parte_ = [];
+                    $parte_['parte'] = $parte;
+                    $salvar_participante = false;
+                    if ($advogado) {
+                        $parte_['advogado'][] = $advogado;
+                        $salvar_participante = true;
+                    }
+                    if ($procurador) {
+                        $parte_['procurador'][] = $procurador;
+                        $salvar_participante = true;
+                    }
+                    if ($defensor) {
+                        $parte_['defensor'][] = $defensor;
+                        $salvar_participante = true;
+                    }
+                    $retorno['objParte'][] = $parte_;
+                    if ($salvar_participante) {
+                        $participante = new TB_Participante();
+                        $participante->categoria = $parte->categoria;
+                        $participante->papel = $parte->papel;
+                        if ($advogado) {
+                            $participante->advogado_id = $advogado->id;
+                        }
+                        if ($procurador) {
+                            $participante->procurador_id = $procurador->id;
+                        }
+                        if ($defensor) {
+                            $participante->defensoria_id = $defensor->id;
+                        }
+                        $participante->parte_id = $id_parte;
+                        $participante->processo_id = $id_processo;
+                        $participante_existe = $todos_participantes;
+                        if (isset($participante->advogado_id)) {
+                            $participante_existe = $participante_existe->where('advogado_id', $participante->advogado_id);
+                        }
+                        if (isset($participante->procurador_id)) {
+                            $participante_existe = $participante_existe->where('procurador_id', $participante->procurador_id);
+                        }
+                        if (isset($participante->defensoria_id)) {
+                            $participante_existe = $participante_existe->where('defensoria_id', $participante->defensoria_id);
+                        }
+                        if (isset($participante->parte_id)) {
+                            $participante_existe = $participante_existe->where('parte_id', $participante->parte_id);
+                        }
+                        if (isset($participante->processo_id)) {
+                            $participante_existe = $participante_existe->where('processo_id', $participante->processo_id);
+                        }
+                        $participante_existe = $participante_existe->first();
+                        if (!$participante_existe) {
+                            $participante->save();
+                        }
+                        $retorno['objParticipante'][] = $participante;
+                    }
+                }
+            } else {
+                $input_parte = $obj['objParte'];
+
+                //cria nova parte e salva, mesmo processo acima (podia ser uma função)
+                $salvar_parte = true;
+                if (isset($input_parte['id'])) {
+                    if (!isset($id_parte)) {
+                        $id_parte = $input_parte['id'];
+                    }
+                    $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                    if (!$parte) {
+                        $parte = new TB_Parte();
+                    } else {
+                        $salvar_parte = false;
+                    }
+                } else {
+                    $parte = new TB_Parte();
+                }
+                $advogado = null;
+                $procurador = null;
+                $defensor = null;
+                foreach ($input_parte as $key_parte => $value_parte) {
+                    $salvar_advogado = true;
+                    if ($key_parte == 'advogado') {
+                        $input_advogado = $input_parte['advogado'];
+                        if (isset($input_advogado['id'])) {
+                            if (!isset($id_advogado)) {
+                                $id_advogado = $input_advogado['id'];
+                            }
+                            $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                            if (!$advogado) {
+                                $advogado = new TB_Advogado();
+                            } else {
+                                $salvar_advogado = false;
+                            }
+                        } else {
+                            $advogado = new TB_Advogado();
+                        }
+                        foreach ($input_advogado as $key_advogado => $value_advogado) {
+                            $advogado->{$key_advogado} = $value_advogado;
+                        }
+                        if ($salvar_advogado) {
+                            $advogado->save();
+                        }
+                        if (!isset($id_advogado)) {
+                            $id_advogado = $advogado->id;
+                        }
+                    }
+                    else if ($key_parte == 'defensor') {
+                        $salvar_defensor = true;
+                        $input_defensor = $input_parte['defensor'];
+                        if (isset($input_defensor['id'])) {
+                            if (!isset($id_defensor)) {
+                                $id_defensor = $input_defensor['id'];
+                            }
+                            $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                            if (!$defensor) {
+                                $defensor = new TB_Defensoria();
+                            } else {
+                                $salvar_defensor = false;
+                            }
+                        } else {
+                            $defensor = new TB_Defensoria();
+                        }
+                        foreach ($input_defensor as $key_defensor => $value_defensor) {
+                            $defensor->{$key_defensor} = $value_defensor;
+                        }
+                        if ($salvar_defensor) {
+                            //por enquanto nao salvar defensor
+                            //$defensor->save();
+                        }
+                        if (!isset($id_defensor)) {
+                            $id_defensor = $defensor->id;
+                        }
+                    }
+                    else if ($key_parte == 'procurador') {
+                        $salvar_procurador = true;
+                        $input_procurador = $input_parte['procurador'];
+                        if (isset($input_procurador['id'])) {
+                            if (!isset($id_procurador)) {
+                                $id_procurador = $input_procurador['id'];
+                            }
+                            $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                            if (!$procurador) {
+                                $procurador = new TB_Procurador();
+                            } else {
+                                $salvar_procurador = false;
+                            }
+                        } else {
+                            $procurador = new TB_Procurador();
+                        }
+                        foreach ($input_procurador as $key_procurador => $value_procurador) {
+                            $procurador->{$key_procurador} = $value_procurador;
+                        }
+                        if ($salvar_procurador) {
+                            //por enquanto nao salvar procurador
+                            //$procurador->save();
+                        }
+                        if (!isset($id_procurador)) {
+                            $id_procurador = $procurador->id;
+                        }
+                    } else {
+                        $parte->{$key_parte} = $value_parte;
+                    }
+                }
+                if ($salvar_parte) {
+                    $parte->save();
+                }
+                if (!isset($id_parte)) {
+                    $id_parte = $parte->id;
+                }
+                $parte_ = [];
+                $parte_['parte'] = $parte;
+                $salvar_participante = false;
+                if ($advogado) {
+                    $parte_['advogado'][] = $advogado;
+                    $salvar_participante = true;
+                }
+                if ($procurador) {
+                    $parte_['procurador'][] = $procurador;
+                    $salvar_participante = true;
+                }
+                if ($defensor) {
+                    $parte_['defensor'][] = $defensor;
+                    $salvar_participante = true;
+                }
+                $retorno['objParte'][] = $parte_;
+                if ($salvar_participante) {
+                    $participante = new TB_Participante();
+                    $participante->categoria = $parte->categoria;
+                    $participante->papel = $parte->papel;
+                    if ($advogado) {
+                        $participante->advogado_id = $advogado->id;
+                    }
+                    if ($procurador) {
+                        $participante->procurador_id = $procurador->id;
+                    }
+                    if ($defensor) {
+                        $participante->defensoria_id = $defensor->id;
+                    }
+                    $participante->parte_id = $id_parte;
+                    $participante->processo_id = $id_processo;
+                    $participante_existe = $todos_participantes;
+                    if (isset($participante->advogado_id)) {
+                        $participante_existe = $participante_existe->where('advogado_id', $participante->advogado_id);
+                    }
+                    if (isset($participante->procurador_id)) {
+                        $participante_existe = $participante_existe->where('procurador_id', $participante->procurador_id);
+                    }
+                    if (isset($participante->defensoria_id)) {
+                        $participante_existe = $participante_existe->where('defensoria_id', $participante->defensoria_id);
+                    }
+                    if (isset($participante->parte_id)) {
+                        $participante_existe = $participante_existe->where('parte_id', $participante->parte_id);
+                    }
+                    if (isset($participante->processo_id)) {
+                        $participante_existe = $participante_existe->where('processo_id', $participante->processo_id);
+                    }
+                    $participante_existe = $participante_existe->first();
+                    if (!$participante_existe) {
+                        $participante->save();
+                    }
+                    $retorno['objParticipante'][] = $participante;
+                }
+            }
+        }
+
+        $ret = [
+            'status' => 'success',
+            'message' => 'Registro salvo com sucesso!',
+            'data' => $retorno,
+            'input' => $obj
+        ];
+        return response()->json($ret);
     }
 
     private function checar_token_bearer($request)

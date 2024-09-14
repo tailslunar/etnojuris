@@ -31,6 +31,9 @@ Route::post('/email/resend', 'App\Http\Controllers\VerificationController@resend
 Route::get('/dashboard', [Controller::class, 'dashboard_index']);
 Route::post('/dashboard', [Controller::class, 'dashboard']);
 
+Route::get('/importar_processo', [Controller::class, 'importar_processo_index']);
+Route::post('/importar_processo', [Controller::class, 'importar_processo']);
+
 Route::get('/codigo_ibge', [Controller::class, 'codigo_ibge']);
 Route::post('/codigo_ibge', [Controller::class, 'codigo_ibge']);
 
