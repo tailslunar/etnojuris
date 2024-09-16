@@ -1100,10 +1100,17 @@ class Controller extends BaseController
                     //cria novo quilombo e salva, mesmo processo abaixo (podia ser uma função)
                     $salvar_quilombo = true;
                     if (isset($input_quilombo['id'])) {
+                        if (!is_numeric(($input_quilombo['id']))) {
+                            $input_quilombo['id'] = null;
+                        }
                         if (!isset($id_quilombo)) {
                             $id_quilombo = $input_quilombo['id'];
                         }
-                        $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                        if ($input_quilombo['id']) {
+                            $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                        } else {
+                            $quilombo = new TB_Quilombo();
+                        }
                         if (!$quilombo) {
                             $quilombo = new TB_Quilombo();
                         } else {
@@ -1116,7 +1123,16 @@ class Controller extends BaseController
                         $quilombo->{$key_quilombo} = $value_quilombo;
                     }
                     if ($salvar_quilombo) {
-                        $quilombo->save();
+                        try {
+                            $quilombo->save();
+                        } catch (\Exception $e) {
+                            $retorno = [
+                                'status' => 'error',
+                                'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'exception' => $e
+                            ];
+                            return response()->json($retorno, 500);
+                        }
                     }
                     if (!isset($id_quilombo)) {
                         $id_quilombo = $quilombo->id;
@@ -1129,10 +1145,17 @@ class Controller extends BaseController
                 //cria novo quilombo e salva, mesmo processo acima (podia ser uma função)
                 $salvar_quilombo = true;
                 if (isset($input_quilombo['id'])) {
+                    if (!is_numeric(($input_quilombo['id']))) {
+                        $input_quilombo['id'] = null;
+                    }
                     if (!isset($id_quilombo)) {
                         $id_quilombo = $input_quilombo['id'];
                     }
-                    $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                    if ($input_quilombo['id']) {
+                        $quilombo = $todos_quilombos->where('id', $input_quilombo['id'])->first();
+                    } else {
+                        $quilombo = new TB_Quilombo();
+                    }
                     if (!$quilombo) {
                         $quilombo = new TB_Quilombo();
                     } else {
@@ -1145,7 +1168,16 @@ class Controller extends BaseController
                     $quilombo->{$key_quilombo} = $value_quilombo;
                 }
                 if ($salvar_quilombo) {
-                    $quilombo->save();
+                    try {
+                        $quilombo->save();
+                    } catch (\Exception $e) {
+                        $retorno = [
+                            'status' => 'error',
+                            'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'exception' => $e
+                        ];
+                        return response()->json($retorno, 500);
+                    }
                 }
                 if (!isset($id_quilombo)) {
                     $id_quilombo = $quilombo->id;
@@ -1160,10 +1192,17 @@ class Controller extends BaseController
                     //cria novo processo e salva, mesmo processo abaixo (podia ser uma função)
                     $salvar_processo = true;
                     if (isset($input_processo['id'])) {
+                        if (!is_numeric(($input_processo['id']))) {
+                            $input_processo['id'] = null;
+                        }
                         if (!isset($id_processo)) {
                             $id_processo = $input_processo['id'];
                         }
-                        $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                        if ($input_processo['id']) {
+                            $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                        } else {
+                            $processo = new TB_Processo();
+                        }
                         if (!$processo) {
                             $processo = new TB_Processo();
                         } else {
@@ -1173,11 +1212,24 @@ class Controller extends BaseController
                         $processo = new TB_Processo();
                     }
                     foreach ($input_processo as $key_processo => $value_processo) {
-                        $processo->{$key_processo} = $value_processo;
+                        if ($key_processo == 'data_publicacao') {
+                            $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                        } else {
+                            $processo->{$key_processo} = $value_processo;
+                        }
                     }
                     $processo->quilombo_id = $id_quilombo;
                     if ($salvar_processo) {
-                        $processo->save();
+                        try {
+                            $processo->save();
+                        } catch (\Exception $e) {
+                            $retorno = [
+                                'status' => 'error',
+                                'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'exception' => $e
+                            ];
+                            return response()->json($retorno, 500);
+                        }
                     }
                     if (!isset($id_processo)) {
                         $id_processo = $processo->id;
@@ -1190,10 +1242,17 @@ class Controller extends BaseController
                 //cria novo processo e salva, mesmo processo acima (podia ser uma função)
                 $salvar_processo = true;
                 if (isset($input_processo['id'])) {
+                    if (!is_numeric(($input_processo['id']))) {
+                        $input_processo['id'] = null;
+                    }
                     if (!isset($id_processo)) {
                         $id_processo = $input_processo['id'];
                     }
-                    $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                    if ($input_processo['id']) {
+                        $processo = $todos_processos->where('id', $input_processo['id'])->first();
+                    } else {
+                        $processo = new TB_Processo();
+                    }
                     if (!$processo) {
                         $processo = new TB_Processo();
                     } else {
@@ -1203,11 +1262,24 @@ class Controller extends BaseController
                     $processo = new TB_Processo();
                 }
                 foreach ($input_processo as $key_processo => $value_processo) {
-                    $processo->{$key_processo} = $value_processo;
+                    if ($key_processo == 'data_publicacao') {
+                        $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                    } else {
+                        $processo->{$key_processo} = $value_processo;
+                    }
                 }
                 $processo->quilombo_id = $id_quilombo;
                 if ($salvar_processo) {
-                    $processo->save();
+                    try {
+                        $processo->save();
+                    } catch (\Exception $e) {
+                        $retorno = [
+                            'status' => 'error',
+                            'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'exception' => $e
+                        ];
+                        return response()->json($retorno, 500);
+                    }
                 }
                 if (!isset($id_processo)) {
                     $id_processo = $processo->id;
@@ -1222,10 +1294,17 @@ class Controller extends BaseController
                     //cria nova parte e salva, mesmo processo abaixo (podia ser uma função)
                     $salvar_parte = true;
                     if (isset($input_parte['id'])) {
+                        if (!is_numeric(($input_parte['id']))) {
+                            $input_parte['id'] = null;
+                        }
                         if (!isset($id_parte)) {
                             $id_parte = $input_parte['id'];
                         }
-                        $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                        if ($input_parte['id']) {
+                            $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                        } else {
+                            $parte = new TB_Parte();
+                        }
                         if (!$parte) {
                             $parte = new TB_Parte();
                         } else {
@@ -1242,10 +1321,17 @@ class Controller extends BaseController
                         if ($key_parte == 'advogado') {
                             $input_advogado = $input_parte['advogado'];
                             if (isset($input_advogado['id'])) {
+                                if (!is_numeric(($input_advogado['id']))) {
+                                    $input_advogado['id'] = null;
+                                }
                                 if (!isset($id_advogado)) {
                                     $id_advogado = $input_advogado['id'];
                                 }
-                                $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                                if ($input_advogado['id']) {
+                                    $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                                } else {
+                                    $advogado = new TB_Advogado();
+                                }
                                 if (!$advogado) {
                                     $advogado = new TB_Advogado();
                                 } else {
@@ -1258,7 +1344,16 @@ class Controller extends BaseController
                                 $advogado->{$key_advogado} = $value_advogado;
                             }
                             if ($salvar_advogado) {
-                                $advogado->save();
+                                try {
+                                    $advogado->save();
+                                } catch (\Exception $e) {
+                                    $retorno = [
+                                        'status' => 'error',
+                                        'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'exception' => $e
+                                    ];
+                                    return response()->json($retorno, 500);
+                                }
                             }
                             if (!isset($id_advogado)) {
                                 $id_advogado = $advogado->id;
@@ -1268,10 +1363,17 @@ class Controller extends BaseController
                             $salvar_defensor = true;
                             $input_defensor = $input_parte['defensor'];
                             if (isset($input_defensor['id'])) {
+                                if (!is_numeric(($input_defensor['id']))) {
+                                    $input_defensor['id'] = null;
+                                }
                                 if (!isset($id_defensor)) {
                                     $id_defensor = $input_defensor['id'];
                                 }
-                                $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                                if ($input_defensor['id']) {
+                                    $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                                } else {
+                                    $defensor = new TB_Defensoria();
+                                }
                                 if (!$defensor) {
                                     $defensor = new TB_Defensoria();
                                 } else {
@@ -1285,7 +1387,16 @@ class Controller extends BaseController
                             }
                             if ($salvar_defensor) {
                                 //por enquanto nao salvar defensor
-                                //$defensor->save();
+                                try {
+                                    //$defensor->save();
+                                } catch (\Exception $e) {
+                                    $retorno = [
+                                        'status' => 'error',
+                                        'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'exception' => $e
+                                    ];
+                                    return response()->json($retorno, 500);
+                                }
                             }
                             if (!isset($id_defensor)) {
                                 $id_defensor = $defensor->id;
@@ -1295,10 +1406,17 @@ class Controller extends BaseController
                             $salvar_procurador = true;
                             $input_procurador = $input_parte['procurador'];
                             if (isset($input_procurador['id'])) {
+                                if (!is_numeric(($input_procurador['id']))) {
+                                    $input_procurador['id'] = null;
+                                }
                                 if (!isset($id_procurador)) {
                                     $id_procurador = $input_procurador['id'];
                                 }
-                                $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                                if ($input_procurador['id']) {
+                                    $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                                } else {
+                                    $procurador = new TB_Procurador();
+                                }
                                 if (!$procurador) {
                                     $procurador = new TB_Procurador();
                                 } else {
@@ -1312,7 +1430,16 @@ class Controller extends BaseController
                             }
                             if ($salvar_procurador) {
                                 //por enquanto nao salvar procurador
-                                //$procurador->save();
+                                try {
+                                    //$procurador->save();
+                                } catch (\Exception $e) {
+                                    $retorno = [
+                                        'status' => 'error',
+                                        'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'exception' => $e
+                                    ];
+                                    return response()->json($retorno, 500);
+                                }
                             }
                             if (!isset($id_procurador)) {
                                 $id_procurador = $procurador->id;
@@ -1322,7 +1449,16 @@ class Controller extends BaseController
                         }
                     }
                     if ($salvar_parte) {
-                        $parte->save();
+                        try {
+                            $parte->save();
+                        } catch (\Exception $e) {
+                            $retorno = [
+                                'status' => 'error',
+                                'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'exception' => $e
+                            ];
+                            return response()->json($retorno, 500);
+                        }
                     }
                     if (!isset($id_parte)) {
                         $id_parte = $parte->id;
@@ -1376,7 +1512,16 @@ class Controller extends BaseController
                         }
                         $participante_existe = $participante_existe->first();
                         if (!$participante_existe) {
-                            $participante->save();
+                            try {
+                                $participante->save();
+                            } catch (\Exception $e) {
+                                $retorno = [
+                                    'status' => 'error',
+                                    'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'exception' => $e
+                                ];
+                                return response()->json($retorno, 500);
+                            }
                         }
                         $retorno['objParticipante'][] = $participante;
                     }
@@ -1387,10 +1532,17 @@ class Controller extends BaseController
                 //cria nova parte e salva, mesmo processo acima (podia ser uma função)
                 $salvar_parte = true;
                 if (isset($input_parte['id'])) {
+                    if (!is_numeric(($input_parte['id']))) {
+                        $input_parte['id'] = null;
+                    }
                     if (!isset($id_parte)) {
                         $id_parte = $input_parte['id'];
                     }
-                    $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                    if ($input_parte['id']) {
+                        $parte = $todas_partes->where('id', $input_parte['id'])->first();
+                    }  else {
+                        $parte = new TB_Parte();
+                    }
                     if (!$parte) {
                         $parte = new TB_Parte();
                     } else {
@@ -1407,10 +1559,17 @@ class Controller extends BaseController
                     if ($key_parte == 'advogado') {
                         $input_advogado = $input_parte['advogado'];
                         if (isset($input_advogado['id'])) {
+                            if (!is_numeric(($input_advogado['id']))) {
+                                $input_advogado['id'] = null;
+                            }
                             if (!isset($id_advogado)) {
                                 $id_advogado = $input_advogado['id'];
                             }
-                            $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                            if ($input_advogado) {
+                                $advogado = $todos_advogados->where('id', $input_advogado['id'])->first();
+                            } else {
+                                $advogado = new TB_Advogado();
+                            }
                             if (!$advogado) {
                                 $advogado = new TB_Advogado();
                             } else {
@@ -1423,7 +1582,16 @@ class Controller extends BaseController
                             $advogado->{$key_advogado} = $value_advogado;
                         }
                         if ($salvar_advogado) {
-                            $advogado->save();
+                            try {
+                                $advogado->save();
+                            } catch (\Exception $e) {
+                                $retorno = [
+                                    'status' => 'error',
+                                    'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'exception' => $e
+                                ];
+                                return response()->json($retorno, 500);
+                            }
                         }
                         if (!isset($id_advogado)) {
                             $id_advogado = $advogado->id;
@@ -1433,10 +1601,17 @@ class Controller extends BaseController
                         $salvar_defensor = true;
                         $input_defensor = $input_parte['defensor'];
                         if (isset($input_defensor['id'])) {
+                            if (!is_numeric(($input_defensor['id']))) {
+                                $input_defensor['id'] = null;
+                            }
                             if (!isset($id_defensor)) {
                                 $id_defensor = $input_defensor['id'];
                             }
-                            $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                            if ($input_defensor['id']) {
+                                $defensor = $todos_defensores->where('id', $input_defensor['id'])->first();
+                            } else {
+                                $defensor = new TB_Defensoria();
+                            }
                             if (!$defensor) {
                                 $defensor = new TB_Defensoria();
                             } else {
@@ -1450,7 +1625,16 @@ class Controller extends BaseController
                         }
                         if ($salvar_defensor) {
                             //por enquanto nao salvar defensor
-                            //$defensor->save();
+                            try {
+                                //$defensor->save();
+                            } catch (\Exception $e) {
+                                $retorno = [
+                                    'status' => 'error',
+                                    'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'exception' => $e
+                                ];
+                                return response()->json($retorno, 500);
+                            }
                         }
                         if (!isset($id_defensor)) {
                             $id_defensor = $defensor->id;
@@ -1460,10 +1644,17 @@ class Controller extends BaseController
                         $salvar_procurador = true;
                         $input_procurador = $input_parte['procurador'];
                         if (isset($input_procurador['id'])) {
+                            if (!is_numeric(($input_procurador['id']))) {
+                                $input_procurador['id'] = null;
+                            }
                             if (!isset($id_procurador)) {
                                 $id_procurador = $input_procurador['id'];
                             }
-                            $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                            if ($input_procurador['id']) {
+                                $procurador = $todos_procuradores->where('id', $input_procurador['id'])->first();
+                            } else {
+                                $procurador = new TB_Procurador();
+                            }
                             if (!$procurador) {
                                 $procurador = new TB_Procurador();
                             } else {
@@ -1477,7 +1668,16 @@ class Controller extends BaseController
                         }
                         if ($salvar_procurador) {
                             //por enquanto nao salvar procurador
-                            //$procurador->save();
+                            try {
+                                //$procurador->save();
+                            } catch (\Exception $e) {
+                                $retorno = [
+                                    'status' => 'error',
+                                    'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'exception' => $e
+                                ];
+                                return response()->json($retorno, 500);
+                            }
                         }
                         if (!isset($id_procurador)) {
                             $id_procurador = $procurador->id;
@@ -1487,7 +1687,16 @@ class Controller extends BaseController
                     }
                 }
                 if ($salvar_parte) {
-                    $parte->save();
+                    try {
+                        $parte->save();
+                    } catch (\Exception $e) {
+                        $retorno = [
+                            'status' => 'error',
+                            'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'exception' => $e
+                        ];
+                        return response()->json($retorno, 500);
+                    }
                 }
                 if (!isset($id_parte)) {
                     $id_parte = $parte->id;
@@ -1541,7 +1750,16 @@ class Controller extends BaseController
                     }
                     $participante_existe = $participante_existe->first();
                     if (!$participante_existe) {
-                        $participante->save();
+                        try {
+                            $participante->save();
+                        } catch (\Exception $e) {
+                            $retorno = [
+                                'status' => 'error',
+                                'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'exception' => $e
+                            ];
+                            return response()->json($retorno, 500);
+                        }
                     }
                     $retorno['objParticipante'][] = $participante;
                 }
