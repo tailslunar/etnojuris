@@ -1359,9 +1359,16 @@ class Controller extends BaseController
                                 $id_advogado = $advogado->id;
                             }
                         }
-                        else if ($key_parte == 'defensor') {
+                        else if ($key_parte == 'defensoria') {
                             $salvar_defensor = true;
-                            $input_defensor = $input_parte['defensor'];
+                            $input_defensor = $input_parte['defensoria'];
+                            //if (in_array('defensoria', array_keys($input_defensor))) {
+                                if (in_array('instituicao', array_keys($input_defensor))) {
+                                    if (isset($input_defensor['instituicao']['id'])) {
+                                        $input_defensor['id'] = $input_defensor['instituicao']['id'];
+                                    }
+                                }
+                            //}
                             if (isset($input_defensor['id'])) {
                                 if (!is_numeric(($input_defensor['id']))) {
                                     $input_defensor['id'] = null;
@@ -1405,6 +1412,13 @@ class Controller extends BaseController
                         else if ($key_parte == 'procurador') {
                             $salvar_procurador = true;
                             $input_procurador = $input_parte['procurador'];
+                            //if (in_array('procurador', array_keys($input_procurador))) {
+                                if (in_array('instituicao', array_keys($input_procurador))) {
+                                    if (isset($input_procurador['instituicao']['id'])) {
+                                        $input_procurador['id'] = $input_procurador['instituicao']['id'];
+                                    }
+                                }
+                            //}
                             if (isset($input_procurador['id'])) {
                                 if (!is_numeric(($input_procurador['id']))) {
                                     $input_procurador['id'] = null;
@@ -1475,7 +1489,7 @@ class Controller extends BaseController
                         $salvar_participante = true;
                     }
                     if ($defensor) {
-                        $parte_['defensor'][] = $defensor;
+                        $parte_['defensoria'][] = $defensor;
                         $salvar_participante = true;
                     }
                     $retorno['objParte'][] = $parte_;
@@ -1597,9 +1611,16 @@ class Controller extends BaseController
                             $id_advogado = $advogado->id;
                         }
                     }
-                    else if ($key_parte == 'defensor') {
+                    else if ($key_parte == 'defensoria') {
                         $salvar_defensor = true;
-                        $input_defensor = $input_parte['defensor'];
+                        $input_defensor = $input_parte['defensoria'];
+                        //if (in_array('defensoria', array_keys($input_defensor))) {
+                            if (in_array('instituicao', array_keys($input_defensor))) {
+                                if (isset($input_defensor['instituicao']['id'])) {
+                                    $input_defensor['id'] = $input_defensor['instituicao']['id'];
+                                }
+                            }
+                        //}
                         if (isset($input_defensor['id'])) {
                             if (!is_numeric(($input_defensor['id']))) {
                                 $input_defensor['id'] = null;
@@ -1643,6 +1664,13 @@ class Controller extends BaseController
                     else if ($key_parte == 'procurador') {
                         $salvar_procurador = true;
                         $input_procurador = $input_parte['procurador'];
+                        //if (in_array('procurador', array_keys($input_procurador))) {
+                            if (in_array('instituicao', array_keys($input_procurador))) {
+                                if (isset($input_procurador['instituicao']['id'])) {
+                                    $input_procurador['id'] = $input_procurador['instituicao']['id'];
+                                }
+                            }
+                        //}
                         if (isset($input_procurador['id'])) {
                             if (!is_numeric(($input_procurador['id']))) {
                                 $input_procurador['id'] = null;
@@ -1713,7 +1741,7 @@ class Controller extends BaseController
                     $salvar_participante = true;
                 }
                 if ($defensor) {
-                    $parte_['defensor'][] = $defensor;
+                    $parte_['defensoria'][] = $defensor;
                     $salvar_participante = true;
                 }
                 $retorno['objParte'][] = $parte_;
@@ -1766,6 +1794,11 @@ class Controller extends BaseController
             }
         }
 
+        /* desativado, por enquanto
+        $sentencas_processo = TB_Sentenca::where('id', $processo->sentenca_id)->get();
+        $retorno['objSentenca'][] = $sentencas_processo;
+        */
+
         $ret = [
             'status' => 'success',
             'message' => 'Registro salvo com sucesso!',
@@ -1773,6 +1806,64 @@ class Controller extends BaseController
             'input' => $obj
         ];
         return response()->json($ret);
+    }
+
+    public function dados_processo(Request $request)
+    {
+        $todos_processos = TB_Processo::all();
+
+        $retorno = [];
+        $id_processo = $request->post('processo');
+        if (!$id_processo) {
+            $id_processo = Route::current()->parameter('processo');
+        }
+        $processo = $todos_processos->where('id', $id_processo)->first();
+
+        $quilombos_processo = TB_Quilombo::where('id', $processo->quilombo_id)->get();
+        $participantes_processo = TB_Participante::where('processo_id', $processo->id)->get();
+        $sentencas_processo = TB_Sentenca::where('id', $processo->sentenca_id)->get();
+
+        $advogados_processo = [];
+        $procuradores_processo = [];
+        $defensorias_processo = [];
+        $partes_processo = [];
+        foreach ($participantes_processo as $participante) {
+            if ($participante->advogado_id) {
+                $advogados_processo[] = TB_Advogado::where('id', $participante->advogado_id)->get();
+            }
+            if ($participante->procurador_id) {
+                $procuradores_processo[] = TB_Procurador::where('id', $participante->procurador_id)->get();
+            }
+            if ($participante->defensoria_id) {
+                $defensorias_processo[] = TB_Defensoria::where('id', $participante->defensoria_id)->get();
+            }
+            if ($participante->parte_id) {
+                $partes_processo[] = TB_Parte::where('id', $participante->parte_id)->get();
+            }
+        }
+
+        $retorno['objQuilombo'][] = $quilombos_processo;
+        $retorno['objProcesso'][] = $processo;
+        $retorno['objParte'][] = $partes_processo;
+        $retorno['objAdvogado'][] = $advogados_processo;
+        $retorno['objProcurador'][] = $procuradores_processo;
+        $retorno['objDefensoria'][] = $defensorias_processo;
+        $retorno['objParticipante'][] = $participantes_processo;
+        $retorno['objSentenca'][] = $sentencas_processo;
+
+        return response()->json($retorno);
+    }
+
+    public function quilombo_processos(Request $request)
+    {
+        $retorno = [];
+        $id_quilombo = $request->post('quilombo');
+        if (!$id_quilombo) {
+            $id_quilombo = Route::current()->parameter('quilombo');
+        }
+        $processos = TB_Processo::where('quilombo_id', $id_quilombo)->get();
+
+        return response()->json($processos);
     }
 
     private function checar_token_bearer($request)

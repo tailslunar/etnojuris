@@ -34,6 +34,12 @@ Route::post('/dashboard', [Controller::class, 'dashboard']);
 Route::get('/importar_processo', [Controller::class, 'importar_processo_index']);
 Route::post('/importar_processo', [Controller::class, 'importar_processo']);
 
+Route::get('/dados_processo/{processo}', [Controller::class, 'dados_processo']);
+Route::post('/dados_processo', [Controller::class, 'dados_processo']);
+
+Route::get('/quilombo_processos/{quilombo}', [Controller::class, 'quilombo_processos']);
+Route::post('/quilombo_processos', [Controller::class, 'quilombo_processos']);
+
 Route::get('/codigo_ibge', [Controller::class, 'codigo_ibge']);
 Route::post('/codigo_ibge', [Controller::class, 'codigo_ibge']);
 
