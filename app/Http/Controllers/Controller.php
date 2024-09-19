@@ -1855,6 +1855,7 @@ class Controller extends BaseController
         $quilombos_processo = TB_Quilombo::where('id', $processo->quilombo_id)->get();
         $participantes_processo = TB_Participante::where('processo_id', $processo->id)->get();
         $sentencas_processo = TB_Sentenca::where('id', $processo->sentenca_id)->get();
+        $localidades_processo = TB_Localidade::where('id', $processo->localidade_id)->get();
 
         $advogados_processo = [];
         $procuradores_processo = [];
@@ -1875,14 +1876,81 @@ class Controller extends BaseController
             }
         }
 
-        $retorno['objQuilombo'][] = $quilombos_processo;
-        $retorno['objProcesso'][] = $processo;
-        $retorno['objParte'][] = $partes_processo;
-        $retorno['objAdvogado'][] = $advogados_processo;
-        $retorno['objProcurador'][] = $procuradores_processo;
-        $retorno['objDefensoria'][] = $defensorias_processo;
-        $retorno['objParticipante'][] = $participantes_processo;
-        $retorno['objSentenca'][] = $sentencas_processo;
+        foreach($quilombos_processo as $quilombo) {
+            $quilombo->localidade = TB_Localidade::where('id', $quilombo->parte_id)->get();
+        }
+
+        if ($quilombos_processo->count() > 1) {
+            $retorno['objQuilombo'] = $quilombos_processo;
+        } else if ($quilombos_processo->count() > 0) {
+            $retorno['objQuilombo'] = $quilombos_processo[0];
+        } else {
+            $retorno['objQuilombo'] = $quilombos_processo;
+        }
+
+        if ($processo->count() > 1) {
+            $retorno['objProcesso'] = $processo;
+        } else  if ($processo->count() > 0) {
+            $retorno['objProcesso'] = $processo[0];
+        } else {
+            $retorno['objProcesso'] = $processo;
+        }
+
+        if (count($partes_processo) > 1) {
+            $retorno['objParte'] = $partes_processo;    
+        } else if (count($partes_processo) > 0) {
+            $retorno['objParte'] = $partes_processo[0];
+        } else {
+            $retorno['objParte'] = $partes_processo;
+        }
+
+        if (count($advogados_processo) > 1) {
+            $retorno['objAdvogado'] = $advogados_processo;
+        } else if (count($advogados_processo) > 0) {
+            $retorno['objAdvogado'] = $advogados_processo[0];
+        } else {
+            $retorno['objAdvogado'] = $advogados_processo;
+        }
+
+        if (count($procuradores_processo) > 1) {
+            $retorno['objProcurador'] = $procuradores_processo;
+        } else if (count($procuradores_processo) > 0) {
+            $retorno['objProcurador'] = $procuradores_processo[0];
+        } else {
+            $retorno['objProcurador'] = $procuradores_processo;
+        }
+
+        if (count($defensorias_processo) > 1) {
+            $retorno['objDefensoria'] = $defensorias_processo;
+        } else if (count($defensorias_processo) > 0) {
+            $retorno['objDefensoria'] = $defensorias_processo[0];
+        } else {
+            $retorno['objDefensoria'] = $defensorias_processo;
+        }
+
+        if ($participantes_processo->count() > 1) {
+            $retorno['objParticipante'] = $participantes_processo;
+        } else if ($participantes_processo->count() > 0) {
+            $retorno['objParticipante'] = $participantes_processo[0];
+        } else {
+            $retorno['objParticipante'] = $participantes_processo;
+        }
+
+        if ($sentencas_processo->count() > 1) {
+            $retorno['objSentenca'] = $sentencas_processo;
+        } else if ($sentencas_processo->count() > 0) {
+            $retorno['objSentenca'] = $sentencas_processo[0];
+        } else {
+            $retorno['objSentenca'] = $sentencas_processo;
+        }
+
+        if ($localidades_processo->count() > 1) {
+            $retorno['objLocalidade'] = $localidades_processo;
+        } else if ($localidades_processo->count() > 0) {
+            $retorno['objLocalidade'] = $localidades_processo[0];
+        } else {
+            $retorno['objLocalidade'] = $localidades_processo;
+        }
 
         return response()->json($retorno);
     }
