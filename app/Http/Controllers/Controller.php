@@ -441,6 +441,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não foi salvo!',
+                'table' => $model,
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
@@ -516,6 +517,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não pôde ser atualizado!',
+                'table' => $item,
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
@@ -581,6 +583,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não pôde ser deletado!',
+                'table' => $item,
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
@@ -723,6 +726,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não pôde ser atualizado!',
+                'table' => $item,
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
@@ -797,6 +801,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não pôde ser deletado!',
+                'table' => $item,
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
@@ -1129,6 +1134,7 @@ class Controller extends BaseController
                             $retorno = [
                                 'status' => 'error',
                                 'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'table' => 'quilombo',
                                 'exception' => $e
                             ];
                             return response()->json($retorno, 500);
@@ -1174,6 +1180,7 @@ class Controller extends BaseController
                         $retorno = [
                             'status' => 'error',
                             'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'table' => 'quilombo',
                             'exception' => $e
                         ];
                         return response()->json($retorno, 500);
@@ -1226,6 +1233,7 @@ class Controller extends BaseController
                             $retorno = [
                                 'status' => 'error',
                                 'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'table' => 'processo',
                                 'exception' => $e
                             ];
                             return response()->json($retorno, 500);
@@ -1276,6 +1284,7 @@ class Controller extends BaseController
                         $retorno = [
                             'status' => 'error',
                             'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'table' => 'processo',
                             'exception' => $e
                         ];
                         return response()->json($retorno, 500);
@@ -1350,6 +1359,7 @@ class Controller extends BaseController
                                     $retorno = [
                                         'status' => 'error',
                                         'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'table' => 'advogado',
                                         'exception' => $e
                                     ];
                                     return response()->json($retorno, 500);
@@ -1400,6 +1410,7 @@ class Controller extends BaseController
                                     $retorno = [
                                         'status' => 'error',
                                         'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'table' => 'defensoria',
                                         'exception' => $e
                                     ];
                                     return response()->json($retorno, 500);
@@ -1450,6 +1461,7 @@ class Controller extends BaseController
                                     $retorno = [
                                         'status' => 'error',
                                         'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                        'table' => 'procurador',
                                         'exception' => $e
                                     ];
                                     return response()->json($retorno, 500);
@@ -1476,6 +1488,7 @@ class Controller extends BaseController
                             $retorno = [
                                 'status' => 'error',
                                 'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'table' => 'parte',
                                 'exception' => $e
                             ];
                             return response()->json($retorno, 500);
@@ -1539,6 +1552,7 @@ class Controller extends BaseController
                                 $retorno = [
                                     'status' => 'error',
                                     'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'table' => 'participante',
                                     'exception' => $e
                                 ];
                                 return response()->json($retorno, 500);
@@ -1609,6 +1623,7 @@ class Controller extends BaseController
                                 $retorno = [
                                     'status' => 'error',
                                     'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'table' => 'advogado',
                                     'exception' => $e
                                 ];
                                 return response()->json($retorno, 500);
@@ -1659,6 +1674,7 @@ class Controller extends BaseController
                                 $retorno = [
                                     'status' => 'error',
                                     'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'table' => 'defensoria',
                                     'exception' => $e
                                 ];
                                 return response()->json($retorno, 500);
@@ -1709,6 +1725,7 @@ class Controller extends BaseController
                                 $retorno = [
                                     'status' => 'error',
                                     'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                    'table' => 'procurador',
                                     'exception' => $e
                                 ];
                                 return response()->json($retorno, 500);
@@ -1735,6 +1752,7 @@ class Controller extends BaseController
                         $retorno = [
                             'status' => 'error',
                             'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                            'table' => 'parte',
                             'exception' => $e
                         ];
                         return response()->json($retorno, 500);
@@ -1798,6 +1816,7 @@ class Controller extends BaseController
                             $retorno = [
                                 'status' => 'error',
                                 'message' => 'Ocorreu uma exceção e o registro não pôde ser importado!',
+                                'table' => 'participante',
                                 'exception' => $e
                             ];
                             return response()->json($retorno, 500);
@@ -2115,6 +2134,7 @@ class Controller extends BaseController
             $retorno = [
                 'status' => 'error',
                 'message' => 'Ocorreu uma exceção e o registro não pôde ser salvo!',
+                'table' => 'user',
                 'exception' => $e
             ];
             return response()->json($retorno, 500);
