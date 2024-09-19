@@ -1462,6 +1462,13 @@ class Controller extends BaseController
                             $parte->{$key_parte} = $value_parte;
                         }
                     }
+                    if (!isset($parte->id)) {
+                        $salvar_parte = true;
+                    } else {
+                        if (!$parte->id) {
+                            $salvar_parte = true;
+                        }
+                    }
                     if ($salvar_parte) {
                         try {
                             $parte->save();
@@ -1506,7 +1513,7 @@ class Controller extends BaseController
                         if ($defensor) {
                             $participante->defensoria_id = $defensor->id;
                         }
-                        $participante->parte_id = $id_parte;
+                        $participante->parte_id = $parte->id;
                         $participante->processo_id = $id_processo;
                         $participante_existe = $todos_participantes;
                         if (isset($participante->advogado_id)) {
@@ -1714,6 +1721,13 @@ class Controller extends BaseController
                         $parte->{$key_parte} = $value_parte;
                     }
                 }
+                if (!isset($parte->id)) {
+                    $salvar_parte = true;
+                } else {
+                    if (!$parte->id) {
+                        $salvar_parte = true;
+                    }
+                }
                 if ($salvar_parte) {
                     try {
                         $parte->save();
@@ -1758,7 +1772,7 @@ class Controller extends BaseController
                     if ($defensor) {
                         $participante->defensoria_id = $defensor->id;
                     }
-                    $participante->parte_id = $id_parte;
+                    $participante->parte_id = $parte->id;
                     $participante->processo_id = $id_processo;
                     $participante_existe = $todos_participantes;
                     if (isset($participante->advogado_id)) {
