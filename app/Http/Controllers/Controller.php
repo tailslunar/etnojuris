@@ -1877,7 +1877,15 @@ class Controller extends BaseController
         }
 
         foreach($quilombos_processo as $quilombo) {
-            $quilombo->localidade = TB_Localidade::where('id', $quilombo->parte_id)->get();
+            $quilombo_localidade = TB_Localidade::where('id', $quilombo->localidade_id)->get();
+            
+            if ($quilombo_localidade->count() > 1) {
+                $quilombo->localidade = $quilombo_localidade;
+            } else if ($quilombo_localidade->count() > 0) {
+                $quilombo->localidade = $quilombo_localidade[0];
+            } else {
+                $quilombo->localidade = $quilombo_localidade;
+            }
         }
 
         if ($quilombos_processo->count() > 1) {
