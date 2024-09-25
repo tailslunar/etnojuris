@@ -258,7 +258,8 @@ class Controller extends BaseController
         'debug' => 'debug',
         'dashboard' => 'dashboard',
         'codigo_ibge' => 'codigo_ibge',
-        'importar_processo' => 'importar_processo'
+        'importar_processo' => 'importar_processo',
+        'quilombo_processos' => 'quilombo_processos'
     ];
 
     public function __construct()
