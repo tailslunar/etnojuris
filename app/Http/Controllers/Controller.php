@@ -1220,7 +1220,11 @@ class Controller extends BaseController
                     }
                     foreach ($input_processo as $key_processo => $value_processo) {
                         if ($key_processo == 'data_publicacao') {
-                            $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                            if ($input_processo['data_publicacao']) {
+                                $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                            } else {
+                                $processo->{$key_processo} = null;
+                            }
                         } else {
                             $processo->{$key_processo} = $value_processo;
                         }
@@ -1271,7 +1275,11 @@ class Controller extends BaseController
                 }
                 foreach ($input_processo as $key_processo => $value_processo) {
                     if ($key_processo == 'data_publicacao') {
-                        $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                        if ($input_processo['data_publicacao']) {
+                            $processo->{$key_processo} = Carbon::createFromFormat('d/m/Y', $value_processo)->toDateTimeString();
+                        } else {
+                            $processo->{$key_processo} = null;
+                        }
                     } else {
                         $processo->{$key_processo} = $value_processo;
                     }
@@ -1878,7 +1886,7 @@ class Controller extends BaseController
 
         foreach($quilombos_processo as $quilombo) {
             $quilombo_localidade = TB_Localidade::where('id', $quilombo->localidade_id)->get();
-            
+
             if ($quilombo_localidade->count() > 1) {
                 $quilombo->localidade = $quilombo_localidade;
             } else if ($quilombo_localidade->count() > 0) {
@@ -1905,7 +1913,7 @@ class Controller extends BaseController
         }
 
         if (count($partes_processo) > 1) {
-            $retorno['objParte'] = $partes_processo;    
+            $retorno['objParte'] = $partes_processo;
         } else if (count($partes_processo) > 0) {
             $retorno['objParte'] = $partes_processo[0];
         } else {
