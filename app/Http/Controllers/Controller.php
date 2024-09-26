@@ -1984,6 +1984,28 @@ class Controller extends BaseController
         return response()->json($processos);
     }
 
+    public function quilombos_processos(Request $request)
+    {
+        $todos_quilombos = TB_Quilombo::all();
+        $total_quilombos = 0;
+        $total_processos = 0;
+        $retorno = [];
+
+        foreach ($todos_quilombos as $quilombo) {
+            $processos = TB_Processo::where('quilombo_id', $quilombo->id)->get();
+            $quilombo['processos'] = $processos;
+
+            $total_quilombos++;
+            $total_processos += $processos->count();
+        }
+
+        $retorno = $todos_quilombos;
+        $totais['total_quilombos'] = $total_quilombos;
+        $totais['total_processos'] = $total_processos;
+
+        return response()->json($retorno);
+    }
+
     private function checar_token_bearer($request)
     {
         $bearer = $request->post('Bearer');
