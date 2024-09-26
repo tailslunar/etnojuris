@@ -1993,7 +1993,14 @@ class Controller extends BaseController
 
         foreach ($todos_quilombos as $quilombo) {
             $processos = TB_Processo::where('quilombo_id', $quilombo->id)->get();
+            $localidades = TB_Localidade::where('id', $quilombo->localidade_id)->get();
             $quilombo['processos'] = $processos;
+
+            if ($localidades->count() == 1) {
+                $quilombo['localidade'] = $localidades[0];
+            } else {
+                $quilombo['localidade'] = $localidades;
+            }
 
             $total_quilombos++;
             $total_processos += $processos->count();
