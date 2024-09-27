@@ -37,6 +37,9 @@ Route::post('/importar_processo', [Controller::class, 'importar_processo']);
 Route::get('/dados_processo/{processo}', [Controller::class, 'dados_processo']);
 Route::post('/dados_processo', [Controller::class, 'dados_processo']);
 
+Route::get('/dados_processos', [Controller::class, 'dados_processos']);
+Route::post('/dados_processos', [Controller::class, 'dados_processos']);
+
 Route::get('/quilombos_processos', [Controller::class, 'quilombos_processos']);
 Route::get('/quilombo_processos/{quilombo}', [Controller::class, 'quilombo_processos']);
 Route::post('/quilombos_processos', [Controller::class, 'quilombos_processos']);
