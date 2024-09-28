@@ -1094,13 +1094,13 @@ class Controller extends BaseController
                     $processos_desse_estado_trf6++;
                 }
 
-                if ($processo->polo == 'ativo') {
+                if (strtolower($processo->polo) == 'ativo') {
                     $polos_ativos_desse_estado++;
                 }
-                if ($processo->polo == 'passivo') {
+                if (strtolower($processo->polo) == 'passivo') {
                     $polos_passivos_desse_estado++;
                 }
-                if ($processo->polo == 'neutro') {
+                if (strtolower($processo->polo) == 'neutro') {
                     $polos_neutros_desse_estado++;
                 }
 
