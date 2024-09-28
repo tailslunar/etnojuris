@@ -1044,7 +1044,7 @@ class Controller extends BaseController
             ->where('tb_localidade.uf', $estado['sigla'])
             ->select('tb_quilombo.*')->get();
 
-            $processo_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+            $processos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
             ->join('tb_localidade', 'tb_processo.localidade_id', '=', 'tb_localidade.id')
             ->where('tb_localidade.uf', $estado['sigla'])
             ->select('tb_processo.*')->get();
