@@ -1012,7 +1012,13 @@ class Controller extends BaseController
         $sentencas_sem_meritos_totais = 0;
         $sentencas_sem_informacao_totais = 0;
 
-        foreach ($this->estados as $estado) {
+        $estados = $this->estados;
+        $estados[] = [
+            "nome" => "Localidade Não Informada",
+            "sigla" => "NAO"
+        ];
+
+        foreach ($estados as $estado) {
             $dado = [];
             $dado['estado'] = $estado['sigla'];
 
@@ -1040,15 +1046,20 @@ class Controller extends BaseController
             }
             */
 
-            $quilombos_desse_estado = DB::connection('etno_mysql')->table('tb_quilombo')
-            ->join('tb_localidade', 'tb_quilombo.localidade_id', '=', 'tb_localidade.id')
-            ->where('tb_localidade.uf', $estado['sigla'])
-            ->select('tb_quilombo.*')->get();
+            if ($estado['sigla'] != "NAO") {
+                $quilombos_desse_estado = DB::connection('etno_mysql')->table('tb_quilombo')
+                ->join('tb_localidade', 'tb_quilombo.localidade_id', '=', 'tb_localidade.id')
+                ->where('tb_localidade.uf', $estado['sigla'])
+                ->select('tb_quilombo.*')->get();
 
-            $processos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-            ->join('tb_localidade', 'tb_processo.localidade_id', '=', 'tb_localidade.id')
-            ->where('tb_localidade.uf', $estado['sigla'])
-            ->select('tb_processo.*')->get();
+                $processos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                ->join('tb_localidade', 'tb_processo.localidade_id', '=', 'tb_localidade.id')
+                ->where('tb_localidade.uf', $estado['sigla'])
+                ->select('tb_processo.*')->get();
+            } else {
+                $processos_desse_estado = TB_Processo::where('localidade_id', null)->get();
+                $quilombos_desse_estado = TB_Quilombo::where('localidade_id', null)->get();
+            }
 
             $processos_desse_estado_trf1 = 0;
             $processos_desse_estado_trf2 = 0;
@@ -1234,61 +1245,91 @@ class Controller extends BaseController
             }
             */
 
-            $sentencas_sem_informacao_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 1)->count();
+            if ($estado['sigla'] != "NAO") {
+                $sentencas_sem_informacao_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 1)->count();
 
-            $sentencas_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 2)->count();
+                $sentencas_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 2)->count();
 
-            $sentencas_improcedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 3)->count();
+                $sentencas_improcedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 3)->count();
 
-            $sentencas_parcialmente_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 4)->count();
+                $sentencas_parcialmente_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 4)->count();
 
-            $sentencas_embargos_acolhidos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 5)->count();
+                $sentencas_embargos_acolhidos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 5)->count();
 
-            $sentencas_acordos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 6)->count();
+                $sentencas_acordos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 6)->count();
 
-            $sentencas_sem_meritos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
-                ->whereIn('localidade_id', function ($query) use($estado) {
-                    $query->select('id')
-                        ->from('tb_localidade')
-                        ->where('uf', $estado['sigla']);
-                })
-                ->where('sentenca_id', 7)->count();
+                $sentencas_sem_meritos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->whereIn('localidade_id', function ($query) use($estado) {
+                        $query->select('id')
+                            ->from('tb_localidade')
+                            ->where('uf', $estado['sigla']);
+                    })
+                    ->where('sentenca_id', 7)->count();
+            } else {
+                $sentencas_sem_informacao_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 1)->count();
+
+                $sentencas_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 2)->count();
+
+                $sentencas_improcedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 3)->count();
+
+                $sentencas_parcialmente_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 4)->count();
+
+                $sentencas_embargos_acolhidos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 5)->count();
+
+                $sentencas_acordos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 6)->count();
+
+                $sentencas_sem_meritos_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
+                    ->where('localidade_id', null)
+                    ->where('sentenca_id', 7)->count();
+            }
 
             $sentencas_procedentes_totais += $sentencas_procedentes_desse_estado;
             $sentencas_acordos_totais += $sentencas_acordos_desse_estado;
@@ -1307,9 +1348,14 @@ class Controller extends BaseController
             $dado['sentenca']['sem_merito'] = round($sentencas_sem_meritos_desse_estado);
             $dado['sentenca']['sem_informacao'] = round($sentencas_sem_informacao_desse_estado);
 
-            $dados[] = $dado;
+            if ($estado['sigla'] != "NAO") {
+                $dados[] = $dado;
+            } else {
+                //$dados[] = $dado;
+            }
         }
 
+        //todos os dados
         $dado = [];
         $dado['estado'] = "todos";
 
