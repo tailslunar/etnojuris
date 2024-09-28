@@ -1165,6 +1165,7 @@ class Controller extends BaseController
             $dado['total']['quilombo'] = round($quantidade_quilombos_desse_estado);
 
             $dado['total']['tempo_meio'] = round($tempos_medios_desse_estado);
+            $dado['total']['tempo_total'] = round($tempos_totais_desse_estado);
             $dado['total']['unidade_tempo_medio'] = "dias";
 
             $processos_totais += $dado['total']['processo'];
@@ -1369,6 +1370,7 @@ class Controller extends BaseController
             $dado['total']['tempo_meio'] = 0;
         }
         
+        $dado['total']['tempo_total'] = round($tempos_totais);
         $dado['total']['unidade_tempo_medio'] = "dias";
 
         $dado['processo'] = [];
