@@ -1089,7 +1089,12 @@ class Controller extends BaseController
 
             $quantidade_processos_desse_estado = count($processos_desse_estado);
             $quantidade_quilombos_desse_estado = count($quilombos_desse_estado);
-            $tempos_medios_desse_estado = $tempos_totais_desse_estado / $quantidade_processos_desse_estado;
+
+            if ($quantidade_processos_desse_estado > 0) {
+                $tempos_medios_desse_estado = $tempos_totais_desse_estado / $quantidade_processos_desse_estado;
+            } else {
+                $tempos_medios_desse_estado = 0;
+            }
 
             $quilombos_desse_estado_trf1 = 0;
             $quilombos_desse_estado_trf2 = 0;
