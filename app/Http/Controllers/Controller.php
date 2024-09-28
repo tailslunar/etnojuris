@@ -1093,8 +1093,16 @@ class Controller extends BaseController
                 }
 
                 $hoje = Carbon::now();
-                $tempo_inicio_processo = Carbon::createFromFormat("Y-m-d", $processo->data_distribuicao);
-                $tempo_fim_processo = Carbon::createFromFormat("Y-m-d", $processo->data_sentenca) ?? $hoje;
+                if ($processo->data_distribuicao) {
+                    $tempo_inicio_processo = Carbon::createFromFormat("Y-m-d", $processo->data_distribuicao);
+                } else {
+                    $tempo_inicio_processo = null;
+                }
+                if ($processo->data_sentenca) {
+                    $tempo_fim_processo = Carbon::createFromFormat("Y-m-d", $processo->data_sentenca);
+                } else {
+                    $tempo_fim_processo = $hoje;
+                }
                 $tempo_total_processo = $tempo_fim_processo->diffInDays($tempo_inicio_processo);
                 $tempos_totais_desse_estado += $tempo_total_processo;
             }
