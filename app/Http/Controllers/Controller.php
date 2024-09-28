@@ -983,6 +983,7 @@ class Controller extends BaseController
         $processos_totais = 0;
         $quilombos_totais = 0;
 
+        $tempos_totais = 0;
         $tempos_medios_totais = 0;
 
         $processos_totais_trf1 = 0;
@@ -1149,24 +1150,24 @@ class Controller extends BaseController
             }
 
             $dado['total'] = [];
-            $dado['total']['processo'] = $quantidade_processos_desse_estado;
-            $dado['total']['quilombo'] = $quantidade_quilombos_desse_estado;
+            $dado['total']['processo'] = round($quantidade_processos_desse_estado);
+            $dado['total']['quilombo'] = round($quantidade_quilombos_desse_estado);
 
-            $dado['total']['tempo_meio'] = $tempos_medios_desse_estado;
+            $dado['total']['tempo_meio'] = round($tempos_medios_desse_estado);
             $dado['total']['unidade_tempo_medio'] = "dias";
 
             $processos_totais += $dado['total']['processo'];
             $quilombos_totais += $dado['total']['quilombo'];
 
-            $tempos_medios_totais += $tempos_medios_desse_estado;
+            $tempos_totais += $tempos_totais_desse_estado;
 
             $dado['processo'] = [];
-            $dado['processo']['trf1'] = $processos_desse_estado_trf1;
-            $dado['processo']['trf2'] = $processos_desse_estado_trf2;
-            $dado['processo']['trf3'] = $processos_desse_estado_trf3;
-            $dado['processo']['trf4'] = $processos_desse_estado_trf4;
-            $dado['processo']['trf5'] = $processos_desse_estado_trf5;
-            $dado['processo']['trf6'] = $processos_desse_estado_trf6;
+            $dado['processo']['trf1'] = round($processos_desse_estado_trf1);
+            $dado['processo']['trf2'] = round($processos_desse_estado_trf2);
+            $dado['processo']['trf3'] = round($processos_desse_estado_trf3);
+            $dado['processo']['trf4'] = round($processos_desse_estado_trf4);
+            $dado['processo']['trf5'] = round($processos_desse_estado_trf5);
+            $dado['processo']['trf6'] = round($processos_desse_estado_trf6);
 
             $processos_totais_trf1 += $processos_desse_estado_trf1;
             $processos_totais_trf2 += $processos_desse_estado_trf2;
@@ -1176,12 +1177,12 @@ class Controller extends BaseController
             $processos_totais_trf6 += $processos_desse_estado_trf6;
 
             $dado['quilombo'] = [];
-            $dado['quilombo']['trf1'] = $quilombos_desse_estado_trf1;
-            $dado['quilombo']['trf2'] = $quilombos_desse_estado_trf2;
-            $dado['quilombo']['trf3'] = $quilombos_desse_estado_trf3;
-            $dado['quilombo']['trf4'] = $quilombos_desse_estado_trf4;
-            $dado['quilombo']['trf5'] = $quilombos_desse_estado_trf5;
-            $dado['quilombo']['trf6'] = $quilombos_desse_estado_trf6;
+            $dado['quilombo']['trf1'] = round($quilombos_desse_estado_trf1);
+            $dado['quilombo']['trf2'] = round($quilombos_desse_estado_trf2);
+            $dado['quilombo']['trf3'] = round($quilombos_desse_estado_trf3);
+            $dado['quilombo']['trf4'] = round($quilombos_desse_estado_trf4);
+            $dado['quilombo']['trf5'] = round($quilombos_desse_estado_trf5);
+            $dado['quilombo']['trf6'] = round($quilombos_desse_estado_trf6);
 
             $quilombos_totais_trf1 += $quilombos_desse_estado_trf1;
             $quilombos_totais_trf2 += $quilombos_desse_estado_trf2;
@@ -1191,9 +1192,9 @@ class Controller extends BaseController
             $quilombos_totais_trf6 += $quilombos_desse_estado_trf6;
 
             $dado['polo'] = [];
-            $dado['polo']['passivo'] = $polos_passivos_desse_estado;
-            $dado['polo']['ativo'] = $polos_ativos_desse_estado;
-            $dado['polo']['neutro'] = $polos_neutros_desse_estado;
+            $dado['polo']['passivo'] = round($polos_passivos_desse_estado);
+            $dado['polo']['ativo'] = round($polos_ativos_desse_estado);
+            $dado['polo']['neutro'] = round($polos_neutros_desse_estado);
 
             $polos_ativos_totais += $polos_ativos_desse_estado;
             $polos_passivos_totais += $polos_passivos_desse_estado;
@@ -1298,13 +1299,13 @@ class Controller extends BaseController
             $sentencas_sem_informacao_totais += $sentencas_sem_informacao_desse_estado;
 
             $dado['sentenca'] = [];
-            $dado['sentenca']['procedente'] = $sentencas_procedentes_desse_estado;
-            $dado['sentenca']['acordo'] = $sentencas_acordos_desse_estado;
-            $dado['sentenca']['improcedente'] = $sentencas_improcedentes_desse_estado;
-            $dado['sentenca']['parcialmente_procedente'] = $sentencas_parcialmente_procedentes_desse_estado;
-            $dado['sentenca']['embargos_acolhidos'] = $sentencas_embargos_acolhidos_desse_estado;
-            $dado['sentenca']['sem_merito'] = $sentencas_sem_meritos_desse_estado;
-            $dado['sentenca']['sem_informacao'] = $sentencas_sem_informacao_desse_estado;
+            $dado['sentenca']['procedente'] = round($sentencas_procedentes_desse_estado);
+            $dado['sentenca']['acordo'] = round($sentencas_acordos_desse_estado);
+            $dado['sentenca']['improcedente'] = round($sentencas_improcedentes_desse_estado);
+            $dado['sentenca']['parcialmente_procedente'] = round($sentencas_parcialmente_procedentes_desse_estado);
+            $dado['sentenca']['embargos_acolhidos'] = round($sentencas_embargos_acolhidos_desse_estado);
+            $dado['sentenca']['sem_merito'] = round($sentencas_sem_meritos_desse_estado);
+            $dado['sentenca']['sem_informacao'] = round($sentencas_sem_informacao_desse_estado);
 
             $dados[] = $dado;
         }
@@ -1313,41 +1314,46 @@ class Controller extends BaseController
         $dado['estado'] = "todos";
 
         $dado['total'] = [];
-        $dado['total']['processo'] = $processos_totais;
-        $dado['total']['quilombo'] = $quilombos_totais;
+        $dado['total']['processo'] = round($processos_totais);
+        $dado['total']['quilombo'] = round($quilombos_totais);
 
-        $dado['total']['tempo_meio'] = $tempos_medios_totais;
+        if ($processos_totais) {
+            $dado['total']['tempo_meio'] = round($tempos_totais / $processos_totais);
+        } else {
+            $dado['total']['tempo_meio'] = 0;
+        }
+        
         $dado['total']['unidade_tempo_medio'] = "dias";
 
         $dado['processo'] = [];
-        $dado['processo']['trf1'] = $processos_totais_trf1;
-        $dado['processo']['trf2'] = $processos_totais_trf2;
-        $dado['processo']['trf3'] = $processos_totais_trf3;
-        $dado['processo']['trf4'] = $processos_totais_trf4;
-        $dado['processo']['trf5'] = $processos_totais_trf5;
-        $dado['processo']['trf6'] = $processos_totais_trf6;
+        $dado['processo']['trf1'] = round($processos_totais_trf1);
+        $dado['processo']['trf2'] = round($processos_totais_trf2);
+        $dado['processo']['trf3'] = round($processos_totais_trf3);
+        $dado['processo']['trf4'] = round($processos_totais_trf4);
+        $dado['processo']['trf5'] = round($processos_totais_trf5);
+        $dado['processo']['trf6'] = round($processos_totais_trf6);
 
         $dado['quilombo'] = [];
-        $dado['quilombo']['trf1'] = $quilombos_totais_trf1;
-        $dado['quilombo']['trf2'] = $quilombos_totais_trf2;
-        $dado['quilombo']['trf3'] = $quilombos_totais_trf3;
-        $dado['quilombo']['trf4'] = $quilombos_totais_trf4;
-        $dado['quilombo']['trf5'] = $quilombos_totais_trf5;
-        $dado['quilombo']['trf6'] = $quilombos_totais_trf6;
+        $dado['quilombo']['trf1'] = round($quilombos_totais_trf1);
+        $dado['quilombo']['trf2'] = round($quilombos_totais_trf2);
+        $dado['quilombo']['trf3'] = round($quilombos_totais_trf3);
+        $dado['quilombo']['trf4'] = round($quilombos_totais_trf4);
+        $dado['quilombo']['trf5'] = round($quilombos_totais_trf5);
+        $dado['quilombo']['trf6'] = round($quilombos_totais_trf6);
 
         $dado['polo'] = [];
-        $dado['polo']['passivo'] = $polos_passivos_totais;
-        $dado['polo']['ativo'] = $polos_ativos_totais;
-        $dado['polo']['neutro'] = $polos_neutros_totais;
+        $dado['polo']['passivo'] = round($polos_passivos_totais);
+        $dado['polo']['ativo'] = round($polos_ativos_totais);
+        $dado['polo']['neutro'] = round($polos_neutros_totais);
 
         $dado['sentenca'] = [];
-        $dado['sentenca']['procedente'] = $sentencas_procedentes_totais;
-        $dado['sentenca']['acordo'] = $sentencas_acordos_totais;
-        $dado['sentenca']['improcedente'] = $sentencas_improcedentes_totais;
-        $dado['sentenca']['parcialmente_procedente'] = $sentencas_parcialmente_procedentes_totais;
-        $dado['sentenca']['embargos_acolhidos'] = $sentencas_embargos_acolhidos_totais;
-        $dado['sentenca']['sem_merito'] = $sentencas_sem_meritos_totais;
-        $dado['sentenca']['sem_informacao'] = $sentencas_sem_informacao_totais;
+        $dado['sentenca']['procedente'] = round($sentencas_procedentes_totais);
+        $dado['sentenca']['acordo'] = round($sentencas_acordos_totais);
+        $dado['sentenca']['improcedente'] = round($sentencas_improcedentes_totais);
+        $dado['sentenca']['parcialmente_procedente'] = round($sentencas_parcialmente_procedentes_totais);
+        $dado['sentenca']['embargos_acolhidos'] = round($sentencas_embargos_acolhidos_totais);
+        $dado['sentenca']['sem_merito'] = round($sentencas_sem_meritos_totais);
+        $dado['sentenca']['sem_informacao'] = round($sentencas_sem_informacao_totais);
 
         $dados[] = $dado;
 
