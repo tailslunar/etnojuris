@@ -1020,6 +1020,7 @@ class Controller extends BaseController
             $quilombos_desse_estado = [];
             $sentencas_desse_estado = [];
 
+            /*
             foreach ($localidades_por_estado as $localidade) {
                 $processos_dessa_localidade = TB_Processo::where('localidade_id', $localidade->id)->get();
                 foreach ($processos_dessa_localidade as $processo) {
@@ -1036,6 +1037,7 @@ class Controller extends BaseController
                     $quilombos_desse_estado[] = $quilombo;
                 }
             }
+            */
 
             $processos_desse_estado_trf1 = 0;
             $processos_desse_estado_trf2 = 0;
