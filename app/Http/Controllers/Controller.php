@@ -978,43 +978,250 @@ class Controller extends BaseController
             return response()->json($retorno, 403);
         }
 
-        //todo: retornando um placeholder, por enquanto
         $dados = [];
+
+        $processos_totais = 0;
+        $quilombos_totais = 0;
+
+        $tempos_medios_totais = 0;
+
+        $processos_totais_trf1 = 0;
+        $processos_totais_trf2 = 0;
+        $processos_totais_trf3 = 0;
+        $processos_totais_trf4 = 0;
+        $processos_totais_trf5 = 0;
+        $processos_totais_trf6 = 0;
+
+        $quilombos_totais_trf1 = 0;
+        $quilombos_totais_trf2 = 0;
+        $quilombos_totais_trf3 = 0;
+        $quilombos_totais_trf4 = 0;
+        $quilombos_totais_trf5 = 0;
+        $quilombos_totais_trf6 = 0;
+
+        $polos_ativos_totais = 0;
+        $polos_passivos_totais = 0;
+        $polos_neutros_totais = 0;
+
+        $sentencas_procedentes_totais = 0;
+        $sentencas_acordos_totais = 0;
+        $sentencas_improcedentes_totais = 0;
+        $sentencas_parcialmente_procedentes_totais = 0;
+        $sentencas_embargos_acolhidos_totais = 0;
+        $sentencas_sem_meritos_totais = 0;
+        $sentencas_sem_informacao_totais = 0;
 
         foreach ($this->estados as $estado) {
             $dado = [];
             $dado['estado'] = $estado['sigla'];
 
+            $localidades_por_estado = TB_Localidade::where('uf', $estado['sigla'])->get();
+            $processos_desse_estado = [];
+            $quilombos_desse_estado = [];
+            $sentencas_desse_estado = [];
+
+            foreach ($localidades_por_estado as $localidade) {
+                $processos_dessa_localidade = TB_Processo::where('localidade_id', $localidade->id)->get();
+                foreach ($processos_dessa_localidade as $processo) {
+                    $processos_desse_estado[] = $processo;
+
+                    $sentencas_dessa_localidade = TB_Sentenca::where('sentenca_id', $processo->sentenca_id)->get();
+                    foreach ($sentencas_dessa_localidade as $sentenca) {
+                        $sentencas_desse_estado[] = $sentenca;
+                    }
+                }
+
+                $quilombos_dessa_localidade = TB_Quilombo::where('localidade_id', $localidade->id)->get();
+                foreach ($quilombos_dessa_localidade as $quilombo) {
+                    $quilombos_desse_estado[] = $quilombo;
+                }
+            }
+
+            $processos_desse_estado_trf1 = 0;
+            $processos_desse_estado_trf2 = 0;
+            $processos_desse_estado_trf3 = 0;
+            $processos_desse_estado_trf4 = 0;
+            $processos_desse_estado_trf5 = 0;
+            $processos_desse_estado_trf6 = 0;
+
+            $polos_ativos_desse_estado = 0;
+            $polos_passivos_desse_estado = 0;
+            $polos_neutros_desse_estado = 0;
+
+            $tempos_totais_desse_estado = 0;
+
+            foreach ($processos_desse_estado as $processo) {
+                if ($processo->jurisdicao == 'TRF1') {
+                    $processos_desse_estado_trf1++;
+                }
+                if ($processo->jurisdicao == 'TRF2') {
+                    $processos_desse_estado_trf2++;
+                }
+                if ($processo->jurisdicao == 'TRF3') {
+                    $processos_desse_estado_trf3++;
+                }
+                if ($processo->jurisdicao == 'TRF4') {
+                    $processos_desse_estado_trf4++;
+                }
+                if ($processo->jurisdicao == 'TRF5') {
+                    $processos_desse_estado_trf5++;
+                }
+                if ($processo->jurisdicao == 'TRF6') {
+                    $processos_desse_estado_trf6++;
+                }
+
+                if ($processo->polo == 'ativo') {
+                    $polos_ativos_desse_estado++;
+                }
+                if ($processo->polo == 'passivo') {
+                    $polos_passivos_desse_estado++;
+                }
+                if ($processo->polo == 'neutro') {
+                    $polos_neutros_desse_estado++;
+                }
+
+                $hoje = Carbon::now();
+                $tempo_inicio_processo = Carbon::createFromFormat("Y-m-d", $processo->data_distribuicao);
+                $tempo_fim_processo = Carbon::createFromFormat("Y-m-d", $processo->data_sentenca) ?? $hoje;
+                $tempo_total_processo = $tempo_fim_processo->diffInDays($tempo_inicio_processo);
+                $tempos_totais_desse_estado += $tempo_total_processo;
+            }
+
+            $quantidade_processos_desse_estado = count($processos_desse_estado);
+            $quantidade_quilombos_desse_estado = count($quilombos_desse_estado);
+            $tempos_medios_desse_estado = $tempos_totais_desse_estado / $quantidade_processos_desse_estado;
+
+            $quilombos_desse_estado_trf1 = 0;
+            $quilombos_desse_estado_trf2 = 0;
+            $quilombos_desse_estado_trf3 = 0;
+            $quilombos_desse_estado_trf4 = 0;
+            $quilombos_desse_estado_trf5 = 0;
+            $quilombos_desse_estado_trf6 = 0;
+
+            foreach ($quilombos_desse_estado as $quilombo) {
+                $processos_desse_quilombo = TB_Processo::where('quilombo_id', $quilombo->id)->get();
+
+                foreach ($processos_desse_quilombo as $processo) {
+                    if ($processo->jurisdicao == 'TRF1') {
+                        $quilombos_desse_estado_trf1++;
+                    }
+                    if ($processo->jurisdicao == 'TRF2') {
+                        $quilombos_desse_estado_trf2++;
+                    }
+                    if ($processo->jurisdicao == 'TRF3') {
+                        $quilombos_desse_estado_trf3++;
+                    }
+                    if ($processo->jurisdicao == 'TRF4') {
+                        $quilombos_desse_estado_trf4++;
+                    }
+                    if ($processo->jurisdicao == 'TRF5') {
+                        $quilombos_desse_estado_trf5++;
+                    }
+                    if ($processo->jurisdicao == 'TRF6') {
+                        $quilombos_desse_estado_trf6++;
+                    }
+                }
+            }
+
             $dado['total'] = [];
-            $dado['total']['processo'] = 0;
-            $dado['total']['quilombo'] = 0;
-            $dado['total']['tempo_meio'] = 504;
+            $dado['total']['processo'] = $quantidade_processos_desse_estado;
+            $dado['total']['quilombo'] = $quantidade_quilombos_desse_estado;
+
+            $dado['total']['tempo_meio'] = $tempos_medios_desse_estado;
             $dado['total']['unidade_tempo_medio'] = "dias";
 
+            $processos_totais += $dado['total']['processo'];
+            $quilombos_totais += $dado['total']['quilombo'];
+
+            $tempos_medios_totais += $tempos_medios_desse_estado;
+
             $dado['processo'] = [];
-            $dado['processo']['trf1'] = 0;
-            $dado['processo']['trf2'] = 0;
-            $dado['processo']['trf3'] = 0;
-            $dado['processo']['trf4'] = 0;
+            $dado['processo']['trf1'] = $processos_desse_estado_trf1;
+            $dado['processo']['trf2'] = $processos_desse_estado_trf2;
+            $dado['processo']['trf3'] = $processos_desse_estado_trf3;
+            $dado['processo']['trf4'] = $processos_desse_estado_trf4;
+            $dado['processo']['trf5'] = $processos_desse_estado_trf5;
+            $dado['processo']['trf6'] = $processos_desse_estado_trf6;
+
+            $processos_totais_trf1 += $processos_desse_estado_trf1;
+            $processos_totais_trf2 += $processos_desse_estado_trf2;
+            $processos_totais_trf3 += $processos_desse_estado_trf3;
+            $processos_totais_trf4 += $processos_desse_estado_trf4;
+            $processos_totais_trf5 += $processos_desse_estado_trf5;
+            $processos_totais_trf6 += $processos_desse_estado_trf6;
 
             $dado['quilombo'] = [];
-            $dado['quilombo']['trf1'] = 0;
-            $dado['quilombo']['trf2'] = 0;
-            $dado['quilombo']['trf3'] = 0;
-            $dado['quilombo']['trf4'] = 0;
+            $dado['quilombo']['trf1'] = $quilombos_desse_estado_trf1;
+            $dado['quilombo']['trf2'] = $quilombos_desse_estado_trf2;
+            $dado['quilombo']['trf3'] = $quilombos_desse_estado_trf3;
+            $dado['quilombo']['trf4'] = $quilombos_desse_estado_trf4;
+            $dado['quilombo']['trf5'] = $quilombos_desse_estado_trf5;
+            $dado['quilombo']['trf6'] = $quilombos_desse_estado_trf6;
+
+            $quilombos_totais_trf1 += $quilombos_desse_estado_trf1;
+            $quilombos_totais_trf2 += $quilombos_desse_estado_trf2;
+            $quilombos_totais_trf3 += $quilombos_desse_estado_trf3;
+            $quilombos_totais_trf4 += $quilombos_desse_estado_trf4;
+            $quilombos_totais_trf5 += $quilombos_desse_estado_trf5;
+            $quilombos_totais_trf6 += $quilombos_desse_estado_trf6;
 
             $dado['polo'] = [];
-            $dado['polo']['passivo'] = 0;
-            $dado['polo']['ativo'] = 0;
+            $dado['polo']['passivo'] = $polos_passivos_desse_estado;
+            $dado['polo']['ativo'] = $polos_ativos_desse_estado;
+            $dado['polo']['neutro'] = $polos_neutros_desse_estado;
+
+            $polos_ativos_totais += $polos_ativos_desse_estado;
+            $polos_passivos_totais += $polos_passivos_desse_estado;
+            $polos_neutros_totais += $polos_neutros_desse_estado;
+
+            $sentencas_procedentes_desse_estado = 0;
+            $sentencas_acordos_desse_estado = 0;
+            $sentencas_improcedentes_desse_estado = 0;
+            $sentencas_parcialmente_procedentes_desse_estado = 0;
+            $sentencas_embargos_acolhidos_desse_estado = 0;
+            $sentencas_sem_meritos_desse_estado = 0;
+            $sentencas_sem_informacao_desse_estado = 0;
+
+            foreach ($sentencas_desse_estado as $sentenca) {
+                if ($sentenca->id == 1) {
+                    $sentencas_sem_informacao_desse_estado++;
+                }
+                if ($sentenca->id == 2) {
+                    $sentencas_procedentes_desse_estado++;
+                }
+                if ($sentenca->id == 3) {
+                    $sentencas_improcedentes_desse_estado++;
+                }
+                if ($sentenca->id == 4) {
+                    $sentencas_parcialmente_procedentes_desse_estado++;
+                }
+                if ($sentenca->id == 5) {
+                    $sentencas_embargos_acolhidos_desse_estado++;
+                }
+                if ($sentenca->id == 6) {
+                    $sentencas_acordos_desse_estado++;
+                }
+                if ($sentenca->id == 7) {
+                    $sentencas_sem_meritos_desse_estado++;
+                }
+            }
+
+            $sentencas_procedentes_totais += $sentencas_procedentes_desse_estado;
+            $sentencas_acordos_totais += $sentencas_acordos_desse_estado;
+            $sentencas_improcedentes_totais += $sentencas_improcedentes_desse_estado;
+            $sentencas_parcialmente_procedentes_totais += $sentencas_parcialmente_procedentes_desse_estado;
+            $sentencas_embargos_acolhidos_totais += $sentencas_embargos_acolhidos_desse_estado;
+            $sentencas_sem_meritos_totais += $sentencas_sem_meritos_desse_estado;
+            $sentencas_sem_informacao_totais += $sentencas_sem_informacao_desse_estado;
 
             $dado['sentenca'] = [];
-            $dado['sentenca']['procedente'] = 0;
-            $dado['sentenca']['acordo'] = 0;
-            $dado['sentenca']['improcedente'] = 0;
-            $dado['sentenca']['parcialmente_procedente'] = 0;
-            $dado['sentenca']['embargos_acolhidos'] = 0;
-            $dado['sentenca']['sem_merito'] = 0;
-            $dado['sentenca']['sem_informacao'] = 0;
+            $dado['sentenca']['procedente'] = $sentencas_procedentes_desse_estado;
+            $dado['sentenca']['acordo'] = $sentencas_acordos_desse_estado;
+            $dado['sentenca']['improcedente'] = $sentencas_improcedentes_desse_estado;
+            $dado['sentenca']['parcialmente_procedente'] = $sentencas_parcialmente_procedentes_desse_estado;
+            $dado['sentenca']['embargos_acolhidos'] = $sentencas_embargos_acolhidos_desse_estado;
+            $dado['sentenca']['sem_merito'] = $sentencas_sem_meritos_desse_estado;
+            $dado['sentenca']['sem_informacao'] = $sentencas_sem_informacao_desse_estado;
 
             $dados[] = $dado;
         }
@@ -1023,39 +1230,41 @@ class Controller extends BaseController
         $dado['estado'] = "todos";
 
         $dado['total'] = [];
-        $dado['total']['processo'] = 0;
-        $dado['total']['quilombo'] = 0;
-        $dado['total']['tempo_meio'] = 504;
+        $dado['total']['processo'] = $processos_totais;
+        $dado['total']['quilombo'] = $quilombos_totais;
+
+        $dado['total']['tempo_meio'] = $tempos_medios_totais;
         $dado['total']['unidade_tempo_medio'] = "dias";
 
         $dado['processo'] = [];
-        $dado['processo']['trf1'] = 0;
-        $dado['processo']['trf2'] = 0;
-        $dado['processo']['trf3'] = 0;
-        $dado['processo']['trf4'] = 0;
-        $dado['processo']['trf5'] = 0;
-        $dado['processo']['trf6'] = 0;
+        $dado['processo']['trf1'] = $processos_totais_trf1;
+        $dado['processo']['trf2'] = $processos_totais_trf2;
+        $dado['processo']['trf3'] = $processos_totais_trf3;
+        $dado['processo']['trf4'] = $processos_totais_trf4;
+        $dado['processo']['trf5'] = $processos_totais_trf5;
+        $dado['processo']['trf6'] = $processos_totais_trf6;
 
         $dado['quilombo'] = [];
-        $dado['quilombo']['trf1'] = 0;
-        $dado['quilombo']['trf2'] = 0;
-        $dado['quilombo']['trf3'] = 0;
-        $dado['quilombo']['trf4'] = 0;
-        $dado['quilombo']['trf5'] = 0;
-        $dado['quilombo']['trf6'] = 0;
+        $dado['quilombo']['trf1'] = $quilombos_totais_trf1;
+        $dado['quilombo']['trf2'] = $quilombos_totais_trf2;
+        $dado['quilombo']['trf3'] = $quilombos_totais_trf3;
+        $dado['quilombo']['trf4'] = $quilombos_totais_trf4;
+        $dado['quilombo']['trf5'] = $quilombos_totais_trf5;
+        $dado['quilombo']['trf6'] = $quilombos_totais_trf6;
 
         $dado['polo'] = [];
-        $dado['polo']['passivo'] = 0;
-        $dado['polo']['ativo'] = 0;
+        $dado['polo']['passivo'] = $polos_passivos_totais;
+        $dado['polo']['ativo'] = $polos_ativos_totais;
+        $dado['polo']['neutro'] = $polos_neutros_totais;
 
         $dado['sentenca'] = [];
-        $dado['sentenca']['procedente'] = 0;
-        $dado['sentenca']['acordo'] = 0;
-        $dado['sentenca']['improcedente'] = 0;
-        $dado['sentenca']['parcialmente_procedente'] = 0;
-        $dado['sentenca']['embargos_acolhidos'] = 0;
-        $dado['sentenca']['sem_merito'] = 0;
-        $dado['sentenca']['sem_informacao'] = 0;
+        $dado['sentenca']['procedente'] = $sentencas_procedentes_totais;
+        $dado['sentenca']['acordo'] = $sentencas_acordos_totais;
+        $dado['sentenca']['improcedente'] = $sentencas_improcedentes_totais;
+        $dado['sentenca']['parcialmente_procedente'] = $sentencas_parcialmente_procedentes_totais;
+        $dado['sentenca']['embargos_acolhidos'] = $sentencas_embargos_acolhidos_totais;
+        $dado['sentenca']['sem_merito'] = $sentencas_sem_meritos_totais;
+        $dado['sentenca']['sem_informacao'] = $sentencas_sem_informacao_totais;
 
         $dados[] = $dado;
 
