@@ -1011,6 +1011,8 @@ class Controller extends BaseController
         $sentencas_embargos_acolhidos_totais = 0;
         $sentencas_sem_meritos_totais = 0;
         $sentencas_sem_informacao_totais = 0;
+        $sentencas_vitorias_totais = 0;
+        $sentencas_derrotas_totais = 0;
 
         $estados = $this->estados;
         $estados[] = [
@@ -1219,6 +1221,8 @@ class Controller extends BaseController
             $sentencas_embargos_acolhidos_desse_estado = 0;
             $sentencas_sem_meritos_desse_estado = 0;
             $sentencas_sem_informacao_desse_estado = 0;
+            $sentencas_vitorias_desse_estado = 0;
+            $sentencas_derrotas_desse_estado = 0;
 
             /* substituido pelas queries abaixo
             foreach ($sentencas_desse_estado as $sentenca) {
@@ -1261,15 +1265,22 @@ class Controller extends BaseController
                             ->from('tb_localidade')
                             ->where('uf', $estado['sigla']);
                     })
-                    ->where('sentenca_id', 2)->count();
+                    ->where('sentenca_id', 2)->get();
 
                 $sentencas_improcedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
                     ->whereIn('localidade_id', function ($query) use($estado) {
                         $query->select('id')
                             ->from('tb_localidade')
-                            ->where('uf', $estado['sigla']);
+                            ->where('uf', $estado['sigla'])->get();
                     })
-                    ->where('sentenca_id', 3)->count();
+                    ->where('sentenca_id', 3);
+
+                $sentencas_procedentes_polo_passivo_desse_estado = $sentencas_procedentes_desse_estado->where("polo", "Passivo")->count();
+                $sentencas_procedentes_polo_ativo_desse_estado = $sentencas_procedentes_desse_estado->where("polo", "Ativo")->count();
+                $sentencas_improcedentes_polo_passivo_desse_estado = $sentencas_improcedentes_desse_estado->where("polo", "Passivo")->count();
+                $sentencas_improcedentes_polo_ativo_desse_estado = $sentencas_improcedentes_desse_estado->where("polo", "Ativo")->count();
+                $sentencas_procedentes_desse_estado = $sentencas_procedentes_desse_estado->count();
+                $sentencas_improcedentes_desse_estado = $sentencas_improcedentes_desse_estado->count();
 
                 $sentencas_parcialmente_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
                     ->whereIn('localidade_id', function ($query) use($estado) {
@@ -1309,11 +1320,18 @@ class Controller extends BaseController
 
                 $sentencas_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
                     ->where('localidade_id', null)
-                    ->where('sentenca_id', 2)->count();
+                    ->where('sentenca_id', 2)->get();
 
                 $sentencas_improcedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
                     ->where('localidade_id', null)
-                    ->where('sentenca_id', 3)->count();
+                    ->where('sentenca_id', 3)->get();
+
+                $sentencas_procedentes_polo_passivo_desse_estado = $sentencas_procedentes_desse_estado->where("polo", "Passivo")->count();
+                $sentencas_procedentes_polo_ativo_desse_estado = $sentencas_procedentes_desse_estado->where("polo", "Ativo")->count();
+                $sentencas_improcedentes_polo_passivo_desse_estado = $sentencas_improcedentes_desse_estado->where("polo", "Passivo")->count();
+                $sentencas_improcedentes_polo_ativo_desse_estado = $sentencas_improcedentes_desse_estado->where("polo", "Ativo")->count();
+                $sentencas_procedentes_desse_estado = $sentencas_procedentes_desse_estado->count();
+                $sentencas_improcedentes_desse_estado = $sentencas_improcedentes_desse_estado->count();
 
                 $sentencas_parcialmente_procedentes_desse_estado = DB::connection('etno_mysql')->table('tb_processo')
                     ->where('localidade_id', null)
@@ -1332,6 +1350,9 @@ class Controller extends BaseController
                     ->where('sentenca_id', 7)->count();
             }
 
+            $sentencas_vitorias_desse_estado = $sentencas_procedentes_polo_ativo_desse_estado + $sentencas_improcedentes_polo_passivo_desse_estado;
+            $sentencas_derrotas_desse_estado = $sentencas_procedentes_polo_passivo_desse_estado + $sentencas_improcedentes_polo_ativo_desse_estado;
+
             $sentencas_procedentes_totais += $sentencas_procedentes_desse_estado;
             $sentencas_acordos_totais += $sentencas_acordos_desse_estado;
             $sentencas_improcedentes_totais += $sentencas_improcedentes_desse_estado;
@@ -1339,8 +1360,12 @@ class Controller extends BaseController
             $sentencas_embargos_acolhidos_totais += $sentencas_embargos_acolhidos_desse_estado;
             $sentencas_sem_meritos_totais += $sentencas_sem_meritos_desse_estado;
             $sentencas_sem_informacao_totais += $sentencas_sem_informacao_desse_estado;
+            $sentencas_vitorias_totais += $sentencas_vitorias_desse_estado;
+            $sentencas_derrotas_totais += $sentencas_derrotas_desse_estado;
 
             $dado['sentenca'] = [];
+            $dado['sentenca']['vitorias'] = round($sentencas_vitorias_desse_estado);
+            $dado['sentenca']['derrotas'] = round($sentencas_derrotas_desse_estado);
             $dado['sentenca']['procedente'] = round($sentencas_procedentes_desse_estado);
             $dado['sentenca']['acordo'] = round($sentencas_acordos_desse_estado);
             $dado['sentenca']['improcedente'] = round($sentencas_improcedentes_desse_estado);
@@ -1369,7 +1394,7 @@ class Controller extends BaseController
         } else {
             $dado['total']['tempo_meio'] = 0;
         }
-        
+
         $dado['total']['tempo_total'] = round($tempos_totais);
         $dado['total']['unidade_tempo_medio'] = "dias";
 
@@ -1395,6 +1420,8 @@ class Controller extends BaseController
         $dado['polo']['neutro'] = round($polos_neutros_totais);
 
         $dado['sentenca'] = [];
+        $dado['sentenca']['vitorias'] = round($sentencas_vitorias_totais);
+        $dado['sentenca']['derrotas'] = round($sentencas_derrotas_totais);
         $dado['sentenca']['procedente'] = round($sentencas_procedentes_totais);
         $dado['sentenca']['acordo'] = round($sentencas_acordos_totais);
         $dado['sentenca']['improcedente'] = round($sentencas_improcedentes_totais);
