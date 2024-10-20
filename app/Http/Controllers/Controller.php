@@ -331,7 +331,13 @@ class Controller extends BaseController
 
         $model = new $this->classname;
         $retorno = [];
-        $retorno['data'] = $model::all();
+        $tipo_publicacao = $request->query('tipo_publicacao');
+
+        if ($tipo_publicacao) {
+            $retorno['data'] = $model::where('tipo_publicacao', $tipo_publicacao)->get();
+        } else {
+            $retorno['data'] = $model::all();
+        }
 
         if (!$retorno['data']->count()) {
             $retorno['status'] = 'success';
