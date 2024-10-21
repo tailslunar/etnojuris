@@ -168,7 +168,7 @@ class VerificationController extends Controller
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {
-            return response()->json($verification);
+            return redirect('www.etnojuris.ufam.edu.br');
         }
         else {
             return response()->json($verification, $verification['code']);
