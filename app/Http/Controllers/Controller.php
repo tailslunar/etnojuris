@@ -969,6 +969,11 @@ class Controller extends BaseController
             $item['lat'] = $value_dado->latitude;
             $item['long'] = $value_dado->longitude;
             $item['qtd_processos'] = $value_dado->processos->count();
+            $item['ids_processos'] = [];
+
+            foreach ($value_dado->processos as $processo) {
+                $item['ids_processos'][] = $processo->id;
+            }
 
             $dados[] = $item;
         }
