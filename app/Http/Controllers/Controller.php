@@ -957,6 +957,25 @@ class Controller extends BaseController
         return $string;
     }
 
+    public function quilombo_mapa(Request $request)
+    {
+        $dados_ = $this->quilombos_processos($request)->original;
+        $dados = [];
+
+        foreach ($dados_ as $key_dado => $value_dado) {
+            $item = [];
+
+            $item['nome'] = $value_dado->nome;
+            $item['lat'] = $value_dado->latitude;
+            $item['long'] = $value_dado->longitude;
+            $item['qtd_processos'] = $value_dado->processos->count();
+
+            $dados[] = $item;
+        }
+
+        return response()->json($dados);
+    }
+
     public function dashboard_index(Request $request)
     {
         $retorno = [

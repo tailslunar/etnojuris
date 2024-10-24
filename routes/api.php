@@ -31,6 +31,9 @@ Route::post('/email/resend', 'App\Http\Controllers\VerificationController@resend
 Route::get('/dashboard', [Controller::class, 'dashboard_index']);
 Route::post('/dashboard', [Controller::class, 'dashboard']);
 
+Route::get('/quilombos/mapa', [Controller::class, 'quilombo_mapa']);
+Route::post('/quilombos/mapa', [Controller::class, 'quilombo_mapa']);
+
 Route::get('/importar_processo', [Controller::class, 'importar_processo_index']);
 Route::post('/importar_processo', [Controller::class, 'importar_processo']);
 
