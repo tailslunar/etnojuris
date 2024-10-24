@@ -959,8 +959,30 @@ class Controller extends BaseController
 
     public function quilombo_mapa(Request $request)
     {
-        $dados_ = $this->quilombos_processos($request)->original;
-        $dados = [];
+        $todos_quilombos = TB_Quilombo::all();
+        $total_quilombos = 0;
+        $total_processos = 0;
+        $retorno = [];
+
+        foreach ($todos_quilombos as $quilombo) {
+            $item = [];
+            $processos = TB_Processo::select('id')->where('quilombo_id', $quilombo->id)->get();
+
+            $item['nome'] = $quilombo->nome;
+            $item['lat'] = $quilombo->latitude;
+            $item['long'] = $quilombo->longitude;
+            $item['qtd_processos'] = $processos->count();
+            $item['id_processos'] = $processos;
+
+            $retorno[] = $item;
+            $total_quilombos++;
+            $total_processos += $item['qtd_processos'];
+        }
+;
+        $totais['total_quilombos'] = $total_quilombos;
+        $totais['total_processos'] = $total_processos;
+
+        return response()->json($retorno);
 
         foreach ($dados_ as $key_dado => $value_dado) {
             $item = [];
