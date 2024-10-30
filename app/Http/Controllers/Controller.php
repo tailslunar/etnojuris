@@ -968,6 +968,7 @@ class Controller extends BaseController
             $item = [];
             $processos = TB_Processo::select('id')->where('quilombo_id', $quilombo->id)->get();
 
+            $item['id'] = $quilombo->id;
             $item['nome'] = $quilombo->nome;
             $item['lat'] = $quilombo->latitude;
             $item['long'] = $quilombo->longitude;
@@ -978,7 +979,7 @@ class Controller extends BaseController
             $total_quilombos++;
             $total_processos += $item['qtd_processos'];
         }
-;
+
         $totais['total_quilombos'] = $total_quilombos;
         $totais['total_processos'] = $total_processos;
 

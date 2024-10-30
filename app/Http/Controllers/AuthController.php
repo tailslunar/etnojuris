@@ -149,7 +149,7 @@ class AuthController extends Controller
 
         try {
             \Illuminate\Support\Facades\Mail::send('email.emailVerificationEmail', ['token' => $token], function($message) use($request, $user){
-                $message->to($user->email);
+                $message->to(strtolower($user->email));
                 $message->subject('Verifique seu E-Mail');
             });
         } catch (\Exception $e) {
