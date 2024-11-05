@@ -216,6 +216,7 @@ class VerificationController extends Controller
             return $retorno;
         }
 
+        $url = 'https://etnojuris.ufam.edu.br/';
         if (!$user->is_email_verified) {
             try {
                 $user->is_email_verified = 1;
@@ -252,7 +253,9 @@ class VerificationController extends Controller
                 'data' => $user,
                 'verified' => true,
             ];
-            return $retorno;
+
+            //return $retorno;
+            return redirect()->away($url);
         }
         else {
             $retorno = [
@@ -262,7 +265,9 @@ class VerificationController extends Controller
                 'data' => $user,
                 'verified' => false,
             ];
-            return $retorno;
+
+            //return $retorno;
+            return redirect()->away($url);
         }
     }
 
@@ -379,6 +384,8 @@ class VerificationController extends Controller
             $token_ = 'token=' . $token;
             $user->remember_token = $token;
             $user->save();
+
+            $url = 'https://etnojuris.ufam.edu.br/forgot/redefine?token='. $token . '&userId=' . $user->id;
         } catch (\Exception $e) {
             $retorno = [
                 'status' => 'error',
@@ -389,7 +396,7 @@ class VerificationController extends Controller
         }
 
         try {
-            \Illuminate\Support\Facades\Mail::send('email.emailRememberPasswordEmail', ['token' => $token, 'token_' => $token_], function($message) use($request, $user){
+            \Illuminate\Support\Facades\Mail::send('email.emailRememberPasswordEmail', ['token' => $token, 'token_' => $token_, 'url' => $url], function($message) use($request, $user){
                 $message->to(strtolower($user->email));
                 $message->subject('Seu Código de Recuperação de Senha');
             });
