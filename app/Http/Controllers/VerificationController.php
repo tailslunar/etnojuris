@@ -155,7 +155,7 @@ class VerificationController extends Controller
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {
-            return response()->json($verification);
+            return redirect()->away($verification['url']);
         }
         else {
             return response()->json($verification, $verification['code']);
@@ -168,7 +168,7 @@ class VerificationController extends Controller
 
         $verification = $this->verify($request, $token);
         if ($verification['verified']) {
-            return redirect('www.etnojuris.ufam.edu.br');
+            return redirect()->away($verification['url']);
         }
         else {
             return response()->json($verification, $verification['code']);
@@ -251,11 +251,11 @@ class VerificationController extends Controller
                 'status' => 'success',
                 'message' => 'E-mail verificado com sucesso!',
                 'data' => $user,
+                'url' => $url,
                 'verified' => true,
             ];
 
-            //return $retorno;
-            return redirect()->away($url);
+            return $retorno;
         }
         else {
             $retorno = [
@@ -263,11 +263,11 @@ class VerificationController extends Controller
                 'status' => 'warning',
                 'message' => 'Seu e-mail já foi verificado!',
                 'data' => $user,
-                'verified' => false,
+                'url' => $url,
+                'verified' => true,
             ];
 
-            //return $retorno;
-            return redirect()->away($url);
+            return $retorno;
         }
     }
 
@@ -508,6 +508,7 @@ class VerificationController extends Controller
             return $retorno;
         }
 
+        $url = 'www.etnojuris.ufam.edu.br';
         $retorno = [
             'code' => 200,
             'status' => 'success',
